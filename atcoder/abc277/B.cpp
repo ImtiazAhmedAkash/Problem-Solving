@@ -10,10 +10,10 @@ using namespace std;
 #define deb(x) cout << #x << " = " << x << nl
 
 /*
- * We'll store the string in a vector and use a map to count the words.
+ * Store the string in a vector and use a map to count the words.
  * If a word is present more than once (i.e. nax > 1), return "NO".
  *
- * We'll create two strings.
+ * Take two strings.
  * The first one contains the eligible characters for str.front().
  * The second one contains the eligible character for str.back().
  *

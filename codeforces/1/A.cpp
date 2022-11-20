@@ -8,10 +8,10 @@ using namespace std;
 typedef long long ll;
 
 /*
- * We will check how many flagstones are needed to cover the width and length separately.
+ * Check how many flagstones are needed to cover the width and length separately.
  * If the length or width is divisible by 'a' or the size of the flagstone, (n / a) flagstone is needed.
  * Or else (n / a) + 1 flagstone will be needed. The same goes for the width.
- * Finally, we will multiply m and n to find how many flagstones are needed to cover the entire area.
+ * Finally, multiply m and n to find how many flagstones are needed to cover the entire area.
  * Here, (n % a != 0) returns 1 if n is not divisible by a, and 0 if n is divisible by a.
  */
 

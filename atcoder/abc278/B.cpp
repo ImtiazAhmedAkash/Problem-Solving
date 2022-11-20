@@ -17,7 +17,7 @@ using namespace std;
  * if h1 : m1 represents a valid time in 24-hour clock,
  * print h1 and m1, respectively, otherwise, find the next such time.
  *
- * To find the next confusing time, we will increment m by 1.
+ * To find the next confusing time, increment m by 1.
  * If m reaches 60, we will assign m = 0, and increase h by 1.
  * If h reaches 24, we will assign h = 0;
  *

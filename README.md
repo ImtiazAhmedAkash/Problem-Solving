@@ -15,11 +15,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 ># AtCoder
 
-<etails>
+<details>
 <Summary> Solutions </Summary>
 
 <!---
-|  | []() | [C++ (GCC 9.2.1)](.atcoder/) | --2022 |
+|  | []() | [C++ (GCC 9.2.1)](./atcoder/.cpp) | `AtCoder` `*00` | --2022 |
     --->
 
 | #   | Title   | Solution   | Tags | Submitted   |
@@ -58,16 +58,25 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 ># Codeforces
 
-<details>
+<etails>
 <Summary> Solutions </Summary>
 
 <!---
-|  | []() | [GNU C++17]() | |
+|  | []() | [GNU C++17](.codeforces/.cpp) | `*800` | --2022 |
     --->
 
-| #   | Title   | Solution   | Submitted   |
-|:---:| :------ | :--------: | :---------: |
-| 1 | [A - Vanya and Fence]() | [GNU C++17](.codeforces/677/A.cpp) | 20-Aug-2022 |
+| #   | Title   | Solution   | Tags | Submitted   |
+|:---:| ------- | :--------: |------| :---------: |
+| 10 | [A - Word](https://codeforces.com/contest/59/problem/A) | [GNU C++17](.codeforces/59/A.cpp) | `implementation` `strings` `*800` | 22-Aug-2022 |
+| 9 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [GNU C++17](.codeforces/236/A.cpp) | `brute force` `implementation` `strings` `*800` | 21-Aug-2022 |
+| 8 | [A - Petya and Strings](https://codeforces.com/contest/112/problem/A) | [GNU C++17](.codeforces/112/A.cpp) | `implementation` `strings` `*800` | 21-Aug-2022 |
+| 7 | [A - Gravity Flip](https://codeforces.com/contest/405/problem/A) | [GNU C++17](.codeforces/405/A.cpp) | `greedy` `implementation` `sortings` `*900` | 21-Aug-2022 |
+| 6 | [A - Crossmarket](https://codeforces.com/contest/1715/problem/A) | [GNU C++17](.codeforces/1715/A.cpp) | `constructive algorithms` `greedy` `math` `*800` | 20-Aug-2022 |
+| 5 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [GNU C++17](.codeforces/263/A.cpp) | `implementation` `*800` | 20-Aug-2022 |
+| 4 | [A - Team](https://codeforces.com/contest/231/problem/A) | [GNU C++17](.codeforces/231/A.cpp) | `brute force` `greedy` `*800` | 20-Aug-2022 |
+| 3 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [GNU C++17](.codeforces/791/A.cpp) | `implementation` `*800` | 20-Aug-2022 |
+| 2 | [A - Anton and Danik](https://codeforces.com/contest/734/problem/A) | [GNU C++17](.codeforces/734/A.cpp) | `implementation` `strings` `*800` | 19-Aug-2022 |
+| 1 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [GNU C++17](.codeforces/677/A.cpp) | `implementation` `*800` | 19-Aug-2022 |
 
 
 
