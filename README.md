@@ -1,4 +1,4 @@
-># Introduction
+# Introduction
 
 A repository to keep track of problem solving practice, containing solutions from platforms:  
 
@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 </br>
 
-># AtCoder
+# AtCoder
 
 <details>
 <Summary> Solutions </Summary>
+</br>
 
 <!---
 |  | []() | [C++ (GCC 9.2.1)](./atcoder/.cpp) | `AtCoder` `*00` | --2022 |
@@ -36,7 +37,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 </br>
 
-># beecrowd
+# beecrowd
 
 <details>
 <Summary> Solutions </Summary>
@@ -56,10 +57,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 </br>
 
-># Codeforces
+# Codeforces
 
-<etails>
+<details>
 <Summary> Solutions </Summary>
+</br>
 
 <!---
 |  | []() | [GNU C++17](.codeforces/.cpp) | `*800` | --2022 |
@@ -79,17 +81,42 @@ A repository to keep track of problem solving practice, containing solutions fro
 | 1 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [GNU C++17](.codeforces/677/A.cpp) | `implementation` `*800` | 19-Aug-2022 |
 
 
-
-
 </details>
 </br>
 </br>
 </br>
 
-># Project Euler
+# CSES
 
 <details>
-<Summary> Atcoder Beginner Contest </Summary>
+<Summary> Solutions </Summary>
+</br>
+
+<!---
+|  | []() | [C++17](./cses/.cpp) | `Introductory Problems` | --2022| 
+--->
+
+
+| #   | Title   | Solution   | Category   | Submitted   |
+|:---:| :-----: | :--------: | :--------: | :---------: |
+| 6 | [Number Spiral](https://cses.fi/problemset/task/1071) | [C++17](./cses/introductory_problems/1071.cpp) | `Introductory` | 20-Oct-2022|
+| 5 | [Permutations](https://cses.fi/problemset/task/1070) | [C++17](./cses/introductory_problems/1070.cpp) | `Introductory` | 20-Oct-2022|
+| 4 | [Increasing Array](https://cses.fi/problemset/task/1094) | [C++17](./cses/introductory_problems/1094.cpp) | `Introductory` | 19-Oct-2022|
+| 3 | [Repetitions](https://cses.fi/problemset/task/1069) | [C++17](./cses/introductory_problems/1069.cpp) | `Introductory` | 19-Oct-2022|
+| 2 | [Missing Number](https://cses.fi/problemset/task/1083) | [C++17](./cses/introductory_problems/1083.cpp) | `Introductory` | 19-Oct-2022| 
+| 1 | [Weird Algorithm](https://cses.fi/problemset/task/1068) | [C++17](./cses/introductory_problems/1068.cpp) | `Introductory` | 19-Oct-2022| 
+
+
+</details>
+
+</br>
+</br>
+</br>
+
+# Project Euler
+
+<details>
+<Summary> Solutions </Summary>
 
 | #   | Title   | Solution   | Tags   | Submitted   |
 |:---:| :-----: | :--------: | :----: | :---------: |
