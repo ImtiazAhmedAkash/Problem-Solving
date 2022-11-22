@@ -59,26 +59,41 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 # Codeforces
 
-<details>
+<etails>
 <Summary> Solutions </Summary>
 </br>
 
 <!---
-|  | []() | [GNU C++17](.codeforces/.cpp) | `*800` | --2022 |
+|  | []() | [GNU C++17](./codeforces/) | `*800` | --2022 |
     --->
 
 | #   | Title   | Solution   | Tags | Submitted   |
 |:---:| ------- | :--------: |------| :---------: |
-| 10 | [A - Word](https://codeforces.com/contest/59/problem/A) | [GNU C++17](.codeforces/59/A.cpp) | `implementation` `strings` `*800` | 22-Aug-2022 |
-| 9 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [GNU C++17](.codeforces/236/A.cpp) | `brute force` `implementation` `strings` `*800` | 21-Aug-2022 |
-| 8 | [A - Petya and Strings](https://codeforces.com/contest/112/problem/A) | [GNU C++17](.codeforces/112/A.cpp) | `implementation` `strings` `*800` | 21-Aug-2022 |
-| 7 | [A - Gravity Flip](https://codeforces.com/contest/405/problem/A) | [GNU C++17](.codeforces/405/A.cpp) | `greedy` `implementation` `sortings` `*900` | 21-Aug-2022 |
-| 6 | [A - Crossmarket](https://codeforces.com/contest/1715/problem/A) | [GNU C++17](.codeforces/1715/A.cpp) | `constructive algorithms` `greedy` `math` `*800` | 20-Aug-2022 |
-| 5 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [GNU C++17](.codeforces/263/A.cpp) | `implementation` `*800` | 20-Aug-2022 |
-| 4 | [A - Team](https://codeforces.com/contest/231/problem/A) | [GNU C++17](.codeforces/231/A.cpp) | `brute force` `greedy` `*800` | 20-Aug-2022 |
-| 3 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [GNU C++17](.codeforces/791/A.cpp) | `implementation` `*800` | 20-Aug-2022 |
-| 2 | [A - Anton and Danik](https://codeforces.com/contest/734/problem/A) | [GNU C++17](.codeforces/734/A.cpp) | `implementation` `strings` `*800` | 19-Aug-2022 |
-| 1 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [GNU C++17](.codeforces/677/A.cpp) | `implementation` `*800` | 19-Aug-2022 |
+| 20 | [A - Colorful Stones (Simplified Edition)]() | [GNU C++17](./codeforces/.cpp) | `*800` | --2022 |
+
+| 19 | [A - Is your horseshoe on the other hoof?]() | [GNU C++17](./codeforces/.cpp) | `*800` | --2022 |
+
+| 18 | [A - Buy a Shovel]() | [GNU C++17](./codeforces/.cpp) | `*800` | --2022 |
+
+| 17 | [A - Sereja and Dima]() | [GNU C++17](./codeforces/.cpp) | `*800` | --2022 |
+
+| 16 | [A - Night at the Museum]() | [GNU C++17](./codeforces/.cpp) | `*800` | --2022 |
+
+| 15 | [A - Games](https://codeforces.com/contest/268/problem/A) | [GNU C++17](./codeforces/268/A.cpp) | `brute force` `*800` | 25-Aug-2022 |
+| 14 | [A - Black Square](https://codeforces.com/contest/431/problem/A) | [GNU C++17](./codeforces/431/A.cpp) | `implementation` `*800` | 25-Aug-2022 |
+| 13 | [A - Police Recruits](https://codeforces.com/contest/427/problem/A) | [GNU C++17](./codeforces/427/A.cpp) | `implementation` `*800` | 25-Aug-2022 |
+| 12 | [A - Stones on the Table](https://codeforces.com/contest/266/problem/A) | [GNU C++17](./codeforces/266/A.cpp) | `implementation` `*800` | 25-Aug-2022 |
+| 11 | [A - Magnets](https://codeforces.com/contest/344/problem/A) | [GNU C++17](./codeforces/344/A.cpp) | `implementation` `*800` | 22-Aug-2022 |
+| 10 | [A - Word](https://codeforces.com/contest/59/problem/A) | [GNU C++17](./codeforces/59/A.cpp) | `implementation` `strings` `*800` | 22-Aug-2022 |
+| 9 | [A - Boy or Girl](https://codeforces.com/contest/236/problem/A) | [GNU C++17](./codeforces/236/A.cpp) | `brute force` `implementation` `strings` `*800` | 21-Aug-2022 |
+| 8 | [A - Petya and Strings](https://codeforces.com/contest/112/problem/A) | [GNU C++17](./codeforces/112/A.cpp) | `implementation` `strings` `*800` | 21-Aug-2022 |
+| 7 | [A - Gravity Flip](https://codeforces.com/contest/405/problem/A) | [GNU C++17](./codeforces/405/A.cpp) | `greedy` `implementation` `sortings` `*900` | 21-Aug-2022 |
+| 6 | [A - Crossmarket](https://codeforces.com/contest/1715/problem/A) | [GNU C++17](./codeforces/1715/A.cpp) | `constructive algorithms` `greedy` `math` `*800` | 20-Aug-2022 |
+| 5 | [A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | [GNU C++17](./codeforces/263/A.cpp) | `implementation` `*800` | 20-Aug-2022 |
+| 4 | [A - Team](https://codeforces.com/contest/231/problem/A) | [GNU C++17](./codeforces/231/A.cpp) | `brute force` `greedy` `*800` | 20-Aug-2022 |
+| 3 | [A - Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | [GNU C++17](./codeforces/791/A.cpp) | `implementation` `*800` | 20-Aug-2022 |
+| 2 | [A - Anton and Danik](https://codeforces.com/contest/734/problem/A) | [GNU C++17](./codeforces/734/A.cpp) | `implementation` `strings` `*800` | 19-Aug-2022 |
+| 1 | [A - Vanya and Fence](https://codeforces.com/contest/677/problem/A) | [GNU C++17](./codeforces/677/A.cpp) | `implementation` `*800` | 19-Aug-2022 |
 
 
 </details>
@@ -93,12 +108,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 
 <!---
-|  | []() | [C++17](./cses/.cpp) | `Introductory Problems` | --2022| 
+|  | []() | [C++17](./cses/.cpp) | `Introductory` | --2022| 
 --->
 
 
 | #   | Title   | Solution   | Category   | Submitted   |
-|:---:| :-----: | :--------: | :--------: | :---------: |
+|:---:| ------- | :--------: | :--------: | :---------: |
+| 7 | [Two Sets](https://cses.fi/problemset/task/1092) | [C++17](./cses/introductory_problems/1092.cpp) | `Introductory` | 20-Nov-2022| 
 | 6 | [Number Spiral](https://cses.fi/problemset/task/1071) | [C++17](./cses/introductory_problems/1071.cpp) | `Introductory` | 20-Oct-2022|
 | 5 | [Permutations](https://cses.fi/problemset/task/1070) | [C++17](./cses/introductory_problems/1070.cpp) | `Introductory` | 20-Oct-2022|
 | 4 | [Increasing Array](https://cses.fi/problemset/task/1094) | [C++17](./cses/introductory_problems/1094.cpp) | `Introductory` | 19-Oct-2022|
