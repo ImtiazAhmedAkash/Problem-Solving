@@ -59,7 +59,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 # Codeforces
 
-<etails>
+<details>
 <Summary> Solutions </Summary>
 </br>
 
@@ -70,15 +70,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 | #   | Title   | Solution   | Tags | Submitted   |
 |:---:| ------- | :--------: |------| :---------: |
 | 20 | [A - Colorful Stones (Simplified Edition)]() | [GNU C++17](./codeforces/.cpp) | `*800` | --2022 |
-
 | 19 | [A - Is your horseshoe on the other hoof?]() | [GNU C++17](./codeforces/.cpp) | `*800` | --2022 |
-
 | 18 | [A - Buy a Shovel]() | [GNU C++17](./codeforces/.cpp) | `*800` | --2022 |
-
 | 17 | [A - Sereja and Dima]() | [GNU C++17](./codeforces/.cpp) | `*800` | --2022 |
-
 | 16 | [A - Night at the Museum]() | [GNU C++17](./codeforces/.cpp) | `*800` | --2022 |
-
 | 15 | [A - Games](https://codeforces.com/contest/268/problem/A) | [GNU C++17](./codeforces/268/A.cpp) | `brute force` `*800` | 25-Aug-2022 |
 | 14 | [A - Black Square](https://codeforces.com/contest/431/problem/A) | [GNU C++17](./codeforces/431/A.cpp) | `implementation` `*800` | 25-Aug-2022 |
 | 13 | [A - Police Recruits](https://codeforces.com/contest/427/problem/A) | [GNU C++17](./codeforces/427/A.cpp) | `implementation` `*800` | 25-Aug-2022 |
