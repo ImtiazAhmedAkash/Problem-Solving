@@ -69,11 +69,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   | Tags | Submitted   |
 |:---:| ------- | :--------: |------| :---------: |
-| 20 | [A - Colorful Stones (Simplified Edition)]() | [GNU C++17](./codeforces/.cpp) | `*800` | --2022 |
-| 19 | [A - Is your horseshoe on the other hoof?]() | [GNU C++17](./codeforces/.cpp) | `*800` | --2022 |
-| 18 | [A - Buy a Shovel]() | [GNU C++17](./codeforces/.cpp) | `*800` | --2022 |
-| 17 | [A - Sereja and Dima]() | [GNU C++17](./codeforces/.cpp) | `*800` | --2022 |
-| 16 | [A - Night at the Museum]() | [GNU C++17](./codeforces/.cpp) | `*800` | --2022 |
+| 20 | [A - Colorful Stones (Simplified Edition)](https://codeforces.com/contest/265/problem/A) | [GNU C++17](./codeforces/265/A.cpp) | `implementation` `*800` | 30-Aug-2022 |
+| 19 | [A - Is your horseshoe on the other hoof?](https://codeforces.com/contest/228/problem/A) | [GNU C++17](./codeforces/228/A.cpp) | `implementation` `*800` | 29-Aug-2022 |
+| 18 | [A - Buy a Shovel](https://codeforces.com/contest/732/problem/A) | [GNU C++17](./codeforces/732/A.cpp) | `brute force` `constructive algorithms` `implementation` `math` `*800` | 27-Aug-2022 |
+| 17 | [A - Sereja and Dima](https://codeforces.com/contest/381/problem/A) | [GNU C++17](./codeforces/381/A.cpp) | `greedy` `implementation` `two pointers` `*800` | 27-Aug-2022 |
+| 16 | [A - Night at the Museum](https://codeforces.com/contest/731/problem/A) | [GNU C++17](./codeforces/731/A.cpp) | `implementation` `strings` `*800` | 25-Aug-2022 |
 | 15 | [A - Games](https://codeforces.com/contest/268/problem/A) | [GNU C++17](./codeforces/268/A.cpp) | `brute force` `*800` | 25-Aug-2022 |
 | 14 | [A - Black Square](https://codeforces.com/contest/431/problem/A) | [GNU C++17](./codeforces/431/A.cpp) | `implementation` `*800` | 25-Aug-2022 |
 | 13 | [A - Police Recruits](https://codeforces.com/contest/427/problem/A) | [GNU C++17](./codeforces/427/A.cpp) | `implementation` `*800` | 25-Aug-2022 |
