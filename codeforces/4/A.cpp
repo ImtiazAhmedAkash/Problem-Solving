@@ -8,7 +8,7 @@ using namespace std;
  * In that case, one number will be odd, and the other will be even.
  *
  * Every even number can be divided into two even numbers except 2.
- * Thats why, if n is an even number and n is not 2, then print YES
+ * Thats why, if n is an even number and n is not 2, then print YES.
  * Otherwise, print NO.
  */
 
