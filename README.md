@@ -59,7 +59,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 # Codeforces
 
-<dtails>
+<details>
 <Summary> Solutions </Summary>
 </br>
 
@@ -145,16 +145,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [B - Fence](https://codeforces.com/contest/363/problem/B) | [GNU C++17](./codeforces/) | `brute force` `dp` `*1100` | 13-Oct-2022 |
 |  | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [GNU C++17](./codeforces/) | `implementation` `math` `*1000` | 13-Oct-2022 |
 |  | [A - HQ9+](https://codeforces.com/contest/133/problem/A) | [GNU C++17](./codeforces/) | `implementation` `*900` | 13-Oct-2022 |
-|  | [B - Interesting drink](https://codeforces.com/contest/706/problem/B) | [GNU C++17](./codeforces/) | `binary search` `dp` `implementation` `*1100` | 12-Oct-2022 |
-|  | [B - Funny Permutation](https://codeforces.com/contest/1741/problem/B) | [GNU C++17](./codeforces/) | `constructive algorithms` `math` `*800` | 11-Oct-2022 |
-|  | [A - Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A) | [GNU C++17](./codeforces/) | `implementation` `strings` `*800` | 11-Oct-2022 |
-|  | [A - String Task](https://codeforces.com/contest/118/problem/A) | [GNU C++17](./codeforces/) | `implementation` `strings` `*1000` | 09-Oct-2022 |
-|  | [A - Twins](https://codeforces.com/contest/160/problem/A) | [GNU C++17](./codeforces/) | `greedy` `sortings` `*900` | 09-Oct-2022 |
-|  | [A - Theatre Square](https://codeforces.com/contest/1/problem/A) | [GNU C++17](./codeforces/) | `math` `*1000` | 08-Oct-2022 |
-|  | [A - Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | [GNU C++17](./codeforces/) | `greedy` `implementation` `*1200` | 08-Oct-2022 |
-|  | [A - Hit the Lottery](https://codeforces.com/contest/996/problem/A) | [GNU C++17](./codeforces/) | `dp` `greedy` `*800` | 08-Oct-2022 |
-|  | [B - Taxi](https://codeforces.com/contest/158/problem/B) | [GNU C++17](./codeforces/) | `*special problem` `greedy` `implementation` `*1100` | 08-Oct-2022 |
-|  | [A - Football](https://codeforces.com/contest/96/problem/A) | [GNU C++17](./codeforces/) | `implementation` `strings` `*900` | 08-Oct-2022 |
+| 70 | [B - Interesting drink](https://codeforces.com/contest/706/problem/B) | [GNU C++17](./codeforces/706/B.cpp) | `binary search` `dp` `implementation` `*1100` | 12-Oct-2022 |
+| 69 | [B - Funny Permutation](https://codeforces.com/contest/1741/problem/B) | [GNU C++17](./codeforces/1741/B.cpp) | `constructive algorithms` `math` `*800` | 11-Oct-2022 |
+| 68 | [A - Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A) | [GNU C++17](./codeforces/1741/A.cpp) | `implementation` `strings` `*800` | 11-Oct-2022 |
+| 67 | [A - String Task](https://codeforces.com/contest/118/problem/A) | [GNU C++17](./codeforces/118/A.cpp) | `implementation` `strings` `*1000` | 09-Oct-2022 |
+| 66 | [A - Twins](https://codeforces.com/contest/160/problem/A) | [GNU C++17](./codeforces/160/A.cpp) | `greedy` `sortings` `*900` | 09-Oct-2022 |
+| 65 | [A - Theatre Square](https://codeforces.com/contest/1/problem/A) | [GNU C++17](./codeforces/1/A.cpp) | `math` `*1000` | 08-Oct-2022 |
+| 64 | [A - Chewbaсca and Number](https://codeforces.com/contest/514/problem/A) | [GNU C++17](./codeforces/514/A.cpp) | `greedy` `implementation` `*1200` | 08-Oct-2022 |
+| 63 | [A - Hit the Lottery](https://codeforces.com/contest/996/problem/A) | [GNU C++17](./codeforces/996/A.cpp) | `dp` `greedy` `*800` | 08-Oct-2022 |
+| 62 | [B - Taxi](https://codeforces.com/contest/158/problem/B) | [GNU C++17](./codeforces/158/B.cpp) | `*special problem` `greedy` `implementation` `*1100` | 08-Oct-2022 |
+| 61 | [A - Football](https://codeforces.com/contest/96/problem/A) | [GNU C++17](./codeforces/96/A.cpp) | `implementation` `strings` `*900` | 08-Oct-2022 |
 | 60 | [A - Insomnia cure](https://codeforces.com/contest/148/problem/A) | [GNU C++17](./codeforces/148/A.cpp) | `constructive algorithms` `implementation` `math` `*800` | 07-Oct-2022 |
 | 59 | [A - Pangram](https://codeforces.com/contest/520/problem/A) | [GNU C++17](./codeforces/520/A.cpp) | `implementation` `strings` `*800` | 07-Oct-2022 |
 | 58 | [A - Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | [GNU C++17](./codeforces/1328/A.cpp) | `math` `*800` | 07-Oct-2022 |
