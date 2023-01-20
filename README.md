@@ -135,16 +135,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [A - Chat room](https://codeforces.com/contest/58/problem/A) | [GNU C++17](./codeforces/) | `greedy` `strings` `*1000` | 17-Oct-2022 |
 |  | [B - Even-Odd Increments](https://codeforces.com/contest/1744/problem/B) | [GNU C++17](./codeforces/) | `implementation` `math` `*800` | 16-Oct-2022 |
 |  | [A - Number Replacement](https://codeforces.com/contest/1744/problem/A) | [GNU C++17](./codeforces/) | `greedy` `implementation` `*800` | 16-Oct-2022 |
-|  | [B - Rebellion](https://codeforces.com/contest/1746/problem/B) | [GNU C++17](./codeforces/) | `constructive algorithms` `greedy` `two pointers` `*800` | 15-Oct-2022 |
-|  | [A - Maxmina](https://codeforces.com/contest/1746/problem/A) | [GNU C++17](./codeforces/) | `constructive algorithms` `greedy` `*800` | 15-Oct-2022 |
-|  | [A - Even Odds](https://codeforces.com/contest/318/problem/A) | [GNU C++17](./codeforces/) | `math` `*900` | 15-Oct-2022 |
-|  | [A - Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | [GNU C++17](./codeforces/) | `implementation` `strings` `*800` | 15-Oct-2022 |
-|  | [C - Stripes](https://codeforces.com/contest/1742/problem/C) | [GNU C++17](./codeforces/) | `implementation` `*900` | 14-Oct-2022 |
-|  | [B - Increasing](https://codeforces.com/contest/1742/problem/B) | [GNU C++17](./codeforces/) | `greedy` `implementation` `sortings` `*800` | 13-Oct-2022 |
-|  | [A - Sum](https://codeforces.com/contest/1742/problem/A) | [GNU C++17](./codeforces/) | `implementation` `*800` | 13-Oct-2022 |
-|  | [B - Fence](https://codeforces.com/contest/363/problem/B) | [GNU C++17](./codeforces/) | `brute force` `dp` `*1100` | 13-Oct-2022 |
-|  | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [GNU C++17](./codeforces/) | `implementation` `math` `*1000` | 13-Oct-2022 |
-|  | [A - HQ9+](https://codeforces.com/contest/133/problem/A) | [GNU C++17](./codeforces/) | `implementation` `*900` | 13-Oct-2022 |
+| 80 | [B - Rebellion](https://codeforces.com/contest/1746/problem/B) | [GNU C++17](./codeforces/1746/B.cpp) | `constructive algorithms` `greedy` `two pointers` `*800` | 15-Oct-2022 |
+| 79 | [A - Maxmina](https://codeforces.com/contest/1746/problem/A) | [GNU C++17](./codeforces/1746/A.cpp) | `constructive algorithms` `greedy` `*800` | 15-Oct-2022 |
+| 78 | [A - Even Odds](https://codeforces.com/contest/318/problem/A) | [GNU C++17](./codeforces/318/A.cpp) | `math` `*900` | 15-Oct-2022 |
+| 77 | [A - Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | [GNU C++17](./codeforces/785/A.cpp) | `implementation` `strings` `*800` | 15-Oct-2022 |
+| 76 | [C - Stripes](https://codeforces.com/contest/1742/problem/C) | [GNU C++17](./codeforces/1742/C.cpp) | `implementation` `*900` | 14-Oct-2022 |
+| 75 | [B - Increasing](https://codeforces.com/contest/1742/problem/B) | [GNU C++17](./codeforces/1742/B.cpp) | `greedy` `implementation` `sortings` `*800` | 13-Oct-2022 |
+| 74 | [A - Sum](https://codeforces.com/contest/1742/problem/A) | [GNU C++17](./codeforces/1742/A.cpp) | `implementation` `*800` | 13-Oct-2022 |
+| 73 | [B - Fence](https://codeforces.com/contest/363/problem/B) | [GNU C++17](./codeforces/363/B.cpp) | `brute force` `dp` `*1100` | 13-Oct-2022 |
+| 72 | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [GNU C++17](./codeforces/69/A.cpp) | `implementation` `math` `*1000` | 13-Oct-2022 |
+| 71 | [A - HQ9+](https://codeforces.com/contest/133/problem/A) | [GNU C++17](./codeforces/133/A.cpp) | `implementation` `*900` | 13-Oct-2022 |
 | 70 | [B - Interesting drink](https://codeforces.com/contest/706/problem/B) | [GNU C++17](./codeforces/706/B.cpp) | `binary search` `dp` `implementation` `*1100` | 12-Oct-2022 |
 | 69 | [B - Funny Permutation](https://codeforces.com/contest/1741/problem/B) | [GNU C++17](./codeforces/1741/B.cpp) | `constructive algorithms` `math` `*800` | 11-Oct-2022 |
 | 68 | [A - Compare T-Shirt Sizes](https://codeforces.com/contest/1741/problem/A) | [GNU C++17](./codeforces/1741/A.cpp) | `implementation` `strings` `*800` | 11-Oct-2022 |
