@@ -1,6 +1,6 @@
 /*  In the name of ALLAH, the most gracious, the most merciful  */
 
-// Maxima
+// Maxmina
 
 #include <bits/stdc++.h>
 using namespace std;
