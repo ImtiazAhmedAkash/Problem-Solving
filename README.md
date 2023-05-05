@@ -25,6 +25,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   | Points |
 |:---:| :------ | :--------: |:-----:|
+|  | [D - AABCC](https://atcoder.jp/contests/abc300/tasks/abc300_d) | [C++ (GCC 9.2.1)](./atcoder/.cpp) | `*400` |
 |  | [C - Good Sequence](https://atcoder.jp/contests/arc087/tasks/arc087_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) | `*300` |
 |  | [B - Qualification Contest](https://atcoder.jp/contests/abc288/tasks/abc288_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) | `*200` |
 |  | [A - Many A+B Problems](https://atcoder.jp/contests/abc288/tasks/abc288_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) | `*100` |
@@ -90,6 +91,22 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   | Tags |
 |:---:| :------ | :--------: |:----:|
+|  | [B - Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | [GNU C++17](./codeforces/) | `bitmasks` `brute force` `dp` `*1200` |
+|  | [D - Same Differences](https://codeforces.com/contest/1520/problem/D) | [GNU C++17](./codeforces/) | `data structures` `hashing` `math` `*1200` |
+|  | [A - Traveling Salesman Problem](https://codeforces.com/contest/1713/problem/A) | [GNU C++17](./codeforces/) | `geometry` `greedy` `implementation` `*800` |
+|  | [A - TubeTube Feed](https://codeforces.com/contest/1822/problem/A) | [GNU C++17](./codeforces/) | `brute force` `implementation` `*800` |
+|  | [C - Almost Increasing Subsequence](https://codeforces.com/contest/1818/problem/C) | [GNU C++17](./codeforces/) | `binary search` `dp` `greedy` `*1500` |
+|  | [B - Indivisible](https://codeforces.com/contest/1818/problem/B) | [GNU C++17](./codeforces/) | `constructive algorithms` `*900` |
+|  | [A - Politics](https://codeforces.com/contest/1818/problem/A) | [GNU C++17](./codeforces/) | `greedy` `implementation` `*800` |
+|  | [A - Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) | [GNU C++17](./codeforces/) | `math` `*800` |
+|  | [C - Strongly Composite](https://codeforces.com/contest/1823/problem/C) | [GNU C++17](./codeforces/) | `greedy` `math` `number theory` `*1300` |
+|  | [B - Sort with Step](https://codeforces.com/contest/1823/problem/B) | [GNU C++17](./codeforces/) | `brute force` `math` `sortings` `*900` |
+|  | [A - A-characteristic](https://codeforces.com/contest/1823/problem/A) | [GNU C++17](./codeforces/) | `combinatorics` `constructive algorithms` `math` `*800` |
+|  | [C - Wrong Addition](https://codeforces.com/contest/1619/problem/C) | [GNU C++17](./codeforces/) | `implementation` `*1200` |
+|  | [D - Multiset](https://codeforces.com/contest/1354/problem/D) | [GNU C++17](./codeforces/) | `binary search` `data structures` `*1900` |
+|  | [A - Greg and Array](https://codeforces.com/contest/295/problem/A) | [GNU C++17](./codeforces/) | `data structures` `implementation` `*1400` |
+|  | [F1 - Guess the K-th Zero (Easy version)](https://codeforces.com/contest/1520/problem/F1) | [GNU C++17](./codeforces/) | `binary search` `interactive` `*1600` |
+|  | [C - Cellular Network](https://codeforces.com/contest/702/problem/C) | [GNU C++17](./codeforces/) | `binary search` `implementation` `two pointers` `*1500` |
 | * | [A - Is It a Cat?](https://codeforces.com/contest/1800/problem/A) | [GNU C++17](./codeforces/) | `implementation` `strings` '*00' |
 |  | [B - Lost Numbers](https://codeforces.com/contest/1167/problem/B) | [GNU C++17](./codeforces/) | `brute force` `divide and conquer` `interactive` `math` `*1400` |
 |  | [B - Asterisk-Minor Template](https://codeforces.com/contest/1796/problem/B) | [GNU C++17](./codeforces/) | `implementation` `strings` `*1000` |
@@ -208,11 +225,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [A - cAPS lOCK](https://codeforces.com/contest/131/problem/A) | [GNU C++17](./codeforces/) | `implementation` `strings` `*1000` |
 |  | [A - Fancy Fence](https://codeforces.com/contest/270/problem/A) | [GNU C++17](./codeforces/) | `geometry` `implementation` `math` `*1100` |
 |  | [A - Expression](https://codeforces.com/contest/479/problem/A) | [GNU C++17](./codeforces/) | `brute force` `math` `*1000` |
-|  | [B - Death's Blessing](https://codeforces.com/contest/1749/problem/B) | [GNU C++17](./codeforces/) | `greedy` `*900` |
-|  | [A - Cowardly Rooks](https://codeforces.com/contest/1749/problem/A) | [GNU C++17](./codeforces/) | `greedy` `implementation` `*800` |
-|  | [A - Lucky Division](https://codeforces.com/contest/122/problem/A) | [GNU C++17](./codeforces/) | `brute force` `number theory` `*1000` |
-|  | [A - Minimum Difficulty](https://codeforces.com/contest/496/problem/A) | [GNU C++17](./codeforces/) | `brute force` `implementation` `math` `*900` |
-|  | [B - Permutation Value](https://codeforces.com/contest/1743/problem/B) | [GNU C++17](./codeforces/) | `constructive algorithms` `greedy` `*800` |
+| 90 | [B - Death's Blessing](https://codeforces.com/contest/1749/problem/B) | [GNU C++17](./codeforces/1749/B.cpp) | `greedy` `*900` |
+| 89 | [A - Cowardly Rooks](https://codeforces.com/contest/1749/problem/A) | [GNU C++17](./codeforces/1749/A.cpp) | `greedy` `implementation` `*800` |
+| 88 | [A - Lucky Division](https://codeforces.com/contest/122/problem/A) | [GNU C++17](./codeforces/122/A.cpp) | `brute force` `number theory` `*1000` |
+| 87 | [A - Minimum Difficulty](https://codeforces.com/contest/496/problem/A) | [GNU C++17](./codeforces/496/A.cpp) | `brute force` `implementation` `math` `*900` |
+| 86 | [B - Permutation Value](https://codeforces.com/contest/1743/problem/B) | [GNU C++17](./codeforces/1743/B.cpp) | `constructive algorithms` `greedy` `*800` |
 | 85 | [A - Password](https://codeforces.com/contest/1743/problem/A) | [GNU C++17](./codeforces/1743/A.cpp) | `brute force` `combinatorics` `implementation` `math` `*800` |
 | 84 | [A - Amusing Joke](https://codeforces.com/contest/141/problem/A) | [GNU C++17](./codeforces/141/A.cpp) | `implementation` `sortings` `strings` `*800` |
 | 83 | [A - Chat room](https://codeforces.com/contest/58/problem/A) | [GNU C++17](./codeforces/58/A.cpp) | `greedy` `strings` `*1000` |
