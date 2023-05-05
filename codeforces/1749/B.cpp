@@ -1,6 +1,6 @@
 /*  In the name of ALLAH, the most gracious, the most merciful  */
 
-// Death Blessing
+// Death's Blessing
 
 #include <bits/stdc++.h>
 using namespace std;
