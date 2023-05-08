@@ -25,7 +25,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   | Points |
 |:---:| :------ | :--------: |:-----:|
-|  | [D - AABCC](https://atcoder.jp/contests/abc300/tasks/abc300_d) | [C++ (GCC 9.2.1)](./atcoder/.cpp) | `*400` |
+| 30 | [D - AABCC](https://atcoder.jp/contests/abc300/tasks/abc300_d) | [C++ (GCC 9.2.1)](./atcoder/abc300/D.cpp) | `*400` |
+| 29 | [C - Cross](https://atcoder.jp/contests/abc300/tasks/abc300_c) | [C++ (GCC 9.2.1)](./atcoder/abc300/C.cpp) | `*300` |
+| 28 | [B - Same Map in the RPG World](https://atcoder.jp/contests/abc300/tasks/abc300_b) | [C++ (GCC 9.2.1)](./atcoder/abc300/B.cpp) | `*200` |
+| 27 | [A - N-choice question](https://atcoder.jp/contests/abc300/tasks/abc300_a) | [C++ (GCC 9.2.1)](./atcoder/abc300/A.cpp) | `*100` |
 |  | [C - Good Sequence](https://atcoder.jp/contests/arc087/tasks/arc087_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) | `*300` |
 |  | [B - Qualification Contest](https://atcoder.jp/contests/abc288/tasks/abc288_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) | `*200` |
 |  | [A - Many A+B Problems](https://atcoder.jp/contests/abc288/tasks/abc288_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) | `*100` |
@@ -91,6 +94,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   | Tags |
 |:---:| :------ | :--------: |:----:|
+|  | [A - Almost Prime](https://codeforces.com/contest/26/problem/A) | [GNU C++17](./codeforces/) | `number theory` `*900` |
+|  | [P13 - Lost rectangle](https://codeforces.com/group/yg7WhsFsAp/contest/419146/problem/P13) | [GNU C++17](./codeforces/) | `Gym` |
+|  | [A - Cashier](https://codeforces.com/contest/1059/problem/A) | [GNU C++17](./codeforces/) | `implementation` `*1000` |
 |  | [B - Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | [GNU C++17](./codeforces/) | `bitmasks` `brute force` `dp` `*1200` |
 |  | [D - Same Differences](https://codeforces.com/contest/1520/problem/D) | [GNU C++17](./codeforces/) | `data structures` `hashing` `math` `*1200` |
 |  | [A - Traveling Salesman Problem](https://codeforces.com/contest/1713/problem/A) | [GNU C++17](./codeforces/) | `geometry` `greedy` `implementation` `*800` |
@@ -224,7 +230,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [A - Laptops](https://codeforces.com/contest/456/problem/A) | [GNU C++17](./codeforces/) | `sortings` `*1100` |
 |  | [A - cAPS lOCK](https://codeforces.com/contest/131/problem/A) | [GNU C++17](./codeforces/) | `implementation` `strings` `*1000` |
 |  | [A - Fancy Fence](https://codeforces.com/contest/270/problem/A) | [GNU C++17](./codeforces/) | `geometry` `implementation` `math` `*1100` |
-|  | [A - Expression](https://codeforces.com/contest/479/problem/A) | [GNU C++17](./codeforces/) | `brute force` `math` `*1000` |
+| 91 | [A - Expression](https://codeforces.com/contest/479/problem/A) | [GNU C++17](./codeforces/479/A.cpp) | `brute force` `math` `*1000` |
 | 90 | [B - Death's Blessing](https://codeforces.com/contest/1749/problem/B) | [GNU C++17](./codeforces/1749/B.cpp) | `greedy` `*900` |
 | 89 | [A - Cowardly Rooks](https://codeforces.com/contest/1749/problem/A) | [GNU C++17](./codeforces/1749/A.cpp) | `greedy` `implementation` `*800` |
 | 88 | [A - Lucky Division](https://codeforces.com/contest/122/problem/A) | [GNU C++17](./codeforces/122/A.cpp) | `brute force` `number theory` `*1000` |
