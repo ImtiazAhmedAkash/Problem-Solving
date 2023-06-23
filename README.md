@@ -143,11 +143,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 
 <!---
-|  | []() | [GNU C++20 (64)](./codeforces/) | `` |
+|  | []() | [GNU C++20 (64)](./codeforces/) |
     --->
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 338 | [B - Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | [GNU C++20 (64)](./codeforces/1352/B.cpp) |
+| 337 | [C - Ternary XOR](https://codeforces.com/contest/1328/problem/C) | [GNU C++20 (64)](./codeforces/1328/C.cpp) |
+| 336 | [B - Cat Cycle](https://codeforces.com/contest/1487/problem/B) | [GNU C++20 (64)](./codeforces/1487/B.cpp) |
+| 335 | [B - Rock and Lever](https://codeforces.com/contest/1420/problem/B) | [GNU C++20 (64)](./codeforces/1420/B.cpp) |
 | 334 | [B - Ternary String](https://codeforces.com/contest/1354/problem/B) | [GNU C++20 (64)](./codeforces/1354/B.cpp) |
 | 333 | [C - Make It Good](https://codeforces.com/contest/1385/problem/C) | [GNU C++20 (64)](./codeforces/1385/C.cpp) |
 | 332 | [D - Districts Connection](https://codeforces.com/contest/1433/problem/D) | [GNU C++20 (64)](./codeforces/1433/D.cpp) |
