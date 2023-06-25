@@ -148,6 +148,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 343 | [B - Nastia and a Good Array](https://codeforces.com/contest/1521/problem/B) | [GNU C++20 (64)](./codeforces/1521/B.cpp) |
+| 342 | [B - Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | [GNU C++20 (64)](./codeforces/1842/B.cpp) |
+| 341 | [A - Tenzing and Tsondu](https://codeforces.com/contest/1842/problem/A) | [GNU C++20 (64)](./codeforces/1842/A.cpp) |
+| 340 | [B - Reverse Binary Strings](https://codeforces.com/contest/1437/problem/B) | [GNU C++20 (64)](./codeforces/1437/B.cpp) |
+| 339 | [B - Maximum Product](https://codeforces.com/contest/1406/problem/B) | [GNU C++20 (64)](./codeforces/1406/B.cpp) |
 | 338 | [B - Same Parity Summands](https://codeforces.com/contest/1352/problem/B) | [GNU C++20 (64)](./codeforces/1352/B.cpp) |
 | 337 | [C - Ternary XOR](https://codeforces.com/contest/1328/problem/C) | [GNU C++20 (64)](./codeforces/1328/C.cpp) |
 | 336 | [B - Cat Cycle](https://codeforces.com/contest/1487/problem/B) | [GNU C++20 (64)](./codeforces/1487/B.cpp) |
