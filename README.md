@@ -26,6 +26,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 66 | [C - Medicine](https://atcoder.jp/contests/abc309/tasks/abc309_c) | [C++ (GCC 9.2.1)](./atcoder/abc309/C.cpp.cpp) |
+| 65 | [B - Rotate](https://atcoder.jp/contests/abc309/tasks/abc309_b) | [C++ (GCC 9.2.1)](./atcoder/abc309/B.cpp.cpp) |
+| 64 | [A - Nine](https://atcoder.jp/contests/abc309/tasks/abc309_a) | [C++ (GCC 9.2.1)](./atcoder/abc309/A.cpp.cpp) |
+|  | [D - Mismatched Parentheses](https://atcoder.jp/contests/abc307/tasks/abc307_d) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
+|  | [B - racecar](https://atcoder.jp/contests/abc307/tasks/abc307_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
+|  | [A - Weekly Records](https://atcoder.jp/contests/abc307/tasks/abc307_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
 |  | [D - Shift vs. CapsLock](https://atcoder.jp/contests/abc303/tasks/abc303_d) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
 |  | [C - Dash](https://atcoder.jp/contests/abc303/tasks/abc303_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
 |  | [B - Discord](https://atcoder.jp/contests/abc303/tasks/abc303_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
