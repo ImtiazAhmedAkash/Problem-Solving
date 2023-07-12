@@ -154,6 +154,33 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 370 | [B - Reverse String](https://codeforces.com/contest/1553/problem/B) | [GNU C++20 (64)](./codeforces/1553/B.cpp) |
+| 369 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [GNU C++20 (64)](./codeforces/1476/B.cpp) |
+| 368 | [C - Slay the Dragon](https://codeforces.com/contest/1574/problem/C) | [GNU C++20 (64)](./codeforces/1574/C.cpp) |
+| 367 | [E1 - Rudolf and Snowflakes (simple version)](https://codeforces.com/contest/1846/problem/E1) | [GNU C++20 (64)](./codeforces/1846/E1.cpp) |
+| 366 | [D - Blue-Red Permutation](https://codeforces.com/contest/1607/problem/D) | [GNU C++20 (64)](./codeforces/1607/D.cpp) |
+| 365 | [C - Paprika and Permutation](https://codeforces.com/contest/1617/problem/C) | [GNU C++20 (64)](./codeforces/1617/C.cpp) |
+| 364 | [D - Multiplication Table](https://codeforces.com/contest/448/problem/D) | [GNU C++20 (64)](./codeforces/448/D.cpp) |
+| 363 | [D - Rudolph and Christmas Tree](https://codeforces.com/contest/1846/problem/D) | [GNU C++20 (64)](./codeforces/1846/D.cpp) |
+| 362 | [C - Rudolf and the Another Competition](https://codeforces.com/contest/1846/problem/C) | [GNU C++20 (64)](./codeforces/1846/C.cpp) |
+| 361 | [B - Rudolph and Tic-Tac-Toe](https://codeforces.com/contest/1846/problem/B) | [GNU C++20 (64)](./codeforces/1846/B.cpp) |
+| 360 | [A - Rudolph and Cut the Rope](https://codeforces.com/contest/1846/problem/A) | [GNU C++20 (64)](./codeforces/1846/A.cpp) |
+| 359 | [B - Two Tables](https://codeforces.com/contest/1555/problem/B) | [GNU C++20 (64)](./codeforces/1555/B.cpp) |
+| 358 | [B - Hamon Odyssey](https://codeforces.com/contest/1847/problem/B) | [GNU C++20 (64)](./codeforces/1847/B.cpp) |
+| 357 | [A - The Man who became a God](https://codeforces.com/contest/1847/problem/A) | [GNU C++20 (64)](./codeforces/1847/A.cpp) |
+| 356 | [D - Co-growing Sequence](https://codeforces.com/contest/1547/problem/D) | [GNU C++20 (64)](./codeforces/1547/D.cpp) |
+| 355 | [D - Children Holiday](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/D) | [GNU C++20 (64)](./codeforces/edu/binary_search/step2/D.cpp) |
+| 354 | [B - And It's Non-Zero](https://codeforces.com/contest/1615/problem/B) | [GNU C++20 (64)](./codeforces/1615/B.cpp) |
+| 353 | [B - Not Sitting](https://codeforces.com/contest/1627/problem/B) | [GNU C++20 (64)](./codeforces/1627/B.cpp) |
+| 352 | [C - Very Easy Task](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/C) | [GNU C++20 (64)](./codeforces/edu/binary_search/step2/C.cpp) |
+| 351 | [B - Ropes](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/B) | [GNU C++20 (64)](./codeforces/edu/binary_search/step2/B.cpp) |
+| 350 | [D - Make a Power of Two](https://codeforces.com/contest/1560/problem/D) | [GNU C++20 (64)](./codeforces/1560/D.cpp) |
+| 349 | [C - Matching Numbers](https://codeforces.com/contest/1788/problem/C) | [GNU C++20 (64)](./codeforces/1788/C.cpp) |
+| 348 | [D - Fast search](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/D) | [GNU C++20 (64)](./codeforces/edu/binary_search/step1/D.cpp) |
+| 347 | [C - Closest to the Right](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/C) | [GNU C++20 (64)](./codeforces/edu/binary_search/step1/C.cpp) |
+| 346 | [B - Closest to the Left](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/B) | [GNU C++20 (64)](./codeforces/edu/binary_search/step1/B.cpp) |
+| 345 | [A - Binary Search](https://codeforces.com/edu/course/2/lesson/6/1/practice/contest/283911/problem/A) | [GNU C++20 (64)](./codeforces/edu/binary_search/step1/A.cpp) |
+| 344 | [D - Array and Operations](https://codeforces.com/contest/1618/problem/D) | [GNU C++20 (64)](./codeforces/1618/D.cpp) |
 | 343 | [B - Nastia and a Good Array](https://codeforces.com/contest/1521/problem/B) | [GNU C++20 (64)](./codeforces/1521/B.cpp) |
 | 342 | [B - Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | [GNU C++20 (64)](./codeforces/1842/B.cpp) |
 | 341 | [A - Tenzing and Tsondu](https://codeforces.com/contest/1842/problem/A) | [GNU C++20 (64)](./codeforces/1842/A.cpp) |
