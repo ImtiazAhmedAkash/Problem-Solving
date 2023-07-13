@@ -21,7 +21,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 
 <!---
-|  | []() | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
+|  | []() | [C++ (GCC 9.2.1)](./atcoder/) |
     --->
 
 | #   | Title   | Solution   |
@@ -72,21 +72,21 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [B - Postal Card](https://atcoder.jp/contests/abc287/tasks/abc287_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
 |  | [A - Majority](https://atcoder.jp/contests/abc287/tasks/abc287_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
 |  | [C - Squared Error](https://atcoder.jp/contests/abc194/tasks/abc194_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [C - Unexpressed](https://atcoder.jp/contests/abc193/tasks/abc193_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [C - Doubled](https://atcoder.jp/contests/abc196/tasks/abc196_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [C - Long Sequence](https://atcoder.jp/contests/abc220/tasks/abc220_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [B - Nuts](https://atcoder.jp/contests/abc204/tasks/abc204_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [C - Swappable](https://atcoder.jp/contests/abc206/tasks/abc206_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [B - Permutation Check](https://atcoder.jp/contests/abc205/tasks/abc205_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [A - Find Multiple](https://atcoder.jp/contests/abc220/tasks/abc220_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [D - Happy New Year 2023](https://atcoder.jp/contests/abc284/tasks/abc284_d) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [B - Multi Test Cases](https://atcoder.jp/contests/abc284/tasks/abc284_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [A - Sequence of Strings](https://atcoder.jp/contests/abc284/tasks/abc284_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [C - String Delimiter](https://atcoder.jp/contests/abc282/tasks/abc282_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [B - Let's Get a Perfect Score](https://atcoder.jp/contests/abc282/tasks/abc282_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [A - Generalized ABC](https://atcoder.jp/contests/abc282/tasks/abc282_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [B - LOOKUP](https://atcoder.jp/contests/abc279/tasks/abc279_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [A - wwwvvvvvv](https://atcoder.jp/contests/abc279/tasks/abc279_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
+| 20 | [C - Unexpressed](https://atcoder.jp/contests/abc193/tasks/abc193_c) | [C++ (GCC 9.2.1)](./atcoder/abc193/C.cpp) |
+| 19 | [C - Doubled](https://atcoder.jp/contests/abc196/tasks/abc196_c) | [C++ (GCC 9.2.1)](./atcoder/abc196/C.cpp) |
+| 18 | [C - Long Sequence](https://atcoder.jp/contests/abc220/tasks/abc220_c) | [C++ (GCC 9.2.1)](./atcoder/abc220/C.cpp) |
+| 17 | [B - Nuts](https://atcoder.jp/contests/abc204/tasks/abc204_b) | [C++ (GCC 9.2.1)](./atcoder/abc204/B.cpp) |
+| 16 | [C - Swappable](https://atcoder.jp/contests/abc206/tasks/abc206_c) | [C++ (GCC 9.2.1)](./atcoder/abc206/C.cpp) |
+| 15 | [B - Permutation Check](https://atcoder.jp/contests/abc205/tasks/abc205_b) | [C++ (GCC 9.2.1)](./atcoder/abc205/B.cpp) |
+| 14 | [A - Find Multiple](https://atcoder.jp/contests/abc220/tasks/abc220_a) | [C++ (GCC 9.2.1)](./atcoder/abc220/A.cpp) |
+| 13 | [D - Happy New Year 2023](https://atcoder.jp/contests/abc284/tasks/abc284_d) | [C++ (GCC 9.2.1)](./atcoder/abc284/D.cpp) |
+| 12 | [B - Multi Test Cases](https://atcoder.jp/contests/abc284/tasks/abc284_b) | [C++ (GCC 9.2.1)](./atcoder/abc284/B.cpp) |
+| 11 | [A - Sequence of Strings](https://atcoder.jp/contests/abc284/tasks/abc284_a) | [C++ (GCC 9.2.1)](./atcoder/abc284/A.cpp) |
+| 10 | [C - String Delimiter](https://atcoder.jp/contests/abc282/tasks/abc282_c) | [C++ (GCC 9.2.1)](./atcoder/abc282/C.cpp) |
+| 9 | [B - Let's Get a Perfect Score](https://atcoder.jp/contests/abc282/tasks/abc282_b) | [C++ (GCC 9.2.1)](./atcoder/abc282/B.cpp) |
+| 8 | [A - Generalized ABC](https://atcoder.jp/contests/abc282/tasks/abc282_a) | [C++ (GCC 9.2.1)](./atcoder/abc282/A.cpp) |
+| 7 | [B - LOOKUP](https://atcoder.jp/contests/abc279/tasks/abc279_b) | [C++ (GCC 9.2.1)](./atcoder/abc279/B.cpp) |
+| 6 | [A - wwwvvvvvv](https://atcoder.jp/contests/abc279/tasks/abc279_a) | [C++ (GCC 9.2.1)](./atcoder/abc279/A.cpp) |
 | 5 | [C - FF](https://atcoder.jp/contests/abc278/tasks/abc278_c) | [C++ (GCC 9.2.1)](./atcoder/abc278/C.cpp) |
 | 4 | [B - Misjudge the Time](https://atcoder.jp/contests/abc278/tasks/abc278_b) | [C++ (GCC 9.2.1)](./atcoder/abc278/B.cpp) |
 | 3 | [A - Shift](https://atcoder.jp/contests/abc278/tasks/abc278_a) | [C++ (GCC 9.2.1)](./atcoder/abc278/A.cpp) |
