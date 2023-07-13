@@ -66,12 +66,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 | 29 | [C - Cross](https://atcoder.jp/contests/abc300/tasks/abc300_c) | [C++ (GCC 9.2.1)](./atcoder/abc300/C.cpp) |
 | 28 | [B - Same Map in the RPG World](https://atcoder.jp/contests/abc300/tasks/abc300_b) | [C++ (GCC 9.2.1)](./atcoder/abc300/B.cpp) |
 | 27 | [A - N-choice question](https://atcoder.jp/contests/abc300/tasks/abc300_a) | [C++ (GCC 9.2.1)](./atcoder/abc300/A.cpp) |
-|  | [C - Good Sequence](https://atcoder.jp/contests/arc087/tasks/arc087_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [B - Qualification Contest](https://atcoder.jp/contests/abc288/tasks/abc288_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [A - Many A+B Problems](https://atcoder.jp/contests/abc288/tasks/abc288_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [B - Postal Card](https://atcoder.jp/contests/abc287/tasks/abc287_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [A - Majority](https://atcoder.jp/contests/abc287/tasks/abc287_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [C - Squared Error](https://atcoder.jp/contests/abc194/tasks/abc194_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
+| 26 | [C - Good Sequence](https://atcoder.jp/contests/abc082/tasks/arc087_a) | [C++ (GCC 9.2.1)](./atcoder/abc082/C.cpp) |
+| 25 | [B - Qualification Contest](https://atcoder.jp/contests/abc288/tasks/abc288_b) | [C++ (GCC 9.2.1)](./atcoder/abc288/B.cpp) |
+| 24 | [A - Many A+B Problems](https://atcoder.jp/contests/abc288/tasks/abc288_a) | [C++ (GCC 9.2.1)](./atcoder/abc288/A.cpp) |
+| 23 | [B - Postal Card](https://atcoder.jp/contests/abc287/tasks/abc287_b) | [C++ (GCC 9.2.1)](./atcoder/abc287/B.cpp) |
+| 22 | [A - Majority](https://atcoder.jp/contests/abc287/tasks/abc287_a) | [C++ (GCC 9.2.1)](./atcoder/abc287/A.cpp) |
+| 21 | [C - Squared Error](https://atcoder.jp/contests/abc194/tasks/abc194_c) | [C++ (GCC 9.2.1)](./atcoder/abc194/C.cpp) |
 | 20 | [C - Unexpressed](https://atcoder.jp/contests/abc193/tasks/abc193_c) | [C++ (GCC 9.2.1)](./atcoder/abc193/C.cpp) |
 | 19 | [C - Doubled](https://atcoder.jp/contests/abc196/tasks/abc196_c) | [C++ (GCC 9.2.1)](./atcoder/abc196/C.cpp) |
 | 18 | [C - Long Sequence](https://atcoder.jp/contests/abc220/tasks/abc220_c) | [C++ (GCC 9.2.1)](./atcoder/abc220/C.cpp) |
