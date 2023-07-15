@@ -51,11 +51,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [C - Almost Equal](https://atcoder.jp/contests/abc302/tasks/abc302_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
 |  | [B - Find snuke](https://atcoder.jp/contests/abc302/tasks/abc302_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
 |  | [A - Attack](https://atcoder.jp/contests/abc302/tasks/abc302_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [D - Writing a Numeral](https://atcoder.jp/contests/abc298/tasks/abc298_d) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [C - Cards Query Problem](https://atcoder.jp/contests/abc298/tasks/abc298_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [B - Coloring Matrix](https://atcoder.jp/contests/abc298/tasks/abc298_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [A - Job Interview](https://atcoder.jp/contests/abc298/tasks/abc298_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-
+| 42 | [D - Writing a Numeral](https://atcoder.jp/contests/abc298/tasks/abc298_d) | [C++ (GCC 9.2.1)](./atcoder/abc298/D.cpp) |
+| 41 | [C - Cards Query Problem](https://atcoder.jp/contests/abc298/tasks/abc298_c) | [C++ (GCC 9.2.1)](./atcoder/abc298/C.cpp) |
+| 40 | [B - Coloring Matrix](https://atcoder.jp/contests/abc298/tasks/abc298_b) | [C++ (GCC 9.2.1)](./atcoder/abc298/B.cpp) |
+| 39 | [A - Job Interview](https://atcoder.jp/contests/abc298/tasks/abc298_a) | [C++ (GCC 9.2.1)](./atcoder/abc298/A.cpp) |
 | 38 | [D - Find by Query](https://atcoder.jp/contests/abc299/tasks/abc299_d) | [C++ (GCC 9.2.1)](./atcoder/abc299/D.cpp) |
 | 37 | [C - Dango](https://atcoder.jp/contests/abc299/tasks/abc299_c) | [C++ (GCC 9.2.1)](./atcoder/abc299/C.cpp) |
 | 36 | [B - Trick Taking](https://atcoder.jp/contests/abc299/tasks/abc299_b) | [C++ (GCC 9.2.1)](./atcoder/abc299/B.cpp) |
