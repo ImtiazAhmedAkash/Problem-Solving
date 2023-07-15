@@ -26,6 +26,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [D - Add One Edge](https://atcoder.jp/contests/abc309/tasks/abc309_d) | [C++ (GCC 9.2.1)](./atcoder/) |
 | 66 | [C - Medicine](https://atcoder.jp/contests/abc309/tasks/abc309_c) | [C++ (GCC 9.2.1)](./atcoder/abc309/C.cpp.cpp) |
 | 65 | [B - Rotate](https://atcoder.jp/contests/abc309/tasks/abc309_b) | [C++ (GCC 9.2.1)](./atcoder/abc309/B.cpp.cpp) |
 | 64 | [A - Nine](https://atcoder.jp/contests/abc309/tasks/abc309_a) | [C++ (GCC 9.2.1)](./atcoder/abc309/A.cpp.cpp) |
@@ -54,14 +55,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [C - Cards Query Problem](https://atcoder.jp/contests/abc298/tasks/abc298_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
 |  | [B - Coloring Matrix](https://atcoder.jp/contests/abc298/tasks/abc298_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
 |  | [A - Job Interview](https://atcoder.jp/contests/abc298/tasks/abc298_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [D - Find by Query](https://atcoder.jp/contests/abc299/tasks/abc299_d) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [C - Dango](https://atcoder.jp/contests/abc299/tasks/abc299_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [B - Trick Taking](https://atcoder.jp/contests/abc299/tasks/abc299_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [A - Treasure Chest](https://atcoder.jp/contests/abc299/tasks/abc299_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [D - Bitmask](https://atcoder.jp/contests/abc301/tasks/abc301_d) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [C - AtCoder Cards](https://atcoder.jp/contests/abc301/tasks/abc301_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [B - Fill the Gaps](https://atcoder.jp/contests/abc301/tasks/abc301_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [A - Overall Winner](https://atcoder.jp/contests/abc301/tasks/abc301_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
+
+| 38 | [D - Find by Query](https://atcoder.jp/contests/abc299/tasks/abc299_d) | [C++ (GCC 9.2.1)](./atcoder/abc299/D.cpp) |
+| 37 | [C - Dango](https://atcoder.jp/contests/abc299/tasks/abc299_c) | [C++ (GCC 9.2.1)](./atcoder/abc299/C.cpp) |
+| 36 | [B - Trick Taking](https://atcoder.jp/contests/abc299/tasks/abc299_b) | [C++ (GCC 9.2.1)](./atcoder/abc299/B.cpp) |
+| 35 | [A - Treasure Chest](https://atcoder.jp/contests/abc299/tasks/abc299_a) | [C++ (GCC 9.2.1)](./atcoder/abc299/A.cpp) |
+| 34 | [D - Bitmask](https://atcoder.jp/contests/abc301/tasks/abc301_d) | [C++ (GCC 9.2.1)](./atcoder/abc301/D.cpp) |
+| 33 | [C - AtCoder Cards](https://atcoder.jp/contests/abc301/tasks/abc301_c) | [C++ (GCC 9.2.1)](./atcoder/abc301/C.cpp) |
+| 32 | [B - Fill the Gaps](https://atcoder.jp/contests/abc301/tasks/abc301_b) | [C++ (GCC 9.2.1)](./atcoder/abc301/B.cpp) |
+| 31 | [A - Overall Winner](https://atcoder.jp/contests/abc301/tasks/abc301_a) | [C++ (GCC 9.2.1)](./atcoder/abc301/A.cpp) |
 | 30 | [D - AABCC](https://atcoder.jp/contests/abc300/tasks/abc300_d) | [C++ (GCC 9.2.1)](./atcoder/abc300/D.cpp) |
 | 29 | [C - Cross](https://atcoder.jp/contests/abc300/tasks/abc300_c) | [C++ (GCC 9.2.1)](./atcoder/abc300/C.cpp) |
 | 28 | [B - Same Map in the RPG World](https://atcoder.jp/contests/abc300/tasks/abc300_b) | [C++ (GCC 9.2.1)](./atcoder/abc300/B.cpp) |
