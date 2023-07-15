@@ -41,16 +41,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [C - Gap Existence](https://atcoder.jp/contests/abc296/tasks/abc296_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
 |  | [B - Chessboard](https://atcoder.jp/contests/abc296/tasks/abc296_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
 |  | [A - Alternately](https://atcoder.jp/contests/abc296/tasks/abc296_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [E - Kth Takoyaki Set](https://atcoder.jp/contests/abc297/tasks/abc297_e) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [D - Count Subtractions](https://atcoder.jp/contests/abc297/tasks/abc297_d) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [C - PC on the Table](https://atcoder.jp/contests/abc297/tasks/abc297_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [B - chess960](https://atcoder.jp/contests/abc297/tasks/abc297_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [A - Double Click](https://atcoder.jp/contests/abc297/tasks/abc297_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [E - Isolation](https://atcoder.jp/contests/abc302/tasks/abc302_e) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [D - Impartial Gift](https://atcoder.jp/contests/abc302/tasks/abc302_d) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [C - Almost Equal](https://atcoder.jp/contests/abc302/tasks/abc302_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [B - Find snuke](https://atcoder.jp/contests/abc302/tasks/abc302_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [A - Attack](https://atcoder.jp/contests/abc302/tasks/abc302_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
+| 52 | [E - Kth Takoyaki Set](https://atcoder.jp/contests/abc297/tasks/abc297_e) | [C++ (GCC 9.2.1)](./atcoder/abc297/E.cpp) |
+| 51 | [D - Count Subtractions](https://atcoder.jp/contests/abc297/tasks/abc297_d) | [C++ (GCC 9.2.1)](./atcoder/abc297/D.cpp) |
+| 50 | [C - PC on the Table](https://atcoder.jp/contests/abc297/tasks/abc297_c) | [C++ (GCC 9.2.1)](./atcoder/abc297/C.cpp) |
+| 49 | [B - chess960](https://atcoder.jp/contests/abc297/tasks/abc297_b) | [C++ (GCC 9.2.1)](./atcoder/abc297/B.cpp) |
+| 48 | [A - Double Click](https://atcoder.jp/contests/abc297/tasks/abc297_a) | [C++ (GCC 9.2.1)](./atcoder/abc297/A.cpp) |
+| 47 | [E - Isolation](https://atcoder.jp/contests/abc302/tasks/abc302_e) | [C++ (GCC 9.2.1)](./atcoder/abc302/E.cpp) |
+| 46 | [D - Impartial Gift](https://atcoder.jp/contests/abc302/tasks/abc302_d) | [C++ (GCC 9.2.1)](./atcoder/abc302/D.cpp) |
+| 45 | [C - Almost Equal](https://atcoder.jp/contests/abc302/tasks/abc302_c) | [C++ (GCC 9.2.1)](./atcoder/abc302/C.cpp) |
+| 44 | [B - Find snuke](https://atcoder.jp/contests/abc302/tasks/abc302_b) | [C++ (GCC 9.2.1)](./atcoder/abc302/B.cpp) |
+| 43 | [A - Attack](https://atcoder.jp/contests/abc302/tasks/abc302_a) | [C++ (GCC 9.2.1)](./atcoder/abc302/A.cpp) |
 | 42 | [D - Writing a Numeral](https://atcoder.jp/contests/abc298/tasks/abc298_d) | [C++ (GCC 9.2.1)](./atcoder/abc298/D.cpp) |
 | 41 | [C - Cards Query Problem](https://atcoder.jp/contests/abc298/tasks/abc298_c) | [C++ (GCC 9.2.1)](./atcoder/abc298/C.cpp) |
 | 40 | [B - Coloring Matrix](https://atcoder.jp/contests/abc298/tasks/abc298_b) | [C++ (GCC 9.2.1)](./atcoder/abc298/B.cpp) |
