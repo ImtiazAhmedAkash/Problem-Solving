@@ -1,19 +1,30 @@
 /*  In the Name of ALLAH, the most gracious, the most merciful  */
 
-// Find Multiple
+// Alternately
 
 #include <bits/stdc++.h>
 using namespace std;
 
 #define ll long long
 #define nl '\n'
+#define INF (1 << 30)
+#define mod 998244353
+#define N 300005
 #define deb(x) cerr << #x << " = " << x << nl
 
 void solve() {
-    int a, b, c;
-    cin >> a >> b >> c;
-    int ans = c * ((a + c - 1) / c);
-    if (ans > b) ans = -1;
+    int n;
+    string s;
+    cin >> n >> s;
+    
+    string ans = "Yes";
+    for (int i = 1; i < n; i++) {
+        if (s[i] == s[i - 1]) {
+            ans = "No";
+            break;
+        }
+    }
+    
     cout << ans << nl;
 }
 

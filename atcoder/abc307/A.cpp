@@ -1,20 +1,30 @@
 /*  In the Name of ALLAH, the most gracious, the most merciful  */
 
-// Find Multiple
+// Weekly Records
 
 #include <bits/stdc++.h>
 using namespace std;
 
 #define ll long long
 #define nl '\n'
+#define INF (1 << 30)
+#define mod 998244353
+#define N 300005
 #define deb(x) cerr << #x << " = " << x << nl
 
 void solve() {
-    int a, b, c;
-    cin >> a >> b >> c;
-    int ans = c * ((a + c - 1) / c);
-    if (ans > b) ans = -1;
-    cout << ans << nl;
+    int n;
+    cin >> n;
+    while(n--) {
+        ll x;
+        ll ans = 0;
+        for (int i = 0; i < 7; i++) {
+            cin >> x;
+            ans += x;
+        }
+        cout << ans << " ";
+    }
+    cout << nl;
 }
 
 int main() {

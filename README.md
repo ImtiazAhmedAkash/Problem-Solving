@@ -30,17 +30,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 | 66 | [C - Medicine](https://atcoder.jp/contests/abc309/tasks/abc309_c) | [C++ (GCC 9.2.1)](./atcoder/abc309/C.cpp.cpp) |
 | 65 | [B - Rotate](https://atcoder.jp/contests/abc309/tasks/abc309_b) | [C++ (GCC 9.2.1)](./atcoder/abc309/B.cpp.cpp) |
 | 64 | [A - Nine](https://atcoder.jp/contests/abc309/tasks/abc309_a) | [C++ (GCC 9.2.1)](./atcoder/abc309/A.cpp.cpp) |
-|  | [D - Mismatched Parentheses](https://atcoder.jp/contests/abc307/tasks/abc307_d) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [B - racecar](https://atcoder.jp/contests/abc307/tasks/abc307_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [A - Weekly Records](https://atcoder.jp/contests/abc307/tasks/abc307_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [D - Shift vs. CapsLock](https://atcoder.jp/contests/abc303/tasks/abc303_d) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [C - Dash](https://atcoder.jp/contests/abc303/tasks/abc303_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [B - Discord](https://atcoder.jp/contests/abc303/tasks/abc303_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [A - Similar String](https://atcoder.jp/contests/abc303/tasks/abc303_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [D - M<=ab](https://atcoder.jp/contests/abc296/tasks/abc296_d) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [C - Gap Existence](https://atcoder.jp/contests/abc296/tasks/abc296_c) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [B - Chessboard](https://atcoder.jp/contests/abc296/tasks/abc296_b) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
-|  | [A - Alternately](https://atcoder.jp/contests/abc296/tasks/abc296_a) | [C++ (GCC 9.2.1)](./atcoder/.cpp) |
+| 63 | [D - Mismatched Parentheses](https://atcoder.jp/contests/abc307/tasks/abc307_d) | [C++ (GCC 9.2.1)](./atcoder/abc307/D.cpp) |
+| 62 | [B - racecar](https://atcoder.jp/contests/abc307/tasks/abc307_b) | [C++ (GCC 9.2.1)](./atcoder/abc307/B.cpp) |
+| 61 | [A - Weekly Records](https://atcoder.jp/contests/abc307/tasks/abc307_a) | [C++ (GCC 9.2.1)](./atcoder/abc307/A.cpp) |
+| 60 | [D - Shift vs. CapsLock](https://atcoder.jp/contests/abc303/tasks/abc303_d) | [C++ (GCC 9.2.1)](./atcoder/abc303/D.cpp) |
+| 59 | [C - Dash](https://atcoder.jp/contests/abc303/tasks/abc303_c) | [C++ (GCC 9.2.1)](./atcoder/abc303/C.cpp) |
+| 58 | [B - Discord](https://atcoder.jp/contests/abc303/tasks/abc303_b) | [C++ (GCC 9.2.1)](./atcoder/abc303/B.cpp) |
+| 57 | [A - Similar String](https://atcoder.jp/contests/abc303/tasks/abc303_a) | [C++ (GCC 9.2.1)](./atcoder/abc303/A.cpp) |
+| 56 | [D - M<=ab](https://atcoder.jp/contests/abc296/tasks/abc296_d) | [C++ (GCC 9.2.1)](./atcoder/abc296/D.cpp) |
+| 55 | [C - Gap Existence](https://atcoder.jp/contests/abc296/tasks/abc296_c) | [C++ (GCC 9.2.1)](./atcoder/abc296/C.cpp) |
+| 54 | [B - Chessboard](https://atcoder.jp/contests/abc296/tasks/abc296_b) | [C++ (GCC 9.2.1)](./atcoder/abc296/B.cpp) |
+| 53 | [A - Alternately](https://atcoder.jp/contests/abc296/tasks/abc296_a) | [C++ (GCC 9.2.1)](./atcoder/abc296/A.cpp) |
 | 52 | [E - Kth Takoyaki Set](https://atcoder.jp/contests/abc297/tasks/abc297_e) | [C++ (GCC 9.2.1)](./atcoder/abc297/E.cpp) |
 | 51 | [D - Count Subtractions](https://atcoder.jp/contests/abc297/tasks/abc297_d) | [C++ (GCC 9.2.1)](./atcoder/abc297/D.cpp) |
 | 50 | [C - PC on the Table](https://atcoder.jp/contests/abc297/tasks/abc297_c) | [C++ (GCC 9.2.1)](./atcoder/abc297/C.cpp) |
