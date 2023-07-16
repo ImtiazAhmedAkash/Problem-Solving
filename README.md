@@ -158,6 +158,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 375 | [B - Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | [GNU C++20 (64)](./codeforces/1848/B.cpp) |
+| 374 | [A - Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | [GNU C++20 (64)](./codeforces/1848/A.cpp) |
+| 373 | [C - Canine poetry](https://codeforces.com/contest/1466/problem/C) | [GNU C++20 (64)](./codeforces/1466/C.cpp) |
+| 372 | [B - T-primes](https://codeforces.com/contest/230/problem/B) | [GNU C++20 (64)](./codeforces/230/B.cpp) |
+| 371 | [D - Buying Shovels](https://codeforces.com/contest/1360/problem/D) | [GNU C++20 (64)](./codeforces/1360/D.cpp) |
 | 370 | [B - Reverse String](https://codeforces.com/contest/1553/problem/B) | [GNU C++20 (64)](./codeforces/1553/B.cpp) |
 | 369 | [B - Inflation](https://codeforces.com/contest/1476/problem/B) | [GNU C++20 (64)](./codeforces/1476/B.cpp) |
 | 368 | [C - Slay the Dragon](https://codeforces.com/contest/1574/problem/C) | [GNU C++20 (64)](./codeforces/1574/C.cpp) |
