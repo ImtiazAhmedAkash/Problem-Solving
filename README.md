@@ -158,6 +158,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 377 | [B - Box Fitting](https://codeforces.com/contest/1498/problem/B) | [GNU C++20 (64)](./codeforces/1498/B.cpp) |
+| 376 | [C - Vika and Price Tags](https://codeforces.com/contest/1848/problem/C) | [GNU C++20 (64)](./codeforces/1848/C.cpp) |
 | 375 | [B - Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | [GNU C++20 (64)](./codeforces/1848/B.cpp) |
 | 374 | [A - Vika and Her Friends](https://codeforces.com/contest/1848/problem/A) | [GNU C++20 (64)](./codeforces/1848/A.cpp) |
 | 373 | [C - Canine poetry](https://codeforces.com/contest/1466/problem/C) | [GNU C++20 (64)](./codeforces/1466/C.cpp) |
