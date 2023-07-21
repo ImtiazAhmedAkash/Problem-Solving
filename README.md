@@ -158,6 +158,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 387 | [E - Mishap in Club](https://codeforces.com/contest/245/problem/E) | [GNU C++20 (64)](./codeforces/245/E.cpp) |
+| 386 | [B - Modular Equations](https://codeforces.com/contest/495/problem/B) | [GNU C++20 (64)](./codeforces/495/B.cpp) |
+| 385 | [B - Wrath](https://codeforces.com/contest/892/problem/B) | [GNU C++20 (64)](./codeforces/892/B.cpp) |
+| 384 | [A - Soft Drinking](https://codeforces.com/contest/151/problem/A) | [GNU C++20 (64)](./codeforces/151/A.cpp) |
+| 383 | [B - K-th Beautiful String](https://codeforces.com/contest/1328/problem/B) | [GNU C++20 (64)](./codeforces/1328/B.cpp) |
 | 382 | [C - Mere Array](https://codeforces.com/contest/1401/problem/C) | [GNU C++20 (64)](./codeforces/1401/C.cpp) |
 | 381 | [D - Number into Sequence](https://codeforces.com/contest/1454/problem/D) | [GNU C++20 (64)](./codeforces/1454/D.cpp) |
 | 380 | [B - Trouble Sort](https://codeforces.com/contest/1365/problem/B) | [GNU C++20 (64)](./codeforces/1365/B.cpp) |
