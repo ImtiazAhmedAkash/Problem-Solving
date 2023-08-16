@@ -26,6 +26,18 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [B - TaK Code](https://atcoder.jp/contests/abc312/tasks/abc312_b) | [C++ (GCC 9.2.1)](./atcoder/) |
+|  | [C - Standings](https://atcoder.jp/contests/abc308/tasks/abc308_c) | [C++ (GCC 9.2.1)](./atcoder/) |
+|  | [B - Default Price](https://atcoder.jp/contests/abc308/tasks/abc308_b) | [C++ (GCC 9.2.1)](./atcoder/) |
+|  | [A - New Scheme](https://atcoder.jp/contests/abc308/tasks/abc308_a) | [C++ (GCC 9.2.1)](./atcoder/) |
+|  | [C - Approximate Equalization 2](https://atcoder.jp/contests/abc313/tasks/abc313_c) | [C++ (GCC 9.2.1)](./atcoder/) |
+|  | [B - Who is Saikyo?](https://atcoder.jp/contests/abc313/tasks/abc313_b) | [C++ (GCC 9.2.1)](./atcoder/) |
+|  | [A - To Be Saikyo](https://atcoder.jp/contests/abc313/tasks/abc313_a) | [C++ (GCC 9.2.1)](./atcoder/) |
+|  | [C - Invisible Hand](https://atcoder.jp/contests/abc312/tasks/abc312_c) | [C++ (GCC 9.2.1)](./atcoder/) |
+|  | [A - Chord](https://atcoder.jp/contests/abc312/tasks/abc312_a) | [C++ (GCC 9.2.1)](./atcoder/) |
+|  | [C - Find it!](https://atcoder.jp/contests/abc311/tasks/abc311_c) | [C++ (GCC 9.2.1)](./atcoder/) |
+|  | [B - Vacation Together](https://atcoder.jp/contests/abc311/tasks/abc311_b) | [C++ (GCC 9.2.1)](./atcoder/) |
+|  | [A - First ABC](https://atcoder.jp/contests/abc311/tasks/abc311_a) | [C++ (GCC 9.2.1)](./atcoder/) |
 | 70 | [C - Reversible](https://atcoder.jp/contests/abc310/tasks/abc310_c) | [C++ (GCC 9.2.1)](./atcoder/abc310/C.cpp) |
 | 69 | [B - Strictly Superior](https://atcoder.jp/contests/abc310/tasks/abc310_b) | [C++ (GCC 9.2.1)](./atcoder/abc310/B.cpp) |
 | 68 | [A - Order Something Else](https://atcoder.jp/contests/abc310/tasks/abc310_a) | [C++ (GCC 9.2.1)](./atcoder/abc310/A.cpp) |
@@ -158,6 +170,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 444 | [C - Yet Another Permutation Problem](https://codeforces.com/contest/1858/problem/C) | [GNU C++20 (64)](./codeforces/1858/C.cpp) |
+| 443 | [A - Buttons](https://codeforces.com/contest/1858/problem/A) | [GNU C++20 (64)](./codeforces/1858/A.cpp) |
+| 442 | [Z - Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) | [GNU C++20 (64)](./codeforces/gym/Z_Hard_Compare.cpp) |
+| 441 | [C - Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | [GNU C++20 (64)](./codeforces/1294/C.cpp) |
+| 440 | [C - Another Permutation Problem](https://codeforces.com/contest/1859/problem/C) | [GNU C++20 (64)](./codeforces/1859/C.cpp) |
+| 439 | [B - Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | [GNU C++20 (64)](./codeforces/1859/B.cpp) |
+| 438 | [A - United We Stand](https://codeforces.com/contest/1859/problem/A) | [GNU C++20 (64)](./codeforces/1859/A.cpp) |
+| 437 | [C2 - Dual (Hard Version)](https://codeforces.com/contest/1855/problem/C2) | [GNU C++20 (64)](./codeforces/1855/C2.cpp) |
 |  | [B - Make Them Odd](https://codeforces.com/contest/1277/problem/B) | [GNU C++20 (64)](./codeforces/) |
 |  | [A - Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | [GNU C++20 (64)](./codeforces/) |
 |  | [B - Playing with GCD](https://codeforces.com/contest/1736/problem/B) | [GNU C++20 (64)](./codeforces/) |
@@ -177,8 +197,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [B - Buying a TV Set](https://codeforces.com/contest/1041/problem/B) | [GNU C++20 (64)](./codeforces/) |
 |  | [P21 - Prime Sieve](https://codeforces.com/group/yg7WhsFsAp/contest/355493/problem/P21) | [GNU C++20 (64)](./codeforces/) |
 |  | [E - Two Round Dances](https://codeforces.com/contest/1433/problem/E) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - Social Distance](https://codeforces.com/contest/1367/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Saving the City](https://codeforces.com/contest/1443/problem/B) | [GNU C++20 (64)](./codeforces/) |
+| 417 | [C - Social Distance](https://codeforces.com/contest/1367/problem/C) | [GNU C++20 (64)](./codeforces/1367/C.cpp) |
+| 416 | [B - Saving the City](https://codeforces.com/contest/1443/problem/B) | [GNU C++20 (64)](./codeforces/1443/B.cpp) |
 | 415 | [E1 - Rubik's Cube Coloring (easy version)](https://codeforces.com/contest/1594/problem/E1) | [GNU C++20 (64)](./codeforces/1594/E1.cpp) |
 | 414 | [C - Di-visible Confusion](https://codeforces.com/contest/1604/problem/C) | [GNU C++20 (64)](./codeforces/1604/C.cpp) |
 | 413 | [C - Deep Down Below](https://codeforces.com/contest/1561/problem/C) | [GNU C++20 (64)](./codeforces/1561/C.cpp) |
