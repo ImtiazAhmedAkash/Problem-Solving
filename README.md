@@ -21,11 +21,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 
 <!---
-|  | []() | [C++ (GCC 9.2.1)](./atcoder/) |
+|  | []() | [C++ 20 (gcc 12.2)](./atcoder/) |
     --->
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [D - LOWER](https://atcoder.jp/contests/abc314/tasks/abc314_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Rotate Colored Subsequence](https://atcoder.jp/contests/abc314/tasks/abc314_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [B - Roulette](https://atcoder.jp/contests/abc314/tasks/abc314_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [A - 3.14](https://atcoder.jp/contests/abc314/tasks/abc314_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
 |  | [B - TaK Code](https://atcoder.jp/contests/abc312/tasks/abc312_b) | [C++ (GCC 9.2.1)](./atcoder/) |
 |  | [C - Standings](https://atcoder.jp/contests/abc308/tasks/abc308_c) | [C++ (GCC 9.2.1)](./atcoder/) |
 |  | [B - Default Price](https://atcoder.jp/contests/abc308/tasks/abc308_b) | [C++ (GCC 9.2.1)](./atcoder/) |
@@ -170,6 +174,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 448 | [C - Game on Permutation](https://codeforces.com/contest/1860/problem/C) | [GNU C++20 (64)](./codeforces/1860/C.cpp) |
+| 447 | [B - Fancy Coins](https://codeforces.com/contest/1860/problem/B) | [GNU C++20 (64)](./codeforces/1860/B.cpp) |
+| 446 | [A - Not a Substring](https://codeforces.com/contest/1860/problem/A) | [GNU C++20 (64)](./codeforces/1860/A.cpp) |
+| 445 | [B - The Walkway](https://codeforces.com/contest/1858/problem/B) | [GNU C++20 (64)](./codeforces/1858/B.cpp) |
 | 444 | [C - Yet Another Permutation Problem](https://codeforces.com/contest/1858/problem/C) | [GNU C++20 (64)](./codeforces/1858/C.cpp) |
 | 443 | [A - Buttons](https://codeforces.com/contest/1858/problem/A) | [GNU C++20 (64)](./codeforces/1858/A.cpp) |
 | 442 | [Z - Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) | [GNU C++20 (64)](./codeforces/gym/Z_Hard_Compare.cpp) |
