@@ -26,22 +26,25 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
-|  | [D - LOWER](https://atcoder.jp/contests/abc314/tasks/abc314_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [C - Rotate Colored Subsequence](https://atcoder.jp/contests/abc314/tasks/abc314_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [B - Roulette](https://atcoder.jp/contests/abc314/tasks/abc314_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [A - 3.14](https://atcoder.jp/contests/abc314/tasks/abc314_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [B - TaK Code](https://atcoder.jp/contests/abc312/tasks/abc312_b) | [C++ (GCC 9.2.1)](./atcoder/) |
-|  | [C - Standings](https://atcoder.jp/contests/abc308/tasks/abc308_c) | [C++ (GCC 9.2.1)](./atcoder/) |
-|  | [B - Default Price](https://atcoder.jp/contests/abc308/tasks/abc308_b) | [C++ (GCC 9.2.1)](./atcoder/) |
-|  | [A - New Scheme](https://atcoder.jp/contests/abc308/tasks/abc308_a) | [C++ (GCC 9.2.1)](./atcoder/) |
-|  | [C - Approximate Equalization 2](https://atcoder.jp/contests/abc313/tasks/abc313_c) | [C++ (GCC 9.2.1)](./atcoder/) |
-|  | [B - Who is Saikyo?](https://atcoder.jp/contests/abc313/tasks/abc313_b) | [C++ (GCC 9.2.1)](./atcoder/) |
-|  | [A - To Be Saikyo](https://atcoder.jp/contests/abc313/tasks/abc313_a) | [C++ (GCC 9.2.1)](./atcoder/) |
-|  | [C - Invisible Hand](https://atcoder.jp/contests/abc312/tasks/abc312_c) | [C++ (GCC 9.2.1)](./atcoder/) |
-|  | [A - Chord](https://atcoder.jp/contests/abc312/tasks/abc312_a) | [C++ (GCC 9.2.1)](./atcoder/) |
-|  | [C - Find it!](https://atcoder.jp/contests/abc311/tasks/abc311_c) | [C++ (GCC 9.2.1)](./atcoder/) |
-|  | [B - Vacation Together](https://atcoder.jp/contests/abc311/tasks/abc311_b) | [C++ (GCC 9.2.1)](./atcoder/) |
-|  | [A - First ABC](https://atcoder.jp/contests/abc311/tasks/abc311_a) | [C++ (GCC 9.2.1)](./atcoder/) |
+| 89 | [C - Flavors](https://atcoder.jp/contests/abc315/tasks/abc315_c) | [C++ 20 (gcc 12.2)](./atcoder/abc315/C.cpp) |
+| 88 | [B - The Middle Day](https://atcoder.jp/contests/abc315/tasks/abc315_b) | [C++ 20 (gcc 12.2)](./atcoder/abc315/B.cpp) |
+| 87 | [A - tcdr](https://atcoder.jp/contests/abc315/tasks/abc315_a) | [C++ 20 (gcc 12.2)](./atcoder/abc315/A.cpp) |
+| 86 | [D - LOWER](https://atcoder.jp/contests/abc314/tasks/abc314_d) | [C++ 20 (gcc 12.2)](./atcoder/abc314/D.cpp) |
+| 85 | [C - Rotate Colored Subsequence](https://atcoder.jp/contests/abc314/tasks/abc314_c) | [C++ 20 (gcc 12.2)](./atcoder/abc314/C.cpp) |
+| 84 | [B - Roulette](https://atcoder.jp/contests/abc314/tasks/abc314_b) | [C++ 20 (gcc 12.2)](./atcoder/abc314/B.cpp) |
+| 83 | [A - 3.14](https://atcoder.jp/contests/abc314/tasks/abc314_a) | [C++ 20 (gcc 12.2)](./atcoder/abc314/A.cpp) |
+| 82 | [B - TaK Code](https://atcoder.jp/contests/abc312/tasks/abc312_b) | [C++ (GCC 9.2.1)](./atcoder/abc312/B.cpp) |
+| 81 | [C - Standings](https://atcoder.jp/contests/abc308/tasks/abc308_c) | [C++ (GCC 9.2.1)](./atcoder/abc308/C.cpp) |
+| 80 | [B - Default Price](https://atcoder.jp/contests/abc308/tasks/abc308_b) | [C++ (GCC 9.2.1)](./atcoder/abc308/B.cpp) |
+| 79 | [A - New Scheme](https://atcoder.jp/contests/abc308/tasks/abc308_a) | [C++ (GCC 9.2.1)](./atcoder/abc308/A.cpp) |
+| 78 | [C - Approximate Equalization 2](https://atcoder.jp/contests/abc313/tasks/abc313_c) | [C++ (GCC 9.2.1)](./atcoder/abc313/C.cpp) |
+| 77 | [B - Who is Saikyo?](https://atcoder.jp/contests/abc313/tasks/abc313_b) | [C++ (GCC 9.2.1)](./atcoder/abc313/B.cpp) |
+| 76 | [A - To Be Saikyo](https://atcoder.jp/contests/abc313/tasks/abc313_a) | [C++ (GCC 9.2.1)](./atcoder/abc313/A.cpp) |
+| 75 | [C - Invisible Hand](https://atcoder.jp/contests/abc312/tasks/abc312_c) | [C++ (GCC 9.2.1)](./atcoder/abc312/C.cpp) |
+| 74 | [A - Chord](https://atcoder.jp/contests/abc312/tasks/abc312_a) | [C++ (GCC 9.2.1)](./atcoder/abc312/A.cpp) |
+| 73 | [C - Find it!](https://atcoder.jp/contests/abc311/tasks/abc311_c) | [C++ (GCC 9.2.1)](./atcoder/abc311/C.cpp) |
+| 72 | [B - Vacation Together](https://atcoder.jp/contests/abc311/tasks/abc311_b) | [C++ (GCC 9.2.1)](./atcoder/abc311/B.cpp) |
+| 71 | [A - First ABC](https://atcoder.jp/contests/abc311/tasks/abc311_a) | [C++ (GCC 9.2.1)](./atcoder/abc311/A.cpp) |
 | 70 | [C - Reversible](https://atcoder.jp/contests/abc310/tasks/abc310_c) | [C++ (GCC 9.2.1)](./atcoder/abc310/C.cpp) |
 | 69 | [B - Strictly Superior](https://atcoder.jp/contests/abc310/tasks/abc310_b) | [C++ (GCC 9.2.1)](./atcoder/abc310/B.cpp) |
 | 68 | [A - Order Something Else](https://atcoder.jp/contests/abc310/tasks/abc310_a) | [C++ (GCC 9.2.1)](./atcoder/abc310/A.cpp) |
@@ -174,6 +177,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [D - Dima and Lisa](https://codeforces.com/contest/584/problem/D) | [GNU C++20 (64)](./codeforces/) |
 | 448 | [C - Game on Permutation](https://codeforces.com/contest/1860/problem/C) | [GNU C++20 (64)](./codeforces/1860/C.cpp) |
 | 447 | [B - Fancy Coins](https://codeforces.com/contest/1860/problem/B) | [GNU C++20 (64)](./codeforces/1860/B.cpp) |
 | 446 | [A - Not a Substring](https://codeforces.com/contest/1860/problem/A) | [GNU C++20 (64)](./codeforces/1860/A.cpp) |
