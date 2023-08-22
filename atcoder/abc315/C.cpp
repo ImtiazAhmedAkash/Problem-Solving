@@ -32,7 +32,7 @@ void solve() {
             same_maxi = max(same_maxi, tmp);
         }
     }
-    sort(maxi.begin(), maxi.end(), greater<int>());
+    sort(maxi.begin(), maxi.end(), greater());
     int ans = 0;
     if (maxi.size() > 1) ans = maxi[0] + maxi[1];
     cout << max(ans, same_maxi) << nl;
