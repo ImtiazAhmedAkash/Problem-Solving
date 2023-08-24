@@ -200,15 +200,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [C - Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | [GNU C++20 (64)](./codeforces/) |
 |  | [B - Maximum Rounding](https://codeforces.com/contest/1857/problem/B) | [GNU C++20 (64)](./codeforces/) |
 |  | [A - Array Coloring](https://codeforces.com/contest/1857/problem/A) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - To Become Max](https://codeforces.com/contest/1856/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Good Arrays](https://codeforces.com/contest/1856/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Tales of a Sort](https://codeforces.com/contest/1856/problem/A) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Path Finding](https://codeforces.com/gym/383769/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Neighbor Report](https://codeforces.com/gym/383769/problem/A) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Bachgold Problem](https://codeforces.com/contest/749/problem/A) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Buying a TV Set](https://codeforces.com/contest/1041/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [P21 - Prime Sieve](https://codeforces.com/group/yg7WhsFsAp/contest/355493/problem/P21) | [GNU C++20 (64)](./codeforces/) |
-|  | [E - Two Round Dances](https://codeforces.com/contest/1433/problem/E) | [GNU C++20 (64)](./codeforces/) |
+| 426 | [C - To Become Max](https://codeforces.com/contest/1856/problem/C) | [GNU C++20 (64)](./codeforces/1856/C.cpp) |
+| 425 | [B - Good Arrays](https://codeforces.com/contest/1856/problem/B) | [GNU C++20 (64)](./codeforces/1856/B.cpp) |
+| 424 | [A - Tales of a Sort](https://codeforces.com/contest/1856/problem/A) | [GNU C++20 (64)](./codeforces/1856/A.cpp) |
+| 423 | [B - Path Finding](https://codeforces.com/gym/383769/problem/B) | [GNU C++20 (64)](./codeforces/gym/B_Path_Finding.cpp) |
+| 422 | [A - Neighbor Report](https://codeforces.com/gym/383769/problem/A) | [GNU C++20 (64)](./codeforces/gym/A_Neighbor_Report.cpp) |
+| 421 | [A - Bachgold Problem](https://codeforces.com/contest/749/problem/A) | [GNU C++20 (64)](./codeforces/749/A.cpp) |
+| 420 | [B - Buying a TV Set](https://codeforces.com/contest/1041/problem/B) | [GNU C++20 (64)](./codeforces/1041/B.cpp) |
+| 419 | [P21 - Prime Sieve](https://codeforces.com/group/yg7WhsFsAp/contest/355493/problem/P21) | [GNU C++20 (64)](./codeforces/gym/P_21_Prime_Sieve.cpp) |
+| 418 | [E - Two Round Dances](https://codeforces.com/contest/1433/problem/E) | [GNU C++20 (64)](./codeforces/1433/E.cpp) |
 | 417 | [C - Social Distance](https://codeforces.com/contest/1367/problem/C) | [GNU C++20 (64)](./codeforces/1367/C.cpp) |
 | 416 | [B - Saving the City](https://codeforces.com/contest/1443/problem/B) | [GNU C++20 (64)](./codeforces/1443/B.cpp) |
 | 415 | [E1 - Rubik's Cube Coloring (easy version)](https://codeforces.com/contest/1594/problem/E1) | [GNU C++20 (64)](./codeforces/1594/E1.cpp) |
