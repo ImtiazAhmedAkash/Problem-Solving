@@ -26,6 +26,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 92 | [C - Remembering the Days](https://atcoder.jp/contests/abc317/tasks/abc317_c) | [C++ 20 (gcc 12.2)](./atcoder/abc317/C.cpp) |
+| 91 | [B - MissingNo.](https://atcoder.jp/contests/abc317/tasks/abc317_b) | [C++ 20 (gcc 12.2)](./atcoder/abc317/B.cpp) |
+| 90 | [A - Potions](https://atcoder.jp/contests/abc317/tasks/abc317_a) | [C++ 20 (gcc 12.2)](./atcoder/abc317/A.cpp) |
 | 89 | [C - Flavors](https://atcoder.jp/contests/abc315/tasks/abc315_c) | [C++ 20 (gcc 12.2)](./atcoder/abc315/C.cpp) |
 | 88 | [B - The Middle Day](https://atcoder.jp/contests/abc315/tasks/abc315_b) | [C++ 20 (gcc 12.2)](./atcoder/abc315/B.cpp) |
 | 87 | [A - tcdr](https://atcoder.jp/contests/abc315/tasks/abc315_a) | [C++ 20 (gcc 12.2)](./atcoder/abc315/A.cpp) |
