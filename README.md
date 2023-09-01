@@ -22,10 +22,33 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 <!---
 |  | []() | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | []() | [C++ (GCC 9.2.1)](./atcoder/) |
     --->
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 114 | [B - Sum of Three Integers](https://atcoder.jp/contests/abc051/tasks/abc051_b) | [C++ (GCC 9.2.1)](./atcoder/abc051/B.cpp) |
+| 113 | [A - Haiku](https://atcoder.jp/contests/abc051/tasks/abc051_a) | [C++ (GCC 9.2.1)](./atcoder/abc051/A.cpp) |
+| 112 | [B - Contest with Drinks Easy](https://atcoder.jp/contests/abc050/tasks/abc050_b) | [C++ (GCC 9.2.1)](./atcoder/abc050/B.cpp) |
+| 111 | [A - Addition and Subtraction Easy](https://atcoder.jp/contests/abc050/tasks/abc050_a) | [C++ (GCC 9.2.1)](./atcoder/abc050/A.cpp) |
+| 110 | [B - Thin](https://atcoder.jp/contests/abc049/tasks/abc049_b) | [C++ (GCC 9.2.1)](./atcoder/abc049/B.cpp) |
+| 109 | [A - UOIAUAI](https://atcoder.jp/contests/abc049/tasks/abc049_a) | [C++ (GCC 9.2.1)](./atcoder/abc049/A.cpp) |
+| 108 | [A - AtCoder *** Contest](https://atcoder.jp/contests/abc048/tasks/abc048_a) | [C++ (GCC 9.2.1)](./atcoder/abc048/A.cpp) |
+| 107 | [C - 1D Reversi](https://atcoder.jp/contests/abc047/tasks/arc063_a) | [C++ (GCC 9.2.1)](./atcoder/abc047/C.cpp) |
+| 106 | [B - Snuke's Coloring 2 (ABC Edit)](https://atcoder.jp/contests/abc047/tasks/abc047_b) | [C++ (GCC 9.2.1)](./atcoder/abc047/B.cpp) |
+| 105 | [A - Fighting over Candies](https://atcoder.jp/contests/abc047/tasks/abc047_a) | [C++ (GCC 9.2.1)](./atcoder/abc047/A.cpp) |
+| 104 | [B - Painting Balls with AtCoDeer](https://atcoder.jp/contests/abc046/tasks/abc046_b) | [C++ (GCC 9.2.1)](./atcoder/abc046/B.cpp) |
+| 103 | [A - AtCoDeer and Paint Cans](https://atcoder.jp/contests/abc046/tasks/abc046_a) | [C++ (GCC 9.2.1)](./atcoder/abc046/A.cpp) |
+| 102 | [B - Card Game for Three (ABC Edit)](https://atcoder.jp/contests/abc045/tasks/abc045_b) | [C++ (GCC 9.2.1)](./atcoder/abc045/B.cpp) |
+| 101 | [A - Trapezoids](https://atcoder.jp/contests/abc045/tasks/abc045_a) | [C++ (GCC 9.2.1)](./atcoder/abc045/A.cpp) |
+| 100 | [B - Beautiful Strings](https://atcoder.jp/contests/abc044/tasks/abc044_b) | [C++ (GCC 9.2.1)](./atcoder/abc044/B.cpp) |
+| 99 | [A - Tak and Hotels (ABC Edit)](https://atcoder.jp/contests/abc044/tasks/abc044_a) | [C++ (GCC 9.2.1)](./atcoder/abc044/A.cpp) |
+| 98 | [C - Be Together](https://atcoder.jp/contests/abc043/tasks/arc059_a) | [C++ (GCC 9.2.1)](./atcoder/abc043/C.cpp) |
+| 97 | [B - Unhappy Hacking (ABC Edit)](https://atcoder.jp/contests/abc043/tasks/abc043_b) | [C++ (GCC 9.2.1)](./atcoder/abc043/B.cpp) |
+| 96 | [A - Children and Candies (ABC Edit)](https://atcoder.jp/contests/abc043/tasks/abc043_a) | [C++ (GCC 9.2.1)](./atcoder/abc043/A.cpp) |
+| 95 | [B - Iroha Loves Strings (ABC Edition)](https://atcoder.jp/contests/abc042/tasks/abc042_b) | [C++ (GCC 9.2.1)](./atcoder/abc042/B.cpp) |
+| 94 | [A - Iroha and Haiku (ABC Edition)](https://atcoder.jp/contests/abc042/tasks/abc042_a) | [C++ (GCC 9.2.1)](./atcoder/abc042/A.cpp) |
+| 93 | [D - President](https://atcoder.jp/contests/abc317/tasks/abc317_d) | [C++ 20 (gcc 12.2)](./atcoder/abc317/D.cpp) |
 | 92 | [C - Remembering the Days](https://atcoder.jp/contests/abc317/tasks/abc317_c) | [C++ 20 (gcc 12.2)](./atcoder/abc317/C.cpp) |
 | 91 | [B - MissingNo.](https://atcoder.jp/contests/abc317/tasks/abc317_b) | [C++ 20 (gcc 12.2)](./atcoder/abc317/B.cpp) |
 | 90 | [A - Potions](https://atcoder.jp/contests/abc317/tasks/abc317_a) | [C++ 20 (gcc 12.2)](./atcoder/abc317/A.cpp) |
