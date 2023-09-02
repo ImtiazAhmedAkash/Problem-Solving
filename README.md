@@ -27,6 +27,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 117 | [C - Blue Spring](https://atcoder.jp/contests/abc318/tasks/abc318_c) | [C++ 20 (gcc 12.2)](./atcoder/abc318/C.cpp) |
+| 116 | [B - Overlapping sheets](https://atcoder.jp/contests/abc318/tasks/abc318_b) | [C++ 20 (gcc 12.2)](./atcoder/abc318/B.cpp) |
+| 115 | [A - Full Moon](https://atcoder.jp/contests/abc318/tasks/abc318_a) | [C++ 20 (gcc 12.2)](./atcoder/abc318/A.cpp) |
 | 114 | [B - Sum of Three Integers](https://atcoder.jp/contests/abc051/tasks/abc051_b) | [C++ (GCC 9.2.1)](./atcoder/abc051/B.cpp) |
 | 113 | [A - Haiku](https://atcoder.jp/contests/abc051/tasks/abc051_a) | [C++ (GCC 9.2.1)](./atcoder/abc051/A.cpp) |
 | 112 | [B - Contest with Drinks Easy](https://atcoder.jp/contests/abc050/tasks/abc050_b) | [C++ (GCC 9.2.1)](./atcoder/abc050/B.cpp) |
