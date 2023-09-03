@@ -1,6 +1,6 @@
 /*  In the Name of ALLAH, the most gracious, the most merciful  */
 
-// 
+// Two Binary Strings
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -14,10 +14,14 @@ const int mod = 998244353;
 const int N = 2e5 + 5;
 
 void solve() {
-    int n, m, p;
-    cin >> n >> m >> p;
-    if (n < m) cout << 0 << nl;
-    else cout << ((n - m) / p) + 1 << nl;
+    string a, b;
+    cin >> a >> b;
+    int n = a.size();
+    string ans = "NO";
+    for (int i = 0; i + 1 < n; i++) {
+        if (a.substr(i, 2) == "01" && b.substr(i, 2) == "01") ans = "YES";
+    }
+    cout << ans << nl;
 }
 
 int main() {
@@ -25,9 +29,10 @@ int main() {
     cin.tie(0);
 
     int T = 1;
+    cin >> T;
     for (int t = 1; t <= T; t++) {
         solve();
     }
-    
+
     return 0;
 }

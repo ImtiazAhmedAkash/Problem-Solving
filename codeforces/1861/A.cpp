@@ -1,6 +1,6 @@
 /*  In the Name of ALLAH, the most gracious, the most merciful  */
 
-// 
+// Prime Deletion
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -13,11 +13,13 @@ const int INF = (1 << 30);
 const int mod = 998244353;
 const int N = 2e5 + 5;
 
+
 void solve() {
-    int n, m, p;
-    cin >> n >> m >> p;
-    if (n < m) cout << 0 << nl;
-    else cout << ((n - m) / p) + 1 << nl;
+    string s;
+    cin >> s;
+    string ans = "17";
+    if (s.find('1') > s.find('7')) ans = "71";
+    cout << ans << nl;
 }
 
 int main() {
@@ -25,6 +27,7 @@ int main() {
     cin.tie(0);
 
     int T = 1;
+    cin >> T;
     for (int t = 1; t <= T; t++) {
         solve();
     }
