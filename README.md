@@ -243,11 +243,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 | 439 | [B - Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | [GNU C++20 (64)](./codeforces/1859/B.cpp) |
 | 438 | [A - United We Stand](https://codeforces.com/contest/1859/problem/A) | [GNU C++20 (64)](./codeforces/1859/A.cpp) |
 | 437 | [C2 - Dual (Hard Version)](https://codeforces.com/contest/1855/problem/C2) | [GNU C++20 (64)](./codeforces/1855/C2.cpp) |
-|  | [B - Make Them Odd](https://codeforces.com/contest/1277/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Prefix Sum Primes](https://codeforces.com/contest/1149/problem/A) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Playing with GCD](https://codeforces.com/contest/1736/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - Make Equal With Mod](https://codeforces.com/contest/1656/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - Yet Another Array Restoration](https://codeforces.com/contest/1409/problem/C) | [GNU C++20 (64)](./codeforces/) |
+| 436 | [B - Make Them Odd](https://codeforces.com/contest/1277/problem/B) | [GNU C++20 (64)](./codeforces/1277/B.cpp) |
+| 435 | [C - Prefix Sum Primes](https://codeforces.com/contest/1150/problem/C) | [GNU C++20 (64)](./codeforces/1150/C.cpp) |
+| 434 | [B - Playing with GCD](https://codeforces.com/contest/1736/problem/B) | [GNU C++20 (64)](./codeforces/1736/B.cpp) |
+| 433 | [C - Make Equal With Mod](https://codeforces.com/contest/1656/problem/C) | [GNU C++20 (64)](./codeforces/1656/C.cpp) |
+| 432 | [C - Yet Another Array Restoration](https://codeforces.com/contest/1409/problem/C) | [GNU C++20 (64)](./codeforces/1409/C.cpp) |
 | 431 | [E - Power of Points](https://codeforces.com/contest/1857/problem/E) | [GNU C++20 (64)](./codeforces/1857/E.cpp) |
 | 430 | [D - Strong Vertices](https://codeforces.com/contest/1857/problem/D) | [GNU C++20 (64)](./codeforces/1857/D.cpp) |
 | 429 | [C - Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | [GNU C++20 (64)](./codeforces/1857/C.cpp) |
