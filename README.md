@@ -27,6 +27,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 120 | [B - Between a and b ...](https://atcoder.jp/contests/abc048/tasks/abc048_b) | [C++ 20 (gcc 12.2)](./atcoder/abc048/B.cpp) |
+| 119 | [C - Many Formulas](https://atcoder.jp/contests/abc045/tasks/arc061_a) | [C++ 20 (gcc 12.2)](./atcoder/abc045/C.cpp) |
+| 118 | [C - Iroha's Obsession](https://atcoder.jp/contests/abc042/tasks/arc058_a) | [C++ 20 (gcc 12.2)](./atcoder/abc042/C.cpp) |
 | 117 | [C - Blue Spring](https://atcoder.jp/contests/abc318/tasks/abc318_c) | [C++ 20 (gcc 12.2)](./atcoder/abc318/C.cpp) |
 | 116 | [B - Overlapping sheets](https://atcoder.jp/contests/abc318/tasks/abc318_b) | [C++ 20 (gcc 12.2)](./atcoder/abc318/B.cpp) |
 | 115 | [A - Full Moon](https://atcoder.jp/contests/abc318/tasks/abc318_a) | [C++ 20 (gcc 12.2)](./atcoder/abc318/A.cpp) |
@@ -206,6 +209,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [E - Easy Assembly](https://codeforces.com/contest/1773/problem/E) | [GNU C++20 (64)](./codeforces/) |
+|  | [E - Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E) | [GNU C++20 (64)](./codeforces/) |
 | 473 | [C - Place for a Selfie](https://codeforces.com/contest/1805/problem/C) | [GNU C++20 (64)](./codeforces/1805/C.cpp) |
 | 472 | [C - Copil Copac Draws Trees](https://codeforces.com/contest/1831/problem/C) | [GNU C++20 (64)](./codeforces/1831/C.cpp) |
 | 471 | [E2 - Unforgivable Curse (hard version)](https://codeforces.com/contest/1800/problem/E2) | [GNU C++20 (64)](./codeforces/1800/E2.cpp) |
