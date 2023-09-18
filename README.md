@@ -27,6 +27,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 133 | [B - Longest Palindrome](https://atcoder.jp/contests/abc320/tasks/abc320_b) | [C++ 20 (gcc 12.2)](./atcoder/abc320/B.cpp) |
+| 132 | [A - Leyland Number](https://atcoder.jp/contests/abc320/tasks/abc320_a) | [C++ 20 (gcc 12.2)](./atcoder/abc320/A.cpp) |
+| 131 | [D - Walk and Teleport](https://atcoder.jp/contests/abc052/tasks/arc067_b) | [C++ 20 (gcc 12.2)](./atcoder/abc052/D.cpp) |
+| 130 | [C - Factors of Factorial](https://atcoder.jp/contests/abc052/tasks/arc067_a) | [C++ 20 (gcc 12.2)](./atcoder/abc052/C.cpp) |
+| 129 | [B - Increment Decrement](https://atcoder.jp/contests/abc052/tasks/abc052_b) | [C++ 20 (gcc 12.2)](./atcoder/abc052/B.cpp) |
+| 128 | [A - Two Rectangles](https://atcoder.jp/contests/abc052/tasks/abc052_a) | [C++ 20 (gcc 12.2)](./atcoder/abc052/A.cpp) |
+| 127 | [C - Back and Forth](https://atcoder.jp/contests/abc051/tasks/abc051_c) | [C++ 20 (gcc 12.2)](./atcoder/abc051/C.cpp) |
+| 126 | [D - Minimum Width](https://atcoder.jp/contests/abc319/tasks/abc319_d) | [C++ 20 (gcc 12.2)](./atcoder/abc319/D.cpp) |
+| 125 | [B - Measure](https://atcoder.jp/contests/abc319/tasks/abc319_b) | [C++ 20 (gcc 12.2)](./atcoder/abc319/B.cpp) |
+| 124 | [A - Legendary Players](https://atcoder.jp/contests/abc319/tasks/abc319_a) | [C++ 20 (gcc 12.2)](./atcoder/abc319/A.cpp) |
+| 123 | [C - Lining Up](https://atcoder.jp/contests/abc050/tasks/arc066_a) | [C++ 20 (gcc 12.2)](./atcoder/abc050/C.cpp) |
+| 122 | [C - Daydream](https://atcoder.jp/contests/abc049/tasks/arc065_a) | [C++ 20 (gcc 12.2)](./atcoder/abc049/C.cpp) |
+| 121 | [C - Boxes and Candies](https://atcoder.jp/contests/abc048/tasks/arc064_a) | [C++ 20 (gcc 12.2)](./atcoder/abc048/C.cpp) |
 | 120 | [B - Between a and b ...](https://atcoder.jp/contests/abc048/tasks/abc048_b) | [C++ 20 (gcc 12.2)](./atcoder/abc048/B.cpp) |
 | 119 | [C - Many Formulas](https://atcoder.jp/contests/abc045/tasks/arc061_a) | [C++ 20 (gcc 12.2)](./atcoder/abc045/C.cpp) |
 | 118 | [C - Iroha's Obsession](https://atcoder.jp/contests/abc042/tasks/arc058_a) | [C++ 20 (gcc 12.2)](./atcoder/abc042/C.cpp) |
@@ -209,6 +222,29 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [B - Modulo Equality](https://codeforces.com/contest/1269/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [D2 - Equalizing by Division (hard version)](https://codeforces.com/contest/1213/problem/D2) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Set Construction](https://codeforces.com/contest/1761/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - Make It Round](https://codeforces.com/contest/1759/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Salyg1n and the MEX Game](https://codeforces.com/contest/1867/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - XOR Palindromes](https://codeforces.com/contest/1867/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - green_gold_dog, array and permutation](https://codeforces.com/contest/1867/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Fill in the Matrix](https://codeforces.com/contest/1869/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - 2D Traveling](https://codeforces.com/contest/1869/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Make It Zero](https://codeforces.com/contest/1869/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Binary Strings are Fun](https://codeforces.com/contest/1762/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Doremy's City Construction](https://codeforces.com/contest/1764/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [E - Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - Plus Minus Permutation](https://codeforces.com/contest/1872/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Non-coprime Split](https://codeforces.com/contest/1872/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - The Corridor or There and Back Again](https://codeforces.com/contest/1872/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Two Vessels](https://codeforces.com/contest/1872/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [E - Nastya and Potions](https://codeforces.com/contest/1851/problem/E) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - Absolute Sorting](https://codeforces.com/contest/1772/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Hossam and Friends](https://codeforces.com/contest/1771/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Secret](https://codeforces.com/contest/271/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Kirill And The Game](https://codeforces.com/contest/842/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Buggy Sorting](https://codeforces.com/contest/246/problem/A) | [GNU C++20 (64)](./codeforces/) |
 |  | [E - Easy Assembly](https://codeforces.com/contest/1773/problem/E) | [GNU C++20 (64)](./codeforces/) |
 |  | [E - Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E) | [GNU C++20 (64)](./codeforces/) |
 | 473 | [C - Place for a Selfie](https://codeforces.com/contest/1805/problem/C) | [GNU C++20 (64)](./codeforces/1805/C.cpp) |
