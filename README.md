@@ -222,6 +222,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [C - Colorful Table](https://codeforces.com/contest/1870/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Friendly Arrays](https://codeforces.com/contest/1870/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - MEXanized Array](https://codeforces.com/contest/1870/problem/A) | [GNU C++20 (64)](./codeforces/) |
 |  | [B - Modulo Equality](https://codeforces.com/contest/1269/problem/B) | [GNU C++20 (64)](./codeforces/) |
 |  | [D2 - Equalizing by Division (hard version)](https://codeforces.com/contest/1213/problem/D2) | [GNU C++20 (64)](./codeforces/) |
 |  | [C - Set Construction](https://codeforces.com/contest/1761/problem/C) | [GNU C++20 (64)](./codeforces/) |
@@ -234,19 +237,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [A - Make It Zero](https://codeforces.com/contest/1869/problem/A) | [GNU C++20 (64)](./codeforces/) |
 |  | [C - Binary Strings are Fun](https://codeforces.com/contest/1762/problem/C) | [GNU C++20 (64)](./codeforces/) |
 |  | [C - Doremy's City Construction](https://codeforces.com/contest/1764/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [E - Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | [GNU C++20 (64)](./codeforces/) |
-|  | [D - Plus Minus Permutation](https://codeforces.com/contest/1872/problem/D) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - Non-coprime Split](https://codeforces.com/contest/1872/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - The Corridor or There and Back Again](https://codeforces.com/contest/1872/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Two Vessels](https://codeforces.com/contest/1872/problem/A) | [GNU C++20 (64)](./codeforces/) |
-|  | [E - Nastya and Potions](https://codeforces.com/contest/1851/problem/E) | [GNU C++20 (64)](./codeforces/) |
-|  | [D - Absolute Sorting](https://codeforces.com/contest/1772/problem/D) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Hossam and Friends](https://codeforces.com/contest/1771/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - Secret](https://codeforces.com/contest/271/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Kirill And The Game](https://codeforces.com/contest/842/problem/A) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Buggy Sorting](https://codeforces.com/contest/246/problem/A) | [GNU C++20 (64)](./codeforces/) |
-|  | [E - Easy Assembly](https://codeforces.com/contest/1773/problem/E) | [GNU C++20 (64)](./codeforces/) |
-|  | [E - Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E) | [GNU C++20 (64)](./codeforces/) |
+| 486 | [E - Data Structures Fan](https://codeforces.com/contest/1872/problem/E) | [GNU C++20 (64)](./codeforces/1872/E.cpp) |
+| 485 | [D - Plus Minus Permutation](https://codeforces.com/contest/1872/problem/D) | [GNU C++20 (64)](./codeforces/1872/D.cpp) |
+| 484 | [C - Non-coprime Split](https://codeforces.com/contest/1872/problem/C) | [GNU C++20 (64)](./codeforces/1872/C.cpp) |
+| 483 | [B - The Corridor or There and Back Again](https://codeforces.com/contest/1872/problem/B) | [GNU C++20 (64)](./codeforces/1872/B.cpp) |
+| 482 | [A - Two Vessels](https://codeforces.com/contest/1872/problem/A) | [GNU C++20 (64)](./codeforces/1872/A.cpp) |
+| 481 | [E - Nastya and Potions](https://codeforces.com/contest/1851/problem/E) | [GNU C++20 (64)](./codeforces/1851/E.cpp) |
+| 480 | [D - Absolute Sorting](https://codeforces.com/contest/1772/problem/D) | [GNU C++20 (64)](./codeforces/1772/D.cpp) |
+| 479 | [B - Hossam and Friends](https://codeforces.com/contest/1771/problem/B) | [GNU C++20 (64)](./codeforces/1771/B.cpp) |
+| 478 | [C - Secret](https://codeforces.com/contest/271/problem/C) | [GNU C++20 (64)](./codeforces/271/C.cpp) |
+| 477 | [A - Kirill And The Game](https://codeforces.com/contest/842/problem/A) | [GNU C++20 (64)](./codeforces/842/A.cpp) |
+| 476 | [A - Buggy Sorting](https://codeforces.com/contest/246/problem/A) | [GNU C++20 (64)](./codeforces/246/A.cpp) |
+| 475 | [E - Easy Assembly](https://codeforces.com/contest/1773/problem/E) | [GNU C++20 (64)](./codeforces/1773/E.cpp) |
+| 474 | [E - Vlad and a Pair of Numbers](https://codeforces.com/contest/1790/problem/E) | [GNU C++20 (64)](./codeforces/1790/E.cpp) |
 | 473 | [C - Place for a Selfie](https://codeforces.com/contest/1805/problem/C) | [GNU C++20 (64)](./codeforces/1805/C.cpp) |
 | 472 | [C - Copil Copac Draws Trees](https://codeforces.com/contest/1831/problem/C) | [GNU C++20 (64)](./codeforces/1831/C.cpp) |
 | 471 | [E2 - Unforgivable Curse (hard version)](https://codeforces.com/contest/1800/problem/E2) | [GNU C++20 (64)](./codeforces/1800/E2.cpp) |
