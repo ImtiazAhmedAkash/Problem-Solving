@@ -8,6 +8,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 - [CodeChef](#codechef)
 - [Codeforces](#codeforces)
 - [CSES](#cses)
+- [LightOJ](#lightoj)
 - [Project Euler](#project-euler)
 - [UVA Online Judge](#uva-online-judge)
 </br>
@@ -27,6 +28,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [D - Card Eater](https://atcoder.jp/contests/abc053/tasks/arc068_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - X: Yet Another Die Game](https://atcoder.jp/contests/abc053/tasks/arc068_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [B - A to Z String](https://atcoder.jp/contests/abc053/tasks/abc053_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [A - ABC/ARC](https://atcoder.jp/contests/abc053/tasks/abc053_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - 321-like Searcher](https://atcoder.jp/contests/abc321/tasks/abc321_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [B - Cutoff](https://atcoder.jp/contests/abc321/tasks/abc321_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [A - 321-like Checker](https://atcoder.jp/contests/abc321/tasks/abc321_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
 | 133 | [B - Longest Palindrome](https://atcoder.jp/contests/abc320/tasks/abc320_b) | [C++ 20 (gcc 12.2)](./atcoder/abc320/B.cpp) |
 | 132 | [A - Leyland Number](https://atcoder.jp/contests/abc320/tasks/abc320_a) | [C++ 20 (gcc 12.2)](./atcoder/abc320/A.cpp) |
 | 131 | [D - Walk and Teleport](https://atcoder.jp/contests/abc052/tasks/arc067_b) | [C++ 20 (gcc 12.2)](./atcoder/abc052/D.cpp) |
@@ -222,17 +230,39 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [C - Complementary XOR](https://codeforces.com/contest/1750/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Battling with Numbers](https://codeforces.com/contest/1866/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [H - Hamburgers](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/H) | [GNU C++20 (64)](./codeforces/) |
+|  | [G - Student Councils](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/G) | [GNU C++20 (64)](./codeforces/) |
+|  | [F - String Game](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/F) | [GNU C++20 (64)](./codeforces/) |
+|  | [E - Equation](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/E) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Snow Footprints](https://codeforces.com/contest/298/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Aleksa and Stack](https://codeforces.com/contest/1878/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Sets and Union](https://codeforces.com/contest/1882/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Increasing Sequence](https://codeforces.com/contest/1882/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Make it Alternating](https://codeforces.com/contest/1879/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Chips on the Board](https://codeforces.com/contest/1879/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Rigged!](https://codeforces.com/contest/1879/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [G - ABBC or BACB](https://codeforces.com/contest/1873/problem/G) | [GNU C++20 (64)](./codeforces/) |
+|  | [F - Money Trees](https://codeforces.com/contest/1873/problem/F) | [GNU C++20 (64)](./codeforces/) |
+|  | [E - Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - 1D Eraser](https://codeforces.com/contest/1873/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Target Practice](https://codeforces.com/contest/1873/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Good Kid](https://codeforces.com/contest/1873/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Short Sort](https://codeforces.com/contest/1873/problem/A) | [GNU C++20 (64)](./codeforces/) |
 |  | [D - Another Problem About Dividing Numbers](https://codeforces.com/contest/1538/problem/D) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - Colorful Table](https://codeforces.com/contest/1870/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Friendly Arrays](https://codeforces.com/contest/1870/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - MEXanized Array](https://codeforces.com/contest/1870/problem/A) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Modulo Equality](https://codeforces.com/contest/1269/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [D2 - Equalizing by Division (hard version)](https://codeforces.com/contest/1213/problem/D2) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - Set Construction](https://codeforces.com/contest/1761/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [D - Make It Round](https://codeforces.com/contest/1759/problem/D) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - Salyg1n and the MEX Game](https://codeforces.com/contest/1867/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - XOR Palindromes](https://codeforces.com/contest/1867/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - green_gold_dog, array and permutation](https://codeforces.com/contest/1867/problem/A) | [GNU C++20 (64)](./codeforces/) |
+| 501 | [C - Colorful Table](https://codeforces.com/contest/1870/problem/C) | [GNU C++20 (64)](./codeforces/1870/C.cpp) |
+| 500 | [B - Friendly Arrays](https://codeforces.com/contest/1870/problem/B) | [GNU C++20 (64)](./codeforces/1870/B.cpp) |
+| 499 | [A - MEXanized Array](https://codeforces.com/contest/1870/problem/A) | [GNU C++20 (64)](./codeforces/1870/A.cpp) |
+| 498 | [B - Modulo Equality](https://codeforces.com/contest/1269/problem/B) | [GNU C++20 (64)](./codeforces/1269/B.cpp) |
+| 497 | [D2 - Equalizing by Division (hard version)](https://codeforces.com/contest/1213/problem/D2) | [GNU C++20 (64)](./codeforces/1213/D2.cpp) |
+| 496 | [C - Set Construction](https://codeforces.com/contest/1761/problem/C) | [GNU C++20 (64)](./codeforces/1761/C.cpp) |
+| 495 | [D - Make It Round](https://codeforces.com/contest/1759/problem/D) | [GNU C++20 (64)](./codeforces/1759/D.cpp) |
+| 494 | [C - Salyg1n and the MEX Game](https://codeforces.com/contest/1867/problem/C) | [GNU C++20 (64)](./codeforces/1867/C.cpp) |
+| 493 | [B - XOR Palindromes](https://codeforces.com/contest/1867/problem/B) | [GNU C++20 (64)](./codeforces/1867/B.cpp) |
+| 492 | [A - green_gold_dog, array and permutation](https://codeforces.com/contest/1867/problem/A) | [GNU C++20 (64)](./codeforces/1867/A.cpp) |
 | 491 | [C - Fill in the Matrix](https://codeforces.com/contest/1869/problem/C) | [GNU C++20 (64)](./codeforces/1869/C.cpp) |
 | 490 | [B - 2D Traveling](https://codeforces.com/contest/1869/problem/B) | [GNU C++20 (64)](./codeforces/1869/B.cpp) |
 | 489 | [A - Make It Zero](https://codeforces.com/contest/1869/problem/A) | [GNU C++20 (64)](./codeforces/1869/A.cpp) |
@@ -765,6 +795,26 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 </br>
 </br>
+
+# LightOJ
+
+<details>
+<Summary> Solutions </Summary>
+
+<!---
+|  | []() | [GNU C++20 (64)](./codeforces/) |
+    --->
+
+| #   | Title   | Solution   |
+|:---:| :-----: | :--------: |
+
+
+</details>
+
+</br>
+</br>
+</br>
+
 
 # Project Euler
 
