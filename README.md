@@ -28,13 +28,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
-|  | [D - Card Eater](https://atcoder.jp/contests/abc053/tasks/arc068_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [C - X: Yet Another Die Game](https://atcoder.jp/contests/abc053/tasks/arc068_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [B - A to Z String](https://atcoder.jp/contests/abc053/tasks/abc053_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [A - ABC/ARC](https://atcoder.jp/contests/abc053/tasks/abc053_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [C - 321-like Searcher](https://atcoder.jp/contests/abc321/tasks/abc321_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [B - Cutoff](https://atcoder.jp/contests/abc321/tasks/abc321_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [A - 321-like Checker](https://atcoder.jp/contests/abc321/tasks/abc321_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+| 144 | [D - Merge Slimes](https://atcoder.jp/contests/abc323/tasks/abc323_d) | [C++ 20 (gcc 12.2)](./atcoder/abc323/D.cpp) |
+| 143 | [C - World Tour Finals](https://atcoder.jp/contests/abc323/tasks/abc323_c) | [C++ 20 (gcc 12.2)](./atcoder/abc323/C.cpp) |
+| 142 | [B - Round-Robin Tournament](https://atcoder.jp/contests/abc323/tasks/abc323_b) | [C++ 20 (gcc 12.2)](./atcoder/abc323/B.cpp) |
+| 141 | [A - Weak Beats](https://atcoder.jp/contests/abc323/tasks/abc323_a) | [C++ 20 (gcc 12.2)](./atcoder/abc323/A.cpp) |
+| 140 | [D - Card Eater](https://atcoder.jp/contests/abc053/tasks/arc068_b) | [C++ 20 (gcc 12.2)](./atcoder/abc053/D.cpp) |
+| 139 | [C - X: Yet Another Die Game](https://atcoder.jp/contests/abc053/tasks/arc068_a) | [C++ 20 (gcc 12.2)](./atcoder/abc053/C.cpp) |
+| 138 | [B - A to Z String](https://atcoder.jp/contests/abc053/tasks/abc053_b) | [C++ 20 (gcc 12.2)](./atcoder/abc053/B.cpp) |
+| 137 | [A - ABC/ARC](https://atcoder.jp/contests/abc053/tasks/abc053_a) | [C++ 20 (gcc 12.2)](./atcoder/abc053/A.cpp) |
+| 136 | [C - 321-like Searcher](https://atcoder.jp/contests/abc321/tasks/abc321_c) | [C++ 20 (gcc 12.2)](./atcoder/abc321/C.cpp) |
+| 135 | [B - Cutoff](https://atcoder.jp/contests/abc321/tasks/abc321_b) | [C++ 20 (gcc 12.2)](./atcoder/abc321/B.cpp) |
+| 134 | [A - 321-like Checker](https://atcoder.jp/contests/abc321/tasks/abc321_a) | [C++ 20 (gcc 12.2)](./atcoder/abc321/A.cpp) |
 | 133 | [B - Longest Palindrome](https://atcoder.jp/contests/abc320/tasks/abc320_b) | [C++ 20 (gcc 12.2)](./atcoder/abc320/B.cpp) |
 | 132 | [A - Leyland Number](https://atcoder.jp/contests/abc320/tasks/abc320_a) | [C++ 20 (gcc 12.2)](./atcoder/abc320/A.cpp) |
 | 131 | [D - Walk and Teleport](https://atcoder.jp/contests/abc052/tasks/arc067_b) | [C++ 20 (gcc 12.2)](./atcoder/abc052/D.cpp) |
@@ -230,6 +234,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [B - Diverse Substrings](https://codeforces.com/contest/1748/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Gardener and the Array](https://codeforces.com/contest/1775/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [E1 - Unforgivable Curse (easy version)](https://codeforces.com/contest/1800/problem/E1) | [GNU C++20 (64)](./codeforces/) |
+|  | [C1 - Dual (Easy Version)](https://codeforces.com/contest/1855/problem/C1) | [GNU C++20 (64)](./codeforces/) |
+|  | [C1 - Potions (Easy Version)](https://codeforces.com/contest/1526/problem/C1) | [GNU C++20 (64)](./codeforces/) |
+|  | [A1 - Gardener and the Capybaras (easy version)](https://codeforces.com/contest/1775/problem/A1) | [GNU C++20 (64)](./codeforces/) |
+|  | [E - Scuza](https://codeforces.com/contest/1742/problem/E) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Number Game](https://codeforces.com/contest/1749/problem/C) | [GNU C++20 (64)](./codeforces/) |
 |  | [C - Complementary XOR](https://codeforces.com/contest/1750/problem/C) | [GNU C++20 (64)](./codeforces/) |
 |  | [B - Battling with Numbers](https://codeforces.com/contest/1866/problem/B) | [GNU C++20 (64)](./codeforces/) |
 |  | [H - Hamburgers](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/H) | [GNU C++20 (64)](./codeforces/) |
