@@ -234,6 +234,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [C - Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Trust Nobody](https://codeforces.com/contest/1826/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Joyboard](https://codeforces.com/contest/1877/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Helmets in Night Light](https://codeforces.com/contest/1877/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Goals of Victory](https://codeforces.com/contest/1877/problem/A) | [GNU C++20 (64)](./codeforces/) |
 |  | [B - Diverse Substrings](https://codeforces.com/contest/1748/problem/B) | [GNU C++20 (64)](./codeforces/) |
 |  | [B - Gardener and the Array](https://codeforces.com/contest/1775/problem/B) | [GNU C++20 (64)](./codeforces/) |
 |  | [E1 - Unforgivable Curse (easy version)](https://codeforces.com/contest/1800/problem/E1) | [GNU C++20 (64)](./codeforces/) |
@@ -324,7 +329,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 | 445 | [B - The Walkway](https://codeforces.com/contest/1858/problem/B) | [GNU C++20 (64)](./codeforces/1858/B.cpp) |
 | 444 | [C - Yet Another Permutation Problem](https://codeforces.com/contest/1858/problem/C) | [GNU C++20 (64)](./codeforces/1858/C.cpp) |
 | 443 | [A - Buttons](https://codeforces.com/contest/1858/problem/A) | [GNU C++20 (64)](./codeforces/1858/A.cpp) |
-| 442 | [Z - Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) | [GNU C++20 (64)](./codeforces/gym/Z_Hard_Compare.cpp) |
+| 442 | [Z - Hard Compare](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z) | [GNU C++20 (64)](./codeforces/group/219158/Z.cpp) |
 | 441 | [C - Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | [GNU C++20 (64)](./codeforces/1294/C.cpp) |
 | 440 | [C - Another Permutation Problem](https://codeforces.com/contest/1859/problem/C) | [GNU C++20 (64)](./codeforces/1859/C.cpp) |
 | 439 | [B - Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | [GNU C++20 (64)](./codeforces/1859/B.cpp) |
@@ -343,11 +348,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 | 426 | [C - To Become Max](https://codeforces.com/contest/1856/problem/C) | [GNU C++20 (64)](./codeforces/1856/C.cpp) |
 | 425 | [B - Good Arrays](https://codeforces.com/contest/1856/problem/B) | [GNU C++20 (64)](./codeforces/1856/B.cpp) |
 | 424 | [A - Tales of a Sort](https://codeforces.com/contest/1856/problem/A) | [GNU C++20 (64)](./codeforces/1856/A.cpp) |
-| 423 | [B - Path Finding](https://codeforces.com/gym/383769/problem/B) | [GNU C++20 (64)](./codeforces/gym/B_Path_Finding.cpp) |
-| 422 | [A - Neighbor Report](https://codeforces.com/gym/383769/problem/A) | [GNU C++20 (64)](./codeforces/gym/A_Neighbor_Report.cpp) |
+| 423 | [B - Path Finding](https://codeforces.com/gym/383769/problem/B) | [GNU C++20 (64)](./codeforces/gym/383769/B.cpp) |
+| 422 | [A - Neighbor Report](https://codeforces.com/gym/383769/problem/A) | [GNU C++20 (64)](./codeforces/gym/383769/A.cpp) |
 | 421 | [A - Bachgold Problem](https://codeforces.com/contest/749/problem/A) | [GNU C++20 (64)](./codeforces/749/A.cpp) |
 | 420 | [B - Buying a TV Set](https://codeforces.com/contest/1041/problem/B) | [GNU C++20 (64)](./codeforces/1041/B.cpp) |
-| 419 | [P21 - Prime Sieve](https://codeforces.com/group/yg7WhsFsAp/contest/355493/problem/P21) | [GNU C++20 (64)](./codeforces/gym/P_21_Prime_Sieve.cpp) |
+| 419 | [P21 - Prime Sieve](https://codeforces.com/group/yg7WhsFsAp/contest/355493/problem/P21) | [GNU C++20 (64)](./codeforces/group/355493/P21.cpp) |
 | 418 | [E - Two Round Dances](https://codeforces.com/contest/1433/problem/E) | [GNU C++20 (64)](./codeforces/1433/E.cpp) |
 | 417 | [C - Social Distance](https://codeforces.com/contest/1367/problem/C) | [GNU C++20 (64)](./codeforces/1367/C.cpp) |
 | 416 | [B - Saving the City](https://codeforces.com/contest/1443/problem/B) | [GNU C++20 (64)](./codeforces/1443/B.cpp) |
