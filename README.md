@@ -28,6 +28,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 148 | [D - Square Permutation](https://atcoder.jp/contests/abc324/tasks/abc324_d) | [C++ 20 (gcc 12.2)](./atcoder/abc324/D.cpp) |
+| 147 | [C - Error Correction](https://atcoder.jp/contests/abc324/tasks/abc324_c) | [C++ 20 (gcc 12.2)](./atcoder/abc324/C.cpp) |
+| 146 | [B - 3-smooth Numbers](https://atcoder.jp/contests/abc324/tasks/abc324_b) | [C++ 20 (gcc 12.2)](./atcoder/abc324/B.cpp) |
+| 145 | [A - Same](https://atcoder.jp/contests/abc324/tasks/abc324_a) | [C++ 20 (gcc 12.2)](./atcoder/abc324/A.cpp) |
 | 144 | [D - Merge Slimes](https://atcoder.jp/contests/abc323/tasks/abc323_d) | [C++ 20 (gcc 12.2)](./atcoder/abc323/D.cpp) |
 | 143 | [C - World Tour Finals](https://atcoder.jp/contests/abc323/tasks/abc323_c) | [C++ 20 (gcc 12.2)](./atcoder/abc323/C.cpp) |
 | 142 | [B - Round-Robin Tournament](https://atcoder.jp/contests/abc323/tasks/abc323_b) | [C++ 20 (gcc 12.2)](./atcoder/abc323/B.cpp) |
@@ -234,6 +238,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [C - Decreasing String](https://codeforces.com/contest/1886/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Digit occurrence Sum](https://codeforces.com/gym/104663/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [M - Banana Monitor](https://codeforces.com/gym/104663/problem/M) | [GNU C++20 (64)](./codeforces/) |
+|  | [L - Not-Incomplete](https://codeforces.com/gym/104663/problem/L) | [GNU C++20 (64)](./codeforces/) |
+|  | [K - Divisible by three](https://codeforces.com/gym/104663/problem/K) | [GNU C++20 (64)](./codeforces/) |
+|  | [G - Not So Easy](https://codeforces.com/gym/104663/problem/G) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - Colorful Stamp](https://codeforces.com/contest/1669/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Fear of the Dark](https://codeforces.com/contest/1886/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Sum of Three](https://codeforces.com/contest/1886/problem/A) | [GNU C++20 (64)](./codeforces/) |
 |  | [C - Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | [GNU C++20 (64)](./codeforces/) |
 |  | [A - Trust Nobody](https://codeforces.com/contest/1826/problem/A) | [GNU C++20 (64)](./codeforces/) |
 |  | [C - Joyboard](https://codeforces.com/contest/1877/problem/C) | [GNU C++20 (64)](./codeforces/) |
