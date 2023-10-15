@@ -238,6 +238,20 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 560 | [B - Operations](https://codeforces.com/gym/103643/problem/B) | [GNU C++20 (64)](./codeforces/gym/103643/B.cpp) |
+| 559 | [D - Sticky Spelling Situation](https://codeforces.com/gym/103643/problem/D) | [GNU C++20 (64)](./codeforces/gym/103643/D.cpp) |
+| 558 | [B - Inna and New Matrix of Candies](https://codeforces.com/contest/400/problem/B) | [GNU C++20 (64)](./codeforces/400/B.cpp) |
+| 557 | [B - Ohana Cleans Up](https://codeforces.com/contest/554/problem/B) | [GNU C++20 (64)](./codeforces/554/B.cpp) |
+| 556 | [A - Set of Strings](https://codeforces.com/contest/544/problem/A) | [GNU C++20 (64)](./codeforces/544/A.cpp) |
+| 555 | [A - Spy Detected!](https://codeforces.com/contest/1512/problem/A) | [GNU C++20 (64)](./codeforces/1512/A.cpp) |
+| 554 | [B - Canvas Frames](https://codeforces.com/contest/127/problem/B) | [GNU C++20 (64)](./codeforces/127/B.cpp) |
+| 553 | [B - Garland](https://codeforces.com/contest/408/problem/B) | [GNU C++20 (64)](./codeforces/408/B.cpp) |
+|  | [E - Block Sequence](https://codeforces.com/contest/1881/problem/E) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - Divide and Equalize](https://codeforces.com/contest/1881/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Perfect Square](https://codeforces.com/contest/1881/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Three Threadlets](https://codeforces.com/contest/1881/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Don't Let Them Pass](https://codeforces.com/gym/104663/problem/C) | [GNU C++20 (64)](./codeforces/) |
 |  | [C - Decreasing String](https://codeforces.com/contest/1886/problem/C) | [GNU C++20 (64)](./codeforces/) |
 |  | [B - Digit occurrence Sum](https://codeforces.com/gym/104663/problem/B) | [GNU C++20 (64)](./codeforces/) |
 |  | [M - Banana Monitor](https://codeforces.com/gym/104663/problem/M) | [GNU C++20 (64)](./codeforces/) |
