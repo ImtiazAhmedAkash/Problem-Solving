@@ -2,7 +2,6 @@
 
 A repository to keep track of problem solving practice, containing solutions from platforms:  
 
-
 - [AtCoder](#atcoder)
 - [beecrowd](#beecrowd)
 - [CodeChef](#codechef)
@@ -844,6 +843,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 <details>
 <Summary> Solutions </Summary>
+</br>
 
 <!---
 |  | []() | [GNU C++20 (64)](./codeforces/) |
@@ -858,7 +858,6 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 </br>
 </br>
-
 
 # Project Euler
 
@@ -875,5 +874,25 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 </br>
 
+# UVA Online Judge
 
+<details>
+<Summary> Solutions </Summary>
+</br>
+
+<!---
+|  | []() | [C++11 5.3.0](./uva) |
+    --->
+
+| #   | Title   | Solution   |
+|:---:| :------ | :--------: |
+| 2 | [336 - A Node Too Far](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=272) | [C++11 5.3.0](./uva/336.cpp) |
+| 1 | [10004 - Bicoloring](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=945) | [C++11 5.3.0](./uva/10004.cpp) |
+
+
+</details>
+
+</br>
+</br>
+</br>
 
