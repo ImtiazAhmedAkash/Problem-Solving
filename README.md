@@ -237,7 +237,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
-|  | [F - Workout plan](https://codeforces.com/contest/1218/problem/F) | [GNU C++20 (64)](./codeforces/) |
+| 562 | [D - Lunar New Year and a Wander](https://codeforces.com/contest/1106/problem/D) | [GNU C++20 (64)](./codeforces/1106/D.cpp) |
+| 561 | [F - Workout plan](https://codeforces.com/contest/1218/problem/F) | [GNU C++20 (64)](./codeforces/1218/F.cpp) |
 | 560 | [B - Operations](https://codeforces.com/gym/103643/problem/B) | [GNU C++20 (64)](./codeforces/gym/103643/B.cpp) |
 | 559 | [D - Sticky Spelling Situation](https://codeforces.com/gym/103643/problem/D) | [GNU C++20 (64)](./codeforces/gym/103643/D.cpp) |
 | 558 | [B - Inna and New Matrix of Candies](https://codeforces.com/contest/400/problem/B) | [GNU C++20 (64)](./codeforces/400/B.cpp) |
