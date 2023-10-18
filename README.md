@@ -887,6 +887,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 7 | [439 - Knight Moves](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=380) | [C++11 5.3.0](./uva/439.cpp) |
 | 6 | [762 - We Ship Cheap](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=703) | [C++11 5.3.0](./uva/762.cpp) |
 | 5 | [429 - Word Transformation](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=370) | [C++11 5.3.0](./uva/429.cpp) |
 | 4 | [10653 - Bombs! NO they are Mines!!](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1594) | [C++11 5.3.0](./uva/10653.cpp) |
