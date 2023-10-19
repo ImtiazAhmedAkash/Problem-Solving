@@ -248,11 +248,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 | 555 | [A - Spy Detected!](https://codeforces.com/contest/1512/problem/A) | [GNU C++20 (64)](./codeforces/1512/A.cpp) |
 | 554 | [B - Canvas Frames](https://codeforces.com/contest/127/problem/B) | [GNU C++20 (64)](./codeforces/127/B.cpp) |
 | 553 | [B - Garland](https://codeforces.com/contest/408/problem/B) | [GNU C++20 (64)](./codeforces/408/B.cpp) |
-|  | [E - Block Sequence](https://codeforces.com/contest/1881/problem/E) | [GNU C++20 (64)](./codeforces/) |
-|  | [D - Divide and Equalize](https://codeforces.com/contest/1881/problem/D) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - Perfect Square](https://codeforces.com/contest/1881/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Three Threadlets](https://codeforces.com/contest/1881/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | [GNU C++20 (64)](./codeforces/) |
+| 552 | [E - Block Sequence](https://codeforces.com/contest/1881/problem/E) | [GNU C++20 (64)](./codeforces/1881/E.cpp) |
+| 551 | [D - Divide and Equalize](https://codeforces.com/contest/1881/problem/D) | [GNU C++20 (64)](./codeforces/1881/D.cpp) |
+| 550 | [C - Perfect Square](https://codeforces.com/contest/1881/problem/C) | [GNU C++20 (64)](./codeforces/1881/C.cpp) |
+| 549 | [B - Three Threadlets](https://codeforces.com/contest/1881/problem/B) | [GNU C++20 (64)](./codeforces/1881/B.cpp) |
+| 548 | [A - Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | [GNU C++20 (64)](./codeforces/1881/A.cpp) |
 |  | [C - Don't Let Them Pass](https://codeforces.com/gym/104663/problem/C) | [GNU C++20 (64)](./codeforces/) |
 |  | [C - Decreasing String](https://codeforces.com/contest/1886/problem/C) | [GNU C++20 (64)](./codeforces/) |
 |  | [B - Digit occurrence Sum](https://codeforces.com/gym/104663/problem/B) | [GNU C++20 (64)](./codeforces/) |
