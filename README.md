@@ -27,6 +27,18 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 160 | [C - Sensors](https://atcoder.jp/contests/abc325/tasks/abc325_c) | [C++ 20 (gcc 12.2)](./atcoder/abc325/C.cpp) |
+| 159 | [B - World Meeting](https://atcoder.jp/contests/abc325/tasks/abc325_b) | [C++ 20 (gcc 12.2)](./atcoder/abc325/B.cpp) |
+| 158 | [A - Takahashi san](https://atcoder.jp/contests/abc325/tasks/abc325_a) | [C++ 20 (gcc 12.2)](./atcoder/abc325/A.cpp) |
+| 157 | [C - Go Home](https://atcoder.jp/contests/abc056/tasks/arc070_a) | [C++ 20 (gcc 12.2)](./atcoder/abc056/C.cpp) |
+| 156 | [B - NarrowRectanglesEasy](https://atcoder.jp/contests/abc056/tasks/abc056_b) | [C++ 20 (gcc 12.2)](./atcoder/abc056/B.cpp) |
+| 155 | [A - HonestOrDishonest](https://atcoder.jp/contests/abc056/tasks/abc056_a) | [C++ 20 (gcc 12.2)](./atcoder/abc056/A.cpp) |
+| 154 | [C - Scc Puzzle](https://atcoder.jp/contests/abc055/tasks/arc069_a) | [C++ 20 (gcc 12.2)](./atcoder/abc055/C.cpp) |
+| 153 | [B - Training Camp](https://atcoder.jp/contests/abc055/tasks/abc055_b) | [C++ 20 (gcc 12.2)](./atcoder/abc055/B.cpp) |
+| 152 | [A - Restaurant](https://atcoder.jp/contests/abc055/tasks/abc055_a) | [C++ 20 (gcc 12.2)](./atcoder/abc055/A.cpp) |
+| 151 | [B - Template Matching](https://atcoder.jp/contests/abc054/tasks/abc054_b) | [C++ 20 (gcc 12.2)](./atcoder/abc054/B.cpp) |
+| 150 | [A - One Card Poker](https://atcoder.jp/contests/abc054/tasks/abc054_a) | [C++ 20 (gcc 12.2)](./atcoder/abc054/A.cpp) |
+| 149 | [D - Unbalanced](https://atcoder.jp/contests/abc043/tasks/arc059_b) | [C++ 20 (gcc 12.2)](./atcoder/abc043/D.cpp) |
 | 148 | [D - Square Permutation](https://atcoder.jp/contests/abc324/tasks/abc324_d) | [C++ 20 (gcc 12.2)](./atcoder/abc324/D.cpp) |
 | 147 | [C - Error Correction](https://atcoder.jp/contests/abc324/tasks/abc324_c) | [C++ 20 (gcc 12.2)](./atcoder/abc324/C.cpp) |
 | 146 | [B - 3-smooth Numbers](https://atcoder.jp/contests/abc324/tasks/abc324_b) | [C++ 20 (gcc 12.2)](./atcoder/abc324/B.cpp) |
