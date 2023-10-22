@@ -27,6 +27,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 162 | [E - Joint Two Strings](https://atcoder.jp/contests/abc324/tasks/abc324_e) | [C++ 20 (gcc 12.2)](./atcoder/abc324/E.cpp) |
 | 161 | [D - Printing Machine](https://atcoder.jp/contests/abc325/tasks/abc325_d) | [C++ 20 (gcc 12.2)](./atcoder/abc325/D.cpp) |
 | 160 | [C - Sensors](https://atcoder.jp/contests/abc325/tasks/abc325_c) | [C++ 20 (gcc 12.2)](./atcoder/abc325/C.cpp) |
 | 159 | [B - World Meeting](https://atcoder.jp/contests/abc325/tasks/abc325_b) | [C++ 20 (gcc 12.2)](./atcoder/abc325/B.cpp) |
@@ -250,6 +251,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [B - Haunted House](https://codeforces.com/contest/1884/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Simple Design](https://codeforces.com/contest/1884/problem/A) | [GNU C++20 (64)](./codeforces/) |
 | 566 | [C - King's Path](https://codeforces.com/contest/242/problem/C) | [GNU C++20 (64)](./codeforces/242/C.cpp) |
 | 565 | [B - Christmas Spruce](https://codeforces.com/contest/913/problem/B) | [GNU C++20 (64)](./codeforces/913/B.cpp) |
 | 564 | [B - Two Buttons](https://codeforces.com/contest/520/problem/B) | [GNU C++20 (64)](./codeforces/520/B.cpp) |
