@@ -27,6 +27,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 161 | [D - Printing Machine](https://atcoder.jp/contests/abc325/tasks/abc325_d) | [C++ 20 (gcc 12.2)](./atcoder/abc325/D.cpp) |
 | 160 | [C - Sensors](https://atcoder.jp/contests/abc325/tasks/abc325_c) | [C++ 20 (gcc 12.2)](./atcoder/abc325/C.cpp) |
 | 159 | [B - World Meeting](https://atcoder.jp/contests/abc325/tasks/abc325_b) | [C++ 20 (gcc 12.2)](./atcoder/abc325/B.cpp) |
 | 158 | [A - Takahashi san](https://atcoder.jp/contests/abc325/tasks/abc325_a) | [C++ 20 (gcc 12.2)](./atcoder/abc325/A.cpp) |
