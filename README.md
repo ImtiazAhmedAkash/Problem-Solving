@@ -278,16 +278,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 | 550 | [C - Perfect Square](https://codeforces.com/contest/1881/problem/C) | [GNU C++20 (64)](./codeforces/1881/C.cpp) |
 | 549 | [B - Three Threadlets](https://codeforces.com/contest/1881/problem/B) | [GNU C++20 (64)](./codeforces/1881/B.cpp) |
 | 548 | [A - Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | [GNU C++20 (64)](./codeforces/1881/A.cpp) |
-|  | [C - Don't Let Them Pass](https://codeforces.com/gym/104663/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - Decreasing String](https://codeforces.com/contest/1886/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Digit occurrence Sum](https://codeforces.com/gym/104663/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [M - Banana Monitor](https://codeforces.com/gym/104663/problem/M) | [GNU C++20 (64)](./codeforces/) |
-|  | [L - Not-Incomplete](https://codeforces.com/gym/104663/problem/L) | [GNU C++20 (64)](./codeforces/) |
-|  | [K - Divisible by three](https://codeforces.com/gym/104663/problem/K) | [GNU C++20 (64)](./codeforces/) |
-|  | [G - Not So Easy](https://codeforces.com/gym/104663/problem/G) | [GNU C++20 (64)](./codeforces/) |
-|  | [D - Colorful Stamp](https://codeforces.com/contest/1669/problem/D) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Fear of the Dark](https://codeforces.com/contest/1886/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Sum of Three](https://codeforces.com/contest/1886/problem/A) | [GNU C++20 (64)](./codeforces/) |
+| 547 | [C - Don't Let Them Pass](https://codeforces.com/gym/104663/problem/C) | [GNU C++20 (64)](./codeforces/gym/104663/C.cpp) |
+| 546 | [C - Decreasing String](https://codeforces.com/contest/1886/problem/C) | [GNU C++20 (64)](./codeforces/1886/C.cpp) |
+| 545 | [B - Digit occurrence Sum](https://codeforces.com/gym/104663/problem/B) | [GNU C++20 (64)](./codeforces/gym/104663/B.cpp) |
+| 544 | [M - Banana Monitor](https://codeforces.com/gym/104663/problem/M) | [GNU C++20 (64)](./codeforces/gym/104663/M.cpp) |
+| 543 | [L - Not-Incomplete](https://codeforces.com/gym/104663/problem/L) | [GNU C++20 (64)](./codeforces/gym/104663/L.cpp) |
+| 542 | [K - Divisible by three](https://codeforces.com/gym/104663/problem/K) | [GNU C++20 (64)](./codeforces/gym/104663/K.cpp) |
+| 541 | [G - Not So Easy](https://codeforces.com/gym/104663/problem/G) | [GNU C++20 (64)](./codeforces/gym/104663/G.cpp) |
+| 540 | [D - Colorful Stamp](https://codeforces.com/contest/1669/problem/D) | [GNU C++20 (64)](./codeforces/1669/D.cpp) |
+| 539 | [B - Fear of the Dark](https://codeforces.com/contest/1886/problem/B) | [GNU C++20 (64)](./codeforces/1886/B.cpp) |
+| 538 | [A - Sum of Three](https://codeforces.com/contest/1886/problem/A) | [GNU C++20 (64)](./codeforces/1886/A.cpp) |
 |  | [C - Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | [GNU C++20 (64)](./codeforces/) |
 |  | [A - Trust Nobody](https://codeforces.com/contest/1826/problem/A) | [GNU C++20 (64)](./codeforces/) |
 |  | [C - Joyboard](https://codeforces.com/contest/1877/problem/C) | [GNU C++20 (64)](./codeforces/) |
