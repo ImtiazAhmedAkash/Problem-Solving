@@ -251,8 +251,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
-|  | [B - Haunted House](https://codeforces.com/contest/1884/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Simple Design](https://codeforces.com/contest/1884/problem/A) | [GNU C++20 (64)](./codeforces/) |
+| 574 | [A - Working Week](https://codeforces.com/contest/1735/problem/A) | [GNU C++20 (64)](./codeforces/1735/A.cpp) |
+| 573 | [E - Look Back](https://codeforces.com/contest/1883/problem/E) | [GNU C++20 (64)](./codeforces/1883/E.cpp) |
+| 572 | [D - In Love](https://codeforces.com/contest/1883/problem/D) | [GNU C++20 (64)](./codeforces/1883/D.cpp) |
+| 571 | [C - Raspberries](https://codeforces.com/contest/1883/problem/C) | [GNU C++20 (64)](./codeforces/1883/C.cpp) |
+| 570 | [B - Chemistry](https://codeforces.com/contest/1883/problem/B) | [GNU C++20 (64)](./codeforces/1883/B.cpp) |
+| 569 | [A - Morning](https://codeforces.com/contest/1883/problem/A) | [GNU C++20 (64)](./codeforces/1883/A.cpp) |
+| 568 | [B - Haunted House](https://codeforces.com/contest/1884/problem/B) | [GNU C++20 (64)](./codeforces/1884/B.cpp) |
+| 567 | [A - Simple Design](https://codeforces.com/contest/1884/problem/A) | [GNU C++20 (64)](./codeforces/1884/A.cpp) |
 | 566 | [C - King's Path](https://codeforces.com/contest/242/problem/C) | [GNU C++20 (64)](./codeforces/242/C.cpp) |
 | 565 | [B - Christmas Spruce](https://codeforces.com/contest/913/problem/B) | [GNU C++20 (64)](./codeforces/913/B.cpp) |
 | 564 | [B - Two Buttons](https://codeforces.com/contest/520/problem/B) | [GNU C++20 (64)](./codeforces/520/B.cpp) |
