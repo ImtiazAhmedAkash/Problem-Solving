@@ -316,9 +316,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [A - How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | [GNU C++20 (64)](./codeforces/) |
 |  | [B - Sets and Union](https://codeforces.com/contest/1882/problem/B) | [GNU C++20 (64)](./codeforces/) |
 |  | [A - Increasing Sequence](https://codeforces.com/contest/1882/problem/A) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - Make it Alternating](https://codeforces.com/contest/1879/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Chips on the Board](https://codeforces.com/contest/1879/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Rigged!](https://codeforces.com/contest/1879/problem/A) | [GNU C++20 (64)](./codeforces/) |
+| 512 | [C - Make it Alternating](https://codeforces.com/contest/1879/problem/C) | [GNU C++20 (64)](./codeforces/1879/C.cpp) |
+| 511 | [B - Chips on the Board](https://codeforces.com/contest/1879/problem/B) | [GNU C++20 (64)](./codeforces/1879/B.cpp) |
+| 510 | [A - Rigged!](https://codeforces.com/contest/1879/problem/A) | [GNU C++20 (64)](./codeforces/1879/A.cpp) |
 | 509 | [G - ABBC or BACB](https://codeforces.com/contest/1873/problem/G) | [GNU C++20 (64)](./codeforces/1873/G.cpp) |
 | 508 | [F - Money Trees](https://codeforces.com/contest/1873/problem/F) | [GNU C++20 (64)](./codeforces/1873/F.cpp) |
 | 507 | [E - Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | [GNU C++20 (64)](./codeforces/1873/E.cpp) |
