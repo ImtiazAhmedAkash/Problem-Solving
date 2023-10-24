@@ -251,6 +251,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 577 | [G2 - Dances (Hard Version)](https://codeforces.com/contest/1883/problem/G2) | [GNU C++20 (64)](./codeforces/1883/G2.cpp) |
+| 576 | [G1 - Dances (Easy version)](https://codeforces.com/contest/1883/problem/G1) | [GNU C++20 (64)](./codeforces/1883/G1.cpp) |
+| 575 | [F - You Are So Beautiful](https://codeforces.com/contest/1883/problem/F) | [GNU C++20 (64)](./codeforces/1883/F.cpp) |
 | 574 | [A - Working Week](https://codeforces.com/contest/1735/problem/A) | [GNU C++20 (64)](./codeforces/1735/A.cpp) |
 | 573 | [E - Look Back](https://codeforces.com/contest/1883/problem/E) | [GNU C++20 (64)](./codeforces/1883/E.cpp) |
 | 572 | [D - In Love](https://codeforces.com/contest/1883/problem/D) | [GNU C++20 (64)](./codeforces/1883/D.cpp) |
