@@ -291,12 +291,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 | 540 | [D - Colorful Stamp](https://codeforces.com/contest/1669/problem/D) | [GNU C++20 (64)](./codeforces/1669/D.cpp) |
 | 539 | [B - Fear of the Dark](https://codeforces.com/contest/1886/problem/B) | [GNU C++20 (64)](./codeforces/1886/B.cpp) |
 | 538 | [A - Sum of Three](https://codeforces.com/contest/1886/problem/A) | [GNU C++20 (64)](./codeforces/1886/A.cpp) |
-|  | [C - Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Trust Nobody](https://codeforces.com/contest/1826/problem/A) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - Joyboard](https://codeforces.com/contest/1877/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Helmets in Night Light](https://codeforces.com/contest/1877/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Goals of Victory](https://codeforces.com/contest/1877/problem/A) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Diverse Substrings](https://codeforces.com/contest/1748/problem/B) | [GNU C++20 (64)](./codeforces/) |
+| 537 | [C - Bricks and Bags](https://codeforces.com/contest/1740/problem/C) | [GNU C++20 (64)](./codeforces/1740/C.cpp) |
+| 536 | [A - Trust Nobody](https://codeforces.com/contest/1826/problem/A) | [GNU C++20 (64)](./codeforces/1826/A.cpp) |
+| 535 | [C - Joyboard](https://codeforces.com/contest/1877/problem/C) | [GNU C++20 (64)](./codeforces/1877/C.cpp) |
+| 534 | [B - Helmets in Night Light](https://codeforces.com/contest/1877/problem/B) | [GNU C++20 (64)](./codeforces/1877/B.cpp) |
+| 533 | [A - Goals of Victory](https://codeforces.com/contest/1877/problem/A) | [GNU C++20 (64)](./codeforces/1877/A.cpp) |
+| 532 | [B - Diverse Substrings](https://codeforces.com/contest/1748/problem/B) | [GNU C++20 (64)](./codeforces/1748/B.cpp) |
 |  | [B - Gardener and the Array](https://codeforces.com/contest/1775/problem/B) | [GNU C++20 (64)](./codeforces/) |
 |  | [E1 - Unforgivable Curse (easy version)](https://codeforces.com/contest/1800/problem/E1) | [GNU C++20 (64)](./codeforces/) |
 |  | [C1 - Dual (Easy Version)](https://codeforces.com/contest/1855/problem/C1) | [GNU C++20 (64)](./codeforces/) |
