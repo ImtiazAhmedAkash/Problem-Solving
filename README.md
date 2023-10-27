@@ -27,6 +27,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 164 | [C - Peaks](https://atcoder.jp/contests/abc166/tasks/abc166_c) | [C++ 20 (gcc 12.2)](./atcoder/abc166/C.cpp) |
+| 163 | [B - Counting Roads](https://atcoder.jp/contests/abc061/tasks/abc061_b) | [C++ 20 (gcc 12.2)](./atcoder/abc061/B.cpp) |
 | 162 | [E - Joint Two Strings](https://atcoder.jp/contests/abc324/tasks/abc324_e) | [C++ 20 (gcc 12.2)](./atcoder/abc324/E.cpp) |
 | 161 | [D - Printing Machine](https://atcoder.jp/contests/abc325/tasks/abc325_d) | [C++ 20 (gcc 12.2)](./atcoder/abc325/D.cpp) |
 | 160 | [C - Sensors](https://atcoder.jp/contests/abc325/tasks/abc325_c) | [C++ 20 (gcc 12.2)](./atcoder/abc325/C.cpp) |
