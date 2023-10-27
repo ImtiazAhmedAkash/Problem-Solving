@@ -253,6 +253,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 578 | [B - Koala and Lights](https://codeforces.com/contest/1209/problem/B) | [GNU C++20 (64)](./codeforces/1209/B.cpp) |
 | 577 | [G2 - Dances (Hard Version)](https://codeforces.com/contest/1883/problem/G2) | [GNU C++20 (64)](./codeforces/1883/G2.cpp) |
 | 576 | [G1 - Dances (Easy version)](https://codeforces.com/contest/1883/problem/G1) | [GNU C++20 (64)](./codeforces/1883/G1.cpp) |
 | 575 | [F - You Are So Beautiful](https://codeforces.com/contest/1883/problem/F) | [GNU C++20 (64)](./codeforces/1883/F.cpp) |
