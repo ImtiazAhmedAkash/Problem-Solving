@@ -917,6 +917,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 10 | [10452 - Marcus](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1393) | [C++11 5.3.0](./uva/10452.cpp) |
+| 9 | [11518 - Dominos 2](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2513) | [C++11 5.3.0](./uva/11518.cpp) |
 | 8 | [280 - Vertex](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=216) | [C++11 5.3.0](./uva/280.cpp) |
 | 7 | [439 - Knight Moves](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=380) | [C++11 5.3.0](./uva/439.cpp) |
 | 6 | [762 - We Ship Cheap](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=703) | [C++11 5.3.0](./uva/762.cpp) |
