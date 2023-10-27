@@ -877,11 +877,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 
 <!---
-|  | []() | [GNU C++20 (64)](./codeforces/) |
+|  | []() | [C++ 20](./lightoj) |
     --->
 
 | #   | Title   | Solution   |
-|:---:| :-----: | :--------: |
+|:---:| :----- | :--------: |
+| 2 | [1012 - Guilty Prince](https://lightoj.com/problem/guilty-prince) | [C++ 20](./lightoj/graph_theory/1012.cpp) |
+| 1 | [1009 - Back to Underworld](https://lightoj.com/problem/back-to-underworld) | [C++ 20](./lightoj/graph_theory/1009.cpp) |
 
 
 </details>
