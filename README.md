@@ -8,7 +8,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 - [Codeforces](#codeforces)
 - [CSES](#cses)
 - [LightOJ](#lightoj)
-- [Project Euler](#project-euler)
+- [SPOJ](#spoj)
 - [UVA Online Judge](#uva-online-judge)
 </br>
 </br>
@@ -905,13 +905,20 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 </br>
 
-# Project Euler
+# SPOJ
 
 <details>
 <Summary> Solutions </Summary>
+</br>
+
+<!---
+|  | []() | [C++14 (gcc 8.3)](./spoj) |
+    --->
 
 | #   | Title   | Solution   |
-|:---:| :-----: | :--------: |
+|:---:| :------ | :--------: |
+| 2 | [AKBAR - Akbar , The great](https://www.spoj.com/problems/AKBAR/) | [C++14 (gcc 8.3)](./spoj/AKBAR.cpp) |
+| 1 | [TEST - Life, the Universe, and Everything](https://www.spoj.com/problems/TEST/) | [C++14 (gcc 8.3)](./spoj/TEST.cpp) |
 
 
 </details>
