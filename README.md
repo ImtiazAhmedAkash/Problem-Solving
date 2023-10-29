@@ -27,9 +27,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
-|  | [C - Peak](https://atcoder.jp/contests/abc326/tasks/abc326_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [B - 326-like Numbers](https://atcoder.jp/contests/abc326/tasks/abc326_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [A - 2UP3DOWN](https://atcoder.jp/contests/abc326/tasks/abc326_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+| 167 | [C - Peak](https://atcoder.jp/contests/abc326/tasks/abc326_c) | [C++ 20 (gcc 12.2)](./atcoder/abc326/C.cpp) |
+| 166 | [B - 326-like Numbers](https://atcoder.jp/contests/abc326/tasks/abc326_b) | [C++ 20 (gcc 12.2)](./atcoder/abc326/B.cpp) |
+| 165 | [A - 2UP3DOWN](https://atcoder.jp/contests/abc326/tasks/abc326_a) | [C++ 20 (gcc 12.2)](./atcoder/abc326/A.cpp) |
 | 164 | [C - Peaks](https://atcoder.jp/contests/abc166/tasks/abc166_c) | [C++ 20 (gcc 12.2)](./atcoder/abc166/C.cpp) |
 | 163 | [B - Counting Roads](https://atcoder.jp/contests/abc061/tasks/abc061_b) | [C++ 20 (gcc 12.2)](./atcoder/abc061/B.cpp) |
 | 162 | [E - Joint Two Strings](https://atcoder.jp/contests/abc324/tasks/abc324_e) | [C++ 20 (gcc 12.2)](./atcoder/abc324/E.cpp) |
