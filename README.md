@@ -256,6 +256,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 585 | [C - Qingshan Loves Strings 2](https://codeforces.com/contest/1890/problem/C) | [GNU C++20 (64)](./codeforces/1890/C.cpp) |
+| 584 | [B - Qingshan Loves Strings](https://codeforces.com/contest/1890/problem/B) | [GNU C++20 (64)](./codeforces/1890/B.cpp) |
+| 583 | [A - Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | [GNU C++20 (64)](./codeforces/1890/A.cpp) |
+| 582 | [A - Bear and Elections](https://codeforces.com/contest/574/problem/A) | [GNU C++20 (64)](./codeforces/574/A.cpp) |
+| 581 | [B - Bear and Three Musketeers](https://codeforces.com/contest/574/problem/B) | [GNU C++20 (64)](./codeforces/574/B.cpp) |
 | 580 | [B - Road Construction](https://codeforces.com/contest/330/problem/B) | [GNU C++20 (64)](./codeforces/330/B.cpp) |
 | 579 | [B - Network Topology](https://codeforces.com/contest/292/problem/B) | [GNU C++20 (64)](./codeforces/292/B.cpp) |
 | 578 | [B - Koala and Lights](https://codeforces.com/contest/1209/problem/B) | [GNU C++20 (64)](./codeforces/1209/B.cpp) |

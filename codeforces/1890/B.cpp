@@ -1,0 +1,58 @@
+/*  In the Name of ALLAH, the most gracious, the most merciful  */
+
+// Qingshan Loves Strings
+
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+#define nl '\n'
+#define deb(x) cerr << #x << " = " << x << nl
+
+const int inf = 1e9;
+const ll INF = 1e18;
+const int mod = 998244353;
+const int N = 2e5 + 5;
+
+void solve() {
+    int n, m;
+    cin >> n >> m;
+    string s, t;
+    cin >> s >> t;
+    
+    bool ok = true;
+    for (int i = 1; i < s.size(); i++) {
+        if (s[i] == s[i - 1]) ok = false;
+    }
+    if (ok) {
+        cout << "Yes" << nl;
+        return;
+    }
+    
+    ok = true;
+    for (int i = 1; i < t.size(); i++) {
+        if (t[i] == t[i - 1]) ok = false;
+    }
+    if (ok) {
+        for (int i = 1; i < s.size(); i++) {
+            if (s[i] == s[i - 1] && (s[i - 1] == t.front() || s[i] == t.back())) {
+                ok = false;
+                break;
+            }
+        }
+    }
+    cout << (ok ? "Yes" : "No") << nl;
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(0);
+
+    int T = 1;
+    cin >> T;
+    for (int t = 1; t <= T; t++) {
+        solve();
+    }
+    
+    return 0;
+}
