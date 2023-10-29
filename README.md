@@ -27,6 +27,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [C - Peak](https://atcoder.jp/contests/abc326/tasks/abc326_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [B - 326-like Numbers](https://atcoder.jp/contests/abc326/tasks/abc326_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [A - 2UP3DOWN](https://atcoder.jp/contests/abc326/tasks/abc326_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
 | 164 | [C - Peaks](https://atcoder.jp/contests/abc166/tasks/abc166_c) | [C++ 20 (gcc 12.2)](./atcoder/abc166/C.cpp) |
 | 163 | [B - Counting Roads](https://atcoder.jp/contests/abc061/tasks/abc061_b) | [C++ 20 (gcc 12.2)](./atcoder/abc061/B.cpp) |
 | 162 | [E - Joint Two Strings](https://atcoder.jp/contests/abc324/tasks/abc324_e) | [C++ 20 (gcc 12.2)](./atcoder/abc324/E.cpp) |
@@ -253,6 +256,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 580 | [B - Road Construction](https://codeforces.com/contest/330/problem/B) | [GNU C++20 (64)](./codeforces/330/B.cpp) |
+| 579 | [B - Network Topology](https://codeforces.com/contest/292/problem/B) | [GNU C++20 (64)](./codeforces/292/B.cpp) |
 | 578 | [B - Koala and Lights](https://codeforces.com/contest/1209/problem/B) | [GNU C++20 (64)](./codeforces/1209/B.cpp) |
 | 577 | [G2 - Dances (Hard Version)](https://codeforces.com/contest/1883/problem/G2) | [GNU C++20 (64)](./codeforces/1883/G2.cpp) |
 | 576 | [G1 - Dances (Easy version)](https://codeforces.com/contest/1883/problem/G1) | [GNU C++20 (64)](./codeforces/1883/G1.cpp) |
