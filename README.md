@@ -256,6 +256,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 588 | [C - Searching for Graph](https://codeforces.com/contest/402/problem/C) | [GNU C++20 (64)](./codeforces/402/C.cpp) |
+| 587 | [D - Graph And Its Complement](https://codeforces.com/contest/990/problem/D) | [GNU C++20 (64)](./codeforces/990/D.cpp) |
+| 586 | [C - System Administrator](https://codeforces.com/contest/22/problem/C) | [GNU C++20 (64)](./codeforces/22/C.cpp) |
 | 585 | [C - Qingshan Loves Strings 2](https://codeforces.com/contest/1890/problem/C) | [GNU C++20 (64)](./codeforces/1890/C.cpp) |
 | 584 | [B - Qingshan Loves Strings](https://codeforces.com/contest/1890/problem/B) | [GNU C++20 (64)](./codeforces/1890/B.cpp) |
 | 583 | [A - Doremy's Paint 3](https://codeforces.com/contest/1890/problem/A) | [GNU C++20 (64)](./codeforces/1890/A.cpp) |
