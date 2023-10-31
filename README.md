@@ -256,6 +256,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 591 | [B - Bear and Friendship Condition](https://codeforces.com/contest/791/problem/B) | [GNU C++20 (64)](./codeforces/791/B.cpp) |
+| 590 | [B - Deja Vu](https://codeforces.com/contest/1891/problem/B) | [GNU C++20 (64)](./codeforces/1891/B.cpp) |
+| 589 | [A - Sorting with Twos](https://codeforces.com/contest/1891/problem/A) | [GNU C++20 (64)](./codeforces/1891/A.cpp) |
 | 588 | [C - Searching for Graph](https://codeforces.com/contest/402/problem/C) | [GNU C++20 (64)](./codeforces/402/C.cpp) |
 | 587 | [D - Graph And Its Complement](https://codeforces.com/contest/990/problem/D) | [GNU C++20 (64)](./codeforces/990/D.cpp) |
 | 586 | [C - System Administrator](https://codeforces.com/contest/22/problem/C) | [GNU C++20 (64)](./codeforces/22/C.cpp) |
