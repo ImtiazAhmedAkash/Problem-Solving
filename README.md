@@ -256,6 +256,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 593 | [C - Card Game](https://codeforces.com/contest/1882/problem/C) | [GNU C++20 (64)](./codeforces/1882/C.cpp) |
+| 592 | [C - Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | [GNU C++20 (64)](./codeforces/1891/C.cpp) |
 | 591 | [B - Bear and Friendship Condition](https://codeforces.com/contest/791/problem/B) | [GNU C++20 (64)](./codeforces/791/B.cpp) |
 | 590 | [B - Deja Vu](https://codeforces.com/contest/1891/problem/B) | [GNU C++20 (64)](./codeforces/1891/B.cpp) |
 | 589 | [A - Sorting with Twos](https://codeforces.com/contest/1891/problem/A) | [GNU C++20 (64)](./codeforces/1891/A.cpp) |
