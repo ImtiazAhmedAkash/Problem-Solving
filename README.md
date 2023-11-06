@@ -335,8 +335,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [C - Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | [GNU C++20 (64)](./codeforces/) |
 |  | [B - Aleksa and Stack](https://codeforces.com/contest/1878/problem/B) | [GNU C++20 (64)](./codeforces/) |
 |  | [A - How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Sets and Union](https://codeforces.com/contest/1882/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Increasing Sequence](https://codeforces.com/contest/1882/problem/A) | [GNU C++20 (64)](./codeforces/) |
+| 514 | [B - Sets and Union](https://codeforces.com/contest/1882/problem/B) | [GNU C++20 (64)](./codeforces/1882/B.cpp) |
+| 513 | [A - Increasing Sequence](https://codeforces.com/contest/1882/problem/A) | [GNU C++20 (64)](./codeforces/1882/A.cpp) |
 | 512 | [C - Make it Alternating](https://codeforces.com/contest/1879/problem/C) | [GNU C++20 (64)](./codeforces/1879/C.cpp) |
 | 511 | [B - Chips on the Board](https://codeforces.com/contest/1879/problem/B) | [GNU C++20 (64)](./codeforces/1879/B.cpp) |
 | 510 | [A - Rigged!](https://codeforces.com/contest/1879/problem/A) | [GNU C++20 (64)](./codeforces/1879/A.cpp) |
