@@ -256,6 +256,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 595 | [B - Just Eat It!](https://codeforces.com/contest/1285/problem/B) | [GNU C++20 (64)](./codeforces/1285/B.cpp) |
+| 594 | [D - Counting Test](https://codeforces.com/gym/101532/problem/D) | [GNU C++20 (64)](./codeforces/gym/101532/D.cpp) |
 | 593 | [C - Card Game](https://codeforces.com/contest/1882/problem/C) | [GNU C++20 (64)](./codeforces/1882/C.cpp) |
 | 592 | [C - Smilo and Monsters](https://codeforces.com/contest/1891/problem/C) | [GNU C++20 (64)](./codeforces/1891/C.cpp) |
 | 591 | [B - Bear and Friendship Condition](https://codeforces.com/contest/791/problem/B) | [GNU C++20 (64)](./codeforces/791/B.cpp) |
