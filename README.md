@@ -256,6 +256,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 599 | [D - Neutral Tonality](https://codeforces.com/contest/1894/problem/D) | [GNU C++20 (64)](./codeforces/1894/D.cpp) |
 | 598 | [C - Anonymous Informant](https://codeforces.com/contest/1894/problem/C) | [GNU C++20 (64)](./codeforces/1894/C.cpp) |
 | 597 | [B - Two Out of Three](https://codeforces.com/contest/1894/problem/B) | [GNU C++20 (64)](./codeforces/1894/B.cpp) |
 | 596 | [A - Secret Sport](https://codeforces.com/contest/1894/problem/A) | [GNU C++20 (64)](./codeforces/1894/A.cpp) |
