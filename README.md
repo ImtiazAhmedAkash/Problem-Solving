@@ -256,6 +256,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 598 | [C - Anonymous Informant](https://codeforces.com/contest/1894/problem/C) | [GNU C++20 (64)](./codeforces/1894/C.cpp) |
+| 597 | [B - Two Out of Three](https://codeforces.com/contest/1894/problem/B) | [GNU C++20 (64)](./codeforces/1894/B.cpp) |
+| 596 | [A - Secret Sport](https://codeforces.com/contest/1894/problem/A) | [GNU C++20 (64)](./codeforces/1894/A.cpp) |
 | 595 | [B - Just Eat It!](https://codeforces.com/contest/1285/problem/B) | [GNU C++20 (64)](./codeforces/1285/B.cpp) |
 | 594 | [D - Counting Test](https://codeforces.com/gym/101532/problem/D) | [GNU C++20 (64)](./codeforces/gym/101532/D.cpp) |
 | 593 | [C - Card Game](https://codeforces.com/contest/1882/problem/C) | [GNU C++20 (64)](./codeforces/1882/C.cpp) |
