@@ -333,10 +333,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [C - Number Game](https://codeforces.com/contest/1749/problem/C) | [GNU C++20 (64)](./codeforces/) |
 |  | [C - Complementary XOR](https://codeforces.com/contest/1750/problem/C) | [GNU C++20 (64)](./codeforces/) |
 |  | [B - Battling with Numbers](https://codeforces.com/contest/1866/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [H - Hamburgers](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/H) | [GNU C++20 (64)](./codeforces/) |
-|  | [G - Student Councils](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/G) | [GNU C++20 (64)](./codeforces/) |
-|  | [F - String Game](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/F) | [GNU C++20 (64)](./codeforces/) |
-|  | [E - Equation](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/E) | [GNU C++20 (64)](./codeforces/) |
+| 522 | [H - Hamburgers](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/H) | [GNU C++20 (64)](./codeforces/edu/binary_search/step2/H.cpp) |
+| 521 | [G - Student Councils](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/G) | [GNU C++20 (64)](./codeforces/edu/binary_search/step2/G.cpp) |
+| 520 | [F - String Game](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/F) | [GNU C++20 (64)](./codeforces/edu/binary_search/step2/F.cpp) |
+| 519 | [E - Equation](https://codeforces.com/edu/course/2/lesson/6/2/practice/contest/283932/problem/E) | [GNU C++20 (64)](./codeforces/edu/binary_search/step2/E.cpp) |
 | 518 | [A - Snow Footprints](https://codeforces.com/contest/298/problem/A) | [GNU C++20 (64)](./codeforces/298/A.cpp) |
 | 517 | [C - Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | [GNU C++20 (64)](./codeforces/1878/C.cpp) |
 | 516 | [B - Aleksa and Stack](https://codeforces.com/contest/1878/problem/B) | [GNU C++20 (64)](./codeforces/1878/B.cpp) |
