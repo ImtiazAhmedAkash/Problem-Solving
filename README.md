@@ -260,6 +260,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 608 | [C - Weather](https://codeforces.com/contest/234/problem/C) | [GNU C++20 (64)](./codeforces/234/C.cpp) |
+| 607 | [E - Counting Rectangles](https://codeforces.com/contest/1722/problem/E) | [GNU C++20 (64)](./codeforces/1722/E.cpp) |
+| 606 | [D - Line](https://codeforces.com/contest/1722/problem/D) | [GNU C++20 (64)](./codeforces/1722/D.cpp) |
+| 605 | [C - Word Game](https://codeforces.com/contest/1722/problem/C) | [GNU C++20 (64)](./codeforces/1722/C.cpp) |
 | 604 | [C - Bertown Subway](https://codeforces.com/contest/884/problem/C) | [GNU C++20 (64)](./codeforces/884/C.cpp) |
 | 603 | [B - Sereja and Suffixes](https://codeforces.com/contest/368/problem/B) | [GNU C++20 (64)](./codeforces/368/B.cpp) |
 | 602 | [C - Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | [GNU C++20 (64)](./codeforces/276/C.cpp) |
