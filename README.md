@@ -256,6 +256,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 604 | [C - Bertown Subway](https://codeforces.com/contest/884/problem/C) | [GNU C++20 (64)](./codeforces/884/C.cpp) |
+| 603 | [B - Sereja and Suffixes](https://codeforces.com/contest/368/problem/B) | [GNU C++20 (64)](./codeforces/368/B.cpp) |
+| 602 | [C - Little Girl and Maximum Sum](https://codeforces.com/contest/276/problem/C) | [GNU C++20 (64)](./codeforces/276/C.cpp) |
 | 601 | [D - Doremy's Connecting Plan](https://codeforces.com/contest/1890/problem/D) | [GNU C++20 (64)](./codeforces/1890/D.cpp) |
 | 600 | [B - Trees in a Row](https://codeforces.com/contest/402/problem/B) | [GNU C++20 (64)](./codeforces/402/B.cpp) |
 | 599 | [D - Neutral Tonality](https://codeforces.com/contest/1894/problem/D) | [GNU C++20 (64)](./codeforces/1894/D.cpp) |
