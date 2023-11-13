@@ -260,6 +260,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 614 | [B - Lecture Sleep](https://codeforces.com/contest/961/problem/B) | [GNU C++20 (64)](./codeforces/961/B.cpp) |
+| 613 | [E - Eating Queries](https://codeforces.com/contest/1676/problem/E) | [GNU C++20 (64)](./codeforces/1676/E.cpp) |
+| 612 | [B - Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | [GNU C++20 (64)](./codeforces/433/B.cpp) |
+| 611 | [B - Worms](https://codeforces.com/contest/474/problem/B) | [GNU C++20 (64)](./codeforces/474/B.cpp) |
+| 610 | [C - Stripe](https://codeforces.com/contest/18/problem/C) | [GNU C++20 (64)](./codeforces/18/C.cpp) |
+| 609 | [I - Maximum Subarray Sum](https://codeforces.com/group/isP4JMZTix/contest/386415/problem/I) | [GNU C++20 (64)](./codeforces/group/386415/I.cpp) |
 | 608 | [C - Weather](https://codeforces.com/contest/234/problem/C) | [GNU C++20 (64)](./codeforces/234/C.cpp) |
 | 607 | [E - Counting Rectangles](https://codeforces.com/contest/1722/problem/E) | [GNU C++20 (64)](./codeforces/1722/E.cpp) |
 | 606 | [D - Line](https://codeforces.com/contest/1722/problem/D) | [GNU C++20 (64)](./codeforces/1722/D.cpp) |
