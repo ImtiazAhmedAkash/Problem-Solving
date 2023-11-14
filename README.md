@@ -972,6 +972,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 12 | [10815 - Andy's First Dictionary](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1756) | [C++11 5.3.0](./uva/10815.cpp) |
+| 11 | [108 - Maximum Sum](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=44) | [C++11 5.3.0](./uva/108.cpp) |
 | 10 | [10452 - Marcus](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1393) | [C++11 5.3.0](./uva/10452.cpp) |
 | 9 | [11518 - Dominos 2](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2513) | [C++11 5.3.0](./uva/11518.cpp) |
 | 8 | [280 - Vertex](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=216) | [C++11 5.3.0](./uva/280.cpp) |
