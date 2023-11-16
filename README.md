@@ -22,11 +22,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 <!---
 |  | []() | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | []() | [C++ (GCC 9.2.1)](./atcoder/) |
     --->
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 172 | [C - Triangular Relationship](https://atcoder.jp/contests/abc108/tasks/arc102_a) | [C++ 20 (gcc 12.2)](./atcoder/abc108/C.cpp) |
 | 171 | [D - Take ABC](https://atcoder.jp/contests/abc328/tasks/abc328_d) | [C++ 20 (gcc 12.2)](./atcoder/abc328/D.cpp) |
 | 170 | [C - Consecutive](https://atcoder.jp/contests/abc328/tasks/abc328_c) | [C++ 20 (gcc 12.2)](./atcoder/abc328/C.cpp) |
 | 169 | [B - 11/11](https://atcoder.jp/contests/abc328/tasks/abc328_b) | [C++ 20 (gcc 12.2)](./atcoder/abc328/B.cpp) |
