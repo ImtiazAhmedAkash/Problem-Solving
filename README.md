@@ -260,6 +260,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 617 | [B - Preparing Olympiad](https://codeforces.com/contest/550/problem/B) | [GNU C++20 (64)](./codeforces/550/B.cpp) |
+| 616 | [G - 2^Sort](https://codeforces.com/contest/1692/problem/G) | [GNU C++20 (64)](./codeforces/1692/G.cpp) |
+| 615 | [D - Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | [GNU C++20 (64)](./codeforces/1690/D.cpp) |
 | 614 | [B - Lecture Sleep](https://codeforces.com/contest/961/problem/B) | [GNU C++20 (64)](./codeforces/961/B.cpp) |
 | 613 | [E - Eating Queries](https://codeforces.com/contest/1676/problem/E) | [GNU C++20 (64)](./codeforces/1676/E.cpp) |
 | 612 | [B - Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | [GNU C++20 (64)](./codeforces/433/B.cpp) |
