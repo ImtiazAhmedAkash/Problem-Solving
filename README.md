@@ -234,12 +234,18 @@ A repository to keep track of problem solving practice, containing solutions fro
 <Summary> Solutions </Summary>
 
 <!---
-|  | []() | [C++17](./codechef/.cpp) | `*` |
+|  | []() | [C++17](./codechef) |
     --->
 
-| #   | Title   | Solution   | Submitted   |
-|:---:| :------ | :--------: | :---------: |
-|  | []() | [C++17]() | |
+| #   | Title   | Solution   |
+|:---:| :------ | :--------: |
+| 7 | [DIVISIBLEBY8 - Divisible By 8](https://www.codechef.com/problems/DIVISIBLEBY8) | [C++17](./codechef/DIVISIBLEBY8.cpp) |
+| 6 | [BOX95 - Boxes](https://www.codechef.com/problems/BOX95) | [C++17](./codechef/BOX95.cpp) |
+| 5 | [MOONSOON - EVacuate to Moon](https://www.codechef.com/problems/MOONSOON) | [C++17](./codechef/MOONSOON.cpp) |
+| 4 | [ALTTAB - Alt-Tab](https://www.codechef.com/problems/ALTTAB) | [C++17](./codechef/ALTTAB.cpp) |
+| 3 | [TRANCHAIN - Transfusion Chain](https://www.codechef.com/problems/TRANCHAIN) | [C++17](./codechef/TRANCHAIN.cpp) |
+| 2 | [DOREWARD - Donation Rewards](https://www.codechef.com/problems/DOREWARD) | [C++17](./codechef/DOREWARD.cpp) |
+| 1 | [DONDRIVE - Donation Drive](https://www.codechef.com/problems/DONDRIVE) | [C++17](./codechef/DONDRIVE.cpp) |
 
 
 
