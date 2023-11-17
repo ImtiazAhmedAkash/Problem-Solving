@@ -892,19 +892,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 
 <!---
-|  | []() | [C++17](./cses/.cpp) | `` | 
+|  | []() | [C++20](./cses) |
 --->
 
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
 |  | [Exponentiation II](https://cses.fi/problemset/task/1712) | [C++17](./cses/.cpp) |
-|  | [Traffic Lights](https://cses.fi/problemset/task/1163) | [C++17](./cses/.cpp) |
-|  | [Concert Tickets](https://cses.fi/problemset/task/1091) | [C++17](./cses/.cpp) |
-|  | [Apartments](https://cses.fi/problemset/task/1084) | [C++17](./cses/.cpp) |
-|  | [Sum of Two Values](https://cses.fi/problemset/task/1640) | [C++17](./cses/.cpp) |
-|  | [Distinct Numbers](https://cses.fi/problemset/task/1621) | [C++17](./cses/.cpp) |
-|  | [Bit Strings](https://cses.fi/problemset/task/1617) | [C++17](./cses/.cpp) |
+| 13 | [Traffic Lights](https://cses.fi/problemset/task/1163) | [C++20](./cses/sorting_and_searching/1163.cpp) |
+| 12 | [Concert Tickets](https://cses.fi/problemset/task/1091) | [C++20](./cses/sorting_and_searching/1091.cpp) |
+| 11 | [Apartments](https://cses.fi/problemset/task/1084) | [C++20](./cses/sorting_and_searching/1084.cpp) |
+| 10 | [Sum of Two Values](https://cses.fi/problemset/task/1640) | [C++20](./cses/sorting_and_searching/1640.cpp) |
+| 9 | [Distinct Numbers](https://cses.fi/problemset/task/1621) | [C++20](./cses/sorting_and_searching/1621.cpp) |
+| 8 | [Bit Strings](https://cses.fi/problemset/task/1617) | [C++20](./cses/introductory_problems/1617.cpp) |
 | 7 | [Two Sets](https://cses.fi/problemset/task/1092) | [C++17](./cses/introductory_problems/1092.cpp) |
 | 6 | [Number Spiral](https://cses.fi/problemset/task/1071) | [C++17](./cses/introductory_problems/1071.cpp) |
 | 5 | [Permutations](https://cses.fi/problemset/task/1070) | [C++17](./cses/introductory_problems/1070.cpp) |
