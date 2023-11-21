@@ -916,6 +916,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
 |  | [Exponentiation II](https://cses.fi/problemset/task/1712) | [C++17](./cses/.cpp) |
+| 15 | [Forest Queries](https://cses.fi/problemset/task/1652) | [C++20](./cses/range_queries/1652.cpp) |
+| 14 | [Static Range Sum Queries](https://cses.fi/problemset/task/1646) | [C++20](./cses/range_queries/1646.cpp) |
 | 13 | [Traffic Lights](https://cses.fi/problemset/task/1163) | [C++20](./cses/sorting_and_searching/1163.cpp) |
 | 12 | [Concert Tickets](https://cses.fi/problemset/task/1091) | [C++20](./cses/sorting_and_searching/1091.cpp) |
 | 11 | [Apartments](https://cses.fi/problemset/task/1084) | [C++20](./cses/sorting_and_searching/1084.cpp) |
