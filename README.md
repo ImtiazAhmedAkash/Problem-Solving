@@ -271,6 +271,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 630 | [C - New Year and Domino](https://codeforces.com/contest/611/problem/C) | [GNU C++20 (64)](./codeforces/611/C.cpp) |
+| 629 | [B - Segment Occurrences](https://codeforces.com/contest/1016/problem/B) | [GNU C++20 (64)](./codeforces/1016/B.cpp) |
+| 628 | [B - Nikita and string](https://codeforces.com/contest/877/problem/B) | [GNU C++20 (64)](./codeforces/877/B.cpp) |
+| 627 | [C - Candies!](https://codeforces.com/contest/1189/problem/C) | [GNU C++20 (64)](./codeforces/1189/C.cpp) |
+| 626 | [B - Milena and Admirer](https://codeforces.com/contest/1898/problem/B) | [GNU C++20 (64)](./codeforces/1898/B.cpp) |
+| 625 | [A - Milica and String](https://codeforces.com/contest/1898/problem/A) | [GNU C++20 (64)](./codeforces/1898/A.cpp) |
 | 624 | [F - Alex's whims](https://codeforces.com/contest/1899/problem/F) | [GNU C++20 (64)](./codeforces/1899/F.cpp) |
 | 623 | [E - Queue Sort](https://codeforces.com/contest/1899/problem/E) | [GNU C++20 (64)](./codeforces/1899/E.cpp) |
 | 622 | [D - Yarik and Musical Notes](https://codeforces.com/contest/1899/problem/D) | [GNU C++20 (64)](./codeforces/1899/D.cpp) |
