@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 182 | [E - Mex and Update](https://atcoder.jp/contests/abc330/tasks/abc330_e) | [C++ 20 (gcc 12.2)](./atcoder/abc330/E.cpp) |
+| 181 | [D - Counting Ls](https://atcoder.jp/contests/abc330/tasks/abc330_d) | [C++ 20 (gcc 12.2)](./atcoder/abc330/D.cpp) |
+| 180 | [C - Minimize Abs 2](https://atcoder.jp/contests/abc330/tasks/abc330_c) | [C++ 20 (gcc 12.2)](./atcoder/abc330/C.cpp) |
+| 179 | [B - Minimize Abs 1](https://atcoder.jp/contests/abc330/tasks/abc330_b) | [C++ 20 (gcc 12.2)](./atcoder/abc330/B.cpp) |
+| 178 | [A - Counting Passes](https://atcoder.jp/contests/abc330/tasks/abc330_a) | [C++ 20 (gcc 12.2)](./atcoder/abc330/A.cpp) |
 | 177 | [F - Colored Ball](https://atcoder.jp/contests/abc329/tasks/abc329_f) | [C++ 20 (gcc 12.2)](./atcoder/abc329/F.cpp) |
 | 176 | [D - Election Quick Report](https://atcoder.jp/contests/abc329/tasks/abc329_d) | [C++ 20 (gcc 12.2)](./atcoder/abc329/D.cpp) |
 | 175 | [C - Count xxx](https://atcoder.jp/contests/abc329/tasks/abc329_c) | [C++ 20 (gcc 12.2)](./atcoder/abc329/C.cpp) |
