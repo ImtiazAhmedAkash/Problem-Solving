@@ -249,6 +249,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 12 | [ASH57 - Chroma Swap](https://www.codechef.com/problems/ASH57) | [C++17](./codechef/ASH57.cpp) |
+| 11 | [ALT - Alter Ego](https://www.codechef.com/problems/ALT) | [C++17](./codechef/ALT.cpp) |
+| 10 | [MINMXOR - Minimum XOR](https://www.codechef.com/problems/MINMXOR) | [C++17](./codechef/MINMXOR.cpp) |
+| 9 | [BESTOFTENNIS - Best of N Sets](https://www.codechef.com/problems/BESTOFTENNIS) | [C++17](./codechef/BESTOFTENNIS.cpp) |
+| 8 | [VIDEOWORTH - Worth of a Video](https://www.codechef.com/problems/VIDEOWORTH) | [C++17](./codechef/VIDEOWORTH.cpp) |
 | 7 | [DIVISIBLEBY8 - Divisible By 8](https://www.codechef.com/problems/DIVISIBLEBY8) | [C++17](./codechef/DIVISIBLEBY8.cpp) |
 | 6 | [BOX95 - Boxes](https://www.codechef.com/problems/BOX95) | [C++17](./codechef/BOX95.cpp) |
 | 5 | [MOONSOON - EVacuate to Moon](https://www.codechef.com/problems/MOONSOON) | [C++17](./codechef/MOONSOON.cpp) |
