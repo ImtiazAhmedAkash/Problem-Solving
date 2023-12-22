@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 186 | [E - Set Meal](https://atcoder.jp/contests/abc331/tasks/abc331_e) | [C++ 20 (gcc 12.2)](./atcoder/abc331/E.cpp) |
+| 185 | [C - Sum of Numbers Greater Than Me](https://atcoder.jp/contests/abc331/tasks/abc331_c) | [C++ 20 (gcc 12.2)](./atcoder/abc331/C.cpp) |
+| 184 | [B - Buy One Carton of Milk](https://atcoder.jp/contests/abc331/tasks/abc331_b) | [C++ 20 (gcc 12.2)](./atcoder/abc331/B.cpp) |
+| 183 | [A - Tomorrow](https://atcoder.jp/contests/abc331/tasks/abc331_a) | [C++ 20 (gcc 12.2)](./atcoder/abc331/A.cpp) |
 | 182 | [E - Mex and Update](https://atcoder.jp/contests/abc330/tasks/abc330_e) | [C++ 20 (gcc 12.2)](./atcoder/abc330/E.cpp) |
 | 181 | [D - Counting Ls](https://atcoder.jp/contests/abc330/tasks/abc330_d) | [C++ 20 (gcc 12.2)](./atcoder/abc330/D.cpp) |
 | 180 | [C - Minimize Abs 2](https://atcoder.jp/contests/abc330/tasks/abc330_c) | [C++ 20 (gcc 12.2)](./atcoder/abc330/C.cpp) |
