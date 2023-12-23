@@ -26,6 +26,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 197 | [C - Dubious Document](https://atcoder.jp/contests/abc058/tasks/arc071_a) | [C++ 20 (gcc 12.2)](./atcoder/abc058/C.cpp) |
+| 196 | [B - ∵∴∵](https://atcoder.jp/contests/abc058/tasks/abc058_b) | [C++ 20 (gcc 12.2)](./atcoder/abc058/B.cpp) |
+| 195 | [A - ι⊥l](https://atcoder.jp/contests/abc058/tasks/abc058_a) | [C++ 20 (gcc 12.2)](./atcoder/abc058/A.cpp) |
+| 194 | [C - Digits in Multiplication](https://atcoder.jp/contests/abc057/tasks/abc057_c) | [C++ 20 (gcc 12.2)](./atcoder/abc057/C.cpp) |
+| 193 | [B - Checkpoints](https://atcoder.jp/contests/abc057/tasks/abc057_b) | [C++ 20 (gcc 12.2)](./atcoder/abc057/B.cpp) |
+| 192 | [A - Remaining Time](https://atcoder.jp/contests/abc057/tasks/abc057_a) | [C++ 20 (gcc 12.2)](./atcoder/abc057/A.cpp) |
+| 191 | [D - Staircase Sequences](https://atcoder.jp/contests/abc190/tasks/abc190_d) | [C++ 20 (gcc 12.2)](./atcoder/abc190/D.cpp) |
+| 190 | [D - Five, Five Everywhere](https://atcoder.jp/contests/abc096/tasks/abc096_d) | [C++ 20 (gcc 12.2)](./atcoder/abc096/D.cpp) |
+| 189 | [C - Walk on Multiplication Table](https://atcoder.jp/contests/abc144/tasks/abc144_c) | [C++ 20 (gcc 12.2)](./atcoder/abc144/C.cpp) |
+| 188 | [D - 2017-like Number](https://atcoder.jp/contests/abc084/tasks/abc084_d) | [C++ 20 (gcc 12.2)](./atcoder/abc084/D.cpp) |
+| 187 | [D - Not Divisible](https://atcoder.jp/contests/abc170/tasks/abc170_d) | [C++ 20 (gcc 12.2)](./atcoder/abc170/D.cpp) |
 | 186 | [E - Set Meal](https://atcoder.jp/contests/abc331/tasks/abc331_e) | [C++ 20 (gcc 12.2)](./atcoder/abc331/E.cpp) |
 | 185 | [C - Sum of Numbers Greater Than Me](https://atcoder.jp/contests/abc331/tasks/abc331_c) | [C++ 20 (gcc 12.2)](./atcoder/abc331/C.cpp) |
 | 184 | [B - Buy One Carton of Milk](https://atcoder.jp/contests/abc331/tasks/abc331_b) | [C++ 20 (gcc 12.2)](./atcoder/abc331/B.cpp) |
