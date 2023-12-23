@@ -26,6 +26,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 207 | [C - Remainder Minimization 2019](https://atcoder.jp/contests/abc133/tasks/abc133_c) | [C++ 20 (gcc 12.2)](./atcoder/abc133/C.cpp) |
+| 206 | [C - Make a Rectangle](https://atcoder.jp/contests/abc071/tasks/arc081_a) | [C++ 20 (gcc 12.2)](./atcoder/abc071/C.cpp) |
+| 205 | [D - Megalomania](https://atcoder.jp/contests/abc131/tasks/abc131_d) | [C++ 20 (gcc 12.2)](./atcoder/abc131/D.cpp) |
+| 204 | [D - Integer Cards](https://atcoder.jp/contests/abc127/tasks/abc127_d) | [C++ 20 (gcc 12.2)](./atcoder/abc127/D.cpp) |
+| 203 | [B - Robot Arms](https://atcoder.jp/contests/keyence2020/tasks/keyence2020_b) | [C++ 20 (gcc 12.2)](./atcoder/keyence2020/B.cpp) |
+| 202 | [B - Gift Tax](https://atcoder.jp/contests/arc144/tasks/arc144_b) | [C++ 20 (gcc 12.2)](./atcoder/arc144/B.cpp) |
+| 201 | [E - Arithmetic Number](https://atcoder.jp/contests/abc234/tasks/abc234_e) | [C++ 20 (gcc 12.2)](./atcoder/abc234/E.cpp) |
+| 200 | [C - Special Trains](https://atcoder.jp/contests/abc084/tasks/abc084_c) | [C++ 20 (gcc 12.2)](./atcoder/abc084/C.cpp) |
+| 199 | [C - Repsept](https://atcoder.jp/contests/abc174/tasks/abc174_c) | [C++ 20 (gcc 12.2)](./atcoder/abc174/C.cpp) |
+| 198 | [D - All Assign Point Add](https://atcoder.jp/contests/abc278/tasks/abc278_d) | [C++ 20 (gcc 12.2)](./atcoder/abc278/D.cpp) |
 | 197 | [C - Dubious Document](https://atcoder.jp/contests/abc058/tasks/arc071_a) | [C++ 20 (gcc 12.2)](./atcoder/abc058/C.cpp) |
 | 196 | [B - ∵∴∵](https://atcoder.jp/contests/abc058/tasks/abc058_b) | [C++ 20 (gcc 12.2)](./atcoder/abc058/B.cpp) |
 | 195 | [A - ι⊥l](https://atcoder.jp/contests/abc058/tasks/abc058_a) | [C++ 20 (gcc 12.2)](./atcoder/abc058/A.cpp) |
