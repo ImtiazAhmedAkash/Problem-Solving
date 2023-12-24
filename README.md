@@ -26,6 +26,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 217 | [C - Product](https://atcoder.jp/contests/abc233/tasks/abc233_c) | [C++ 20 (gcc 12.2)](./atcoder/abc233/C.cpp) |
+| 216 | [D - Floor Function](https://atcoder.jp/contests/abc165/tasks/abc165_d) | [C++ 20 (gcc 12.2)](./atcoder/abc165/D.cpp) |
+| 215 | [D - Hachi](https://atcoder.jp/contests/abc181/tasks/abc181_d) | [C++ 20 (gcc 12.2)](./atcoder/abc181/D.cpp) |
+| 214 | [A - Trailing Zeros](https://atcoder.jp/contests/arc139/tasks/arc139_a) | [C++ 20 (gcc 12.2)](./atcoder/arc139/A.cpp) |
+| 213 | [C - Green Bin](https://atcoder.jp/contests/abc137/tasks/abc137_c) | [C++ 20 (gcc 12.2)](./atcoder/abc137/C.cpp) |
+| 212 | [C - Multiplication 3](https://atcoder.jp/contests/abc169/tasks/abc169_c) | [C++ 20 (gcc 12.2)](./atcoder/abc169/C.cpp) |
+| 211 | [D - Range Count Query](https://atcoder.jp/contests/abc248/tasks/abc248_d) | [C++ 20 (gcc 12.2)](./atcoder/abc248/D.cpp) |
+| 210 | [D - Poisonous Full-Course](https://atcoder.jp/contests/abc306/tasks/abc306_d) | [C++ 20 (gcc 12.2)](./atcoder/abc306/D.cpp) |
+| 209 | [A - AB Palindrome](https://atcoder.jp/contests/arc145/tasks/arc145_a) | [C++ 20 (gcc 12.2)](./atcoder/arc145/A.cpp) |
+| 208 | [C - Skill Up](https://atcoder.jp/contests/abc167/tasks/abc167_c) | [C++ 20 (gcc 12.2)](./atcoder/abc167/C.cpp) |
 | 207 | [C - Remainder Minimization 2019](https://atcoder.jp/contests/abc133/tasks/abc133_c) | [C++ 20 (gcc 12.2)](./atcoder/abc133/C.cpp) |
 | 206 | [C - Make a Rectangle](https://atcoder.jp/contests/abc071/tasks/arc081_a) | [C++ 20 (gcc 12.2)](./atcoder/abc071/C.cpp) |
 | 205 | [D - Megalomania](https://atcoder.jp/contests/abc131/tasks/abc131_d) | [C++ 20 (gcc 12.2)](./atcoder/abc131/D.cpp) |
