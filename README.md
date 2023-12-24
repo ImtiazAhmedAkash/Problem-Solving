@@ -26,6 +26,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 224 | [D - Reindeer and Sleigh](https://atcoder.jp/contests/abc334/tasks/abc334_d) | [C++ 20 (gcc 12.2)](./atcoder/abc334/D.cpp) |
+| 223 | [C - Socks 2](https://atcoder.jp/contests/abc334/tasks/abc334_c) | [C++ 20 (gcc 12.2)](./atcoder/abc334/C.cpp) |
+| 222 | [B - Christmas Trees](https://atcoder.jp/contests/abc334/tasks/abc334_b) | [C++ 20 (gcc 12.2)](./atcoder/abc334/B.cpp) |
+| 221 | [A - Christmas Present](https://atcoder.jp/contests/abc334/tasks/abc334_a) | [C++ 20 (gcc 12.2)](./atcoder/abc334/A.cpp) |
+| 220 | [A - Sorted Arrays](https://atcoder.jp/contests/agc013/tasks/agc013_a) | [C++ 20 (gcc 12.2)](./atcoder/agc013/A.cpp) |
+| 219 | [C - RANDOM](https://atcoder.jp/contests/abc279/tasks/abc279_c) | [C++ 20 (gcc 12.2)](./atcoder/abc279/C.cpp) |
+| 218 | [D - Yet Another Recursive Function](https://atcoder.jp/contests/abc275/tasks/abc275_d) | [C++ 20 (gcc 12.2)](./atcoder/abc275/D.cpp) |
 | 217 | [C - Product](https://atcoder.jp/contests/abc233/tasks/abc233_c) | [C++ 20 (gcc 12.2)](./atcoder/abc233/C.cpp) |
 | 216 | [D - Floor Function](https://atcoder.jp/contests/abc165/tasks/abc165_d) | [C++ 20 (gcc 12.2)](./atcoder/abc165/D.cpp) |
 | 215 | [D - Hachi](https://atcoder.jp/contests/abc181/tasks/abc181_d) | [C++ 20 (gcc 12.2)](./atcoder/abc181/D.cpp) |
