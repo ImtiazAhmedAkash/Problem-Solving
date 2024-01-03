@@ -30,7 +30,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 | 247 | [A - Ternary Decomposition](https://atcoder.jp/contests/arc164/tasks/arc164_a) | [C++ 20 (gcc 12.2)](./atcoder/arc164/A.cpp) |
 | 246 | [A - Divide a Cuboid](https://atcoder.jp/contests/agc004/tasks/agc004_a) | [C++ 20 (gcc 12.2)](./atcoder/agc004/A.cpp) |
 | 245 | [C - pushpush](https://atcoder.jp/contests/abc066/tasks/arc077_a) | [C++ 20 (gcc 12.2)](./atcoder/abc066/C.cpp) |
-| 244 | [A - Reverse and Minimizehttps://atcoder.jp/contests/arc142/tasks/arc142_a]() | [C++ 20 (gcc 12.2)](./atcoder/arc142/A.cpp) |
+| 244 | [A - Reverse and Minimize](https://atcoder.jp/contests/arc142/tasks/arc142_a) | [C++ 20 (gcc 12.2)](./atcoder/arc142/A.cpp) |
 | 243 | [D - Step Up Robot](https://atcoder.jp/contests/abc289/tasks/abc289_d) | [C++ 20 (gcc 12.2)](./atcoder/abc289/D.cpp) |
 | 242 | [C - When I hit my pocket...](https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_c) | [C++ 20 (gcc 12.2)](./atcoder/yahoo-procon2019-qual/C.cpp) |
 | 241 | [D - Union of Interval](https://atcoder.jp/contests/abc256/tasks/abc256_d) | [C++ 20 (gcc 12.2)](./atcoder/abc256/D.cpp) |
