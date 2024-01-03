@@ -26,6 +26,30 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 248 | [C - Colorful Leaderboard](https://atcoder.jp/contests/abc064/tasks/abc064_c) | [C++ 20 (gcc 12.2)](./atcoder/abc064/C.cpp) |
+| 247 | [A - Ternary Decomposition](https://atcoder.jp/contests/arc164/tasks/arc164_a) | [C++ 20 (gcc 12.2)](./atcoder/arc164/A.cpp) |
+| 246 | [A - Divide a Cuboid](https://atcoder.jp/contests/agc004/tasks/agc004_a) | [C++ 20 (gcc 12.2)](./atcoder/agc004/A.cpp) |
+| 245 | [C - pushpush](https://atcoder.jp/contests/abc066/tasks/arc077_a) | [C++ 20 (gcc 12.2)](./atcoder/abc066/C.cpp) |
+| 244 | [A - Reverse and Minimizehttps://atcoder.jp/contests/arc142/tasks/arc142_a]() | [C++ 20 (gcc 12.2)](./atcoder/arc142/A.cpp) |
+| 243 | [D - Step Up Robot](https://atcoder.jp/contests/abc289/tasks/abc289_d) | [C++ 20 (gcc 12.2)](./atcoder/abc289/D.cpp) |
+| 242 | [C - When I hit my pocket...](https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_c) | [C++ 20 (gcc 12.2)](./atcoder/yahoo-procon2019-qual/C.cpp) |
+| 241 | [D - Union of Interval](https://atcoder.jp/contests/abc256/tasks/abc256_d) | [C++ 20 (gcc 12.2)](./atcoder/abc256/D.cpp) |
+| 240 | [D - LR insertion](https://atcoder.jp/contests/abc237/tasks/abc237_d) | [C++ 20 (gcc 12.2)](./atcoder/abc237/D.cpp) |
+| 239 | [C - Grand Garden](https://atcoder.jp/contests/abc116/tasks/abc116_c) | [C++ 20 (gcc 12.2)](./atcoder/abc116/C.cpp) |
+| 238 | [C - Skip](https://atcoder.jp/contests/abc109/tasks/abc109_c) | [C++ 20 (gcc 12.2)](./atcoder/abc109/C.cpp) |
+| 237 | [D - Weak Takahashi](https://atcoder.jp/contests/abc232/tasks/abc232_d) | [C++ 20 (gcc 12.2)](./atcoder/abc232/D.cpp) |
+| 236 | [C - Martial artist](https://atcoder.jp/contests/abc226/tasks/abc226_c) | [C++ 20 (gcc 12.2)](./atcoder/abc226/C.cpp) |
+| 235 | [C - Ladder Takahashi](https://atcoder.jp/contests/abc277/tasks/abc277_c) | [C++ 20 (gcc 12.2)](./atcoder/abc277/C.cpp) |
+| 234 | [B - RGB Boxes](https://atcoder.jp/contests/diverta2019/tasks/diverta2019_b) | [C++ 20 (gcc 12.2)](./atcoder/diverta2019/B.cpp) |
+| 233 | [C - Index × A(Continuous ver.)](https://atcoder.jp/contests/abc267/tasks/abc267_c) | [C++ 20 (gcc 12.2)](./atcoder/abc267/C.cpp) |
+| 232 | [C - Just K](https://atcoder.jp/contests/abc249/tasks/abc249_c) | [C++ 20 (gcc 12.2)](./atcoder/abc249/C.cpp) |
+| 231 | [C - K Swap](https://atcoder.jp/contests/abc254/tasks/abc254_c) | [C++ 20 (gcc 12.2)](./atcoder/abc254/C.cpp) |
+| 230 | [D - FizzBuzz Sum Hard](https://atcoder.jp/contests/abc253/tasks/abc253_d) | [C++ 20 (gcc 12.2)](./atcoder/abc253/D.cpp) |
+| 229 | [C - Anti-Division](https://atcoder.jp/contests/abc131/tasks/abc131_c) | [C++ 20 (gcc 12.2)](./atcoder/abc131/C.cpp) |
+| 228 | [C - Max - Min Query](https://atcoder.jp/contests/abc253/tasks/abc253_c) | [C++ 20 (gcc 12.2)](./atcoder/abc253/C.cpp) |
+| 227 | [C - Adjacent Swaps](https://atcoder.jp/contests/abc250/tasks/abc250_c) | [C++ 20 (gcc 12.2)](./atcoder/abc250/C.cpp) |
+| 226 | [A - Prefix and Suffix](https://atcoder.jp/contests/agc006/tasks/agc006_a) | [C++ 20 (gcc 12.2)](./atcoder/agc006/A.cpp) |
+| 225 | [C - Flip,Flip, and Flip......](https://atcoder.jp/contests/abc090/tasks/arc091_a) | [C++ 20 (gcc 12.2)](./atcoder/abc090/C.cpp) |
 | 224 | [D - Reindeer and Sleigh](https://atcoder.jp/contests/abc334/tasks/abc334_d) | [C++ 20 (gcc 12.2)](./atcoder/abc334/D.cpp) |
 | 223 | [C - Socks 2](https://atcoder.jp/contests/abc334/tasks/abc334_c) | [C++ 20 (gcc 12.2)](./atcoder/abc334/C.cpp) |
 | 222 | [B - Christmas Trees](https://atcoder.jp/contests/abc334/tasks/abc334_b) | [C++ 20 (gcc 12.2)](./atcoder/abc334/B.cpp) |
