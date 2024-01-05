@@ -26,6 +26,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 260 | [C - Slot Strategy 2 (Easy)](https://atcoder.jp/contests/abc320/tasks/abc320_c) | [C++ 20 (gcc 12.2)](./atcoder/abc320/C.cpp) |
 | 259 | [F - Programming Contest](https://atcoder.jp/contests/abc184/tasks/abc184_f) | [C++ 20 (gcc 12.2)](./atcoder/abc184/F.cpp) |
 | 258 | [E - Third Avenue](https://atcoder.jp/contests/abc184/tasks/abc184_e) | [C++ 20 (gcc 12.2)](./atcoder/abc184/E.cpp) |
 | 257 | [C - Super Ryuma](https://atcoder.jp/contests/abc184/tasks/abc184_c) | [C++ 20 (gcc 12.2)](./atcoder/abc184/C.cpp) |
