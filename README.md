@@ -327,6 +327,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 22 | [MAKE0 - Make All Zero](https://www.codechef.com/problems/MAKE0) | [C++17](./codechef/MAKE0.cpp) |
+| 21 | [GREEDYLIS - Greedy LIS Algorithm](https://www.codechef.com/problems/GREEDYLIS) | [C++17](./codechef/GREEDYLIS.cpp) |
+| 20 | [APLUSB - A PLUS B Remastered](https://www.codechef.com/problems/APLUSB) | [C++17](./codechef/APLUSB.cpp) |
+| 19 | [CHRISDECOR - Decorating Christmas Tree](https://www.codechef.com/problems/CHRISDECOR) | [C++17](./codechef/CHRISDECOR.cpp) |
+| 18 | [BEAUTYSTR - Beautiful Strings](https://www.codechef.com/problems/BEAUTYSTR) | [C++17](./codechef/BEAUTYSTR.cpp) |
+| 17 | [FIX - Prefixing](https://www.codechef.com/problems/FIX) | [C++17](./codechef/FIX.cpp) |
+| 16 | [CODETOWN - Reach Codetown](https://www.codechef.com/problems/CODETOWN) | [C++17](./codechef/CODETOWN.cpp) |
+| 15 | [SPCP5 - Monsters](https://www.codechef.com/problems/SPCP5) | [C++17](./codechef/SPCP5.cpp) |
+| 14 | [SPCP4 - Am I Lucky!](https://www.codechef.com/problems/SPCP4) | [C++17](./codechef/SPCP4.cpp) |
+| 13 | [SPCP3 - Marbles](https://www.codechef.com/problems/SPCP3) | [C++17](./codechef/SPCP3.cpp) |
 | 12 | [ASH57 - Chroma Swap](https://www.codechef.com/problems/ASH57) | [C++17](./codechef/ASH57.cpp) |
 | 11 | [ALT - Alter Ego](https://www.codechef.com/problems/ALT) | [C++17](./codechef/ALT.cpp) |
 | 10 | [MINMXOR - Minimum XOR](https://www.codechef.com/problems/MINMXOR) | [C++17](./codechef/MINMXOR.cpp) |
