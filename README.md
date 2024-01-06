@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 264 | [D - Loong and Takahashi](https://atcoder.jp/contests/abc335/tasks/abc335_d) | [C++ 20 (gcc 12.2)](./atcoder/abc335/D.cpp) |
+| 263 | [C - Loong Tracking](https://atcoder.jp/contests/abc335/tasks/abc335_c) | [C++ 20 (gcc 12.2)](./atcoder/abc335/C.cpp) |
+| 262 | [B - Tetrahedral Number](https://atcoder.jp/contests/abc335/tasks/abc335_b) | [C++ 20 (gcc 12.2)](./atcoder/abc335/B.cpp) |
+| 261 | [A - 202<s>3</s>](https://atcoder.jp/contests/abc335/tasks/abc335_a) | [C++ 20 (gcc 12.2)](./atcoder/abc335/A.cpp) |
 | 260 | [C - Slot Strategy 2 (Easy)](https://atcoder.jp/contests/abc320/tasks/abc320_c) | [C++ 20 (gcc 12.2)](./atcoder/abc320/C.cpp) |
 | 259 | [F - Programming Contest](https://atcoder.jp/contests/abc184/tasks/abc184_f) | [C++ 20 (gcc 12.2)](./atcoder/abc184/F.cpp) |
 | 258 | [E - Third Avenue](https://atcoder.jp/contests/abc184/tasks/abc184_e) | [C++ 20 (gcc 12.2)](./atcoder/abc184/E.cpp) |
