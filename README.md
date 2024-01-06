@@ -327,6 +327,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 23 | [LCMMANIA - LCM Mania](https://www.codechef.com/problems/LCMMANIA) | [C++17](./codechef/LCMMANIA.cpp) |
 | 22 | [MAKE0 - Make All Zero](https://www.codechef.com/problems/MAKE0) | [C++17](./codechef/MAKE0.cpp) |
 | 21 | [GREEDYLIS - Greedy LIS Algorithm](https://www.codechef.com/problems/GREEDYLIS) | [C++17](./codechef/GREEDYLIS.cpp) |
 | 20 | [APLUSB - A PLUS B Remastered](https://www.codechef.com/problems/APLUSB) | [C++17](./codechef/APLUSB.cpp) |
@@ -369,6 +370,45 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [E2 - Game with Marbles (Hard Version)](https://codeforces.com/contest/1914/problem/E2) | [GNU C++20 (64)](./codeforces/) |
+|  | [E1 - Game with Marbles (Easy Version)](https://codeforces.com/contest/1914/problem/E1) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - Three Activities](https://codeforces.com/contest/1914/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Heavy Intervals](https://codeforces.com/contest/1909/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Distinct Buttons](https://codeforces.com/contest/1909/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Quests](https://codeforces.com/contest/1914/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Preparing for the Contest](https://codeforces.com/contest/1914/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Problemsolving Log](https://codeforces.com/contest/1914/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Game with Multiset](https://codeforces.com/contest/1913/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Swap and Delete](https://codeforces.com/contest/1913/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Rating Increase](https://codeforces.com/contest/1913/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Array Game](https://codeforces.com/contest/1904/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Collecting Game](https://codeforces.com/contest/1904/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Forked!](https://codeforces.com/contest/1904/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Random Teams](https://codeforces.com/contest/478/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - Jumping Through Segments](https://codeforces.com/contest/1907/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Removal of Unattractive Pairs](https://codeforces.com/contest/1907/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - YetnotherrokenKeoard](https://codeforces.com/contest/1907/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Rook](https://codeforces.com/contest/1907/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Insert and Equalize](https://codeforces.com/contest/1902/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Getting Points](https://codeforces.com/contest/1902/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Binary Imbalance](https://codeforces.com/contest/1902/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Multitasking](https://codeforces.com/contest/384/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [D1 - Maximum And Queries (easy version)](https://codeforces.com/contest/1903/problem/D1) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Theofanis' Nightmare](https://codeforces.com/contest/1903/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - StORage room](https://codeforces.com/contest/1903/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Halloumi Boxes](https://codeforces.com/contest/1903/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [E - Iva & Pav](https://codeforces.com/contest/1878/problem/E) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Anji's Binary Tree](https://codeforces.com/contest/1900/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Laura and Operations](https://codeforces.com/contest/1900/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Cover in Water](https://codeforces.com/contest/1900/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Matching Arrays](https://codeforces.com/contest/1896/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - AB Flipping](https://codeforces.com/contest/1896/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - Yet Another Monster Fight](https://codeforces.com/contest/1901/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Add, Divide and Floor](https://codeforces.com/contest/1901/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Chip and Ribbon](https://codeforces.com/contest/1901/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Line Trip](https://codeforces.com/contest/1901/problem/A) | [GNU C++20 (64)](./codeforces/) |
 | 630 | [C - New Year and Domino](https://codeforces.com/contest/611/problem/C) | [GNU C++20 (64)](./codeforces/611/C.cpp) |
 | 629 | [B - Segment Occurrences](https://codeforces.com/contest/1016/problem/B) | [GNU C++20 (64)](./codeforces/1016/B.cpp) |
 | 628 | [B - Nikita and string](https://codeforces.com/contest/877/problem/B) | [GNU C++20 (64)](./codeforces/877/B.cpp) |
