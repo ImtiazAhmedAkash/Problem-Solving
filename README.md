@@ -26,6 +26,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 267 | [C - Dubious Document 2](https://atcoder.jp/contests/abc076/tasks/abc076_c) | [C++ 20 (gcc 12.2)](./atcoder/abc076/C.cpp) |
+| 266 | [B - Addition and Multiplication](https://atcoder.jp/contests/abc076/tasks/abc076_b) | [C++ 20 (gcc 12.2)](./atcoder/abc076/B.cpp) |
+| 265 | [A - Rating Goal](https://atcoder.jp/contests/abc076/tasks/abc076_a) | [C++ 20 (gcc 12.2)](./atcoder/abc076/A.cpp) |
 | 264 | [D - Loong and Takahashi](https://atcoder.jp/contests/abc335/tasks/abc335_d) | [C++ 20 (gcc 12.2)](./atcoder/abc335/D.cpp) |
 | 263 | [C - Loong Tracking](https://atcoder.jp/contests/abc335/tasks/abc335_c) | [C++ 20 (gcc 12.2)](./atcoder/abc335/C.cpp) |
 | 262 | [B - Tetrahedral Number](https://atcoder.jp/contests/abc335/tasks/abc335_b) | [C++ 20 (gcc 12.2)](./atcoder/abc335/B.cpp) |
