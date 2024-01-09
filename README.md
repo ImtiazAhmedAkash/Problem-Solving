@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 272 | [E - Sorting Queries](https://atcoder.jp/contests/abc217/tasks/abc217_e) | [C++ 20 (gcc 12.2)](./atcoder/abc217/E.cpp) |
+| 271 | [D - Cutting Woods](https://atcoder.jp/contests/abc217/tasks/abc217_d) | [C++ 20 (gcc 12.2)](./atcoder/abc217/D.cpp) |
+| 270 | [C - Inverse of Permutation](https://atcoder.jp/contests/abc217/tasks/abc217_c) | [C++ 20 (gcc 12.2)](./atcoder/abc217/C.cpp) |
+| 269 | [B - AtCoder Quiz](https://atcoder.jp/contests/abc217/tasks/abc217_b) | [C++ 20 (gcc 12.2)](./atcoder/abc217/B.cpp) |
+| 268 | [A - Lexicographic Order](https://atcoder.jp/contests/abc217/tasks/abc217_a) | [C++ 20 (gcc 12.2)](./atcoder/abc217/A.cpp) |
 | 267 | [C - Dubious Document 2](https://atcoder.jp/contests/abc076/tasks/abc076_c) | [C++ 20 (gcc 12.2)](./atcoder/abc076/C.cpp) |
 | 266 | [B - Addition and Multiplication](https://atcoder.jp/contests/abc076/tasks/abc076_b) | [C++ 20 (gcc 12.2)](./atcoder/abc076/B.cpp) |
 | 265 | [A - Rating Goal](https://atcoder.jp/contests/abc076/tasks/abc076_a) | [C++ 20 (gcc 12.2)](./atcoder/abc076/A.cpp) |
