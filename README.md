@@ -377,6 +377,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 683 | [G - Coprime Segment](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/G) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step2/G.cpp) |
+| 682 | [F - Segments with Small Spread](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step2/F.cpp) |
+| 681 | [E - Segments with Small Set](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/E) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step2/E.cpp) |
+| 680 | [D - Number of Segments with Big Sum](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/D) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step2/D.cpp) |
+| 679 | [C - Number of Segments with Small Sum](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/C) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step2/C.cpp) |
+| 678 | [B - Segment with Big Sum](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/B) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step2/B.cpp) |
+| 677 | [A - Segment with Small Sum](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/A) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step2/A.cpp) |
+| 676 | [C - Number of Equal](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/C) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step1/C.cpp) |
+| 675 | [B - Number of Smaller](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/B) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step1/B.cpp) |
+| 674 | [A - Merging Arrays](https://codeforces.com/edu/course/2/lesson/9/1/practice/contest/307092/problem/A) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step1/A.cpp) |
 | 673 | [C - Removing Smallest Multiples](https://codeforces.com/contest/1734/problem/C) | [GNU C++20 (64)](./codeforces/1734/C.cpp) |
 | 672 | [C - Grouping Increases](https://codeforces.com/contest/1919/problem/C) | [GNU C++20 (64)](./codeforces/1919/C.cpp) |
 | 671 | [B - Plus-Minus Split](https://codeforces.com/contest/1919/problem/B) | [GNU C++20 (64)](./codeforces/1919/B.cpp) |
