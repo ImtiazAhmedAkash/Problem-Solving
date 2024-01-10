@@ -26,6 +26,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [D - Enough Array](https://atcoder.jp/contests/abc130/tasks/abc130_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
 | 272 | [E - Sorting Queries](https://atcoder.jp/contests/abc217/tasks/abc217_e) | [C++ 20 (gcc 12.2)](./atcoder/abc217/E.cpp) |
 | 271 | [D - Cutting Woods](https://atcoder.jp/contests/abc217/tasks/abc217_d) | [C++ 20 (gcc 12.2)](./atcoder/abc217/D.cpp) |
 | 270 | [C - Inverse of Permutation](https://atcoder.jp/contests/abc217/tasks/abc217_c) | [C++ 20 (gcc 12.2)](./atcoder/abc217/C.cpp) |
@@ -382,6 +383,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [C - They Are Everywhere](https://codeforces.com/contest/701/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Books](https://codeforces.com/contest/279/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Che city](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Total Length](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Looped Playlist](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/A) | [GNU C++20 (64)](./codeforces/) |
 | 683 | [G - Coprime Segment](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/G) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step2/G.cpp) |
 | 682 | [F - Segments with Small Spread](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step2/F.cpp) |
 | 681 | [E - Segments with Small Set](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/E) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step2/E.cpp) |
@@ -1086,6 +1092,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
 |  | [Exponentiation II](https://cses.fi/problemset/task/1712) | [C++17](./cses/.cpp) |
+| 18 | [Subarray Sums II](https://cses.fi/problemset/task/1661) | [C++20](./cses/sorting_and_searching/1661.cpp) |
+| 17 | [Subarray Sums I](https://cses.fi/problemset/task/1660) | [C++20](./cses/sorting_and_searching/1660.cpp) |
+| 16 | [Playlist](https://cses.fi/problemset/task/1141) | [C++20](./cses/sorting_and_searching/1141.cpp) |
 | 15 | [Forest Queries](https://cses.fi/problemset/task/1652) | [C++20](./cses/range_queries/1652.cpp) |
 | 14 | [Static Range Sum Queries](https://cses.fi/problemset/task/1646) | [C++20](./cses/range_queries/1646.cpp) |
 | 13 | [Traffic Lights](https://cses.fi/problemset/task/1163) | [C++20](./cses/sorting_and_searching/1163.cpp) |
