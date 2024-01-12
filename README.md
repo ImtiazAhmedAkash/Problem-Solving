@@ -340,6 +340,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 28 | [HATTRICK - Hattrick](https://www.codechef.com/problems/HATTRICK) | [C++17](./codechef/HATTRICK.cpp) |
+| 27 | [MINWAGE - Minimum Wage](https://www.codechef.com/problems/MINWAGE) | [C++17](./codechef/MINWAGE.cpp) |
+| 26 | [CHEFPRODUCT - Chef Product](https://www.codechef.com/problems/CHEFPRODUCT) | [C++17](./codechef/CHEFPRODUCT.cpp) |
+| 25 | [SRTO3 - ORST](https://www.codechef.com/problems/SRTO3) | [C++17](./codechef/SRTO3.cpp) |
+| 24 | [ACCESS - Access Control](https://www.codechef.com/problems/ACCESS) | [C++17](./codechef/ACCESS.cpp) |
 | 23 | [LCMMANIA - LCM Mania](https://www.codechef.com/problems/LCMMANIA) | [C++17](./codechef/LCMMANIA.cpp) |
 | 22 | [MAKE0 - Make All Zero](https://www.codechef.com/problems/MAKE0) | [C++17](./codechef/MAKE0.cpp) |
 | 21 | [GREEDYLIS - Greedy LIS Algorithm](https://www.codechef.com/problems/GREEDYLIS) | [C++17](./codechef/GREEDYLIS.cpp) |
