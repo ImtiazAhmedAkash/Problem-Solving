@@ -45,7 +45,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 | 264 | [D - Loong and Takahashi](https://atcoder.jp/contests/abc335/tasks/abc335_d) | [C++ 20 (gcc 12.2)](./atcoder/abc335/D.cpp) |
 | 263 | [C - Loong Tracking](https://atcoder.jp/contests/abc335/tasks/abc335_c) | [C++ 20 (gcc 12.2)](./atcoder/abc335/C.cpp) |
 | 262 | [B - Tetrahedral Number](https://atcoder.jp/contests/abc335/tasks/abc335_b) | [C++ 20 (gcc 12.2)](./atcoder/abc335/B.cpp) |
-| 261 | [A - 202<s>3</s>](https://atcoder.jp/contests/abc335/tasks/abc335_a) | [C++ 20 (gcc 12.2)](./atcoder/abc335/A.cpp) |
+| 261 | [A - 202&lt;s&gt;3&lt;/s&gt;](https://atcoder.jp/contests/abc335/tasks/abc335_a) | [C++ 20 (gcc 12.2)](./atcoder/abc335/A.cpp) |
 | 260 | [C - Slot Strategy 2 (Easy)](https://atcoder.jp/contests/abc320/tasks/abc320_c) | [C++ 20 (gcc 12.2)](./atcoder/abc320/C.cpp) |
 | 259 | [F - Programming Contest](https://atcoder.jp/contests/abc184/tasks/abc184_f) | [C++ 20 (gcc 12.2)](./atcoder/abc184/F.cpp) |
 | 258 | [E - Third Avenue](https://atcoder.jp/contests/abc184/tasks/abc184_e) | [C++ 20 (gcc 12.2)](./atcoder/abc184/E.cpp) |
@@ -395,6 +395,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 697 | [C - Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | [GNU C++20 (64)](./codeforces/1920/C.cpp) |
+| 696 | [B - Summation Game](https://codeforces.com/contest/1920/problem/B) | [GNU C++20 (64)](./codeforces/1920/B.cpp) |
+| 695 | [A - Satisfying Constraints](https://codeforces.com/contest/1920/problem/A) | [GNU C++20 (64)](./codeforces/1920/A.cpp) |
+| 694 | [C - Quiz Master](https://codeforces.com/contest/1777/problem/C) | [GNU C++20 (64)](./codeforces/1777/C.cpp) |
+|  | [H - A-B Knapsack](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/H) | [GNU C++20 (64)](./codeforces/) |
+|  | [G - Not Very Rude Substring](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/G) | [GNU C++20 (64)](./codeforces/) |
+|  | [F - Card Substrings](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/F) | [GNU C++20 (64)](./codeforces/) |
+|  | [E - Knapsack on a Segment](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/E) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - Stylish clothes](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/D) | [GNU C++20 (64)](./codeforces/) |
 |  | [C - They Are Everywhere](https://codeforces.com/contest/701/problem/C) | [GNU C++20 (64)](./codeforces/) |
 |  | [B - Books](https://codeforces.com/contest/279/problem/B) | [GNU C++20 (64)](./codeforces/) |
 |  | [C - Che city](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/C) | [GNU C++20 (64)](./codeforces/) |
