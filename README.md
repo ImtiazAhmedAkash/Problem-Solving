@@ -26,7 +26,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
-|  | [D - Enough Array](https://atcoder.jp/contests/abc130/tasks/abc130_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+| 280 | [D - Flipping and Bonus](https://atcoder.jp/contests/abc261/tasks/abc261_d) | [C++ 20 (gcc 12.2)](./atcoder/abc261/D.cpp) |
+| 279 | [C - NewFolder(1)](https://atcoder.jp/contests/abc261/tasks/abc261_c) | [C++ 20 (gcc 12.2)](./atcoder/abc261/C.cpp) |
+| 278 | [B - Tournament Result](https://atcoder.jp/contests/abc261/tasks/abc261_b) | [C++ 20 (gcc 12.2)](./atcoder/abc261/B.cpp) |
+| 277 | [A - Intersection](https://atcoder.jp/contests/abc261/tasks/abc261_a) | [C++ 20 (gcc 12.2)](./atcoder/abc261/A.cpp) |
+| 276 | [C - Divide the Problems](https://atcoder.jp/contests/abc132/tasks/abc132_c) | [C++ 20 (gcc 12.2)](./atcoder/abc132/C.cpp) |
+| 275 | [B - Ordinary Number](https://atcoder.jp/contests/abc132/tasks/abc132_b) | [C++ 20 (gcc 12.2)](./atcoder/abc132/B.cpp) |
+| 274 | [A - Fifty-Fifty](https://atcoder.jp/contests/abc132/tasks/abc132_a) | [C++ 20 (gcc 12.2)](./atcoder/abc132/A.cpp) |
+| 273 | [D - Enough Array](https://atcoder.jp/contests/abc130/tasks/abc130_d) | [C++ 20 (gcc 12.2)](./atcoder/abc130/D.cpp) |
 | 272 | [E - Sorting Queries](https://atcoder.jp/contests/abc217/tasks/abc217_e) | [C++ 20 (gcc 12.2)](./atcoder/abc217/E.cpp) |
 | 271 | [D - Cutting Woods](https://atcoder.jp/contests/abc217/tasks/abc217_d) | [C++ 20 (gcc 12.2)](./atcoder/abc217/D.cpp) |
 | 270 | [C - Inverse of Permutation](https://atcoder.jp/contests/abc217/tasks/abc217_c) | [C++ 20 (gcc 12.2)](./atcoder/abc217/C.cpp) |
