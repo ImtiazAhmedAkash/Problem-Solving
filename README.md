@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 284 | [D - Pyramid](https://atcoder.jp/contests/abc336/tasks/abc336_d) | [C++ 20 (gcc 12.2)](./atcoder/abc336/D.cpp) |
+| 283 | [C - Even Digits](https://atcoder.jp/contests/abc336/tasks/abc336_c) | [C++ 20 (gcc 12.2)](./atcoder/abc336/C.cpp) |
+| 282 | [B - CTZ](https://atcoder.jp/contests/abc336/tasks/abc336_b) | [C++ 20 (gcc 12.2)](./atcoder/abc336/B.cpp) |
+| 281 | [A - Long Loong](https://atcoder.jp/contests/abc336/tasks/abc336_a) | [C++ 20 (gcc 12.2)](./atcoder/abc336/A.cpp) |
 | 280 | [D - Flipping and Bonus](https://atcoder.jp/contests/abc261/tasks/abc261_d) | [C++ 20 (gcc 12.2)](./atcoder/abc261/D.cpp) |
 | 279 | [C - NewFolder(1)](https://atcoder.jp/contests/abc261/tasks/abc261_c) | [C++ 20 (gcc 12.2)](./atcoder/abc261/C.cpp) |
 | 278 | [B - Tournament Result](https://atcoder.jp/contests/abc261/tasks/abc261_b) | [C++ 20 (gcc 12.2)](./atcoder/abc261/B.cpp) |
