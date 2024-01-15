@@ -1117,6 +1117,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
 |  | [Exponentiation II](https://cses.fi/problemset/task/1712) | [C++17](./cses/.cpp) |
+| 20 | [Sliding Window Median](https://cses.fi/problemset/task/1076) | [C++20](./cses/sorting_and_searching/1076.cpp) |
+| 19 | [Subarray Distinct Values](https://cses.fi/problemset/task/2428) | [C++20](./cses/sorting_and_searching/2428.cpp) |
 | 18 | [Subarray Sums II](https://cses.fi/problemset/task/1661) | [C++20](./cses/sorting_and_searching/1661.cpp) |
 | 17 | [Subarray Sums I](https://cses.fi/problemset/task/1660) | [C++20](./cses/sorting_and_searching/1660.cpp) |
 | 16 | [Playlist](https://cses.fi/problemset/task/1141) | [C++20](./cses/sorting_and_searching/1141.cpp) |
