@@ -403,16 +403,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 | 696 | [B - Summation Game](https://codeforces.com/contest/1920/problem/B) | [GNU C++20 (64)](./codeforces/1920/B.cpp) |
 | 695 | [A - Satisfying Constraints](https://codeforces.com/contest/1920/problem/A) | [GNU C++20 (64)](./codeforces/1920/A.cpp) |
 | 694 | [C - Quiz Master](https://codeforces.com/contest/1777/problem/C) | [GNU C++20 (64)](./codeforces/1777/C.cpp) |
-|  | [H - A-B Knapsack](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/H) | [GNU C++20 (64)](./codeforces/) |
-|  | [G - Not Very Rude Substring](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/G) | [GNU C++20 (64)](./codeforces/) |
-|  | [F - Card Substrings](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/F) | [GNU C++20 (64)](./codeforces/) |
-|  | [E - Knapsack on a Segment](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/E) | [GNU C++20 (64)](./codeforces/) |
-|  | [D - Stylish clothes](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/D) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - They Are Everywhere](https://codeforces.com/contest/701/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Books](https://codeforces.com/contest/279/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - Che city](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/C) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Total Length](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Looped Playlist](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/A) | [GNU C++20 (64)](./codeforces/) |
+| 693 | [H - A-B Knapsack](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/H) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step3/H.cpp) |
+| 692 | [G - Not Very Rude Substring](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/G) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step3/G.cpp) |
+| 691 | [F - Card Substrings](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/F) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step3/F.cpp) |
+| 690 | [E - Knapsack on a Segment](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/E) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step3/E.cpp) |
+| 689 | [D - Stylish clothes](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/D) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step3/D.cpp) |
+| 688 | [C - They Are Everywhere](https://codeforces.com/contest/701/problem/C) | [GNU C++20 (64)](./codeforces/701/C.cpp) |
+| 687 | [B - Books](https://codeforces.com/contest/279/problem/B) | [GNU C++20 (64)](./codeforces/279/B.cpp) |
+| 686 | [C - Che city](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/C) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step3/C.cpp) |
+| 685 | [B - Total Length](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/B) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step3/B.cpp) |
+| 684 | [A - Looped Playlist](https://codeforces.com/edu/course/2/lesson/9/3/practice/contest/307094/problem/A) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step3/A.cpp) |
 | 683 | [G - Coprime Segment](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/G) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step2/G.cpp) |
 | 682 | [F - Segments with Small Spread](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/F) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step2/F.cpp) |
 | 681 | [E - Segments with Small Set](https://codeforces.com/edu/course/2/lesson/9/2/practice/contest/307093/problem/E) | [GNU C++20 (64)](./codeforces/edu/two_pointers/step2/E.cpp) |
