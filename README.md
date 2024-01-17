@@ -399,6 +399,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 705 | [F - Eating Candies](https://codeforces.com/contest/1669/problem/F) | [GNU C++20 (64)](./codeforces/1669/F.cpp) |
+| 704 | [C - Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | [GNU C++20 (64)](./codeforces/6/C.cpp) |
+| 703 | [C - Balanced Team](https://codeforces.com/contest/1133/problem/C) | [GNU C++20 (64)](./codeforces/1133/C.cpp) |
+| 702 | [B - Kefa and Company](https://codeforces.com/contest/580/problem/B) | [GNU C++20 (64)](./codeforces/580/B.cpp) |
+| 701 | [D - Very Different Array](https://codeforces.com/contest/1921/problem/D) | [GNU C++20 (64)](./codeforces/1921/D.cpp) |
+| 700 | [C - Sending Messages](https://codeforces.com/contest/1921/problem/C) | [GNU C++20 (64)](./codeforces/1921/C.cpp) |
+| 699 | [B - Arranging Cats](https://codeforces.com/contest/1921/problem/B) | [GNU C++20 (64)](./codeforces/1921/B.cpp) |
+| 698 | [A - Square](https://codeforces.com/contest/1921/problem/A) | [GNU C++20 (64)](./codeforces/1921/A.cpp) |
 | 697 | [C - Partitioning the Array](https://codeforces.com/contest/1920/problem/C) | [GNU C++20 (64)](./codeforces/1920/C.cpp) |
 | 696 | [B - Summation Game](https://codeforces.com/contest/1920/problem/B) | [GNU C++20 (64)](./codeforces/1920/B.cpp) |
 | 695 | [A - Satisfying Constraints](https://codeforces.com/contest/1920/problem/A) | [GNU C++20 (64)](./codeforces/1920/A.cpp) |
