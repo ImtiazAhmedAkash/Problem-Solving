@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 293 | [D - Scope](https://atcoder.jp/contests/abc283/tasks/abc283_d) | [C++ 20 (gcc 12.2)](./atcoder/abc283/D.cpp) |
+| 292 | [C - Cash Register](https://atcoder.jp/contests/abc283/tasks/abc283_c) | [C++ 20 (gcc 12.2)](./atcoder/abc283/C.cpp) |
+| 291 | [B - First Query Problem](https://atcoder.jp/contests/abc283/tasks/abc283_b) | [C++ 20 (gcc 12.2)](./atcoder/abc283/B.cpp) |
+| 290 | [A - Power](https://atcoder.jp/contests/abc283/tasks/abc283_a) | [C++ 20 (gcc 12.2)](./atcoder/abc283/A.cpp) |
 | 289 | [E - Bomber](https://atcoder.jp/contests/abc176/tasks/abc176_e) | [C++ 20 (gcc 12.2)](./atcoder/abc176/E.cpp) |
 | 288 | [D - Wizard in Maze](https://atcoder.jp/contests/abc176/tasks/abc176_d) | [C++ 20 (gcc 12.2)](./atcoder/abc176/D.cpp) |
 | 287 | [C - Step](https://atcoder.jp/contests/abc176/tasks/abc176_c) | [C++ 20 (gcc 12.2)](./atcoder/abc176/C.cpp) |
