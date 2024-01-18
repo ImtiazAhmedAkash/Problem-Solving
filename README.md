@@ -351,6 +351,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 33 | [WEPCH - Weapon Choice](https://www.codechef.com/problems/WEPCH) | [C++17](./codechef/WEPCH.cpp) |
+| 32 | [PHONEYR - Yearly Phone](https://www.codechef.com/problems/PHONEYR) | [C++17](./codechef/PHONEYR.cpp) |
+| 31 | [EQUAL2 - Equality Etiquette](https://www.codechef.com/problems/EQUAL2) | [C++17](./codechef/EQUAL2.cpp) |
+| 30 | [NPRPE - Not Prime Permutation](https://www.codechef.com/problems/NPRPE) | [C++17](./codechef/NPRPE.cpp) |
+| 29 | [SHORTSPELL - Spell Shortening](https://www.codechef.com/problems/SHORTSPELL) | [C++17](./codechef/SHORTSPELL.cpp) |
 | 28 | [HATTRICK - Hattrick](https://www.codechef.com/problems/HATTRICK) | [C++17](./codechef/HATTRICK.cpp) |
 | 27 | [MINWAGE - Minimum Wage](https://www.codechef.com/problems/MINWAGE) | [C++17](./codechef/MINWAGE.cpp) |
 | 26 | [CHEFPRODUCT - Chef Product](https://www.codechef.com/problems/CHEFPRODUCT) | [C++17](./codechef/CHEFPRODUCT.cpp) |
