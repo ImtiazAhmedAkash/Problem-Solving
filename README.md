@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 289 | [E - Bomber](https://atcoder.jp/contests/abc176/tasks/abc176_e) | [C++ 20 (gcc 12.2)](./atcoder/abc176/E.cpp) |
+| 288 | [D - Wizard in Maze](https://atcoder.jp/contests/abc176/tasks/abc176_d) | [C++ 20 (gcc 12.2)](./atcoder/abc176/D.cpp) |
+| 287 | [C - Step](https://atcoder.jp/contests/abc176/tasks/abc176_c) | [C++ 20 (gcc 12.2)](./atcoder/abc176/C.cpp) |
+| 286 | [B - Multiple of 9](https://atcoder.jp/contests/abc176/tasks/abc176_b) | [C++ 20 (gcc 12.2)](./atcoder/abc176/B.cpp) |
+| 285 | [A - Takoyaki](https://atcoder.jp/contests/abc176/tasks/abc176_a) | [C++ 20 (gcc 12.2)](./atcoder/abc176/A.cpp) |
 | 284 | [D - Pyramid](https://atcoder.jp/contests/abc336/tasks/abc336_d) | [C++ 20 (gcc 12.2)](./atcoder/abc336/D.cpp) |
 | 283 | [C - Even Digits](https://atcoder.jp/contests/abc336/tasks/abc336_c) | [C++ 20 (gcc 12.2)](./atcoder/abc336/C.cpp) |
 | 282 | [B - CTZ](https://atcoder.jp/contests/abc336/tasks/abc336_b) | [C++ 20 (gcc 12.2)](./atcoder/abc336/B.cpp) |
