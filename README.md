@@ -418,6 +418,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 710 | [A - Plug-in](https://codeforces.com/contest/81/problem/A) | [GNU C++20 (64)](./codeforces/81/A.cpp) |
+| 709 | [B - Pair of Toys](https://codeforces.com/contest/1023/problem/B) | [GNU C++20 (64)](./codeforces/1023/B.cpp) |
+| 708 | [C - Closest Cities](https://codeforces.com/contest/1922/problem/C) | [GNU C++20 (64)](./codeforces/1922/C.cpp) |
+| 707 | [B - Forming Triangles](https://codeforces.com/contest/1922/problem/B) | [GNU C++20 (64)](./codeforces/1922/B.cpp) |
+| 706 | [A - Tricky Template](https://codeforces.com/contest/1922/problem/A) | [GNU C++20 (64)](./codeforces/1922/A.cpp) |
 | 705 | [F - Eating Candies](https://codeforces.com/contest/1669/problem/F) | [GNU C++20 (64)](./codeforces/1669/F.cpp) |
 | 704 | [C - Alice, Bob and Chocolate](https://codeforces.com/contest/6/problem/C) | [GNU C++20 (64)](./codeforces/6/C.cpp) |
 | 703 | [C - Balanced Team](https://codeforces.com/contest/1133/problem/C) | [GNU C++20 (64)](./codeforces/1133/C.cpp) |
