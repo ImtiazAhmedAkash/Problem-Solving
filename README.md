@@ -418,6 +418,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 714 | [C - Okabe and Boxes](https://codeforces.com/contest/821/problem/C) | [GNU C++20 (64)](./codeforces/821/C.cpp) |
+| 713 | [C - Valeriy and Deque](https://codeforces.com/contest/1180/problem/C) | [GNU C++20 (64)](./codeforces/1180/C.cpp) |
 | 712 | [B - Chat Order](https://codeforces.com/contest/637/problem/B) | [GNU C++20 (64)](./codeforces/637/B.cpp) |
 | 711 | [C - Cd and pwd commands](https://codeforces.com/contest/158/problem/C) | [GNU C++20 (64)](./codeforces/158/C.cpp) |
 | 710 | [A - Plug-in](https://codeforces.com/contest/81/problem/A) | [GNU C++20 (64)](./codeforces/81/A.cpp) |
