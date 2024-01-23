@@ -26,6 +26,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 306 | [D - Lazy Faith](https://atcoder.jp/contests/abc119/tasks/abc119_d) | [C++ 20 (gcc 12.2)](./atcoder/abc119/D.cpp) |
+| 305 | [D - Triangles](https://atcoder.jp/contests/abc143/tasks/abc143_d) | [C++ 20 (gcc 12.2)](./atcoder/abc143/D.cpp) |
+| 304 | [D - Kth Excluded](https://atcoder.jp/contests/abc205/tasks/abc205_d) | [C++ 20 (gcc 12.2)](./atcoder/abc205/D.cpp) |
+| 303 | [D - String Formation](https://atcoder.jp/contests/abc158/tasks/abc158_d) | [C++ 20 (gcc 12.2)](./atcoder/abc158/D.cpp) |
+| 302 | [E - Bad Juice](https://atcoder.jp/contests/abc337/tasks/abc337_e) | [C++ 20 (gcc 12.2)](./atcoder/abc337/E.cpp) |
+| 301 | [D - Cheating Gomoku Narabe](https://atcoder.jp/contests/abc337/tasks/abc337_d) | [C++ 20 (gcc 12.2)](./atcoder/abc337/D.cpp) |
+| 300 | [C - Lining Up 2](https://atcoder.jp/contests/abc337/tasks/abc337_c) | [C++ 20 (gcc 12.2)](./atcoder/abc337/C.cpp) |
+| 299 | [B - Extended ABC](https://atcoder.jp/contests/abc337/tasks/abc337_b) | [C++ 20 (gcc 12.2)](./atcoder/abc337/B.cpp) |
+| 298 | [A - Scoreboard](https://atcoder.jp/contests/abc337/tasks/abc337_a) | [C++ 20 (gcc 12.2)](./atcoder/abc337/A.cpp) |
 | 297 | [D - Handstand](https://atcoder.jp/contests/abc124/tasks/abc124_d) | [C++ 20 (gcc 12.2)](./atcoder/abc124/D.cpp) |
 | 296 | [C - Coloring Colorfully](https://atcoder.jp/contests/abc124/tasks/abc124_c) | [C++ 20 (gcc 12.2)](./atcoder/abc124/C.cpp) |
 | 295 | [B - Great Ocean View](https://atcoder.jp/contests/abc124/tasks/abc124_b) | [C++ 20 (gcc 12.2)](./atcoder/abc124/B.cpp) |
