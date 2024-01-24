@@ -1203,6 +1203,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :----- | :--------: |
+| 7 | [1338 - Hidden Secret!](https://lightoj.com/problem/hidden-secret) | [C++ 20](./lightoj/string/1338.cpp) |
+| 6 | [1255 - Substring Frequency](https://lightoj.com/problem/substring-frequency) | [C++ 20](./lightoj/string/1255.cpp) |
+| 5 | [1449 - Redirect URL](https://lightoj.com/problem/redirect-url) | [C++ 20](./lightoj/string/1449.cpp) |
+| 4 | [Interactive Search](https://lightoj.com/problem/interactive-search) | [C++ 20](./lightoj/advanced_search_techniques/Interactive_Search.cpp) |
+| 3 | [1049 - One Way Roads](https://lightoj.com/problem/one-way-roads) | [C++ 20](./lightoj/graph_theory/1049.cpp) |
 | 2 | [1012 - Guilty Prince](https://lightoj.com/problem/guilty-prince) | [C++ 20](./lightoj/graph_theory/1012.cpp) |
 | 1 | [1009 - Back to Underworld](https://lightoj.com/problem/back-to-underworld) | [C++ 20](./lightoj/graph_theory/1009.cpp) |
 
