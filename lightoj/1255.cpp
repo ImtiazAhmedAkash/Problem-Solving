@@ -1,6 +1,6 @@
 /*  In the Name of ALLAH, the most gracious, the most merciful  */
 
-// Hidden Secret!
+// 1255 - Substring Frequency
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -16,36 +16,36 @@ const int N = 2e5 + 5;
 
 void solve() {
     string a, b;
-    getline(cin, a);
-    getline(cin, b);
-    string s = "";
-    for (auto c : a) {
-        if (isalpha(c)) {
-            s += tolower(c);
-        }
-    }
-    sort(s.begin(), s.end());
-    string t = "";
+    cin >> a >> b;
+    int n = a.size();
+    int m = b.size();
+    queue<char> t;
     for (auto c : b) {
-        if (isalpha(c)) {
-            t += tolower(c);
-        }
+        t.push(c);
     }
-    sort(t.begin(), t.end());
-    cout << (s == t ? "Yes" : "No") << nl;
+    queue<char> s;
+    for (int i = 0; i < min(m, n); i++) {
+        s.push(a[i]);
+    }
+    int ans = (s == t ? 1 : 0);
+    for (int i = min(m, n); i < n; i++) {
+        s.pop();
+        s.push(a[i]);
+        if (s == t) ans++;
+    }
+    cout << ans << nl;
 }
 
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(0);
-
+    
     int T = 1;
     cin >> T;
-    cin.ignore();
     for (int t = 1; t <= T; t++) {
         cout << "Case " << t << ": ";
         solve();
     }
-
+    
     return 0;
 }
