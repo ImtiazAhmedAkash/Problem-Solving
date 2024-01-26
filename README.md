@@ -1162,6 +1162,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
 |  | [Exponentiation II](https://cses.fi/problemset/task/1712) | [C++17](./cses/.cpp) |
+| 25 | [Movie Festival](https://cses.fi/problemset/task/1629) | [C++20](./cses/sorting_and_searching/1629.cpp) |
+| 24 | [Restaurant Customers](https://cses.fi/problemset/task/1619) | [C++20](./cses/sorting_and_searching/1619.cpp) |
+| 23 | [Ferris Wheel](https://cses.fi/problemset/task/1090) | [C++20](./cses/sorting_and_searching/1090.cpp) |
+| 22 | [Maximum Subarray Sum II](https://cses.fi/problemset/task/1644) | [C++20](./cses/sorting_and_searching/1644.cpp) |
 | 21 | [Subarray Divisibility](https://cses.fi/problemset/task/1662) | [C++20](./cses/sorting_and_searching/1662.cpp) |
 | 20 | [Sliding Window Median](https://cses.fi/problemset/task/1076) | [C++20](./cses/sorting_and_searching/1076.cpp) |
 | 19 | [Subarray Distinct Values](https://cses.fi/problemset/task/2428) | [C++20](./cses/sorting_and_searching/2428.cpp) |
