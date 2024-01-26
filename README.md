@@ -1203,6 +1203,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :----- | :--------: |
+| 15 | [1076 - Get the Containers](https://lightoj.com/problem/get-the-containers) | [C++ 20](./lightoj/1076.cpp) |
+| 14 | [1389 - Scarecrow](https://lightoj.com/problem/scarecrow) | [C++ 20](./lightoj/1389.cpp) |
+| 13 | [1441 - Restoring Middle Earth](https://lightoj.com/problem/restoring-middle-earth) | [C++ 20](./lightoj/1441.cpp) |
 | 12 | [1198 - Karate Competition](https://lightoj.com/problem/karate-competition) | [C++ 20](./lightoj/1198.cpp) |
 | 11 | [1425 - The Monkey and the Oiled Bamboo](https://lightoj.com/problem/the-monkey-and-the-oiled-bamb) | [C++ 20](./lightoj/1425.cpp) |
 | 10 | [1189 - Sum of Factorials](https://lightoj.com/problem/sum-of-factorials) | [C++ 20](./lightoj/1189.cpp) |
