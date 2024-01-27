@@ -427,6 +427,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 718 | [B - Qualifying Contest](https://codeforces.com/contest/659/problem/B) | [GNU C++20 (64)](./codeforces/659/B.cpp) |
+| 717 | [A - Flipping Game](https://codeforces.com/contest/327/problem/A) | [GNU C++20 (64)](./codeforces/327/A.cpp) |
+| 716 | [B - Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | [GNU C++20 (64)](./codeforces/165/B.cpp) |
+| 715 | [C - Points on Line](https://codeforces.com/contest/252/problem/C) | [GNU C++20 (64)](./codeforces/252/C.cpp) |
 | 714 | [C - Okabe and Boxes](https://codeforces.com/contest/821/problem/C) | [GNU C++20 (64)](./codeforces/821/C.cpp) |
 | 713 | [C - Valeriy and Deque](https://codeforces.com/contest/1180/problem/C) | [GNU C++20 (64)](./codeforces/1180/C.cpp) |
 | 712 | [B - Chat Order](https://codeforces.com/contest/637/problem/B) | [GNU C++20 (64)](./codeforces/637/B.cpp) |
