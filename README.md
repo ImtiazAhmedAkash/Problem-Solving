@@ -427,6 +427,20 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [D - String Game](https://codeforces.com/contest/779/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [V - Compiler_101](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/V) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Minimize Inversions](https://codeforces.com/contest/1918/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Brick Wall](https://codeforces.com/contest/1918/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [D2 - Magic Powder - 2](https://codeforces.com/contest/670/problem/D2) | [GNU C++20 (64)](./codeforces/) |
+|  | [D1 - Magic Powder - 1](https://codeforces.com/contest/670/problem/D1) | [GNU C++20 (64)](./codeforces/) |
+|  | [J - The Da Vinci Code](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/J) | [GNU C++20 (64)](./codeforces/) |
+|  | [H - Plan](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/H) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Sagheer and Nubian Market](https://codeforces.com/contest/812/problem/C) | [GNU C++20 (64)](./codeforces/) |
+| 723 | [E - Game](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/E) | [GNU C++20 (64)](./codeforces/group/272628/E.cpp) |
+| 722 | [C - The Pharaohs](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/C) | [GNU C++20 (64)](./codeforces/group/272628/C.cpp) |
+| 721 | [B - A Balanced Problemset?](https://codeforces.com/contest/1925/problem/B) | [GNU C++20 (64)](./codeforces/1925/B.cpp) |
+| 720 | [A - We Got Everything Covered!](https://codeforces.com/contest/1925/problem/A) | [GNU C++20 (64)](./codeforces/1925/A.cpp) |
+| 719 | [B - Prefix Sum Addicts](https://codeforces.com/contest/1738/problem/B) | [GNU C++20 (64)](./codeforces/1738/B.cpp) |
 | 718 | [B - Qualifying Contest](https://codeforces.com/contest/659/problem/B) | [GNU C++20 (64)](./codeforces/659/B.cpp) |
 | 717 | [A - Flipping Game](https://codeforces.com/contest/327/problem/A) | [GNU C++20 (64)](./codeforces/327/A.cpp) |
 | 716 | [B - Burning Midnight Oil](https://codeforces.com/contest/165/problem/B) | [GNU C++20 (64)](./codeforces/165/B.cpp) |
