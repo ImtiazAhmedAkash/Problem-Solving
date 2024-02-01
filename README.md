@@ -427,15 +427,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
-|  | [D - String Game](https://codeforces.com/contest/779/problem/D) | [GNU C++20 (64)](./codeforces/) |
-|  | [V - Compiler_101](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/V) | [GNU C++20 (64)](./codeforces/) |
-|  | [B - Minimize Inversions](https://codeforces.com/contest/1918/problem/B) | [GNU C++20 (64)](./codeforces/) |
-|  | [A - Brick Wall](https://codeforces.com/contest/1918/problem/A) | [GNU C++20 (64)](./codeforces/) |
-|  | [D2 - Magic Powder - 2](https://codeforces.com/contest/670/problem/D2) | [GNU C++20 (64)](./codeforces/) |
-|  | [D1 - Magic Powder - 1](https://codeforces.com/contest/670/problem/D1) | [GNU C++20 (64)](./codeforces/) |
-|  | [J - The Da Vinci Code](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/J) | [GNU C++20 (64)](./codeforces/) |
-|  | [H - Plan](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/H) | [GNU C++20 (64)](./codeforces/) |
-|  | [C - Sagheer and Nubian Market](https://codeforces.com/contest/812/problem/C) | [GNU C++20 (64)](./codeforces/) |
+| 732 | [D - String Game](https://codeforces.com/contest/779/problem/D) | [GNU C++20 (64)](./codeforces/779/D.cpp) |
+| 731 | [V - Compiler_101](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/V) | [GNU C++20 (64)](./codeforces/group/272628/V.cpp) |
+| 730 | [B - Minimize Inversions](https://codeforces.com/contest/1918/problem/B) | [GNU C++20 (64)](./codeforces/1918/B.cpp) |
+| 729 | [A - Brick Wall](https://codeforces.com/contest/1918/problem/A) | [GNU C++20 (64)](./codeforces/1918/A.cpp) |
+| 728 | [D2 - Magic Powder - 2](https://codeforces.com/contest/670/problem/D2) | [GNU C++20 (64)](./codeforces/670/D2.cpp) |
+| 727 | [D1 - Magic Powder - 1](https://codeforces.com/contest/670/problem/D1) | [GNU C++20 (64)](./codeforces/670/D1.cpp) |
+| 726 | [J - The Da Vinci Code](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/J) | [GNU C++20 (64)](./codeforces/group/272628/J.cpp) |
+| 725 | [H - Plan](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/H) | [GNU C++20 (64)](./codeforces/group/272628/H.cpp) |
+| 724 | [C - Sagheer and Nubian Market](https://codeforces.com/contest/812/problem/C) | [GNU C++20 (64)](./codeforces/812/C.cpp) |
 | 723 | [E - Game](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/E) | [GNU C++20 (64)](./codeforces/group/272628/E.cpp) |
 | 722 | [C - The Pharaohs](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/C) | [GNU C++20 (64)](./codeforces/group/272628/C.cpp) |
 | 721 | [B - A Balanced Problemset?](https://codeforces.com/contest/1925/problem/B) | [GNU C++20 (64)](./codeforces/1925/B.cpp) |
