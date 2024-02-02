@@ -26,6 +26,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 313 | [E - Gluttony](https://atcoder.jp/contests/abc144/tasks/abc144_e) | [C++ 20 (gcc 12.2)](./atcoder/abc144/E.cpp) |
+| 312 | [C - Buy an Integer](https://atcoder.jp/contests/abc146/tasks/abc146_c) | [C++ 20 (gcc 12.2)](./atcoder/abc146/C.cpp) |
 | 311 | [C - Rally](https://atcoder.jp/contests/abc156/tasks/abc156_c) | [C++ 20 (gcc 12.2)](./atcoder/abc156/C.cpp) |
 | 310 | [E - Chords](https://atcoder.jp/contests/abc338/tasks/abc338_e) | [C++ 20 (gcc 12.2)](./atcoder/abc338/E.cpp) |
 | 309 | [C - Leftover Recipes](https://atcoder.jp/contests/abc338/tasks/abc338_c) | [C++ 20 (gcc 12.2)](./atcoder/abc338/C.cpp) |
