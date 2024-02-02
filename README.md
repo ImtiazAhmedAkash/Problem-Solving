@@ -379,6 +379,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 38 | [ADVITIYA5 - K Odd Sum](https://www.codechef.com/problems/ADVITIYA5) | [C++17](./codechef/ADVITIYA5.cpp) |
+| 37 | [ADVITIYA4 - Another Good String](https://www.codechef.com/problems/ADVITIYA4) | [C++17](./codechef/ADVITIYA4.cpp) |
+| 36 | [ADVITIYA3 - Cookie Day](https://www.codechef.com/problems/ADVITIYA3) | [C++17](./codechef/ADVITIYA3.cpp) |
+| 35 | [ADVITIYA2 - Judged](https://www.codechef.com/problems/ADVITIYA2) | [C++17](./codechef/ADVITIYA2.cpp) |
+| 34 | [ADVITIYA1 - Advitiya](https://www.codechef.com/problems/ADVITIYA1) | [C++17](./codechef/ADVITIYA1.cpp) |
 | 33 | [WEPCH - Weapon Choice](https://www.codechef.com/problems/WEPCH) | [C++17](./codechef/WEPCH.cpp) |
 | 32 | [PHONEYR - Yearly Phone](https://www.codechef.com/problems/PHONEYR) | [C++17](./codechef/PHONEYR.cpp) |
 | 31 | [EQUAL2 - Equality Etiquette](https://www.codechef.com/problems/EQUAL2) | [C++17](./codechef/EQUAL2.cpp) |
