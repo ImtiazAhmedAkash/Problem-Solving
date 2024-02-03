@@ -26,6 +26,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 320 | [C - Perfect Bus](https://atcoder.jp/contests/abc339/tasks/abc339_c) | [C++ 20 (gcc 12.2)](./atcoder/abc339/C.cpp) |
+| 319 | [B - Langton's Takahashi](https://atcoder.jp/contests/abc339/tasks/abc339_b) | [C++ 20 (gcc 12.2)](./atcoder/abc339/B.cpp) |
+| 318 | [A - TLD](https://atcoder.jp/contests/abc339/tasks/abc339_a) | [C++ 20 (gcc 12.2)](./atcoder/abc339/A.cpp) |
+| 317 | [C - GCD on Blackboard](https://atcoder.jp/contests/abc125/tasks/abc125_c) | [C++ 20 (gcc 12.2)](./atcoder/abc125/C.cpp) |
+| 316 | [D - Wandering](https://atcoder.jp/contests/abc182/tasks/abc182_d) | [C++ 20 (gcc 12.2)](./atcoder/abc182/D.cpp) |
+| 315 | [C - GeT AC](https://atcoder.jp/contests/abc122/tasks/abc122_c) | [C++ 20 (gcc 12.2)](./atcoder/abc122/C.cpp) |
+| 314 | [D - Sum of difference](https://atcoder.jp/contests/abc186/tasks/abc186_d) | [C++ 20 (gcc 12.2)](./atcoder/abc186/D.cpp) |
 | 313 | [E - Gluttony](https://atcoder.jp/contests/abc144/tasks/abc144_e) | [C++ 20 (gcc 12.2)](./atcoder/abc144/E.cpp) |
 | 312 | [C - Buy an Integer](https://atcoder.jp/contests/abc146/tasks/abc146_c) | [C++ 20 (gcc 12.2)](./atcoder/abc146/C.cpp) |
 | 311 | [C - Rally](https://atcoder.jp/contests/abc156/tasks/abc156_c) | [C++ 20 (gcc 12.2)](./atcoder/abc156/C.cpp) |
