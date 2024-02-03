@@ -1192,6 +1192,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
 |  | [Exponentiation II](https://cses.fi/problemset/task/1712) | [C++17](./cses/.cpp) |
+| 27 | [Tasks and Deadlines](https://cses.fi/problemset/task/1630) | [C++20](./cses/sorting_and_searching/1630.cpp) |
+| 26 | [Factory Machines](https://cses.fi/problemset/task/1620) | [C++20](./cses/sorting_and_searching/1620.cpp) |
 | 25 | [Movie Festival](https://cses.fi/problemset/task/1629) | [C++20](./cses/sorting_and_searching/1629.cpp) |
 | 24 | [Restaurant Customers](https://cses.fi/problemset/task/1619) | [C++20](./cses/sorting_and_searching/1619.cpp) |
 | 23 | [Ferris Wheel](https://cses.fi/problemset/task/1090) | [C++20](./cses/sorting_and_searching/1090.cpp) |
