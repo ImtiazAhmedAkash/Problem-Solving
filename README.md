@@ -26,6 +26,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 329 | [C - Count Connected Components](https://atcoder.jp/contests/abc284/tasks/abc284_c) | [C++ 20 (gcc 12.2)](./atcoder/abc284/C.cpp) |
+| 328 | [E - 1 or 2](https://atcoder.jp/contests/abc126/tasks/abc126_e) | [C++ 20 (gcc 12.2)](./atcoder/abc126/E.cpp) |
+| 327 | [D - Friend Suggestions](https://atcoder.jp/contests/abc157/tasks/abc157_d) | [C++ 20 (gcc 12.2)](./atcoder/abc157/D.cpp) |
+| 326 | [D - Friends](https://atcoder.jp/contests/abc177/tasks/abc177_d) | [C++ 20 (gcc 12.2)](./atcoder/abc177/D.cpp) |
+| 325 | [C - Tour](https://atcoder.jp/contests/abc204/tasks/abc204_c) | [C++ 20 (gcc 12.2)](./atcoder/abc204/C.cpp) |
+| 324 | [D - KAIBUNsyo](https://atcoder.jp/contests/abc206/tasks/abc206_d) | [C++ 20 (gcc 12.2)](./atcoder/abc206/D.cpp) |
+| 323 | [C - Bridge](https://atcoder.jp/contests/abc075/tasks/abc075_c) | [C++ 20 (gcc 12.2)](./atcoder/abc075/C.cpp) |
+| 322 | [D - Takahashi Unevolved](https://atcoder.jp/contests/abc180/tasks/abc180_d) | [C++ 20 (gcc 12.2)](./atcoder/abc180/D.cpp) |
+| 321 | [D - Katana Thrower](https://atcoder.jp/contests/abc085/tasks/abc085_d) | [C++ 20 (gcc 12.2)](./atcoder/abc085/D.cpp) |
 | 320 | [C - Perfect Bus](https://atcoder.jp/contests/abc339/tasks/abc339_c) | [C++ 20 (gcc 12.2)](./atcoder/abc339/C.cpp) |
 | 319 | [B - Langton's Takahashi](https://atcoder.jp/contests/abc339/tasks/abc339_b) | [C++ 20 (gcc 12.2)](./atcoder/abc339/B.cpp) |
 | 318 | [A - TLD](https://atcoder.jp/contests/abc339/tasks/abc339_a) | [C++ 20 (gcc 12.2)](./atcoder/abc339/A.cpp) |
