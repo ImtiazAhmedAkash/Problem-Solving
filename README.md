@@ -1254,7 +1254,16 @@ A repository to keep track of problem solving practice, containing solutions fro
     --->
 
 | #   | Title   | Solution   |
-|:---:| :----- | :--------: |
+|:---:| :------ | :--------: |
+| 24 | [1059 - Air Ports](https://lightoj.com/problem/air-ports) | [C++ 20](./lightoj/1059.cpp) |
+| 23 | [1041 - Road Construction](https://lightoj.com/problem/road-construction) | [C++ 20](./lightoj/1041.cpp) |
+| 22 | [1040 - Donation](https://lightoj.com/problem/donation) | [C++ 20](./lightoj/1040.cpp) |
+| 21 | [1029 - Civil and Evil Engineer](https://lightoj.com/problem/civil-and-evil-engineer) | [C++ 20](./lightoj/1029.cpp) |
+| 20 | [1174 - Commandos](https://lightoj.com/problem/commandos) | [C++ 20](./lightoj/1174.cpp) |
+| 19 | [1141 - Number Transformation](https://lightoj.com/problem/number-transformation) | [C++ 20](./lightoj/1141.cpp) |
+| 18 | [1019 - Brush (V)](https://lightoj.com/problem/brush-5) | [C++ 20](./lightoj/1019.cpp) |
+| 17 | [1003 - Drunk](https://lightoj.com/problem/drunk) | [C++ 20](./lightoj/1003.cpp) |
+| 16 | [1002 - Country Roads](https://lightoj.com/problem/country-roads) | [C++ 20](./lightoj/1002.cpp) |
 | 15 | [1076 - Get the Containers](https://lightoj.com/problem/get-the-containers) | [C++ 20](./lightoj/1076.cpp) |
 | 14 | [1389 - Scarecrow](https://lightoj.com/problem/scarecrow) | [C++ 20](./lightoj/1389.cpp) |
 | 13 | [1441 - Restoring Middle Earth](https://lightoj.com/problem/restoring-middle-earth) | [C++ 20](./lightoj/1441.cpp) |
