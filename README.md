@@ -1255,6 +1255,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 31 | [1039 - A Toy Company](https://lightoj.com/problem/a-toy-company) | [C++ 20](./lightoj/1039.cpp) |
+| 30 | [1263 - Equalizing Money](https://lightoj.com/problem/equalizing-money) | [C++ 20](./lightoj/1263.cpp) |
+| 29 | [1175 - Jane and the Frost Giants](https://lightoj.com/problem/jane-and-the-frost-giants) | [C++ 20](./lightoj/1175.cpp) |
+| 28 | [1111 - Best Picnic Ever](https://lightoj.com/problem/best-picnic-ever) | [C++ 20](./lightoj/1111.cpp) |
+| 27 | [1238 - Power Puff Girls](https://lightoj.com/problem/power-puff-girls) | [C++ 20](./lightoj/1238.cpp) |
+| 26 | [1066 - Gathering Food](https://lightoj.com/problem/gathering-food) | [C++ 20](./lightoj/1066.cpp) |
+| 25 | [1337 - The Crystal Maze](https://lightoj.com/problem/the-crystal-maze) | [C++ 20](./lightoj/1337.cpp) |
 | 24 | [1059 - Air Ports](https://lightoj.com/problem/air-ports) | [C++ 20](./lightoj/1059.cpp) |
 | 23 | [1041 - Road Construction](https://lightoj.com/problem/road-construction) | [C++ 20](./lightoj/1041.cpp) |
 | 22 | [1040 - Donation](https://lightoj.com/problem/donation) | [C++ 20](./lightoj/1040.cpp) |
