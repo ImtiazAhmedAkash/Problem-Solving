@@ -1328,6 +1328,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 21 | [871 - Counting Cells in a Blob](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=812) | [C++11 5.3.0](./uva/871.cpp) |
+| 20 | [657 - The die is cast](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=598) | [C++11 5.3.0](./uva/657.cpp) |
+| 19 | [572 - Oil Deposits](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=513) | [C++11 5.3.0](./uva/572.cpp) |
+| 18 | [469 - Wetlands of Florida](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=410) | [C++11 5.3.0](./uva/469.cpp) |
+| 17 | [352 - The Seasonal War](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=288) | [C++11 5.3.0](./uva/352.cpp) |
+| 16 | [11906 - Knight in a War Grid](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3057) | [C++11 5.3.0](./uva/11906.cpp) |
+| 15 | [11749 - Poor Trade Advisor](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2849) | [C++11 5.3.0](./uva//11749.cpp) |
+| 14 | [459 - Graph Connectivity](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=400) | [C++11 5.3.0](./uva/459.cpp) |
+| 13 | [260 - Il Gioco dell'X](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=196) | [C++11 5.3.0](./uva/260.cpp) |
 | 12 | [10815 - Andy's First Dictionary](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1756) | [C++11 5.3.0](./uva/10815.cpp) |
 | 11 | [108 - Maximum Sum](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=44) | [C++11 5.3.0](./uva/108.cpp) |
 | 10 | [10452 - Marcus](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1393) | [C++11 5.3.0](./uva/10452.cpp) |
