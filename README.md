@@ -1328,6 +1328,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 29 | [11686 - Pick up sticks](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2733) | [C++11 5.3.0](./uva/11686.cpp) |
+| 28 | [11060 - Beverages](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2001) | [C++11 5.3.0](./uva/11060.cpp) |
+| 27 | [10305 - Ordering Tasks](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1246) | [C++11 5.3.0](./uva/10305.cpp) |
+| 26 | [11953 - Battleships](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3104) | [C++11 5.3.0](./uva/11953.cpp) |
+| 25 | [11561 - Getting Gold](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2597) | [C++11 5.3.0](./uva/11561.cpp) |
+| 24 | [11470 - Square Sums](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2465) | [C++11 5.3.0](./uva/11470.cpp) |
+| 23 | [11244 - Counting Stars](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2201) | [C++11 5.3.0](./uva/11244.cpp) |
+| 22 | [10336 - Rank the Languages](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1277) | [C++11 5.3.0](./uva/10336.cpp) |
 | 21 | [871 - Counting Cells in a Blob](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=812) | [C++11 5.3.0](./uva/871.cpp) |
 | 20 | [657 - The die is cast](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=598) | [C++11 5.3.0](./uva/657.cpp) |
 | 19 | [572 - Oil Deposits](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=513) | [C++11 5.3.0](./uva/572.cpp) |
