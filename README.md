@@ -26,6 +26,20 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 343 | [C - Many Replacement](https://atcoder.jp/contests/abc342/tasks/abc342_c) | [C++ 20 (gcc 12.2)](./atcoder/abc342/C.cpp) |
+| 342 | [B - Which is ahead?](https://atcoder.jp/contests/abc342/tasks/abc342_b) | [C++ 20 (gcc 12.2)](./atcoder/abc342/B.cpp) |
+| 341 | [A - Yay!](https://atcoder.jp/contests/abc342/tasks/abc342_a) | [C++ 20 (gcc 12.2)](./atcoder/abc342/A.cpp) |
+| 340 | [C - Distribution](https://atcoder.jp/contests/abc214/tasks/abc214_c) | [C++ 20 (gcc 12.2)](./atcoder/abc214/C.cpp) |
+| 339 | [D - Only one of two](https://atcoder.jp/contests/abc341/tasks/abc341_d) | [C++ 20 (gcc 12.2)](./atcoder/abc341/D.cpp) |
+| 338 | [C - Takahashi Gets Lost](https://atcoder.jp/contests/abc341/tasks/abc341_c) | [C++ 20 (gcc 12.2)](./atcoder/abc341/C.cpp) |
+| 337 | [B - Foreign Exchange](https://atcoder.jp/contests/abc341/tasks/abc341_b) | [C++ 20 (gcc 12.2)](./atcoder/abc341/B.cpp) |
+| 336 | [A - Print 341](https://atcoder.jp/contests/abc341/tasks/abc341_a) | [C++ 20 (gcc 12.2)](./atcoder/abc341/A.cpp) |
+| 335 | [D - Number of Shortest paths](https://atcoder.jp/contests/abc211/tasks/abc211_d) | [C++ 20 (gcc 12.2)](./atcoder/abc211/D.cpp) |
+| 334 | [D - .. (Double Dots)](https://atcoder.jp/contests/abc168/tasks/abc168_d) | [C++ 20 (gcc 12.2)](./atcoder/abc168/D.cpp) |
+| 333 | [D - Super Takahashi Bros.](https://atcoder.jp/contests/abc340/tasks/abc340_d) | [C++ 20 (gcc 12.2)](./atcoder/abc340/D.cpp) |
+| 332 | [C - Divide and Divide](https://atcoder.jp/contests/abc340/tasks/abc340_c) | [C++ 20 (gcc 12.2)](./atcoder/abc340/C.cpp) |
+| 331 | [B - Append](https://atcoder.jp/contests/abc340/tasks/abc340_b) | [C++ 20 (gcc 12.2)](./atcoder/abc340/B.cpp) |
+| 330 | [A - Arithmetic Progression](https://atcoder.jp/contests/abc340/tasks/abc340_a) | [C++ 20 (gcc 12.2)](./atcoder/abc340/A.cpp) |
 | 329 | [C - Count Connected Components](https://atcoder.jp/contests/abc284/tasks/abc284_c) | [C++ 20 (gcc 12.2)](./atcoder/abc284/C.cpp) |
 | 328 | [E - 1 or 2](https://atcoder.jp/contests/abc126/tasks/abc126_e) | [C++ 20 (gcc 12.2)](./atcoder/abc126/E.cpp) |
 | 327 | [D - Friend Suggestions](https://atcoder.jp/contests/abc157/tasks/abc157_d) | [C++ 20 (gcc 12.2)](./atcoder/abc157/D.cpp) |
