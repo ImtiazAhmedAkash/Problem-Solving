@@ -1419,6 +1419,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 33 | [1067 - Combinations](https://lightoj.com/problem/combinations) | [C++ 20](./lightoj/1067.cpp) |
 | 32 | [1034 - Hit the Light Switches](https://lightoj.com/problem/hit-the-light-switches) | [C++ 20](./lightoj/1034.cpp) |
 | 31 | [1039 - A Toy Company](https://lightoj.com/problem/a-toy-company) | [C++ 20](./lightoj/1039.cpp) |
 | 30 | [1263 - Equalizing Money](https://lightoj.com/problem/equalizing-money) | [C++ 20](./lightoj/1263.cpp) |
