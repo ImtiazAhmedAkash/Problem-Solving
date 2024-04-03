@@ -26,6 +26,109 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [D - Moves on Binary Tree](https://atcoder.jp/contests/abc243/tasks/abc243_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Jumping Takahashi](https://atcoder.jp/contests/abc240/tasks/abc240_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - ABC conjecture](https://atcoder.jp/contests/abc227/tasks/abc227_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Trophy](https://atcoder.jp/contests/abc258/tasks/abc258_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Rotation](https://atcoder.jp/contests/abc258/tasks/abc258_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [B - Number Box](https://atcoder.jp/contests/abc258/tasks/abc258_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Robot Takahashi](https://atcoder.jp/contests/abc257/tasks/abc257_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Make Takahashi Happy](https://atcoder.jp/contests/abc293/tasks/abc293_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - XX to XXX](https://atcoder.jp/contests/abc259/tasks/abc259_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Changing Jewels](https://atcoder.jp/contests/abc260/tasks/abc260_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Prefix K-th Max](https://atcoder.jp/contests/abc234/tasks/abc234_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - digitnum](https://atcoder.jp/contests/abc238/tasks/abc238_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Graph Isomorphism](https://atcoder.jp/contests/abc232/tasks/abc232_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Count Interval](https://atcoder.jp/contests/abc233/tasks/abc233_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Neighbors](https://atcoder.jp/contests/abc231/tasks/abc231_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Play Train](https://atcoder.jp/contests/abc225/tasks/abc225_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Longest X](https://atcoder.jp/contests/abc229/tasks/abc229_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Coprime 2](https://atcoder.jp/contests/abc215/tasks/abc215_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Querying Multiset](https://atcoder.jp/contests/abc212/tasks/abc212_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Takahashi Tour](https://atcoder.jp/contests/abc213/tasks/abc213_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Reorder Cards](https://atcoder.jp/contests/abc213/tasks/abc213_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - chokudai](https://atcoder.jp/contests/abc211/tasks/abc211_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Collision](https://atcoder.jp/contests/abc209/tasks/abc209_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Secret Number](https://atcoder.jp/contests/abc201/tasks/abc201_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Compass Walking](https://atcoder.jp/contests/abc198/tasks/abc198_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [B - Many Oranges](https://atcoder.jp/contests/abc195/tasks/abc195_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Logical Expression](https://atcoder.jp/contests/abc189/tasks/abc189_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Water Heater](https://atcoder.jp/contests/abc183/tasks/abc183_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - IPFL](https://atcoder.jp/contests/abc199/tasks/abc199_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Chat in a Circle](https://atcoder.jp/contests/abc173/tasks/abc173_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Choose Me](https://atcoder.jp/contests/abc187/tasks/abc187_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - H and V](https://atcoder.jp/contests/abc173/tasks/abc173_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Sum of Divisors](https://atcoder.jp/contests/abc172/tasks/abc172_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Stamp](https://atcoder.jp/contests/abc185/tasks/abc185_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Bowls and Dishes](https://atcoder.jp/contests/abc190/tasks/abc190_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Walking Takahashi](https://atcoder.jp/contests/abc175/tasks/abc175_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Ubiquity](https://atcoder.jp/contests/abc178/tasks/abc178_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Alter Altar](https://atcoder.jp/contests/abc174/tasks/abc174_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [E - Red Scarf](https://atcoder.jp/contests/abc171/tasks/abc171_e) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Replacing](https://atcoder.jp/contests/abc171/tasks/abc171_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Prediction and Restriction](https://atcoder.jp/contests/abc149/tasks/abc149_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Teleporter](https://atcoder.jp/contests/abc167/tasks/abc167_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Div Game](https://atcoder.jp/contests/abc169/tasks/abc169_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - RGB Triplets](https://atcoder.jp/contests/abc162/tasks/abc162_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Banned K](https://atcoder.jp/contests/abc159/tasks/abc159_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Guess The Number](https://atcoder.jp/contests/abc157/tasks/abc157_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Count Order](https://atcoder.jp/contests/abc150/tasks/abc150_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Five Transportations](https://atcoder.jp/contests/abc123/tasks/abc123_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Monsters Battle Royale](https://atcoder.jp/contests/abc118/tasks/abc118_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Streamline](https://atcoder.jp/contests/abc117/tasks/abc117_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [B - Grid Compression](https://atcoder.jp/contests/abc107/tasks/abc107_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - To Infinity](https://atcoder.jp/contests/abc106/tasks/abc106_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Modulo Summation](https://atcoder.jp/contests/abc103/tasks/abc103_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Minimization](https://atcoder.jp/contests/abc101/tasks/arc099_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Attention](https://atcoder.jp/contests/abc098/tasks/arc098_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Grid Repainting 2](https://atcoder.jp/contests/abc096/tasks/abc096_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Traveling Plan](https://atcoder.jp/contests/abc092/tasks/arc093_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - March](https://atcoder.jp/contests/abc089/tasks/abc089_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Takahashi's Information](https://atcoder.jp/contests/abc088/tasks/abc088_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Otoshidama](https://atcoder.jp/contests/abc085/tasks/abc085_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [B - Two Anagrams](https://atcoder.jp/contests/abc082/tasks/abc082_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - 4-adjacent](https://atcoder.jp/contests/abc069/tasks/arc080_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Multiple Clocks](https://atcoder.jp/contests/abc070/tasks/abc070_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Write and Erase](https://atcoder.jp/contests/abc073/tasks/abc073_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Derangement](https://atcoder.jp/contests/abc072/tasks/arc082_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Together](https://atcoder.jp/contests/abc072/tasks/arc082_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Not so Diverse](https://atcoder.jp/contests/abc081/tasks/arc086_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Cat Snuke and a Voyage](https://atcoder.jp/contests/abc068/tasks/arc079_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Splitting Pile](https://atcoder.jp/contests/abc067/tasks/arc078_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Reconciled?](https://atcoder.jp/contests/abc065/tasks/arc076_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [B - Trained?](https://atcoder.jp/contests/abc065/tasks/abc065_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Bugged](https://atcoder.jp/contests/abc063/tasks/arc075_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Sentou](https://atcoder.jp/contests/abc060/tasks/arc073_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - I hate Factorization](https://atcoder.jp/contests/abc166/tasks/abc166_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [B - Choose Integers](https://atcoder.jp/contests/abc060/tasks/abc060_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Simple path](https://atcoder.jp/contests/abc270/tasks/abc270_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [A - AtCoder Group Contest](https://atcoder.jp/contests/agc012/tasks/agc012_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [B - DNA Sequence](https://atcoder.jp/contests/arc104/tasks/arc104_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Change Usernames](https://atcoder.jp/contests/abc285/tasks/abc285_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Money in Hand](https://atcoder.jp/contests/abc286/tasks/abc286_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Snuke Maze](https://atcoder.jp/contests/abc308/tasks/abc308_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Unicyclic Components](https://atcoder.jp/contests/abc292/tasks/abc292_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Don’t be cycle](https://atcoder.jp/contests/abc288/tasks/abc288_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Product and GCD](https://atcoder.jp/contests/caddi2018b/tasks/caddi2018_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [B - XOR Matching 2](https://atcoder.jp/contests/arc124/tasks/arc124_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Gathering Children](https://atcoder.jp/contests/abc136/tasks/abc136_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - ±1 Operation 2](https://atcoder.jp/contests/abc255/tasks/abc255_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - ±1 Operation 1](https://atcoder.jp/contests/abc255/tasks/abc255_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [A - Shik and Stone](https://atcoder.jp/contests/agc007/tasks/agc007_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Match or Not](https://atcoder.jp/contests/abc287/tasks/abc287_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Path Graph?](https://atcoder.jp/contests/abc287/tasks/abc287_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Typical Stairs](https://atcoder.jp/contests/abc129/tasks/abc129_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - 250-like Number](https://atcoder.jp/contests/abc250/tasks/abc250_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Good Tuple Problem](https://atcoder.jp/contests/abc327/tasks/abc327_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - T-shirts](https://atcoder.jp/contests/abc332/tasks/abc332_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [E - Insert or Erase](https://atcoder.jp/contests/abc344/tasks/abc344_e) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Erase Leaves](https://atcoder.jp/contests/abc333/tasks/abc333_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - Repunit Trio](https://atcoder.jp/contests/abc333/tasks/abc333_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Square Pair](https://atcoder.jp/contests/abc342/tasks/abc342_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Diversity of Scores](https://atcoder.jp/contests/abc343/tasks/abc343_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - 343](https://atcoder.jp/contests/abc343/tasks/abc343_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [C - A+B+C](https://atcoder.jp/contests/abc344/tasks/abc344_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+|  | [D - Built?](https://atcoder.jp/contests/abc065/tasks/arc076_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
 | 343 | [C - Many Replacement](https://atcoder.jp/contests/abc342/tasks/abc342_c) | [C++ 20 (gcc 12.2)](./atcoder/abc342/C.cpp) |
 | 342 | [B - Which is ahead?](https://atcoder.jp/contests/abc342/tasks/abc342_b) | [C++ 20 (gcc 12.2)](./atcoder/abc342/B.cpp) |
 | 341 | [A - Yay!](https://atcoder.jp/contests/abc342/tasks/abc342_a) | [C++ 20 (gcc 12.2)](./atcoder/abc342/A.cpp) |
@@ -464,11 +567,56 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 
 <!---
-|  | []() | [GNU C++20 (64)](./codeforces/) |
+|  | []() | [C++20 (GCC 13-64)](./codeforces/) |
     --->
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [E - Nearly Shortest Repeating Substring](https://codeforces.com/contest/1950/problem/E) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [D - Product of Binary Decimals](https://codeforces.com/contest/1950/problem/D) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [C - Clock Conversion](https://codeforces.com/contest/1950/problem/C) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [B - Upscaling](https://codeforces.com/contest/1950/problem/B) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [A - Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [C - Did We Get Everything Covered?](https://codeforces.com/contest/1925/problem/C) | [C++17 (GCC 7-32)](./codeforces/) |
+|  | [D - 13th Labour of Heracles](https://codeforces.com/contest/1466/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - Weights Assignment For Tree Edges](https://codeforces.com/contest/1611/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Kefa and Park](https://codeforces.com/contest/580/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [F - Spiders](https://codeforces.com/contest/120/problem/F) | [GNU C++20 (64)](./codeforces/) |
+|  | [J - Send the Fool Further! (easy)](https://codeforces.com/contest/802/problem/J) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Useful Decomposition](https://codeforces.com/contest/981/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Queen](https://codeforces.com/contest/1143/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [D1 - Mocha and Diana (Easy Version)](https://codeforces.com/contest/1559/problem/D1) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Not Assigning](https://codeforces.com/contest/1627/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Petya and Catacombs](https://codeforces.com/contest/886/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Xor-tree](https://codeforces.com/contest/430/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - PolandBall and Forest](https://codeforces.com/contest/755/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - Vertical Paths](https://codeforces.com/contest/1675/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [G - White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - Masha and a Beautiful Tree](https://codeforces.com/contest/1741/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Mahmoud and Ehab and the bipartiteness](https://codeforces.com/contest/862/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [E - Turtle vs. Rabbit Race: Optimal Trainings](https://codeforces.com/contest/1933/problem/E) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - Turtle Tenacity: Continual Mods](https://codeforces.com/contest/1933/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Turtle Fingers: Count the Values of k](https://codeforces.com/contest/1933/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Turtle Math: Fast Three Task](https://codeforces.com/contest/1933/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Turtle Puzzle: Rearrange and Negate](https://codeforces.com/contest/1933/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [E - Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Make Equal Again](https://codeforces.com/contest/1931/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Make Equal](https://codeforces.com/contest/1931/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Recovering a Small String](https://codeforces.com/contest/1931/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Ice Skating](https://codeforces.com/contest/218/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [E - Klever Permutation](https://codeforces.com/contest/1927/problem/E) | [GNU C++20 (64)](./codeforces/) |
+|  | [D - Find the Different Ones!](https://codeforces.com/contest/1927/problem/D) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Choose the Different Ones!](https://codeforces.com/contest/1927/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Following the String](https://codeforces.com/contest/1927/problem/B) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - Make it White](https://codeforces.com/contest/1927/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - XOR-distance](https://codeforces.com/contest/1918/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [C - Really Big Numbers](https://codeforces.com/contest/817/problem/C) | [GNU C++20 (64)](./codeforces/) |
+|  | [A - XORwice](https://codeforces.com/contest/1421/problem/A) | [GNU C++20 (64)](./codeforces/) |
+|  | [W - PUBG](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/W) | [GNU C++20 (64)](./codeforces/) |
+|  | [S - Zular Eclipse](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/S) | [GNU C++20 (64)](./codeforces/) |
+|  | [R - Lena and the Blocks, Again](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/R) | [GNU C++20 (64)](./codeforces/) |
+|  | [B - Energy exchange](https://codeforces.com/contest/68/problem/B) | [GNU C++20 (64)](./codeforces/) |
 | 732 | [D - String Game](https://codeforces.com/contest/779/problem/D) | [GNU C++20 (64)](./codeforces/779/D.cpp) |
 | 731 | [V - Compiler_101](https://codeforces.com/group/u3Ii79X3NY/contest/272628/problem/V) | [GNU C++20 (64)](./codeforces/group/272628/V.cpp) |
 | 730 | [B - Minimize Inversions](https://codeforces.com/contest/1918/problem/B) | [GNU C++20 (64)](./codeforces/1918/B.cpp) |
@@ -1221,7 +1369,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
-|  | [Exponentiation II](https://cses.fi/problemset/task/1712) | [C++17](./cses/.cpp) |
+| 30 | [Exponentiation II](https://cses.fi/problemset/task/1712) | [C++17](./cses/mathematics/1712.cpp) |
+| 29 | [Exponentiation](https://cses.fi/problemset/task/1095) | [C++20](./cses/mathematics/1095.cpp) |
+| 28 | [Building Roads](https://cses.fi/problemset/task/1666/) | [C++20](./cses/graph_algorithms/1666.cpp) |
 | 27 | [Tasks and Deadlines](https://cses.fi/problemset/task/1630) | [C++20](./cses/sorting_and_searching/1630.cpp) |
 | 26 | [Factory Machines](https://cses.fi/problemset/task/1620) | [C++20](./cses/sorting_and_searching/1620.cpp) |
 | 25 | [Movie Festival](https://cses.fi/problemset/task/1629) | [C++20](./cses/sorting_and_searching/1629.cpp) |
