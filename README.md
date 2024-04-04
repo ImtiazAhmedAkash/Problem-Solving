@@ -26,6 +26,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 447 | [B - Modulo Number](https://atcoder.jp/contests/abc266/tasks/abc266_b) | [C++ 20 (gcc 12.2)](./atcoder/abc266/B.cpp) |
 |  | [D - Moves on Binary Tree](https://atcoder.jp/contests/abc243/tasks/abc243_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
 |  | [C - Jumping Takahashi](https://atcoder.jp/contests/abc240/tasks/abc240_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
 |  | [C - ABC conjecture](https://atcoder.jp/contests/abc227/tasks/abc227_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
