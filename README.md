@@ -1496,6 +1496,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 33 | [374 - Big Mod](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=310) | [C++11 5.3.0](./uva/374.cpp) |
 | 32 | [1208 - Oreon](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3649) | [C++11 5.3.0](./uva/1208.cpp) |
 | 31 | [1174 - IP-TV](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3615) | [C++11 5.3.0](./uva/1174.cpp) |
 | 30 | [908 - Re-connecting Computer Sites](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=849) | [C++11 5.3.0](./uva/908.cpp) |
