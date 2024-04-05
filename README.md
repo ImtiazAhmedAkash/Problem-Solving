@@ -573,6 +573,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 778 | [B - High School: Become Human](https://codeforces.com/contest/987/problem/B) | [C++20 (GCC 13-64)](./codeforces/987/B.cpp) |
 |  | [E - Nearly Shortest Repeating Substring](https://codeforces.com/contest/1950/problem/E) | [C++20 (GCC 13-64)](./codeforces/) |
 |  | [D - Product of Binary Decimals](https://codeforces.com/contest/1950/problem/D) | [C++20 (GCC 13-64)](./codeforces/) |
 |  | [C - Clock Conversion](https://codeforces.com/contest/1950/problem/C) | [C++20 (GCC 13-64)](./codeforces/) |
