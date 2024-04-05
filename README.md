@@ -1474,6 +1474,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 4 | [FACTMUL - Product of factorials](https://www.spoj.com/problems/FACTMUL/) | [C++14 (gcc 8.3)](./spoj/FACTMUL.cpp) |
 | 3 | [PWRANDMOD - Power and Mod](https://www.spoj.com/problems/PWRANDMOD/) | [C++14 (gcc 8.3)](./spoj/PWRANDMOD.cpp) |
 | 2 | [AKBAR - Akbar , The great](https://www.spoj.com/problems/AKBAR/) | [C++14 (gcc 8.3)](./spoj/AKBAR.cpp) |
 | 1 | [TEST - Life, the Universe, and Everything](https://www.spoj.com/problems/TEST/) | [C++14 (gcc 8.3)](./spoj/TEST.cpp) |
