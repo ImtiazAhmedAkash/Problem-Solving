@@ -1475,6 +1475,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 5 | [LASTDIG - The last digit](https://www.spoj.com/problems/LASTDIG/) | [C++14 (gcc 8.3)](./spoj/LASTDIG.cpp) |
 | 4 | [FACTMUL - Product of factorials](https://www.spoj.com/problems/FACTMUL/) | [C++14 (gcc 8.3)](./spoj/FACTMUL.cpp) |
 | 3 | [PWRANDMOD - Power and Mod](https://www.spoj.com/problems/PWRANDMOD/) | [C++14 (gcc 8.3)](./spoj/PWRANDMOD.cpp) |
 | 2 | [AKBAR - Akbar , The great](https://www.spoj.com/problems/AKBAR/) | [C++14 (gcc 8.3)](./spoj/AKBAR.cpp) |
