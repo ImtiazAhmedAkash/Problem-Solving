@@ -1371,6 +1371,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 32 | [Stick Lengths](https://cses.fi/problemset/task/1074) | [C++20](./cses/sorting_and_searching/1074.cpp) |
 | 31 | [Creating Strings II](https://cses.fi/problemset/task/1715) | [C++20](./cses/mathematics/1715.cpp) |
 | 30 | [Exponentiation II](https://cses.fi/problemset/task/1712) | [C++17](./cses/mathematics/1712.cpp) |
 | 29 | [Exponentiation](https://cses.fi/problemset/task/1095) | [C++20](./cses/mathematics/1095.cpp) |
