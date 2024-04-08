@@ -573,6 +573,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 782 | [B - Fedya and Maths](https://codeforces.com/contest/456/problem/B) | [C++20 (GCC 13-64)](./codeforces/456/B.cpp) |
+| 781 | [C - Beautiful Numbers](https://codeforces.com/contest/300/problem/C) | [C++20 (GCC 13-64)](./codeforces/300/C.cpp) |
+| 780 | [C - Tiles](https://codeforces.com/contest/1178/problem/C) | [C++20 (GCC 13-64)](./codeforces/1178/C.cpp) |
+| 779 | [D - Moderate Modular Mode](https://codeforces.com/contest/1604/problem/D) | [C++20 (GCC 13-64)](./codeforces/1604/D.cpp) |
 | 778 | [B - High School: Become Human](https://codeforces.com/contest/987/problem/B) | [C++20 (GCC 13-64)](./codeforces/987/B.cpp) |
 |  | [E - Nearly Shortest Repeating Substring](https://codeforces.com/contest/1950/problem/E) | [C++20 (GCC 13-64)](./codeforces/) |
 |  | [D - Product of Binary Decimals](https://codeforces.com/contest/1950/problem/D) | [C++20 (GCC 13-64)](./codeforces/) |
@@ -1373,7 +1377,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 |:---:| ------- | :--------: |
 | 32 | [Stick Lengths](https://cses.fi/problemset/task/1074) | [C++20](./cses/sorting_and_searching/1074.cpp) |
 | 31 | [Creating Strings II](https://cses.fi/problemset/task/1715) | [C++20](./cses/mathematics/1715.cpp) |
-| 30 | [Exponentiation II](https://cses.fi/problemset/task/1712) | [C++17](./cses/mathematics/1712.cpp) |
+| 30 | [Exponentiation II](https://cses.fi/problemset/task/1712) | [C++20](./cses/mathematics/1712.cpp) |
 | 29 | [Exponentiation](https://cses.fi/problemset/task/1095) | [C++20](./cses/mathematics/1095.cpp) |
 | 28 | [Building Roads](https://cses.fi/problemset/task/1666/) | [C++20](./cses/graph_algorithms/1666.cpp) |
 | 27 | [Tasks and Deadlines](https://cses.fi/problemset/task/1630) | [C++20](./cses/sorting_and_searching/1630.cpp) |
@@ -1423,7 +1427,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
-| 34 | [Large Division](https://lightoj.com/problem/large-division) | [C++ 20](./lightoj/1214.cpp) |
+| 34 | [1214 - Large Division](https://lightoj.com/problem/large-division) | [C++ 20](./lightoj/1214.cpp) |
 | 33 | [1067 - Combinations](https://lightoj.com/problem/combinations) | [C++ 20](./lightoj/1067.cpp) |
 | 32 | [1034 - Hit the Light Switches](https://lightoj.com/problem/hit-the-light-switches) | [C++ 20](./lightoj/1034.cpp) |
 | 31 | [1039 - A Toy Company](https://lightoj.com/problem/a-toy-company) | [C++ 20](./lightoj/1039.cpp) |
