@@ -1507,6 +1507,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 35 | [10212 - The Last Non-zero Digit.](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1153) | [C++11 5.3.0](./uva/10212.cpp) |
 | 34 | [11029 - Leading and Trailing](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1970) | [C++11 5.3.0](./uva/11029.cpp) |
 | 33 | [374 - Big Mod](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=310) | [C++11 5.3.0](./uva/374.cpp) |
 | 32 | [1208 - Oreon](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3649) | [C++11 5.3.0](./uva/1208.cpp) |
