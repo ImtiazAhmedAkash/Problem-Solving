@@ -573,6 +573,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 783 | [C - Training Before the Olympiad](https://codeforces.com/contest/1916/problem/C) | [C++20 (GCC 13-64)](./codeforces/1916/C.cpp) |
 | 782 | [B - Fedya and Maths](https://codeforces.com/contest/456/problem/B) | [C++20 (GCC 13-64)](./codeforces/456/B.cpp) |
 | 781 | [C - Beautiful Numbers](https://codeforces.com/contest/300/problem/C) | [C++20 (GCC 13-64)](./codeforces/300/C.cpp) |
 | 780 | [C - Tiles](https://codeforces.com/contest/1178/problem/C) | [C++20 (GCC 13-64)](./codeforces/1178/C.cpp) |
