@@ -127,9 +127,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [C - Repunit Trio](https://atcoder.jp/contests/abc333/tasks/abc333_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
 |  | [D - Square Pair](https://atcoder.jp/contests/abc342/tasks/abc342_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
 |  | [D - Diversity of Scores](https://atcoder.jp/contests/abc343/tasks/abc343_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [C - 343](https://atcoder.jp/contests/abc343/tasks/abc343_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [C - A+B+C](https://atcoder.jp/contests/abc344/tasks/abc344_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [D - Built?](https://atcoder.jp/contests/abc065/tasks/arc076_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
+| 346 | [C - 343](https://atcoder.jp/contests/abc343/tasks/abc343_c) | [C++ 20 (gcc 12.2)](./atcoder/abc343/C.cpp) |
+| 345 | [C - A+B+C](https://atcoder.jp/contests/abc344/tasks/abc344_c) | [C++ 20 (gcc 12.2)](./atcoder/abc344/C.cpp) |
+| 344 | [D - Built?](https://atcoder.jp/contests/abc065/tasks/arc076_b) | [C++ 20 (gcc 12.2)](./atcoder/abc065/D.cpp) |
 | 343 | [C - Many Replacement](https://atcoder.jp/contests/abc342/tasks/abc342_c) | [C++ 20 (gcc 12.2)](./atcoder/abc342/C.cpp) |
 | 342 | [B - Which is ahead?](https://atcoder.jp/contests/abc342/tasks/abc342_b) | [C++ 20 (gcc 12.2)](./atcoder/abc342/B.cpp) |
 | 341 | [A - Yay!](https://atcoder.jp/contests/abc342/tasks/abc342_a) | [C++ 20 (gcc 12.2)](./atcoder/abc342/A.cpp) |
