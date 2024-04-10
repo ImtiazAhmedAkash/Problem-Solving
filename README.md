@@ -573,6 +573,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 789 | [F - Good Prime](https://codeforces.com/gym/487767/problem/F) | [C++20 (GCC 13-64)](./codeforces/gym/487767/F.cpp) |
+| 788 | [G - Upcoming Exam](https://codeforces.com/gym/487767/problem/G) | [C++20 (GCC 13-64)](./codeforces/gym/487767/G.cpp) |
+| 787 | [H - Halal Food](https://codeforces.com/gym/487767/problem/H) | [C++20 (GCC 13-64)](./codeforces/gym/487767/H.cpp) |
+| 786 | [C - Create Square](https://codeforces.com/gym/487767/problem/C) | [C++20 (GCC 13-64)](./codeforces/gym/487767/C.cpp) |
+| 785 | [A - Shopping (Easy Version)](https://codeforces.com/gym/487767/problem/A) | [C++20 (GCC 13-64)](./codeforces/gym/487767/A.cpp) |
+| 784 | [E - Tetrahedron](https://codeforces.com/contest/166/problem/E) | [C++20 (GCC 13-64)](./codeforces/166/E.cpp) |
 | 783 | [C - Training Before the Olympiad](https://codeforces.com/contest/1916/problem/C) | [C++20 (GCC 13-64)](./codeforces/1916/C.cpp) |
 | 782 | [B - Fedya and Maths](https://codeforces.com/contest/456/problem/B) | [C++20 (GCC 13-64)](./codeforces/456/B.cpp) |
 | 781 | [C - Beautiful Numbers](https://codeforces.com/contest/300/problem/C) | [C++20 (GCC 13-64)](./codeforces/300/C.cpp) |
