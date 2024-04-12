@@ -1382,6 +1382,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 36 | [Coin Combinations II](https://cses.fi/problemset/task/1636) | [C++20](./cses/dynamic_programming/1636.cpp) |
+| 35 | [Coin Combinations I](https://cses.fi/problemset/task/1635) | [C++20](./cses/dynamic_programming/1635.cpp) |
 | 34 | [Minimizing Coins](https://cses.fi/problemset/task/1634) | [C++20](./cses/dynamic_programming/1634.cpp) |
 | 33 | [Dice Combinations](https://cses.fi/problemset/task/1633) | [C++20](./cses/dynamic_programming/1633.cpp) |
 | 32 | [Stick Lengths](https://cses.fi/problemset/task/1074) | [C++20](./cses/sorting_and_searching/1074.cpp) |
