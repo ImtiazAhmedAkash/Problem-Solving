@@ -573,6 +573,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 790 | [D - Team Formation](https://codeforces.com/gym/487767/problem/D) | [C++20 (GCC 13-64)](./codeforces/gym/487767/D.cpp) |
 | 789 | [F - Good Prime](https://codeforces.com/gym/487767/problem/F) | [C++20 (GCC 13-64)](./codeforces/gym/487767/F.cpp) |
 | 788 | [G - Upcoming Exam](https://codeforces.com/gym/487767/problem/G) | [C++20 (GCC 13-64)](./codeforces/gym/487767/G.cpp) |
 | 787 | [H - Halal Food](https://codeforces.com/gym/487767/problem/H) | [C++20 (GCC 13-64)](./codeforces/gym/487767/H.cpp) |
