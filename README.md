@@ -1383,6 +1383,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 38 | [Grid Paths](https://cses.fi/problemset/task/1638) | [C++20](./cses/dynamic_programming/1638.cpp) |
+| 37 | [Removing Digits](https://cses.fi/problemset/task/1637) | [C++20](./cses/dynamic_programming/1637.cpp) |
 | 36 | [Coin Combinations II](https://cses.fi/problemset/task/1636) | [C++20](./cses/dynamic_programming/1636.cpp) |
 | 35 | [Coin Combinations I](https://cses.fi/problemset/task/1635) | [C++20](./cses/dynamic_programming/1635.cpp) |
 | 34 | [Minimizing Coins](https://cses.fi/problemset/task/1634) | [C++20](./cses/dynamic_programming/1634.cpp) |
