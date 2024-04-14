@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 451 | [D - Divide Interval](https://atcoder.jp/contests/abc349/tasks/abc349_d) | [C++ 20 (gcc 12.2)](./atcoder/abc349/D.cpp) |
+| 450 | [C - Airport Code](https://atcoder.jp/contests/abc349/tasks/abc349_c) | [C++ 20 (gcc 12.2)](./atcoder/abc349/C.cpp) |
+| 449 | [B - Commencement](https://atcoder.jp/contests/abc349/tasks/abc349_b) | [C++ 20 (gcc 12.2)](./atcoder/abc349/B.cpp) |
+| 448 | [A - Zero Sum Game](https://atcoder.jp/contests/abc349/tasks/abc349_a) | [C++ 20 (gcc 12.2)](./atcoder/abc349/A.cpp) |
 | 447 | [B - Modulo Number](https://atcoder.jp/contests/abc266/tasks/abc266_b) | [C++ 20 (gcc 12.2)](./atcoder/abc266/B.cpp) |
 |  | [D - Moves on Binary Tree](https://atcoder.jp/contests/abc243/tasks/abc243_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
 |  | [C - Jumping Takahashi](https://atcoder.jp/contests/abc240/tasks/abc240_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
