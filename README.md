@@ -1395,6 +1395,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 42 | [Rectangle Cutting](https://cses.fi/problemset/task/1744) | [C++20](./cses/dynamic_programming/1744.cpp) |
+| 41 | [Edit Distance](https://cses.fi/problemset/task/1639) | [C++20](./cses/dynamic_programming/1639.cpp) |
 | 40 | [Array Description](https://cses.fi/problemset/task/1746) | [C++20](./cses/dynamic_programming/1746.cpp) |
 | 39 | [Book Shop](https://cses.fi/problemset/task/1158) | [C++20](./cses/dynamic_programming/1158.cpp) |
 | 38 | [Grid Paths](https://cses.fi/problemset/task/1638) | [C++20](./cses/dynamic_programming/1638.cpp) |
