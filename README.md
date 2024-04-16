@@ -578,6 +578,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 797 | [F - Tree Again!](https://codeforces.com/gym/517247/problem/F) | [C++20 (GCC 13-64)](./codeforces/gym/517247/F.cpp) |
+| 796 | [B - How Many?](https://codeforces.com/gym/517247/problem/B) | [C++20 (GCC 13-64)](./codeforces/gym/517247/B.cpp) |
+| 795 | [A - Journey by Train](https://codeforces.com/gym/517247/problem/A) | [C++20 (GCC 13-64)](./codeforces/gym/517247/A.cpp) |
+| 794 | [C - Checking Banknote](https://codeforces.com/gym/517247/problem/C) | [C++20 (GCC 13-64)](./codeforces/gym/517247/C.cpp) |
+| 793 | [C - Nene's Magical Matrix](https://codeforces.com/contest/1956/problem/C) | [C++20 (GCC 13-64)](./codeforces/1956/C.cpp) |
+| 792 | [B - Nene and the Card Game](https://codeforces.com/contest/1956/problem/B) | [C++20 (GCC 13-64)](./codeforces/1956/B.cpp) |
+| 791 | [A - Nene's Game](https://codeforces.com/contest/1956/problem/A) | [C++20 (GCC 13-64)](./codeforces/1956/A.cpp) |
 | 790 | [D - Team Formation](https://codeforces.com/gym/487767/problem/D) | [C++20 (GCC 13-64)](./codeforces/gym/487767/D.cpp) |
 | 789 | [F - Good Prime](https://codeforces.com/gym/487767/problem/F) | [C++20 (GCC 13-64)](./codeforces/gym/487767/F.cpp) |
 | 788 | [G - Upcoming Exam](https://codeforces.com/gym/487767/problem/G) | [C++20 (GCC 13-64)](./codeforces/gym/487767/G.cpp) |
