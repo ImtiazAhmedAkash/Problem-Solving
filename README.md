@@ -1395,6 +1395,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 43 | [Money Sums](https://cses.fi/problemset/task/1745) | [C++20](./cses/dynamic_programming/1745.cpp) |
 | 42 | [Rectangle Cutting](https://cses.fi/problemset/task/1744) | [C++20](./cses/dynamic_programming/1744.cpp) |
 | 41 | [Edit Distance](https://cses.fi/problemset/task/1639) | [C++20](./cses/dynamic_programming/1639.cpp) |
 | 40 | [Array Description](https://cses.fi/problemset/task/1746) | [C++20](./cses/dynamic_programming/1746.cpp) |
