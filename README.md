@@ -1395,6 +1395,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 47 | [Projects](https://cses.fi/problemset/task/1140) | [C++20](./cses/dynamic_programming/1140.cpp) |
 | 46 | [Increasing Subsequence](https://cses.fi/problemset/task/1145) | [C++20](./cses/dynamic_programming/1145.cpp) |
 | 45 | [Two Sets II](https://cses.fi/problemset/task/1093) | [C++20](./cses/dynamic_programming/1093.cpp) |
 | 44 | [Removal Game](https://cses.fi/problemset/task/1097) | [C++20](./cses/dynamic_programming/1097.cpp) |
