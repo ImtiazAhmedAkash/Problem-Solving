@@ -586,6 +586,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 798 | [G - Katryoshka](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G) | [C++20 (GCC 13-64)](./codeforces/group/326175/G.cpp) |
 | 797 | [F - Tree Again!](https://codeforces.com/gym/517247/problem/F) | [C++20 (GCC 13-64)](./codeforces/gym/517247/F.cpp) |
 | 796 | [B - How Many?](https://codeforces.com/gym/517247/problem/B) | [C++20 (GCC 13-64)](./codeforces/gym/517247/B.cpp) |
 | 795 | [A - Journey by Train](https://codeforces.com/gym/517247/problem/A) | [C++20 (GCC 13-64)](./codeforces/gym/517247/A.cpp) |
