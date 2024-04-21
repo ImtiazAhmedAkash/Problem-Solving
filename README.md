@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 465 | [E - Toward 0](https://atcoder.jp/contests/abc350/tasks/abc350_e) | [C++ 20 (gcc 12.2)](./atcoder/abc350/E.cpp) |
+| 464 | [D - New Friends](https://atcoder.jp/contests/abc350/tasks/abc350_d) | [C++ 20 (gcc 12.2)](./atcoder/abc350/D.cpp) |
+| 463 | [C - Sort](https://atcoder.jp/contests/abc350/tasks/abc350_c) | [C++ 20 (gcc 12.2)](./atcoder/abc350/C.cpp) |
+| 462 | [B - Dentist Aoki](https://atcoder.jp/contests/abc350/tasks/abc350_b) | [C++ 20 (gcc 12.2)](./atcoder/abc350/B.cpp) |
+| 461 | [A - Past ABCs](https://atcoder.jp/contests/abc350/tasks/abc350_a) | [C++ 20 (gcc 12.2)](./atcoder/abc350/A.cpp) |
 | 460 | [H - Grid 1](https://atcoder.jp/contests/dp/tasks/dp_h) | [C++ 20 (gcc 12.2)](./atcoder/dp/H.cpp) |
 | 459 | [E - Knapsack 2](https://atcoder.jp/contests/dp/tasks/dp_e) | [C++ 20 (gcc 12.2)](./atcoder/dp/E.cpp) |
 | 458 | [G - Longest Path](https://atcoder.jp/contests/dp/tasks/dp_g) | [C++ 20 (gcc 12.2)](./atcoder/dp/G.cpp) |
