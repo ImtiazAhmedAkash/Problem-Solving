@@ -26,6 +26,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 468 | [L - Deque](https://atcoder.jp/contests/dp/tasks/dp_l) | [C++ 20 (gcc 12.2)](./atcoder/dp/L.cpp) |
+| 467 | [K - Stones](https://atcoder.jp/contests/dp/tasks/dp_k) | [C++ 20 (gcc 12.2)](./atcoder/dp/K.cpp) |
+| 466 | [I - Coins](https://atcoder.jp/contests/dp/tasks/dp_i) | [C++ 20 (gcc 12.2)](./atcoder/dp/I.cpp) |
 | 465 | [E - Toward 0](https://atcoder.jp/contests/abc350/tasks/abc350_e) | [C++ 20 (gcc 12.2)](./atcoder/abc350/E.cpp) |
 | 464 | [D - New Friends](https://atcoder.jp/contests/abc350/tasks/abc350_d) | [C++ 20 (gcc 12.2)](./atcoder/abc350/D.cpp) |
 | 463 | [C - Sort](https://atcoder.jp/contests/abc350/tasks/abc350_c) | [C++ 20 (gcc 12.2)](./atcoder/abc350/C.cpp) |
