@@ -26,6 +26,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 469 | [D - Dice in Line](https://atcoder.jp/contests/abc154/tasks/abc154_d) | [C++ 20 (gcc 12.2)](./atcoder/abc154/D.cpp) |
 | 468 | [L - Deque](https://atcoder.jp/contests/dp/tasks/dp_l) | [C++ 20 (gcc 12.2)](./atcoder/dp/L.cpp) |
 | 467 | [K - Stones](https://atcoder.jp/contests/dp/tasks/dp_k) | [C++ 20 (gcc 12.2)](./atcoder/dp/K.cpp) |
 | 466 | [I - Coins](https://atcoder.jp/contests/dp/tasks/dp_i) | [C++ 20 (gcc 12.2)](./atcoder/dp/I.cpp) |
