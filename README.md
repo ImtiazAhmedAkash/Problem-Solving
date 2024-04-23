@@ -595,6 +595,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 808 | [H - Peaceful Sets](https://codeforces.com/gym/100135/problem/H) | [C++20 (GCC 13-64)](./codeforces/gym/100135/H.cpp) |
+| 807 | [G - Longest Path](https://codeforces.com/gym/100135/problem/G) | [C++20 (GCC 13-64)](./codeforces/gym/100135/G.cpp) |
+| 806 | [F - Cannonballs](https://codeforces.com/gym/100135/problem/F) | [C++20 (GCC 13-64)](./codeforces/gym/100135/F.cpp) |
+| 805 | [E - Slalom](https://codeforces.com/gym/100135/problem/E) | [C++20 (GCC 13-64)](./codeforces/gym/100135/E.cpp) |
+| 804 | [D - Path Cost](https://codeforces.com/gym/100135/problem/D) | [C++20 (GCC 13-64)](./codeforces/gym/100135/D.cpp) |
+| 803 | [C - Knight’s move](https://codeforces.com/gym/100135/problem/C) | [C++20 (GCC 13-64)](./codeforces/gym/100135/C.cpp) |
+| 802 | [B - Rabbit](https://codeforces.com/gym/100135/problem/B) | [C++20 (GCC 13-64)](./codeforces/gym/100135/B.cpp) |
+| 801 | [A - Ladder](https://codeforces.com/gym/100135/problem/A) | [C++20 (GCC 13-64)](./codeforces/gym/100135/A.cpp) |
+| 800 | [C - Basketball Exercise](https://codeforces.com/contest/1195/problem/C) | [C++20 (GCC 13-64)](./codeforces/1195/C.cpp) |
 | 799 | [C - Liebig's Barrels](https://codeforces.com/contest/985/problem/C) | [C++20 (GCC 13-64)](./codeforces/985/C.cpp) |
 | 798 | [G - Katryoshka](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G) | [C++20 (GCC 13-64)](./codeforces/group/326175/G.cpp) |
 | 797 | [F - Tree Again!](https://codeforces.com/gym/517247/problem/F) | [C++20 (GCC 13-64)](./codeforces/gym/517247/F.cpp) |
