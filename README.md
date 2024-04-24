@@ -595,6 +595,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 811 | [K - Josephus Problem](https://codeforces.com/gym/100135/problem/K) | [C++20 (GCC 13-64)](./codeforces/gym/100135/K.cpp) |
+| 810 | [J - Bad Substring](https://codeforces.com/gym/100135/problem/J) | [C++20 (GCC 13-64)](./codeforces/gym/100135/J.cpp) |
+| 809 | [I - Knapsack](https://codeforces.com/gym/100135/problem/I) | [C++20 (GCC 13-64)](./codeforces/gym/100135/I.cpp) |
 | 808 | [H - Peaceful Sets](https://codeforces.com/gym/100135/problem/H) | [C++20 (GCC 13-64)](./codeforces/gym/100135/H.cpp) |
 | 807 | [G - Longest Path](https://codeforces.com/gym/100135/problem/G) | [C++20 (GCC 13-64)](./codeforces/gym/100135/G.cpp) |
 | 806 | [F - Cannonballs](https://codeforces.com/gym/100135/problem/F) | [C++20 (GCC 13-64)](./codeforces/gym/100135/F.cpp) |
