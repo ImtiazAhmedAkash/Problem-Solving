@@ -595,6 +595,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 816 | [A - Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | [C++20 (GCC 13-64)](./codeforces/1926/A.cpp) |
+| 815 | [B - Vlad and Shapes](https://codeforces.com/contest/1926/problem/B) | [C++20 (GCC 13-64)](./codeforces/1926/B.cpp) |
+| 814 | [C - Vlad and a Sum of Sum of Digits](https://codeforces.com/contest/1926/problem/C) | [C++20 (GCC 13-64)](./codeforces/1926/C.cpp) |
+| 813 | [D - Vlad and Division](https://codeforces.com/contest/1926/problem/D) | [C++20 (GCC 13-64)](./codeforces/1926/D.cpp) |
+| 812 | [E - Vlad and an Odd Ordering](https://codeforces.com/contest/1926/problem/E) | [C++20 (GCC 13-64)](./codeforces/1926/E.cpp) |
 | 811 | [K - Josephus Problem](https://codeforces.com/gym/100135/problem/K) | [C++20 (GCC 13-64)](./codeforces/gym/100135/K.cpp) |
 | 810 | [J - Bad Substring](https://codeforces.com/gym/100135/problem/J) | [C++20 (GCC 13-64)](./codeforces/gym/100135/J.cpp) |
 | 809 | [I - Knapsack](https://codeforces.com/gym/100135/problem/I) | [C++20 (GCC 13-64)](./codeforces/gym/100135/I.cpp) |
