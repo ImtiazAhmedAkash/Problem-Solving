@@ -595,6 +595,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 822 | [A - Odd One Out](https://codeforces.com/contest/1915/problem/A) | [C++20 (GCC 13-64)](./codeforces/1915/A.cpp) |
+| 821 | [B - Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | [C++20 (GCC 13-64)](./codeforces/1915/B.cpp) |
+| 820 | [C - Can I Square?](https://codeforces.com/contest/1915/problem/C) | [C++20 (GCC 13-64)](./codeforces/1915/C.cpp) |
+| 819 | [D - Unnatural Language Processing](https://codeforces.com/contest/1915/problem/D) | [C++20 (GCC 13-64)](./codeforces/1915/D.cpp) |
+| 818 | [E - Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | [C++20 (GCC 13-64)](./codeforces/1915/E.cpp) |
+| 817 | [F - Greetings](https://codeforces.com/contest/1915/problem/F) | [C++20 (GCC 13-64)](./codeforces/1915/F.cpp) |
 | 816 | [A - Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A) | [C++20 (GCC 13-64)](./codeforces/1926/A.cpp) |
 | 815 | [B - Vlad and Shapes](https://codeforces.com/contest/1926/problem/B) | [C++20 (GCC 13-64)](./codeforces/1926/B.cpp) |
 | 814 | [C - Vlad and a Sum of Sum of Digits](https://codeforces.com/contest/1926/problem/C) | [C++20 (GCC 13-64)](./codeforces/1926/C.cpp) |
