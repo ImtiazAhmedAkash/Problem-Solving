@@ -595,6 +595,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 823 | [D - Effects of Anti Pimples](https://codeforces.com/contest/1877/problem/D) | [C++20 (GCC 13-64)](./codeforces/1877/D.cpp) |
 | 822 | [A - Odd One Out](https://codeforces.com/contest/1915/problem/A) | [C++20 (GCC 13-64)](./codeforces/1915/A.cpp) |
 | 821 | [B - Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | [C++20 (GCC 13-64)](./codeforces/1915/B.cpp) |
 | 820 | [C - Can I Square?](https://codeforces.com/contest/1915/problem/C) | [C++20 (GCC 13-64)](./codeforces/1915/C.cpp) |
