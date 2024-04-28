@@ -1566,6 +1566,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 7 | [AU7_5 - STUDENTS](https://www.spoj.com/problems/AU7_5/) | [C++14 (gcc 8.3)](./spoj/AU7_5.cpp) |
 | 6 | [ZSUM - Just Add It](https://www.spoj.com/problems/ZSUM/) | [C++14 (gcc 8.3)](./spoj/ZSUM.cpp) |
 | 5 | [LASTDIG - The last digit](https://www.spoj.com/problems/LASTDIG/) | [C++14 (gcc 8.3)](./spoj/LASTDIG.cpp) |
 | 4 | [FACTMUL - Product of factorials](https://www.spoj.com/problems/FACTMUL/) | [C++14 (gcc 8.3)](./spoj/FACTMUL.cpp) |
