@@ -599,6 +599,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 831 | [A - Insert Digit](https://codeforces.com/contest/1811/problem/A) | [C++20 (GCC 13-64)](./codeforces/1811/A.cpp) |
+| 830 | [B - Conveyor Belts](https://codeforces.com/contest/1811/problem/B) | [C++20 (GCC 13-64)](./codeforces/1811/B.cpp) |
+| 829 | [C - Restore the Array](https://codeforces.com/contest/1811/problem/C) | [C++20 (GCC 13-64)](./codeforces/1811/C.cpp) |
+| 828 | [E - Living Sequence](https://codeforces.com/contest/1811/problem/E) | [C++20 (GCC 13-64)](./codeforces/1811/E.cpp) |
+| 827 | [C - Tenzing and Balls](https://codeforces.com/contest/1842/problem/C) | [C++20 (GCC 13-64)](./codeforces/1842/C.cpp) |
 | 826 | [C - Everything Nim](https://codeforces.com/contest/1966/problem/C) | [C++20 (GCC 13-64)](./codeforces/1966/C.cpp) |
 | 825 | [B - Rectangle Filling](https://codeforces.com/contest/1966/problem/B) | [C++20 (GCC 13-64)](./codeforces/1966/B.cpp) |
 | 824 | [A - Card Exchange](https://codeforces.com/contest/1966/problem/A) | [C++20 (GCC 13-64)](./codeforces/1966/A.cpp) |
