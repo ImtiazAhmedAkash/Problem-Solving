@@ -595,6 +595,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 826 | [C - Everything Nim](https://codeforces.com/contest/1966/problem/C) | [C++20 (GCC 13-64)](./codeforces/1966/C.cpp) |
+| 825 | [B - Rectangle Filling](https://codeforces.com/contest/1966/problem/B) | [C++20 (GCC 13-64)](./codeforces/1966/B.cpp) |
+| 824 | [A - Card Exchange](https://codeforces.com/contest/1966/problem/A) | [C++20 (GCC 13-64)](./codeforces/1966/A.cpp) |
 | 823 | [D - Effects of Anti Pimples](https://codeforces.com/contest/1877/problem/D) | [C++20 (GCC 13-64)](./codeforces/1877/D.cpp) |
 | 822 | [A - Odd One Out](https://codeforces.com/contest/1915/problem/A) | [C++20 (GCC 13-64)](./codeforces/1915/A.cpp) |
 | 821 | [B - Not Quite Latin Square](https://codeforces.com/contest/1915/problem/B) | [C++20 (GCC 13-64)](./codeforces/1915/B.cpp) |
