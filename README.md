@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 473 | [D - Grid and Magnet](https://atcoder.jp/contests/abc351/tasks/abc351_d) | [C++ 20 (gcc 12.2)](./atcoder/abc351/D.cpp) |
+| 472 | [C - Merge the balls](https://atcoder.jp/contests/abc351/tasks/abc351_c) | [C++ 20 (gcc 12.2)](./atcoder/abc351/C.cpp) |
+| 471 | [B - Spot the Difference](https://atcoder.jp/contests/abc351/tasks/abc351_b) | [C++ 20 (gcc 12.2)](./atcoder/abc351/B.cpp) |
+| 470 | [A - The bottom of the ninth](https://atcoder.jp/contests/abc351/tasks/abc351_a) | [C++ 20 (gcc 12.2)](./atcoder/abc351/A.cpp) |
 | 469 | [D - Dice in Line](https://atcoder.jp/contests/abc154/tasks/abc154_d) | [C++ 20 (gcc 12.2)](./atcoder/abc154/D.cpp) |
 | 468 | [L - Deque](https://atcoder.jp/contests/dp/tasks/dp_l) | [C++ 20 (gcc 12.2)](./atcoder/dp/L.cpp) |
 | 467 | [K - Stones](https://atcoder.jp/contests/dp/tasks/dp_k) | [C++ 20 (gcc 12.2)](./atcoder/dp/K.cpp) |
