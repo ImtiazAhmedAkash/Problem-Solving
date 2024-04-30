@@ -599,6 +599,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 839 | [C - Min Max Sort](https://codeforces.com/contest/1792/problem/C) | [C++20 (GCC 13-64)](./codeforces/1792/C.cpp) |
+| 838 | [C - Minimizing the Sum](https://codeforces.com/contest/1969/problem/C) | [C++20 (GCC 13-64)](./codeforces/1969/C.cpp) |
+| 837 | [B - Shifts and Sorting](https://codeforces.com/contest/1969/problem/B) | [C++20 (GCC 13-64)](./codeforces/1969/B.cpp) |
+| 836 | [A - Two Friends](https://codeforces.com/contest/1969/problem/A) | [C++20 (GCC 13-64)](./codeforces/1969/A.cpp) |
+| 835 | [C - Tea Tasting](https://codeforces.com/contest/1795/problem/C) | [C++20 (GCC 13-64)](./codeforces/1795/C.cpp) |
 | 834 | [A - Lame King](https://codeforces.com/contest/1804/problem/A) | [C++20 (GCC 13-64)](./codeforces/1804/A.cpp) |
 | 833 | [B - Vaccination](https://codeforces.com/contest/1804/problem/B) | [C++20 (GCC 13-64)](./codeforces/1804/B.cpp) |
 | 832 | [C - Pull Your Luck](https://codeforces.com/contest/1804/problem/C) | [C++20 (GCC 13-64)](./codeforces/1804/C.cpp) |
