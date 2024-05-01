@@ -599,6 +599,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 843 | [D1 - Reverse Card (Easy Version)](https://codeforces.com/contest/1972/problem/D1) | [C++20 (GCC 13-64)](./codeforces/1972/D1.cpp) |
+| 842 | [C - Permutation Counting](https://codeforces.com/contest/1972/problem/C) | [C++20 (GCC 13-64)](./codeforces/1972/C.cpp) |
+| 841 | [B - Coin Games](https://codeforces.com/contest/1972/problem/B) | [C++20 (GCC 13-64)](./codeforces/1972/B.cpp) |
+| 840 | [A - Contest Proposal](https://codeforces.com/contest/1972/problem/A) | [C++20 (GCC 13-64)](./codeforces/1972/A.cpp) |
 | 839 | [C - Min Max Sort](https://codeforces.com/contest/1792/problem/C) | [C++20 (GCC 13-64)](./codeforces/1792/C.cpp) |
 | 838 | [C - Minimizing the Sum](https://codeforces.com/contest/1969/problem/C) | [C++20 (GCC 13-64)](./codeforces/1969/C.cpp) |
 | 837 | [B - Shifts and Sorting](https://codeforces.com/contest/1969/problem/B) | [C++20 (GCC 13-64)](./codeforces/1969/B.cpp) |
