@@ -536,11 +536,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 
 <!---
-|  | []() | [C++17](./codechef) |
+|  | []() | [C++20](./codechef) |
     --->
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 47 | [OPTMFLP18 - Optimal Flip](https://www.codechef.com/problems/OPTMFLP18) | [C++20](./codechef/OPTMFLP18.cpp) |
+| 46 | [ALIENOR - ALIEN-OR](https://www.codechef.com/problems/ALIENOR) | [C++17](./codechef/ALIENOR.cpp) |
+| 45 | [GAME_XI - GAME 11](https://www.codechef.com/START132B/problems/GAME_XI) | [C++17](./codechef/GAME_XI.cpp) |
 | 44 | [ENV - Encrypt Value](https://www.codechef.com/problems/ENV) | [C++17](./codechef/ENV.cpp) |
 | 43 | [KCLOSE - K-Closeness](https://www.codechef.com/problems/KCLOSE) | [C++17](./codechef/KCLOSE.cpp) |
 | 42 | [DIDE - Dice Deception](https://www.codechef.com/problems/DIDE) | [C++17](./codechef/DIDE.cpp) |
