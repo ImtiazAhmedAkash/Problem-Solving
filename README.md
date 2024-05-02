@@ -599,6 +599,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 844 | [C - Serval and Toxel's Arrays](https://codeforces.com/contest/1789/problem/C) | [C++20 (GCC 13-64)](./codeforces/1789/C.cpp) |
 | 843 | [D1 - Reverse Card (Easy Version)](https://codeforces.com/contest/1972/problem/D1) | [C++20 (GCC 13-64)](./codeforces/1972/D1.cpp) |
 | 842 | [C - Permutation Counting](https://codeforces.com/contest/1972/problem/C) | [C++20 (GCC 13-64)](./codeforces/1972/C.cpp) |
 | 841 | [B - Coin Games](https://codeforces.com/contest/1972/problem/B) | [C++20 (GCC 13-64)](./codeforces/1972/B.cpp) |
