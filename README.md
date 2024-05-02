@@ -541,6 +541,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 44 | [ENV - Encrypt Value](https://www.codechef.com/problems/ENV) | [C++17](./codechef/ENV.cpp) |
+| 43 | [KCLOSE - K-Closeness](https://www.codechef.com/problems/KCLOSE) | [C++17](./codechef/KCLOSE.cpp) |
+| 42 | [DIDE - Dice Deception](https://www.codechef.com/problems/DIDE) | [C++17](./codechef/DIDE.cpp) |
+| 41 | [FINDPERM343 - Find Permutation](https://www.codechef.com/problems/FINDPERM343) | [C++17](./codechef/FINDPERM343.cpp) |
+| 40 | [COUNTSUB343 - Count Subarrays](https://www.codechef.com/problems/COUNTSUB343) | [C++17](./codechef/COUNTSUB343.cpp) |
+| 39 | [ASM120 - Sub or Swp](https://www.codechef.com/problems/ASM120) | [C++17](./codechef/ASM120.cpp) |
 | 38 | [ADVITIYA5 - K Odd Sum](https://www.codechef.com/problems/ADVITIYA5) | [C++17](./codechef/ADVITIYA5.cpp) |
 | 37 | [ADVITIYA4 - Another Good String](https://www.codechef.com/problems/ADVITIYA4) | [C++17](./codechef/ADVITIYA4.cpp) |
 | 36 | [ADVITIYA3 - Cookie Day](https://www.codechef.com/problems/ADVITIYA3) | [C++17](./codechef/ADVITIYA3.cpp) |
