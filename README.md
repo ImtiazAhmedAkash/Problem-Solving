@@ -608,6 +608,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 852 | [D - Playoff](https://codeforces.com/contest/1767/problem/D) | [C++20 (GCC 13-64)](./codeforces/1767/D.cpp) |
+| 851 | [B - Coloring](https://codeforces.com/contest/1774/problem/B) | [C++20 (GCC 13-64)](./codeforces/1774/B.cpp) |
+| 850 | [E - Cells Arrangement](https://codeforces.com/contest/1968/problem/E) | [C++20 (GCC 13-64)](./codeforces/1968/E.cpp) |
+| 849 | [D - Permutation Game](https://codeforces.com/contest/1968/problem/D) | [C++20 (GCC 13-64)](./codeforces/1968/D.cpp) |
+| 848 | [C - Assembly via Remainders](https://codeforces.com/contest/1968/problem/C) | [C++20 (GCC 13-64)](./codeforces/1968/C.cpp) |
+| 847 | [B - Prefiquence](https://codeforces.com/contest/1968/problem/B) | [C++20 (GCC 13-64)](./codeforces/1968/B.cpp) |
+| 846 | [A - Maximize?](https://codeforces.com/contest/1968/problem/A) | [C++20 (GCC 13-64)](./codeforces/1968/A.cpp) |
+| 845 | [L - Controllers](https://codeforces.com/contest/1776/problem/L) | [C++20 (GCC 13-64)](./codeforces/1776/L.cpp) |
 | 844 | [C - Serval and Toxel's Arrays](https://codeforces.com/contest/1789/problem/C) | [C++20 (GCC 13-64)](./codeforces/1789/C.cpp) |
 | 843 | [D1 - Reverse Card (Easy Version)](https://codeforces.com/contest/1972/problem/D1) | [C++20 (GCC 13-64)](./codeforces/1972/D1.cpp) |
 | 842 | [C - Permutation Counting](https://codeforces.com/contest/1972/problem/C) | [C++20 (GCC 13-64)](./codeforces/1972/C.cpp) |
