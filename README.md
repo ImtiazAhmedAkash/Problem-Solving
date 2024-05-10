@@ -546,6 +546,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 50 | [ABCC3 - ABC Conjecture 3](https://www.codechef.com/problems/ABCC3) | [C++20](./codechef/ABCC3.cpp) |
+| 49 | [POWPM - Powered Parameters](https://www.codechef.com/problems/POWPM) | [C++20](./codechef/POWPM.cpp) |
+| 48 | [MXALT - Maximum Alternating Sum](https://www.codechef.com/problems/MXALT) | [C++20](./codechef/MXALT.cpp) |
 | 47 | [OPTMFLP18 - Optimal Flip](https://www.codechef.com/problems/OPTMFLP18) | [C++20](./codechef/OPTMFLP18.cpp) |
 | 46 | [ALIENOR - ALIEN-OR](https://www.codechef.com/problems/ALIENOR) | [C++17](./codechef/ALIENOR.cpp) |
 | 45 | [GAME_XI - GAME 11](https://www.codechef.com/START132B/problems/GAME_XI) | [C++17](./codechef/GAME_XI.cpp) |
