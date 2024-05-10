@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 478 | [E - Clique Connect](https://atcoder.jp/contests/abc352/tasks/abc352_e) | [C++ 20 (gcc 12.2)](./atcoder/abc352/E.cpp) |
+| 477 | [D - Permutation Subsequence](https://atcoder.jp/contests/abc352/tasks/abc352_d) | [C++ 20 (gcc 12.2)](./atcoder/abc352/D.cpp) |
+| 476 | [C - Standing On The Shoulders](https://atcoder.jp/contests/abc352/tasks/abc352_c) | [C++ 20 (gcc 12.2)](./atcoder/abc352/C.cpp) |
+| 475 | [B - Typing](https://atcoder.jp/contests/abc352/tasks/abc352_b) | [C++ 20 (gcc 12.2)](./atcoder/abc352/B.cpp) |
+| 474 | [A - AtCoder Line](https://atcoder.jp/contests/abc352/tasks/abc352_a) | [C++ 20 (gcc 12.2)](./atcoder/abc352/A.cpp) |
 | 473 | [D - Grid and Magnet](https://atcoder.jp/contests/abc351/tasks/abc351_d) | [C++ 20 (gcc 12.2)](./atcoder/abc351/D.cpp) |
 | 472 | [C - Merge the balls](https://atcoder.jp/contests/abc351/tasks/abc351_c) | [C++ 20 (gcc 12.2)](./atcoder/abc351/C.cpp) |
 | 471 | [B - Spot the Difference](https://atcoder.jp/contests/abc351/tasks/abc351_b) | [C++ 20 (gcc 12.2)](./atcoder/abc351/B.cpp) |
