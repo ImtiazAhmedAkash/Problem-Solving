@@ -616,6 +616,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 859 | [C - Card Game](https://codeforces.com/contest/1739/problem/C) | [C++20 (GCC 13-64)](./codeforces/1739/C.cpp) |
+| 858 | [E1 - Divisible Numbers (easy version)](https://codeforces.com/contest/1744/problem/E1) | [C++20 (GCC 13-64)](./codeforces/1744/E1.cpp) |
+| 857 | [C2 - Make Nonzero Sum (hard version)](https://codeforces.com/contest/1754/problem/C2) | [C++20 (GCC 13-64)](./codeforces/1754/C2.cpp) |
+| 856 | [E - The Humanoid](https://codeforces.com/contest/1759/problem/E) | [C++20 (GCC 13-64)](./codeforces/1759/E.cpp) |
+| 855 | [F - Quests](https://codeforces.com/contest/1760/problem/F) | [C++20 (GCC 13-64)](./codeforces/1760/F.cpp) |
+| 854 | [K - Torus Path](https://codeforces.com/contest/1765/problem/K) | [C++20 (GCC 13-64)](./codeforces/1765/K.cpp) |
+| 853 | [N - Number Reduction](https://codeforces.com/contest/1765/problem/N) | [C++20 (GCC 13-64)](./codeforces/1765/N.cpp) |
 | 852 | [D - Playoff](https://codeforces.com/contest/1767/problem/D) | [C++20 (GCC 13-64)](./codeforces/1767/D.cpp) |
 | 851 | [B - Coloring](https://codeforces.com/contest/1774/problem/B) | [C++20 (GCC 13-64)](./codeforces/1774/B.cpp) |
 | 850 | [E - Cells Arrangement](https://codeforces.com/contest/1968/problem/E) | [C++20 (GCC 13-64)](./codeforces/1968/E.cpp) |
