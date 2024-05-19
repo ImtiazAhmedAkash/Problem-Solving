@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 482 | [D - Another Sigma Problem](https://atcoder.jp/contests/abc353/tasks/abc353_d) | [C++ 20 (gcc 12.2)](./atcoder/abc353/D.cpp) |
+| 481 | [C - Sigma Problem](https://atcoder.jp/contests/abc353/tasks/abc353_c) | [C++ 20 (gcc 12.2)](./atcoder/abc353/C.cpp) |
+| 480 | [B - AtCoder Amusement Park](https://atcoder.jp/contests/abc353/tasks/abc353_b) | [C++ 20 (gcc 12.2)](./atcoder/abc353/B.cpp) |
+| 479 | [A - Buildings](https://atcoder.jp/contests/abc353/tasks/abc353_a) | [C++ 20 (gcc 12.2)](./atcoder/abc353/A.cpp) |
 | 478 | [E - Clique Connect](https://atcoder.jp/contests/abc352/tasks/abc352_e) | [C++ 20 (gcc 12.2)](./atcoder/abc352/E.cpp) |
 | 477 | [D - Permutation Subsequence](https://atcoder.jp/contests/abc352/tasks/abc352_d) | [C++ 20 (gcc 12.2)](./atcoder/abc352/D.cpp) |
 | 476 | [C - Standing On The Shoulders](https://atcoder.jp/contests/abc352/tasks/abc352_c) | [C++ 20 (gcc 12.2)](./atcoder/abc352/C.cpp) |
