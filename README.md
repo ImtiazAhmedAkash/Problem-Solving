@@ -620,6 +620,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 866 | [G - XOUR](https://codeforces.com/contest/1971/problem/G) | [C++20 (GCC 13-64)](./codeforces/1971/G.cpp) |
+| 865 | [F - Circle Perimeter](https://codeforces.com/contest/1971/problem/F) | [C++20 (GCC 13-64)](./codeforces/1971/F.cpp) |
+| 864 | [E - Find the Car](https://codeforces.com/contest/1971/problem/E) | [C++20 (GCC 13-64)](./codeforces/1971/E.cpp) |
+| 863 | [D - Binary Cut](https://codeforces.com/contest/1971/problem/D) | [C++20 (GCC 13-64)](./codeforces/1971/D.cpp) |
+| 862 | [C - Clock and Strings](https://codeforces.com/contest/1971/problem/C) | [C++20 (GCC 13-64)](./codeforces/1971/C.cpp) |
+| 861 | [B - Different String](https://codeforces.com/contest/1971/problem/B) | [C++20 (GCC 13-64)](./codeforces/1971/B.cpp) |
+| 860 | [A - My First Sorting Problem](https://codeforces.com/contest/1971/problem/A) | [C++20 (GCC 13-64)](./codeforces/1971/A.cpp) |
 | 859 | [C - Card Game](https://codeforces.com/contest/1739/problem/C) | [C++20 (GCC 13-64)](./codeforces/1739/C.cpp) |
 | 858 | [E1 - Divisible Numbers (easy version)](https://codeforces.com/contest/1744/problem/E1) | [C++20 (GCC 13-64)](./codeforces/1744/E1.cpp) |
 | 857 | [C2 - Make Nonzero Sum (hard version)](https://codeforces.com/contest/1754/problem/C2) | [C++20 (GCC 13-64)](./codeforces/1754/C2.cpp) |
