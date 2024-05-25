@@ -620,6 +620,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 868 | [G - Even-Odd XOR](https://codeforces.com/contest/1722/problem/G) | [C++20 (GCC 13-64)](./codeforces/1722/G.cpp) |
+| 867 | [C - Even Number Addicts](https://codeforces.com/contest/1738/problem/C) | [C++20 (GCC 13-64)](./codeforces/1738/C.cpp) |
 | 866 | [G - XOUR](https://codeforces.com/contest/1971/problem/G) | [C++20 (GCC 13-64)](./codeforces/1971/G.cpp) |
 | 865 | [F - Circle Perimeter](https://codeforces.com/contest/1971/problem/F) | [C++20 (GCC 13-64)](./codeforces/1971/F.cpp) |
 | 864 | [E - Find the Car](https://codeforces.com/contest/1971/problem/E) | [C++20 (GCC 13-64)](./codeforces/1971/E.cpp) |
