@@ -620,6 +620,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 878 | [J - Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J) | [C++20 (GCC 13-64)](./codeforces/group/223339/J.cpp) |
+| 877 | [I - Count Vowels](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/I) | [C++20 (GCC 13-64)](./codeforces/group/223339/I.cpp) |
+| 876 | [H - Inverted Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/H) | [C++20 (GCC 13-64)](./codeforces/group/223339/H.cpp) |
+| 875 | [G - Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/G) | [C++20 (GCC 13-64)](./codeforces/group/223339/G.cpp) |
+| 874 | [F - Print Even Indices](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F) | [C++20 (GCC 13-64)](./codeforces/group/223339/F.cpp) |
+| 873 | [E - Base Converssion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/E) | [C++20 (GCC 13-64)](./codeforces/group/223339/E.cpp) |
+| 872 | [D - Print Digits using Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/D) | [C++20 (GCC 13-64)](./codeforces/group/223339/D.cpp) |
+| 871 | [C - Print from N to 1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C) | [C++20 (GCC 13-64)](./codeforces/group/223339/C.cpp) |
+| 870 | [B - Print from 1 to N](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B) | [C++20 (GCC 13-64)](./codeforces/group/223339/B.cpp) |
+| 869 | [A - Print Recursion](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A) | [C++20 (GCC 13-64)](./codeforces/group/223339/A.cpp) |
 | 868 | [G - Even-Odd XOR](https://codeforces.com/contest/1722/problem/G) | [C++20 (GCC 13-64)](./codeforces/1722/G.cpp) |
 | 867 | [C - Even Number Addicts](https://codeforces.com/contest/1738/problem/C) | [C++20 (GCC 13-64)](./codeforces/1738/C.cpp) |
 | 866 | [G - XOUR](https://codeforces.com/contest/1971/problem/G) | [C++20 (GCC 13-64)](./codeforces/1971/G.cpp) |
