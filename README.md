@@ -620,6 +620,20 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 892 | [Z - Left Max](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Z) | [C++20 (GCC 13-64)](./codeforces/group/223339/Z.cpp) |
+| 891 | [Y - Number of Ways](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Y) | [C++20 (GCC 13-64)](./codeforces/group/223339/Y.cpp) |
+| 890 | [X - The maximum path-sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/X) | [C++20 (GCC 13-64)](./codeforces/group/223339/X.cpp) |
+| 889 | [W - Reach Value](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/W) | [C++20 (GCC 13-64)](./codeforces/group/223339/W.cpp) |
+| 888 | [V - Creating Expression1](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/V) | [C++20 (GCC 13-64)](./codeforces/group/223339/V.cpp) |
+| 887 | [U - Knapsack](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/U) | [C++20 (GCC 13-64)](./codeforces/group/223339/U.cpp) |
+| 886 | [S - Array Average](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/S) | [C++20 (GCC 13-64)](./codeforces/group/223339/S.cpp) |
+| 885 | [R - Palindrome Array](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/R) | [C++20 (GCC 13-64)](./codeforces/group/223339/R.cpp) |
+| 884 | [Q - 3n + 1 sequence](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Q) | [C++20 (GCC 13-64)](./codeforces/group/223339/Q.cpp) |
+| 883 | [P - Log2](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/P) | [C++20 (GCC 13-64)](./codeforces/group/223339/P.cpp) |
+| 882 | [O - Fibonacci](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O) | [C++20 (GCC 13-64)](./codeforces/group/223339/O.cpp) |
+| 881 | [M - Suffix Sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/M) | [C++20 (GCC 13-64)](./codeforces/group/223339/M.cpp) |
+| 880 | [L - Summation](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/L) | [C++20 (GCC 13-64)](./codeforces/group/223339/L.cpp) |
+| 879 | [K - Max Number](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/K) | [C++20 (GCC 13-64)](./codeforces/group/223339/K.cpp) |
 | 878 | [J - Factorial](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J) | [C++20 (GCC 13-64)](./codeforces/group/223339/J.cpp) |
 | 877 | [I - Count Vowels](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/I) | [C++20 (GCC 13-64)](./codeforces/group/223339/I.cpp) |
 | 876 | [H - Inverted Pyramid](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/H) | [C++20 (GCC 13-64)](./codeforces/group/223339/H.cpp) |
