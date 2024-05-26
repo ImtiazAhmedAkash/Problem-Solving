@@ -1532,6 +1532,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 49 | [Building Teams](https://cses.fi/problemset/task/1668) | [C++20](./cses/graph_algorithms/1668.cpp) |
+| 48 | [Subordinates](https://cses.fi/problemset/task/1674) | [C++20](./cses/tree_algorithms/1674.cpp) |
 | 47 | [Projects](https://cses.fi/problemset/task/1140) | [C++20](./cses/dynamic_programming/1140.cpp) |
 | 46 | [Increasing Subsequence](https://cses.fi/problemset/task/1145) | [C++20](./cses/dynamic_programming/1145.cpp) |
 | 45 | [Two Sets II](https://cses.fi/problemset/task/1093) | [C++20](./cses/dynamic_programming/1093.cpp) |
