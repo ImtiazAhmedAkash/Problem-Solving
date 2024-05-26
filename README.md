@@ -1655,6 +1655,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 9 | [ADASEQEN - Ada and Subsequence](https://www.spoj.com/problems/ADASEQEN/) | [C++14 (gcc 8.3)](./spoj/ADASEQEN.cpp) |
+| 8 | [BUGLIFE - A Bug’s Life](https://www.spoj.com/problems/BUGLIFE/) | [C++14 (gcc 8.3)](./spoj/BUGLIFE.cpp) |
 | 7 | [AU7_5 - STUDENTS](https://www.spoj.com/problems/AU7_5/) | [C++14 (gcc 8.3)](./spoj/AU7_5.cpp) |
 | 6 | [ZSUM - Just Add It](https://www.spoj.com/problems/ZSUM/) | [C++14 (gcc 8.3)](./spoj/ZSUM.cpp) |
 | 5 | [LASTDIG - The last digit](https://www.spoj.com/problems/LASTDIG/) | [C++14 (gcc 8.3)](./spoj/LASTDIG.cpp) |
