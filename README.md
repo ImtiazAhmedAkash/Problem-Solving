@@ -1655,6 +1655,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 10 | [MOVIFAN - Movie Fan](https://www.spoj.com/problems/MOVIFAN/) | [C++14 (gcc 8.3)](./spoj/MOVIFAN.cpp) |
 | 9 | [ADASEQEN - Ada and Subsequence](https://www.spoj.com/problems/ADASEQEN/) | [C++14 (gcc 8.3)](./spoj/ADASEQEN.cpp) |
 | 8 | [BUGLIFE - A Bug’s Life](https://www.spoj.com/problems/BUGLIFE/) | [C++14 (gcc 8.3)](./spoj/BUGLIFE.cpp) |
 | 7 | [AU7_5 - STUDENTS](https://www.spoj.com/problems/AU7_5/) | [C++14 (gcc 8.3)](./spoj/AU7_5.cpp) |
