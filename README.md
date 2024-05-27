@@ -620,6 +620,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 907 | [B - The Modcrab](https://codeforces.com/contest/903/problem/B) | [C++20 (GCC 13-64)](./codeforces/903/B.cpp) |
+| 906 | [H - Have Some Cheese Bread](https://codeforces.com/gym/101628/problem/H) | [C++20 (GCC 13-64)](./codeforces/gym/101628/H.cpp) |
+| 905 | [B - Present from Lena](https://codeforces.com/contest/118/problem/B) | [C++20 (GCC 13-64)](./codeforces/118/B.cpp) |
+| 904 | [B - Door Frames](https://codeforces.com/contest/910/problem/B) | [C++20 (GCC 13-64)](./codeforces/910/B.cpp) |
+| 903 | [A - Arthur's Language](https://codeforces.com/gym/101628/problem/A) | [C++20 (GCC 13-64)](./codeforces/gym/101628/A.cpp) |
+| 902 | [C - Tree Cutting](https://codeforces.com/contest/1946/problem/C) | [C++20 (GCC 13-64)](./codeforces/1946/C.cpp) |
 | 901 | [H - Save Stella!!](https://codeforces.com/gym/525678/problem/H) | [C++20 (GCC 13-64)](./codeforces/gym/525678/H.cpp) |
 | 900 | [G - Ichigo and Part Time Job](https://codeforces.com/gym/525678/problem/G) | [C++20 (GCC 13-64)](./codeforces/gym/525678/G.cpp) |
 | 899 | [F - Again Prime](https://codeforces.com/gym/525678/problem/F) | [C++20 (GCC 13-64)](./codeforces/gym/525678/F.cpp) |
