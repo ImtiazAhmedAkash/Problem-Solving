@@ -620,6 +620,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 901 | [H - Save Stella!!](https://codeforces.com/gym/525678/problem/H) | [C++20 (GCC 13-64)](./codeforces/gym/525678/H.cpp) |
+| 900 | [G - Ichigo and Part Time Job](https://codeforces.com/gym/525678/problem/G) | [C++20 (GCC 13-64)](./codeforces/gym/525678/G.cpp) |
+| 899 | [F - Again Prime](https://codeforces.com/gym/525678/problem/F) | [C++20 (GCC 13-64)](./codeforces/gym/525678/F.cpp) |
+| 898 | [E - BitMasters Challenge](https://codeforces.com/gym/525678/problem/E) | [C++20 (GCC 13-64)](./codeforces/gym/525678/E.cpp) |
+| 897 | [D - Save Friendship!!!](https://codeforces.com/gym/525678/problem/D) | [C++20 (GCC 13-64)](./codeforces/gym/525678/D.cpp) |
+| 896 | [C - Need More Cuet-Bus](https://codeforces.com/gym/525678/problem/C) | [C++20 (GCC 13-64)](./codeforces/gym/525678/C.cpp) |
+| 895 | [B - No Ragging](https://codeforces.com/gym/525678/problem/B) | [C++20 (GCC 13-64)](./codeforces/gym/525678/B.cpp) |
+| 894 | [A - Ichigo Eating Waffles!](https://codeforces.com/gym/525678/problem/A) | [C++20 (GCC 13-64)](./codeforces/gym/525678/A.cpp) |
+| 893 | [C - How Does the Rook Move?](https://codeforces.com/contest/1957/problem/C) | [C++20 (GCC 13-64)](./codeforces/1957/C.cpp) |
 | 892 | [Z - Left Max](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Z) | [C++20 (GCC 13-64)](./codeforces/group/223339/Z.cpp) |
 | 891 | [Y - Number of Ways](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Y) | [C++20 (GCC 13-64)](./codeforces/group/223339/Y.cpp) |
 | 890 | [X - The maximum path-sum](https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/X) | [C++20 (GCC 13-64)](./codeforces/group/223339/X.cpp) |
