@@ -1670,6 +1670,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 11 | [KOZE - Sheep](https://www.spoj.com/problems/KOZE/) | [C++14 (gcc 8.3)](./spoj/KOZE.cpp) |
 | 10 | [MOVIFAN - Movie Fan](https://www.spoj.com/problems/MOVIFAN/) | [C++14 (gcc 8.3)](./spoj/MOVIFAN.cpp) |
 | 9 | [ADASEQEN - Ada and Subsequence](https://www.spoj.com/problems/ADASEQEN/) | [C++14 (gcc 8.3)](./spoj/ADASEQEN.cpp) |
 | 8 | [BUGLIFE - A Bug’s Life](https://www.spoj.com/problems/BUGLIFE/) | [C++14 (gcc 8.3)](./spoj/BUGLIFE.cpp) |
