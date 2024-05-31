@@ -1547,6 +1547,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 50 | [Sliding Window Minimum](https://cses.fi/boi24/task/3221) | [C++20](./cses/boi_24/3221.cpp) |
 | 49 | [Building Teams](https://cses.fi/problemset/task/1668) | [C++20](./cses/graph_algorithms/1668.cpp) |
 | 48 | [Subordinates](https://cses.fi/problemset/task/1674) | [C++20](./cses/tree_algorithms/1674.cpp) |
 | 47 | [Projects](https://cses.fi/problemset/task/1140) | [C++20](./cses/dynamic_programming/1140.cpp) |
