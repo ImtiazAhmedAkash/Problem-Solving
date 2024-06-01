@@ -1547,6 +1547,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 56 | [Round Trip](https://cses.fi/problemset/task/1669) | [C++20](./cses/graph_algorithms/1669.cpp) |
+| 55 | [Shortest Routes I](https://cses.fi/problemset/task/1671) | [C++20](./cses/graph_algorithms/1671.cpp) |
+| 54 | [Monsters](https://cses.fi/problemset/task/1194) | [C++20](./cses/graph_algorithms/1194.cpp) |
 | 53 | [Message Route](https://cses.fi/problemset/task/1667) | [C++20](./cses/graph_algorithms/1667.cpp) |
 | 52 | [Labyrinth](https://cses.fi/problemset/task/1193) | [C++20](./cses/graph_algorithms/1193.cpp) |
 | 51 | [Counting Rooms](https://cses.fi/problemset/task/1192) | [C++20](./cses/graph_algorithms/1192.cpp) |
