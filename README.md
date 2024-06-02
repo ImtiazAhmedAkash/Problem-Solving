@@ -620,6 +620,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 919 | [C - Functions again](https://codeforces.com/contest/789/problem/C) | [C++20 (GCC 13-64)](./codeforces/789/C.cpp) |
 | 918 | [E - Final Countdown](https://codeforces.com/contest/1932/problem/E) | [C++20 (GCC 13-64)](./codeforces/1932/E.cpp) |
 | 917 | [C - The Tag Game](https://codeforces.com/contest/813/problem/C) | [C++20 (GCC 13-64)](./codeforces/813/C.cpp) |
 | 916 | [C - Mail Stamps](https://codeforces.com/contest/29/problem/C) | [C++20 (GCC 13-64)](./codeforces/29/C.cpp) |
