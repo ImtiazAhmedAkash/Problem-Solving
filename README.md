@@ -620,6 +620,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 918 | [E - Final Countdown](https://codeforces.com/contest/1932/problem/E) | [C++20 (GCC 13-64)](./codeforces/1932/E.cpp) |
+| 917 | [C - The Tag Game](https://codeforces.com/contest/813/problem/C) | [C++20 (GCC 13-64)](./codeforces/813/C.cpp) |
+| 916 | [C - Mail Stamps](https://codeforces.com/contest/29/problem/C) | [C++20 (GCC 13-64)](./codeforces/29/C.cpp) |
+| 915 | [E - Rudolf and k Bridges](https://codeforces.com/contest/1941/problem/E) | [C++20 (GCC 13-64)](./codeforces/1941/E.cpp) |
+| 914 | [C - Little Alawn's Puzzle](https://codeforces.com/contest/1534/problem/C) | [C++20 (GCC 13-64)](./codeforces/1534/C.cpp) |
+| 913 | [A - Ring road](https://codeforces.com/contest/24/problem/A) | [C++20 (GCC 13-64)](./codeforces/24/A.cpp) |
+| 912 | [A - Transformation: from A to B](https://codeforces.com/contest/727/problem/A) | [C++20 (GCC 13-64)](./codeforces/727/A.cpp) |
+| 911 | [C - Maze](https://codeforces.com/contest/378/problem/C) | [C++20 (GCC 13-64)](./codeforces/378/C.cpp) |
+| 910 | [C - Lucky Sum of Digits](https://codeforces.com/contest/110/problem/C) | [C++20 (GCC 13-64)](./codeforces/110/C.cpp) |
+| 909 | [D - Lawnmower](https://codeforces.com/contest/116/problem/D) | [C++20 (GCC 13-64)](./codeforces/116/D.cpp) |
+| 908 | [D - Caesar's Legions](https://codeforces.com/contest/118/problem/D) | [C++20 (GCC 13-64)](./codeforces/118/D.cpp) |
 | 907 | [B - The Modcrab](https://codeforces.com/contest/903/problem/B) | [C++20 (GCC 13-64)](./codeforces/903/B.cpp) |
 | 906 | [H - Have Some Cheese Bread](https://codeforces.com/gym/101628/problem/H) | [C++20 (GCC 13-64)](./codeforces/gym/101628/H.cpp) |
 | 905 | [B - Present from Lena](https://codeforces.com/contest/118/problem/B) | [C++20 (GCC 13-64)](./codeforces/118/B.cpp) |
