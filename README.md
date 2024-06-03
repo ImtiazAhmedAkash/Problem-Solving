@@ -1690,6 +1690,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 12 | [NAKANJ - Minimum Knight moves !!!](https://www.spoj.com/problems/NAKANJ/) | [C++14 (gcc 8.3)](./spoj/NAKANJ.cpp) |
 | 11 | [KOZE - Sheep](https://www.spoj.com/problems/KOZE/) | [C++14 (gcc 8.3)](./spoj/KOZE.cpp) |
 | 10 | [MOVIFAN - Movie Fan](https://www.spoj.com/problems/MOVIFAN/) | [C++14 (gcc 8.3)](./spoj/MOVIFAN.cpp) |
 | 9 | [ADASEQEN - Ada and Subsequence](https://www.spoj.com/problems/ADASEQEN/) | [C++14 (gcc 8.3)](./spoj/ADASEQEN.cpp) |
