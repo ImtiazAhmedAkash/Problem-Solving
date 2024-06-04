@@ -1690,6 +1690,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 14 | [DIGOKEYS - Find the Treasure](https://www.spoj.com/problems/DIGOKEYS/) | [C++14 (gcc 8.3)](./spoj/DIGOKEYS.cpp) |
+| 13 | [ADACYCLE - Ada and Cycle](https://www.spoj.com/problems/ADACYCLE/) | [C++14 (gcc 8.3)](./spoj/ADACYCLE.cpp) |
 | 12 | [NAKANJ - Minimum Knight moves !!!](https://www.spoj.com/problems/NAKANJ/) | [C++14 (gcc 8.3)](./spoj/NAKANJ.cpp) |
 | 11 | [KOZE - Sheep](https://www.spoj.com/problems/KOZE/) | [C++14 (gcc 8.3)](./spoj/KOZE.cpp) |
 | 10 | [MOVIFAN - Movie Fan](https://www.spoj.com/problems/MOVIFAN/) | [C++14 (gcc 8.3)](./spoj/MOVIFAN.cpp) |
