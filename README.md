@@ -620,6 +620,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 923 | [C - Physical Education Lesson](https://codeforces.com/contest/1928/problem/C) | [C++20 (GCC 13-64)](./codeforces/1928/C.cpp) |
 | 922 | [B - Getting Zero](https://codeforces.com/contest/1661/problem/B) | [C++20 (GCC 13-64)](./codeforces/1661/B.cpp) |
 | 921 | [C - Fire Again](https://codeforces.com/contest/35/problem/C) | [C++20 (GCC 13-64)](./codeforces/35/C.cpp) |
 | 920 | [C - Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | [C++20 (GCC 13-64)](./codeforces/1418/C.cpp) |
