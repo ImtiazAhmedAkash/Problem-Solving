@@ -150,9 +150,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [D - Gathering Children](https://atcoder.jp/contests/abc136/tasks/abc136_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
 |  | [D - ±1 Operation 2](https://atcoder.jp/contests/abc255/tasks/abc255_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
 |  | [C - ±1 Operation 1](https://atcoder.jp/contests/abc255/tasks/abc255_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [A - Shik and Stone](https://atcoder.jp/contests/agc007/tasks/agc007_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [D - Match or Not](https://atcoder.jp/contests/abc287/tasks/abc287_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [C - Path Graph?](https://atcoder.jp/contests/abc287/tasks/abc287_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
+| 358 | [A - Shik and Stone](https://atcoder.jp/contests/agc007/tasks/agc007_a) | [C++ 20 (gcc 12.2)](./atcoder/agc007/A.cpp) |
+| 357 | [D - Match or Not](https://atcoder.jp/contests/abc287/tasks/abc287_d) | [C++ 20 (gcc 12.2)](./atcoder/abc287/D.cpp) |
+| 356 | [C - Path Graph?](https://atcoder.jp/contests/abc287/tasks/abc287_c) | [C++ 20 (gcc 12.2)](./atcoder/abc287/C.cpp) |
 | 355 | [C - Typical Stairs](https://atcoder.jp/contests/abc129/tasks/abc129_c) | [C++ 20 (gcc 12.2)](./atcoder/abc129/C.cpp) |
 | 354 | [D - 250-like Number](https://atcoder.jp/contests/abc250/tasks/abc250_d) | [C++ 20 (gcc 12.2)](./atcoder/abc250/D.cpp) |
 | 353 | [D - Good Tuple Problem](https://atcoder.jp/contests/abc327/tasks/abc327_d) | [C++ 20 (gcc 12.2)](./atcoder/abc327/D.cpp) |
