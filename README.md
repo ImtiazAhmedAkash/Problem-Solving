@@ -158,10 +158,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [D - Good Tuple Problem](https://atcoder.jp/contests/abc327/tasks/abc327_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
 |  | [C - T-shirts](https://atcoder.jp/contests/abc332/tasks/abc332_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
 |  | [E - Insert or Erase](https://atcoder.jp/contests/abc344/tasks/abc344_e) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [D - Erase Leaves](https://atcoder.jp/contests/abc333/tasks/abc333_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [C - Repunit Trio](https://atcoder.jp/contests/abc333/tasks/abc333_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [D - Square Pair](https://atcoder.jp/contests/abc342/tasks/abc342_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [D - Diversity of Scores](https://atcoder.jp/contests/abc343/tasks/abc343_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+| 350 | [D - Erase Leaves](https://atcoder.jp/contests/abc333/tasks/abc333_d) | [C++ 20 (gcc 12.2)](./atcoder/abc333/D.cpp) |
+| 349 | [C - Repunit Trio](https://atcoder.jp/contests/abc333/tasks/abc333_c) | [C++ 20 (gcc 12.2)](./atcoder/abc333/C.cpp) |
+| 348 | [D - Square Pair](https://atcoder.jp/contests/abc342/tasks/abc342_d) | [C++ 20 (gcc 12.2)](./atcoder/abc342/D.cpp) |
+| 347 | [D - Diversity of Scores](https://atcoder.jp/contests/abc343/tasks/abc343_d) | [C++ 20 (gcc 12.2)](./atcoder/abc343/D.cpp) |
 | 346 | [C - 343](https://atcoder.jp/contests/abc343/tasks/abc343_c) | [C++ 20 (gcc 12.2)](./atcoder/abc343/C.cpp) |
 | 345 | [C - A+B+C](https://atcoder.jp/contests/abc344/tasks/abc344_c) | [C++ 20 (gcc 12.2)](./atcoder/abc344/C.cpp) |
 | 344 | [D - Built?](https://atcoder.jp/contests/abc065/tasks/arc076_b) | [C++ 20 (gcc 12.2)](./atcoder/abc065/D.cpp) |
