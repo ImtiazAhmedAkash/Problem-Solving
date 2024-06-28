@@ -620,6 +620,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 936 | [D - First element at least X - 2](https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/D) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step2/D.cpp) |
+| 935 | [C - First element at least X](https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/C) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step2/C.cpp) |
+| 934 | [B - K-th one](https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/B) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step2/B.cpp) |
+| 933 | [A - Segment with the Maximum Sum](https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/A) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step2/A.cpp) |
+| 932 | [C - Number of Minimums on a Segment](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/C) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step1/C.cpp) |
+| 931 | [B - Segment Tree for the Minimum](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/B) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step1/B.cpp) |
+| 930 | [A - Segment Tree for the Sum](https://codeforces.com/edu/course/2/lesson/4/1/practice/contest/273169/problem/A) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step1/A.cpp) |
 | 929 | [E - Jor Shongkot](https://codeforces.com/gym/527993/problem/E) | [C++20 (GCC 13-64)](./codeforces/gym/527993/E.cpp) |
 | 928 | [H - Stupid Game](https://codeforces.com/gym/527993/problem/H) | [C++20 (GCC 13-64)](./codeforces/gym/527993/H.cpp) |
 | 927 | [D - Geometry Class](https://codeforces.com/gym/527993/problem/D) | [C++20 (GCC 13-64)](./codeforces/gym/527993/D.cpp) |
