@@ -620,6 +620,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 929 | [E - Jor Shongkot](https://codeforces.com/gym/527993/problem/E) | [C++20 (GCC 13-64)](./codeforces/gym/527993/E.cpp) |
+| 928 | [H - Stupid Game](https://codeforces.com/gym/527993/problem/H) | [C++20 (GCC 13-64)](./codeforces/gym/527993/H.cpp) |
+| 927 | [D - Geometry Class](https://codeforces.com/gym/527993/problem/D) | [C++20 (GCC 13-64)](./codeforces/gym/527993/D.cpp) |
+| 926 | [B - 21---0?](https://codeforces.com/gym/527993/problem/B) | [C++20 (GCC 13-64)](./codeforces/gym/527993/B.cpp) |
+| 925 | [J - Monke, Potato and Their Knight Game](https://codeforces.com/gym/527993/problem/J) | [C++20 (GCC 13-64)](./codeforces/gym/527993/J.cpp) |
 | 924 | [E - Eat the Chip](https://codeforces.com/contest/1921/problem/E) | [C++20 (GCC 13-64)](./codeforces/1921/E.cpp) |
 | 923 | [C - Physical Education Lesson](https://codeforces.com/contest/1928/problem/C) | [C++20 (GCC 13-64)](./codeforces/1928/C.cpp) |
 | 922 | [B - Getting Zero](https://codeforces.com/contest/1661/problem/B) | [C++20 (GCC 13-64)](./codeforces/1661/B.cpp) |
