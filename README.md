@@ -620,6 +620,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 953 | [D - Reverse Sort Sum](https://codeforces.com/contest/1659/problem/D) | [C++20 (GCC 13-64)](./codeforces/1659/D.cpp) |
+| 952 | [C - Line Empire](https://codeforces.com/contest/1659/problem/C) | [C++20 (GCC 13-64)](./codeforces/1659/C.cpp) |
+| 951 | [B - Bit Flipping](https://codeforces.com/contest/1659/problem/B) | [C++20 (GCC 13-64)](./codeforces/1659/B.cpp) |
+| 950 | [A - Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | [C++20 (GCC 13-64)](./codeforces/1659/A.cpp) |
+| 949 | [C - Assignment to Segment](https://codeforces.com/edu/course/2/lesson/5/1/practice/contest/279634/problem/C) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step1/C.cpp) |
+| 948 | [B - Applying MAX to Segment](https://codeforces.com/edu/course/2/lesson/5/1/practice/contest/279634/problem/B) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step1/B.cpp) |
+| 947 | [A - Addition to Segment](https://codeforces.com/edu/course/2/lesson/5/1/practice/contest/279634/problem/A) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step1/A.cpp) |
 | 946 | [E - Earthquakes](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/E) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step4/E.cpp) |
 | 945 | [D - Number of Different on Segment](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/D) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step4/D.cpp) |
 | 944 | [C - Number of Inversions on Segment](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/C) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step4/C.cpp) |
