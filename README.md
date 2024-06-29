@@ -620,6 +620,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 941 | [E - Addition to Segment](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/E) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step3/E.cpp) |
+| 940 | [D - Intersecting Segments](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/D) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step3/D.cpp) |
+| 939 | [C - Nested Segments](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/C) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step3/C.cpp) |
+| 938 | [B - Inversions 2](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/B) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step3/B.cpp) |
+| 937 | [A - Inversions](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/A) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step3/A.cpp) |
 | 936 | [D - First element at least X - 2](https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/D) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step2/D.cpp) |
 | 935 | [C - First element at least X](https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/C) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step2/C.cpp) |
 | 934 | [B - K-th one](https://codeforces.com/edu/course/2/lesson/4/2/practice/contest/273278/problem/B) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step2/B.cpp) |
