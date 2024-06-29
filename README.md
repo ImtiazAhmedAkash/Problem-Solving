@@ -620,6 +620,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 946 | [E - Earthquakes](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/E) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step4/E.cpp) |
+| 945 | [D - Number of Different on Segment](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/D) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step4/D.cpp) |
+| 944 | [C - Number of Inversions on Segment](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/C) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step4/C.cpp) |
+| 943 | [B - Cryptography](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/B) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step4/B.cpp) |
+| 942 | [A - Sign alternation](https://codeforces.com/edu/course/2/lesson/4/4/practice/contest/274684/problem/A) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step4/A.cpp) |
 | 941 | [E - Addition to Segment](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/E) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step3/E.cpp) |
 | 940 | [D - Intersecting Segments](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/D) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step3/D.cpp) |
 | 939 | [C - Nested Segments](https://codeforces.com/edu/course/2/lesson/4/3/practice/contest/274545/problem/C) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part1/step3/C.cpp) |
