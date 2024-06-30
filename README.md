@@ -620,6 +620,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 959 | [F - Assignment and Sum](https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/F) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step2/F.cpp) |
+| 958 | [E - Assignment and Minimum](https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/E) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step2/E.cpp) |
+| 957 | [D - Addition and Sum](https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/D) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step2/D.cpp) |
+| 956 | [C - Bitwise OR and AND](https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/C) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step2/C.cpp) |
+| 955 | [B - Multiplication and Sum](https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/B) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step2/B.cpp) |
+| 954 | [A - Addition and Minimum](https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/A) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step2/A.cpp) |
 | 953 | [D - Reverse Sort Sum](https://codeforces.com/contest/1659/problem/D) | [C++20 (GCC 13-64)](./codeforces/1659/D.cpp) |
 | 952 | [C - Line Empire](https://codeforces.com/contest/1659/problem/C) | [C++20 (GCC 13-64)](./codeforces/1659/C.cpp) |
 | 951 | [B - Bit Flipping](https://codeforces.com/contest/1659/problem/B) | [C++20 (GCC 13-64)](./codeforces/1659/B.cpp) |
