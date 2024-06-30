@@ -26,6 +26,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 490 | [D - Intersecting Intervals](https://atcoder.jp/contests/abc355/tasks/abc355_d) | [C++ 20 (gcc 12.2)](./atcoder/abc355/D.cpp) |
+| 489 | [C - Bingo 2](https://atcoder.jp/contests/abc355/tasks/abc355_c) | [C++ 20 (gcc 12.2)](./atcoder/abc355/C.cpp) |
+| 488 | [B - Piano 2](https://atcoder.jp/contests/abc355/tasks/abc355_b) | [C++ 20 (gcc 12.2)](./atcoder/abc355/B.cpp) |
+| 487 | [A - Who Ate the Cake?](https://atcoder.jp/contests/abc355/tasks/abc355_a) | [C++ 20 (gcc 12.2)](./atcoder/abc355/A.cpp) |
+| 486 | [E - Our clients, please wait a moment](https://atcoder.jp/contests/abc325/tasks/abc325_e) | [C++ 20 (gcc 12.2)](./atcoder/abc325/E.cpp) |
+| 485 | [C - AtCoder Magics](https://atcoder.jp/contests/abc354/tasks/abc354_c) | [C++ 20 (gcc 12.2)](./atcoder/abc354/C.cpp) |
+| 484 | [B - AtCoder Janken 2](https://atcoder.jp/contests/abc354/tasks/abc354_b) | [C++ 20 (gcc 12.2)](./atcoder/abc354/B.cpp) |
+| 483 | [A - Exponential Plant](https://atcoder.jp/contests/abc354/tasks/abc354_a) | [C++ 20 (gcc 12.2)](./atcoder/abc354/A.cpp) |
 | 482 | [D - Another Sigma Problem](https://atcoder.jp/contests/abc353/tasks/abc353_d) | [C++ 20 (gcc 12.2)](./atcoder/abc353/D.cpp) |
 | 481 | [C - Sigma Problem](https://atcoder.jp/contests/abc353/tasks/abc353_c) | [C++ 20 (gcc 12.2)](./atcoder/abc353/C.cpp) |
 | 480 | [B - AtCoder Amusement Park](https://atcoder.jp/contests/abc353/tasks/abc353_b) | [C++ 20 (gcc 12.2)](./atcoder/abc353/B.cpp) |
