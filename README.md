@@ -628,6 +628,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 968 | [C - Socks](https://codeforces.com/contest/731/problem/C) | [C++20 (GCC 13-64)](./codeforces/731/C.cpp) |
+| 967 | [D - World is Mine](https://codeforces.com/contest/1987/problem/D) | [C++20 (GCC 13-64)](./codeforces/1987/D.cpp) |
+| 966 | [C - Basil's Garden](https://codeforces.com/contest/1987/problem/C) | [C++20 (GCC 13-64)](./codeforces/1987/C.cpp) |
+| 965 | [B - K-Sort](https://codeforces.com/contest/1987/problem/B) | [C++20 (GCC 13-64)](./codeforces/1987/B.cpp) |
+| 964 | [A - Upload More RAM](https://codeforces.com/contest/1987/problem/A) | [C++20 (GCC 13-64)](./codeforces/1987/A.cpp) |
+| 963 | [A - Assignment, Addition, and Sum](https://codeforces.com/edu/course/2/lesson/5/4/practice/contest/280801/problem/A) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step4/A.cpp) |
+| 962 | [C - Addition and First element at least X](https://codeforces.com/edu/course/2/lesson/5/3/practice/contest/280799/problem/C) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step3/C.cpp) |
+| 961 | [B - Inverse and K-th one](https://codeforces.com/edu/course/2/lesson/5/3/practice/contest/280799/problem/B) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step3/B.cpp) |
+| 960 | [A - Assignment and Maximal Segment](https://codeforces.com/edu/course/2/lesson/5/3/practice/contest/280799/problem/A) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step3/A.cpp) |
 | 959 | [F - Assignment and Sum](https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/F) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step2/F.cpp) |
 | 958 | [E - Assignment and Minimum](https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/E) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step2/E.cpp) |
 | 957 | [D - Addition and Sum](https://codeforces.com/edu/course/2/lesson/5/2/practice/contest/279653/problem/D) | [C++20 (GCC 13-64)](./codeforces/edu/segment_tree/part2/step2/D.cpp) |
