@@ -1738,6 +1738,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 15 | [PRMQUER - Prime queries](https://www.spoj.com/problems/PRMQUER/) | [C++14 (gcc 8.3)](./spoj/PRMQUER.cpp) |
 | 14 | [DIGOKEYS - Find the Treasure](https://www.spoj.com/problems/DIGOKEYS/) | [C++14 (gcc 8.3)](./spoj/DIGOKEYS.cpp) |
 | 13 | [ADACYCLE - Ada and Cycle](https://www.spoj.com/problems/ADACYCLE/) | [C++14 (gcc 8.3)](./spoj/ADACYCLE.cpp) |
 | 12 | [NAKANJ - Minimum Knight moves !!!](https://www.spoj.com/problems/NAKANJ/) | [C++14 (gcc 8.3)](./spoj/NAKANJ.cpp) |
