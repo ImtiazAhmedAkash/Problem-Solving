@@ -558,6 +558,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 54 | [EQUALHAMMING - Equal Hamming Distance](https://www.codechef.com/problems/EQUALHAMMING) | [C++20](./codechef/EQUALHAMMING.cpp) |
+| 53 | [PREPER - Perfect Prefixes](https://www.codechef.com/problems/PREPER) | [C++20](./codechef/PREPER.cpp) |
+| 52 | [WELLLEFT - Amphibian Escape](https://www.codechef.com/problems/WELLLEFT) | [C++20](./codechef/WELLLEFT.cpp) |
+| 51 | [REDUARRAY - Redundant Array](https://www.codechef.com/problems/REDUARRAY) | [C++20](./codechef/REDUARRAY.cpp) |
 | 50 | [ABCC3 - ABC Conjecture 3](https://www.codechef.com/problems/ABCC3) | [C++20](./codechef/ABCC3.cpp) |
 | 49 | [POWPM - Powered Parameters](https://www.codechef.com/problems/POWPM) | [C++20](./codechef/POWPM.cpp) |
 | 48 | [MXALT - Maximum Alternating Sum](https://www.codechef.com/problems/MXALT) | [C++20](./codechef/MXALT.cpp) |
