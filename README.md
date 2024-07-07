@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 499 | [E - Tree and Hamilton Path 2](https://atcoder.jp/contests/abc361/tasks/abc361_e) | [C++ 20 (gcc 12.2)](./atcoder/abc361/E.cpp) |
+| 498 | [D - Go Stone Puzzle](https://atcoder.jp/contests/abc361/tasks/abc361_d) | [C++ 20 (gcc 12.2)](./atcoder/abc361/D.cpp) |
+| 497 | [C - Make Them Narrow](https://atcoder.jp/contests/abc361/tasks/abc361_c) | [C++ 20 (gcc 12.2)](./atcoder/abc361/C.cpp) |
+| 496 | [B - Intersection of Cuboids](https://atcoder.jp/contests/abc361/tasks/abc361_b) | [C++ 20 (gcc 12.2)](./atcoder/abc361/B.cpp) |
+| 495 | [A - Insert](https://atcoder.jp/contests/abc361/tasks/abc361_a) | [C++ 20 (gcc 12.2)](./atcoder/abc361/A.cpp) |
 | 494 | [D - Ghost Ants](https://atcoder.jp/contests/abc360/tasks/abc360_d) | [C++ 20 (gcc 12.2)](./atcoder/abc360/D.cpp) |
 | 493 | [C - Move It](https://atcoder.jp/contests/abc360/tasks/abc360_c) | [C++ 20 (gcc 12.2)](./atcoder/abc360/C.cpp) |
 | 492 | [B - Vertical Reading](https://atcoder.jp/contests/abc360/tasks/abc360_b) | [C++ 20 (gcc 12.2)](./atcoder/abc360/B.cpp) |
