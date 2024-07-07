@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 494 | [D - Ghost Ants](https://atcoder.jp/contests/abc360/tasks/abc360_d) | [C++ 20 (gcc 12.2)](./atcoder/abc360/D.cpp) |
+| 493 | [C - Move It](https://atcoder.jp/contests/abc360/tasks/abc360_c) | [C++ 20 (gcc 12.2)](./atcoder/abc360/C.cpp) |
+| 492 | [B - Vertical Reading](https://atcoder.jp/contests/abc360/tasks/abc360_b) | [C++ 20 (gcc 12.2)](./atcoder/abc360/B.cpp) |
+| 491 | [A - A Healthy Breakfast](https://atcoder.jp/contests/abc360/tasks/abc360_a) | [C++ 20 (gcc 12.2)](./atcoder/abc360/A.cpp) |
 | 490 | [D - Intersecting Intervals](https://atcoder.jp/contests/abc355/tasks/abc355_d) | [C++ 20 (gcc 12.2)](./atcoder/abc355/D.cpp) |
 | 489 | [C - Bingo 2](https://atcoder.jp/contests/abc355/tasks/abc355_c) | [C++ 20 (gcc 12.2)](./atcoder/abc355/C.cpp) |
 | 488 | [B - Piano 2](https://atcoder.jp/contests/abc355/tasks/abc355_b) | [C++ 20 (gcc 12.2)](./atcoder/abc355/B.cpp) |
