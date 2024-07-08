@@ -641,6 +641,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 974 | [F1 - Field Division (easy version)](https://codeforces.com/contest/1980/problem/F1) | [C++20 (GCC 13-64)](./codeforces/1980/F1.cpp) |
+| 973 | [E - Permutation of Rows and Columns](https://codeforces.com/contest/1980/problem/E) | [C++20 (GCC 13-64)](./codeforces/1980/E.cpp) |
+| 972 | [D - GCD-sequence](https://codeforces.com/contest/1980/problem/D) | [C++20 (GCC 13-64)](./codeforces/1980/D.cpp) |
+| 971 | [C - Sofia and the Lost Operations](https://codeforces.com/contest/1980/problem/C) | [C++20 (GCC 13-64)](./codeforces/1980/C.cpp) |
+| 970 | [B - Choosing Cubes](https://codeforces.com/contest/1980/problem/B) | [C++20 (GCC 13-64)](./codeforces/1980/B.cpp) |
+| 969 | [A - Problem Generator](https://codeforces.com/contest/1980/problem/A) | [C++20 (GCC 13-64)](./codeforces/1980/A.cpp) |
 | 968 | [C - Socks](https://codeforces.com/contest/731/problem/C) | [C++20 (GCC 13-64)](./codeforces/731/C.cpp) |
 | 967 | [D - World is Mine](https://codeforces.com/contest/1987/problem/D) | [C++20 (GCC 13-64)](./codeforces/1987/D.cpp) |
 | 966 | [C - Basil's Garden](https://codeforces.com/contest/1987/problem/C) | [C++20 (GCC 13-64)](./codeforces/1987/C.cpp) |
