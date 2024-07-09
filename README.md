@@ -1773,6 +1773,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 16 | [VECTAR8 - Primal Fear](https://www.spoj.com/problems/VECTAR8/) | [C++14 (gcc 8.3)](./spoj/VECTAR8.cpp) |
 | 15 | [PRMQUER - Prime queries](https://www.spoj.com/problems/PRMQUER/) | [C++14 (gcc 8.3)](./spoj/PRMQUER.cpp) |
 | 14 | [DIGOKEYS - Find the Treasure](https://www.spoj.com/problems/DIGOKEYS/) | [C++14 (gcc 8.3)](./spoj/DIGOKEYS.cpp) |
 | 13 | [ADACYCLE - Ada and Cycle](https://www.spoj.com/problems/ADACYCLE/) | [C++14 (gcc 8.3)](./spoj/ADACYCLE.cpp) |
