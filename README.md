@@ -26,6 +26,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 500 | [O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o) | [C++ 20 (gcc 12.2)](./atcoder/dp/O.cpp) |
 | 499 | [E - Tree and Hamilton Path 2](https://atcoder.jp/contests/abc361/tasks/abc361_e) | [C++ 20 (gcc 12.2)](./atcoder/abc361/E.cpp) |
 | 498 | [D - Go Stone Puzzle](https://atcoder.jp/contests/abc361/tasks/abc361_d) | [C++ 20 (gcc 12.2)](./atcoder/abc361/D.cpp) |
 | 497 | [C - Make Them Narrow](https://atcoder.jp/contests/abc361/tasks/abc361_c) | [C++ 20 (gcc 12.2)](./atcoder/abc361/C.cpp) |
