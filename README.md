@@ -642,6 +642,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 979 | [C - Harmony Analysis](https://codeforces.com/contest/610/problem/C) | [C++20 (GCC 13-64)](./codeforces/610/C.cpp) |
 | 978 | [D - Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | [C++20 (GCC 13-64)](./codeforces/1983/D.cpp) |
 | 977 | [C - Have Your Cake and Eat It Too](https://codeforces.com/contest/1983/problem/C) | [C++20 (GCC 13-64)](./codeforces/1983/C.cpp) |
 | 976 | [B - Corner Twist](https://codeforces.com/contest/1983/problem/B) | [C++20 (GCC 13-64)](./codeforces/1983/B.cpp) |
