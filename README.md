@@ -1641,6 +1641,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 62 | [Binomial Coefficients](https://cses.fi/problemset/task/1079) | [C++20](./cses/mathematics/1079.cpp) |
+| 61 | [Hamiltonian Flights](https://cses.fi/problemset/task/1690) | [C++20](./cses/graph_algorithms/1690.cpp) |
 | 60 | [Counting Numbers](https://cses.fi/problemset/task/2220) | [C++20](./cses/dynamic_programming//2220.cpp) |
 | 59 | [Elevator Rides](https://cses.fi/problemset/task/1653) | [C++20](./cses/dynamic_programming/1653.cpp) |
 | 58 | [Counting Towers](https://cses.fi/problemset/task/2413) | [C++20](./cses/dynamic_programming/2413.cpp) |
