@@ -642,6 +642,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+|  | [E - Triple Operations](https://codeforces.com/contest/1999/problem/E) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [D - Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [C - Showering](https://codeforces.com/contest/1999/problem/C) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [B - Card Game](https://codeforces.com/contest/1999/problem/B) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [A - A+B Again?](https://codeforces.com/contest/1999/problem/A) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [C - Increasing Sequence with Fixed OR](https://codeforces.com/contest/1988/problem/C) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [B - Make Majority](https://codeforces.com/contest/1988/problem/B) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [A - Split the Multiset](https://codeforces.com/contest/1988/problem/A) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [E - Novice's Mistake](https://codeforces.com/contest/1992/problem/E) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [D - Test of Love](https://codeforces.com/contest/1992/problem/D) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [C - Gorilla and Permutation](https://codeforces.com/contest/1992/problem/C) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [B - Angry Monk](https://codeforces.com/contest/1992/problem/B) | [C++20 (GCC 13-64)](./codeforces/) |
+|  | [A - Only Pluses](https://codeforces.com/contest/1992/problem/A) | [C++20 (GCC 13-64)](./codeforces/) |
 | 979 | [C - Harmony Analysis](https://codeforces.com/contest/610/problem/C) | [C++20 (GCC 13-64)](./codeforces/610/C.cpp) |
 | 978 | [D - Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | [C++20 (GCC 13-64)](./codeforces/1983/D.cpp) |
 | 977 | [C - Have Your Cake and Eat It Too](https://codeforces.com/contest/1983/problem/C) | [C++20 (GCC 13-64)](./codeforces/1983/C.cpp) |
@@ -1641,6 +1654,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 64 | [Two Knights](https://cses.fi/problemset/task/1072) | [C++20](./cses/introductory_problems/1072.cpp) |
 | 63 | [Distributing Apples](https://cses.fi/problemset/task/1716) | [C++20](./cses/mathematics/1716.cpp) |
 | 62 | [Binomial Coefficients](https://cses.fi/problemset/task/1079) | [C++20](./cses/mathematics/1079.cpp) |
 | 61 | [Hamiltonian Flights](https://cses.fi/problemset/task/1690) | [C++20](./cses/graph_algorithms/1690.cpp) |
