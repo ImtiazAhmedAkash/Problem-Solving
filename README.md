@@ -1792,6 +1792,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 19 | [GOODB - Good Predictions](https://www.spoj.com/problems/GOODB/) | [C++14 (gcc 8.3)](./spoj/GOODB.cpp) |
 | 18 | [ADATEAMS - Ada and Teams](https://www.spoj.com/problems/ADATEAMS/) | [C++14 (gcc 8.3)](./spoj/ADATEAMS.cpp) |
 | 17 | [HC12 - Card Game](https://www.spoj.com/problems/HC12/) | [C++14 (gcc 8.3)](./spoj/HC12.cpp) |
 | 16 | [VECTAR8 - Primal Fear](https://www.spoj.com/problems/VECTAR8/) | [C++14 (gcc 8.3)](./spoj/VECTAR8.cpp) |
