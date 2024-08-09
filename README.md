@@ -1738,6 +1738,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 35 | [1102 - Problem Makes Problem](https://lightoj.com/problem/problem-makes-problem) | [C++ 20](./lightoj/1102.cpp) |
 | 34 | [1214 - Large Division](https://lightoj.com/problem/large-division) | [C++ 20](./lightoj/1214.cpp) |
 | 33 | [1067 - Combinations](https://lightoj.com/problem/combinations) | [C++ 20](./lightoj/1067.cpp) |
 | 32 | [1034 - Hit the Light Switches](https://lightoj.com/problem/hit-the-light-switches) | [C++ 20](./lightoj/1034.cpp) |
