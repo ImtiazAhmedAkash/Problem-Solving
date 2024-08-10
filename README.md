@@ -1654,6 +1654,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 65 | [String Matching](https://cses.fi/problemset/task/1753) | [C++20](./cses/string_algorithms/1753.cpp) |
 | 64 | [Two Knights](https://cses.fi/problemset/task/1072) | [C++20](./cses/introductory_problems/1072.cpp) |
 | 63 | [Distributing Apples](https://cses.fi/problemset/task/1716) | [C++20](./cses/mathematics/1716.cpp) |
 | 62 | [Binomial Coefficients](https://cses.fi/problemset/task/1079) | [C++20](./cses/mathematics/1079.cpp) |
