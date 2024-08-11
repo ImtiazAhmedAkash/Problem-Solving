@@ -1794,6 +1794,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 21 | [NHAY - A Needle in the Haystack](https://www.spoj.com/problems/NHAY/) | [C++14 (gcc 8.3)](./spoj/NHAY.cpp) |
 | 20 | [NAJPF - Pattern Find](https://www.spoj.com/problems/NAJPF/) | [C++14 (gcc 8.3)](./spoj/NAJPF.cpp) |
 | 19 | [GOODB - Good Predictions](https://www.spoj.com/problems/GOODB/) | [C++14 (gcc 8.3)](./spoj/GOODB.cpp) |
 | 18 | [ADATEAMS - Ada and Teams](https://www.spoj.com/problems/ADATEAMS/) | [C++14 (gcc 8.3)](./spoj/ADATEAMS.cpp) |
