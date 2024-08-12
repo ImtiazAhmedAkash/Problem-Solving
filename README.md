@@ -642,6 +642,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 999 | [D - Good Substrings](https://codeforces.com/contest/271/problem/D) | [C++20 (GCC 13-64)](./codeforces/271/D.cpp) |
+| 998 | [C - Black Circles](https://codeforces.com/contest/2002/problem/C) | [C++20 (GCC 13-64)](./codeforces/2002/C.cpp) |
+| 997 | [B - Removals Game](https://codeforces.com/contest/2002/problem/B) | [C++20 (GCC 13-64)](./codeforces/2002/B.cpp) |
+| 996 | [A - Distanced Coloring](https://codeforces.com/contest/2002/problem/A) | [C++20 (GCC 13-64)](./codeforces/2002/A.cpp) |
+| 995 | [D - MUH and Cube Walls](https://codeforces.com/contest/471/problem/D) | [C++20 (GCC 13-64)](./codeforces/471/D.cpp) |
+| 994 | [B - Minimize Equal Sum Subarrays](https://codeforces.com/contest/1998/problem/B) | [C++20 (GCC 13-64)](./codeforces/1998/B.cpp) |
+| 993 | [A - Find K Distinct Points with Fixed Center](https://codeforces.com/contest/1998/problem/A) | [C++20 (GCC 13-64)](./codeforces/1998/A.cpp) |
 |  | [E - Triple Operations](https://codeforces.com/contest/1999/problem/E) | [C++20 (GCC 13-64)](./codeforces/) |
 |  | [D - Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | [C++20 (GCC 13-64)](./codeforces/) |
 |  | [C - Showering](https://codeforces.com/contest/1999/problem/C) | [C++20 (GCC 13-64)](./codeforces/) |
