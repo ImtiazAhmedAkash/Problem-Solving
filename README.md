@@ -1654,6 +1654,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 67 | [Finding Periods](https://cses.fi/problemset/task/1733) | [C++20](./cses/string_algorithms/1733.cpp) |
 | 66 | [Finding Borders](https://cses.fi/problemset/task/1732) | [C++20](./cses/string_algorithms/1732.cpp) |
 | 65 | [String Matching](https://cses.fi/problemset/task/1753) | [C++20](./cses/string_algorithms/1753.cpp) |
 | 64 | [Two Knights](https://cses.fi/problemset/task/1072) | [C++20](./cses/introductory_problems/1072.cpp) |
