@@ -1803,27 +1803,28 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
-| 21 | [NHAY - A Needle in the Haystack](https://www.spoj.com/problems/NHAY/) | [C++14 (gcc 8.3)](./spoj/NHAY.cpp) |
-| 20 | [NAJPF - Pattern Find](https://www.spoj.com/problems/NAJPF/) | [C++14 (gcc 8.3)](./spoj/NAJPF.cpp) |
-| 19 | [GOODB - Good Predictions](https://www.spoj.com/problems/GOODB/) | [C++14 (gcc 8.3)](./spoj/GOODB.cpp) |
-| 18 | [ADATEAMS - Ada and Teams](https://www.spoj.com/problems/ADATEAMS/) | [C++14 (gcc 8.3)](./spoj/ADATEAMS.cpp) |
-| 17 | [HC12 - Card Game](https://www.spoj.com/problems/HC12/) | [C++14 (gcc 8.3)](./spoj/HC12.cpp) |
-| 16 | [VECTAR8 - Primal Fear](https://www.spoj.com/problems/VECTAR8/) | [C++14 (gcc 8.3)](./spoj/VECTAR8.cpp) |
-| 15 | [PRMQUER - Prime queries](https://www.spoj.com/problems/PRMQUER/) | [C++14 (gcc 8.3)](./spoj/PRMQUER.cpp) |
-| 14 | [DIGOKEYS - Find the Treasure](https://www.spoj.com/problems/DIGOKEYS/) | [C++14 (gcc 8.3)](./spoj/DIGOKEYS.cpp) |
-| 13 | [ADACYCLE - Ada and Cycle](https://www.spoj.com/problems/ADACYCLE/) | [C++14 (gcc 8.3)](./spoj/ADACYCLE.cpp) |
-| 12 | [NAKANJ - Minimum Knight moves !!!](https://www.spoj.com/problems/NAKANJ/) | [C++14 (gcc 8.3)](./spoj/NAKANJ.cpp) |
-| 11 | [KOZE - Sheep](https://www.spoj.com/problems/KOZE/) | [C++14 (gcc 8.3)](./spoj/KOZE.cpp) |
-| 10 | [MOVIFAN - Movie Fan](https://www.spoj.com/problems/MOVIFAN/) | [C++14 (gcc 8.3)](./spoj/MOVIFAN.cpp) |
-| 9 | [ADASEQEN - Ada and Subsequence](https://www.spoj.com/problems/ADASEQEN/) | [C++14 (gcc 8.3)](./spoj/ADASEQEN.cpp) |
-| 8 | [BUGLIFE - A Bug’s Life](https://www.spoj.com/problems/BUGLIFE/) | [C++14 (gcc 8.3)](./spoj/BUGLIFE.cpp) |
-| 7 | [AU7_5 - STUDENTS](https://www.spoj.com/problems/AU7_5/) | [C++14 (gcc 8.3)](./spoj/AU7_5.cpp) |
-| 6 | [ZSUM - Just Add It](https://www.spoj.com/problems/ZSUM/) | [C++14 (gcc 8.3)](./spoj/ZSUM.cpp) |
-| 5 | [LASTDIG - The last digit](https://www.spoj.com/problems/LASTDIG/) | [C++14 (gcc 8.3)](./spoj/LASTDIG.cpp) |
-| 4 | [FACTMUL - Product of factorials](https://www.spoj.com/problems/FACTMUL/) | [C++14 (gcc 8.3)](./spoj/FACTMUL.cpp) |
-| 3 | [PWRANDMOD - Power and Mod](https://www.spoj.com/problems/PWRANDMOD/) | [C++14 (gcc 8.3)](./spoj/PWRANDMOD.cpp) |
-| 2 | [AKBAR - Akbar , The great](https://www.spoj.com/problems/AKBAR/) | [C++14 (gcc 8.3)](./spoj/AKBAR.cpp) |
-| 1 | [TEST - Life, the Universe, and Everything](https://www.spoj.com/problems/TEST/) | [C++14 (gcc 8.3)](./spoj/TEST.cpp) |
+| 22 | [ADAINDEX - Ada and Indexing](https://www.spoj.com/problems/ADAINDEX) | [C++14 (gcc 8.3)](./spoj/ADAINDEX.cpp) |
+| 21 | [NHAY - A Needle in the Haystack](https://www.spoj.com/problems/NHAY) | [C++14 (gcc 8.3)](./spoj/NHAY.cpp) |
+| 20 | [NAJPF - Pattern Find](https://www.spoj.com/problems/NAJPF) | [C++14 (gcc 8.3)](./spoj/NAJPF.cpp) |
+| 19 | [GOODB - Good Predictions](https://www.spoj.com/problems/GOODB) | [C++14 (gcc 8.3)](./spoj/GOODB.cpp) |
+| 18 | [ADATEAMS - Ada and Teams](https://www.spoj.com/problems/ADATEAMS) | [C++14 (gcc 8.3)](./spoj/ADATEAMS.cpp) |
+| 17 | [HC12 - Card Game](https://www.spoj.com/problems/HC12) | [C++14 (gcc 8.3)](./spoj/HC12.cpp) |
+| 16 | [VECTAR8 - Primal Fear](https://www.spoj.com/problems/VECTAR8) | [C++14 (gcc 8.3)](./spoj/VECTAR8.cpp) |
+| 15 | [PRMQUER - Prime queries](https://www.spoj.com/problems/PRMQUER) | [C++14 (gcc 8.3)](./spoj/PRMQUER.cpp) |
+| 14 | [DIGOKEYS - Find the Treasure](https://www.spoj.com/problems/DIGOKEYS) | [C++14 (gcc 8.3)](./spoj/DIGOKEYS.cpp) |
+| 13 | [ADACYCLE - Ada and Cycle](https://www.spoj.com/problems/ADACYCLE) | [C++14 (gcc 8.3)](./spoj/ADACYCLE.cpp) |
+| 12 | [NAKANJ - Minimum Knight moves !!!](https://www.spoj.com/problems/NAKANJ) | [C++14 (gcc 8.3)](./spoj/NAKANJ.cpp) |
+| 11 | [KOZE - Sheep](https://www.spoj.com/problems/KOZE) | [C++14 (gcc 8.3)](./spoj/KOZE.cpp) |
+| 10 | [MOVIFAN - Movie Fan](https://www.spoj.com/problems/MOVIFAN) | [C++14 (gcc 8.3)](./spoj/MOVIFAN.cpp) |
+| 9 | [ADASEQEN - Ada and Subsequence](https://www.spoj.com/problems/ADASEQEN) | [C++14 (gcc 8.3)](./spoj/ADASEQEN.cpp) |
+| 8 | [BUGLIFE - A Bug’s Life](https://www.spoj.com/problems/BUGLIFE) | [C++14 (gcc 8.3)](./spoj/BUGLIFE.cpp) |
+| 7 | [AU7_5 - STUDENTS](https://www.spoj.com/problems/AU7_5) | [C++14 (gcc 8.3)](./spoj/AU7_5.cpp) |
+| 6 | [ZSUM - Just Add It](https://www.spoj.com/problems/ZSUM) | [C++14 (gcc 8.3)](./spoj/ZSUM.cpp) |
+| 5 | [LASTDIG - The last digit](https://www.spoj.com/problems/LASTDIG) | [C++14 (gcc 8.3)](./spoj/LASTDIG.cpp) |
+| 4 | [FACTMUL - Product of factorials](https://www.spoj.com/problems/FACTMUL) | [C++14 (gcc 8.3)](./spoj/FACTMUL.cpp) |
+| 3 | [PWRANDMOD - Power and Mod](https://www.spoj.com/problems/PWRANDMOD) | [C++14 (gcc 8.3)](./spoj/PWRANDMOD.cpp) |
+| 2 | [AKBAR - Akbar , The great](https://www.spoj.com/problems/AKBAR) | [C++14 (gcc 8.3)](./spoj/AKBAR.cpp) |
+| 1 | [TEST - Life, the Universe, and Everything](https://www.spoj.com/problems/TEST) | [C++14 (gcc 8.3)](./spoj/TEST.cpp) |
 
 
 </details>
