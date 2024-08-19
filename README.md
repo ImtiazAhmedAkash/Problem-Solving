@@ -642,6 +642,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1008 | [D - Colored Portals](https://codeforces.com/contest/2004/problem/D) | [C++20 (GCC 13-64)](./codeforces/2004/D.cpp) |
+| 1007 | [C - Splitting Items](https://codeforces.com/contest/2004/problem/C) | [C++20 (GCC 13-64)](./codeforces/2004/C.cpp) |
+| 1006 | [B - Game with Doors](https://codeforces.com/contest/2004/problem/B) | [C++20 (GCC 13-64)](./codeforces/2004/B.cpp) |
+| 1005 | [A - Closest Point](https://codeforces.com/contest/2004/problem/A) | [C++20 (GCC 13-64)](./codeforces/2004/A.cpp) |
 | 1004 | [E - Photoshoot for Gorillas](https://codeforces.com/contest/2000/problem/E) | [C++20 (GCC 13-64)](./codeforces/2000/E.cpp) |
 | 1003 | [D - Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | [C++20 (GCC 13-64)](./codeforces/2000/D.cpp) |
 | 1002 | [C - Numeric String Template](https://codeforces.com/contest/2000/problem/C) | [C++20 (GCC 13-64)](./codeforces/2000/C.cpp) |
