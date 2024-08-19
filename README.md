@@ -642,6 +642,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1004 | [E - Photoshoot for Gorillas](https://codeforces.com/contest/2000/problem/E) | [C++20 (GCC 13-64)](./codeforces/2000/E.cpp) |
+| 1003 | [D - Right Left Wrong](https://codeforces.com/contest/2000/problem/D) | [C++20 (GCC 13-64)](./codeforces/2000/D.cpp) |
+| 1002 | [C - Numeric String Template](https://codeforces.com/contest/2000/problem/C) | [C++20 (GCC 13-64)](./codeforces/2000/C.cpp) |
+| 1001 | [B - Seating in a Bus](https://codeforces.com/contest/2000/problem/B) | [C++20 (GCC 13-64)](./codeforces/2000/B.cpp) |
+| 1000 | [A - Primary Task](https://codeforces.com/contest/2000/problem/A) | [C++20 (GCC 13-64)](./codeforces/2000/A.cpp) |
 | 999 | [D - Good Substrings](https://codeforces.com/contest/271/problem/D) | [C++20 (GCC 13-64)](./codeforces/271/D.cpp) |
 | 998 | [C - Black Circles](https://codeforces.com/contest/2002/problem/C) | [C++20 (GCC 13-64)](./codeforces/2002/C.cpp) |
 | 997 | [B - Removals Game](https://codeforces.com/contest/2002/problem/B) | [C++20 (GCC 13-64)](./codeforces/2002/B.cpp) |
