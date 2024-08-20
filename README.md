@@ -642,6 +642,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1010 | [C - Load Balancing](https://codeforces.com/contest/609/problem/C) | [C++20 (GCC 13-64)](./codeforces/609/C.cpp) |
 | 1009 | [C - Perform Operations to Maximize Score](https://codeforces.com/contest/1998/problem/C) | [C++20 (GCC 13-64)](./codeforces/1998/C.cpp) |
 | 1008 | [D - Colored Portals](https://codeforces.com/contest/2004/problem/D) | [C++20 (GCC 13-64)](./codeforces/2004/D.cpp) |
 | 1007 | [C - Splitting Items](https://codeforces.com/contest/2004/problem/C) | [C++20 (GCC 13-64)](./codeforces/2004/C.cpp) |
