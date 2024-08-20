@@ -568,6 +568,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 59 | [STR_REVERSE - String Reverse](https://www.codechef.com/problems/STR_REVERSE) | [C++20](./codechef/STR_REVERSE.cpp) |
 | 58 | [BLDST - Ball Distribution](https://www.codechef.com/problems/BLDST) | [C++20](./codechef/BLDST.cpp) |
 | 57 | [ARRREM - Array Removal](https://www.codechef.com/problems/ARRREM) | [C++20](./codechef/ARRREM.cpp) |
 | 56 | [NUMHUNT - Number Hunt](https://www.codechef.com/problems/NUMHUNT) | [C++20](./codechef/NUMHUNT.cpp) |
