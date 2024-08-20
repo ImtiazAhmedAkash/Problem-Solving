@@ -568,6 +568,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 58 | [BLDST - Ball Distribution](https://www.codechef.com/problems/BLDST) | [C++20](./codechef/BLDST.cpp) |
+| 57 | [ARRREM - Array Removal](https://www.codechef.com/problems/ARRREM) | [C++20](./codechef/ARRREM.cpp) |
+| 56 | [NUMHUNT - Number Hunt](https://www.codechef.com/problems/NUMHUNT) | [C++20](./codechef/NUMHUNT.cpp) |
+| 55 | [CHEFIZZA - Chef loves Pizza Chef loves halfs](https://www.codechef.com/problems/CHEFIZZA) | [C++20](./codechef/CHEFIZZA.cpp) |
 | 54 | [EQUALHAMMING - Equal Hamming Distance](https://www.codechef.com/problems/EQUALHAMMING) | [C++20](./codechef/EQUALHAMMING.cpp) |
 | 53 | [PREPER - Perfect Prefixes](https://www.codechef.com/problems/PREPER) | [C++20](./codechef/PREPER.cpp) |
 | 52 | [WELLLEFT - Amphibian Escape](https://www.codechef.com/problems/WELLLEFT) | [C++20](./codechef/WELLLEFT.cpp) |
