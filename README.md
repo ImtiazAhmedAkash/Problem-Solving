@@ -648,6 +648,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1014 | [E - Decode](https://codeforces.com/contest/1996/problem/E) | [C++20 (GCC 13-64)](./codeforces/1996/E.cpp) |
 | 1013 | [C - Guess The Tree](https://codeforces.com/contest/2001/problem/C) | [C++20 (GCC 13-64)](./codeforces/2001/C.cpp) |
 | 1012 | [B - Generate Permutation](https://codeforces.com/contest/2001/problem/A) | [C++20 (GCC 13-64)](./codeforces/2001/B.cpp) |
 | 1011 | [A - Make All Equal](https://codeforces.com/contest/2001/problem/A) | [C++20 (GCC 13-64)](./codeforces/2001/A.cpp) |
