@@ -1867,6 +1867,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 37 | [11488 - Hyper Prefix Sets](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2483) | [C++11 5.3.0](./uva/11488.cpp) |
+| 36 | [12506 - Shortest Names](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3950) | [C++11 5.3.0](./uva/12506.cpp) |
 | 35 | [10212 - The Last Non-zero Digit.](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1153) | [C++11 5.3.0](./uva/10212.cpp) |
 | 34 | [11029 - Leading and Trailing](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1970) | [C++11 5.3.0](./uva/11029.cpp) |
 | 33 | [374 - Big Mod](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=310) | [C++11 5.3.0](./uva/374.cpp) |
