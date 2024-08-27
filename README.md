@@ -648,6 +648,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1023 | [B - Substring and Subsequence](https://codeforces.com/contest/1989/problem/B) | [C++20 (GCC 13-64)](./codeforces/1989/B.cpp) |
+| 1022 | [B - Parity and Sum](https://codeforces.com/contest/1993/problem/B) | [C++20 (GCC 13-64)](./codeforces/1993/B.cpp) |
+| 1021 | [A - Question Marks](https://codeforces.com/contest/1993/problem/A) | [C++20 (GCC 13-64)](./codeforces/1993/A.cpp) |
 | 1020 | [D2 - Turtle and a MEX Problem (Hard Version)](https://codeforces.com/contest/2003/problem/D2) | [C++20 (GCC 13-64)](./codeforces/2003/D2.cpp) |
 | 1019 | [D1 - Turtle and a MEX Problem (Easy Version)](https://codeforces.com/contest/2003/problem/D1) | [C++20 (GCC 13-64)](./codeforces/2003/D1.cpp) |
 | 1018 | [C - Turtle and Good Pairs](https://codeforces.com/contest/2003/problem/C) | [C++20 (GCC 13-64)](./codeforces/2003/C.cpp) |
