@@ -648,6 +648,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1020 | [D2 - Turtle and a MEX Problem (Hard Version)](https://codeforces.com/contest/2003/problem/D2) | [C++20 (GCC 13-64)](./codeforces/2003/D2.cpp) |
+| 1019 | [D1 - Turtle and a MEX Problem (Easy Version)](https://codeforces.com/contest/2003/problem/D1) | [C++20 (GCC 13-64)](./codeforces/2003/D1.cpp) |
+| 1018 | [C - Turtle and Good Pairs](https://codeforces.com/contest/2003/problem/C) | [C++20 (GCC 13-64)](./codeforces/2003/C.cpp) |
+| 1017 | [B - Turtle and Piggy Are Playing a Game 2](https://codeforces.com/contest/2003/problem/B) | [C++20 (GCC 13-64)](./codeforces/2003/B.cpp) |
+| 1016 | [A - Turtle and Good Strings](https://codeforces.com/contest/2003/problem/A) | [C++20 (GCC 13-64)](./codeforces/2003/A.cpp) |
 | 1015 | [D - Vasiliy's Multiset](https://codeforces.com/contest/706/problem/D) | [C++20 (GCC 13-64)](./codeforces/706/D.cpp) |
 | 1014 | [E - Decode](https://codeforces.com/contest/1996/problem/E) | [C++20 (GCC 13-64)](./codeforces/1996/E.cpp) |
 | 1013 | [C - Guess The Tree](https://codeforces.com/contest/2001/problem/C) | [C++20 (GCC 13-64)](./codeforces/2001/C.cpp) |
