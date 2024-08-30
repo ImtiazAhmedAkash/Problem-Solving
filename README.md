@@ -648,6 +648,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1028 | [D - Maximize the Root](https://codeforces.com/contest/1997/problem/D) | [C++20 (GCC 13-64)](./codeforces/1997/D.cpp) |
+| 1027 | [C - Even Positions](https://codeforces.com/contest/1997/problem/C) | [C++20 (GCC 13-64)](./codeforces/1997/C.cpp) |
+| 1026 | [B - Make Three Regions](https://codeforces.com/contest/1997/problem/B) | [C++20 (GCC 13-64)](./codeforces/1997/B.cpp) |
+| 1025 | [A - Strong Password](https://codeforces.com/contest/1997/problem/A) | [C++20 (GCC 13-64)](./codeforces/1997/A.cpp) |
+| 1024 | [C - Light Switches](https://codeforces.com/contest/1993/problem/C) | [C++20 (GCC 13-64)](./codeforces/1993/C.cpp) |
 | 1023 | [B - Substring and Subsequence](https://codeforces.com/contest/1989/problem/B) | [C++20 (GCC 13-64)](./codeforces/1989/B.cpp) |
 | 1022 | [B - Parity and Sum](https://codeforces.com/contest/1993/problem/B) | [C++20 (GCC 13-64)](./codeforces/1993/B.cpp) |
 | 1021 | [A - Question Marks](https://codeforces.com/contest/1993/problem/A) | [C++20 (GCC 13-64)](./codeforces/1993/A.cpp) |
