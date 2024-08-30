@@ -1696,6 +1696,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 70 | [Nim Game II](https://cses.fi/problemset/task/1098) | [C++20](./cses/mathematics/1098.cpp) |
+| 69 | [Nim Game I](https://cses.fi/problemset/task/1730) | [C++20](./cses/mathematics/1730.cpp) |
+| 68 | [Stick Game](https://cses.fi/problemset/task/1729) | [C++20](./cses/mathematics/1729.cpp) |
 | 67 | [Finding Periods](https://cses.fi/problemset/task/1733) | [C++20](./cses/string_algorithms/1733.cpp) |
 | 66 | [Finding Borders](https://cses.fi/problemset/task/1732) | [C++20](./cses/string_algorithms/1732.cpp) |
 | 65 | [String Matching](https://cses.fi/problemset/task/1753) | [C++20](./cses/string_algorithms/1753.cpp) |
