@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 505 | [D - Cuboid Sum Query](https://atcoder.jp/contests/abc366/tasks/abc366_d) | [C++ 20 (gcc 12.2)](./atcoder/abc366/D.cpp) |
+| 504 | [C - Balls and Bag Query](https://atcoder.jp/contests/abc366/tasks/abc366_c) | [C++ 20 (gcc 12.2)](./atcoder/abc366/C.cpp) |
+| 503 | [B - Vertical Writing](https://atcoder.jp/contests/abc366/tasks/abc366_b) | [C++ 20 (gcc 12.2)](./atcoder/abc366/B.cpp) |
+| 502 | [A - Election 2](https://atcoder.jp/contests/abc366/tasks/abc366_a) | [C++ 20 (gcc 12.2)](./atcoder/abc366/A.cpp) |
+| 501 | [U - Grouping](https://atcoder.jp/contests/dp/tasks/dp_u) | [C++ 20 (gcc 12.2)](./atcoder/dp/U.cpp) |
 | 500 | [O - Matching](https://atcoder.jp/contests/dp/tasks/dp_o) | [C++ 20 (gcc 12.2)](./atcoder/dp/O.cpp) |
 | 499 | [E - Tree and Hamilton Path 2](https://atcoder.jp/contests/abc361/tasks/abc361_e) | [C++ 20 (gcc 12.2)](./atcoder/abc361/E.cpp) |
 | 498 | [D - Go Stone Puzzle](https://atcoder.jp/contests/abc361/tasks/abc361_d) | [C++ 20 (gcc 12.2)](./atcoder/abc361/D.cpp) |
