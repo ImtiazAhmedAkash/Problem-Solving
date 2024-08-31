@@ -648,6 +648,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1031 | [C - Dora and C++](https://codeforces.com/contest/2007/problem/C) | [C++20 (GCC 13-64)](./codeforces/2007/C.cpp) |
+| 1030 | [B - Index and Maximum Value](https://codeforces.com/contest/2007/problem/B) | [C++20 (GCC 13-64)](./codeforces/2007/B.cpp) |
+| 1029 | [A - Dora's Set](https://codeforces.com/contest/2007/problem/A) | [C++20 (GCC 13-64)](./codeforces/2007/A.cpp) |
 | 1028 | [D - Maximize the Root](https://codeforces.com/contest/1997/problem/D) | [C++20 (GCC 13-64)](./codeforces/1997/D.cpp) |
 | 1027 | [C - Even Positions](https://codeforces.com/contest/1997/problem/C) | [C++20 (GCC 13-64)](./codeforces/1997/C.cpp) |
 | 1026 | [B - Make Three Regions](https://codeforces.com/contest/1997/problem/B) | [C++20 (GCC 13-64)](./codeforces/1997/B.cpp) |
