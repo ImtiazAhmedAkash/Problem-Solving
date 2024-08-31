@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 509 | [E - Karuta](https://atcoder.jp/contests/abc287/tasks/abc287_e) | [C++ 20 (gcc 12.2)](./atcoder/abc287/E.cpp) |
+| 508 | [C - Enumerate Sequences](https://atcoder.jp/contests/abc367/tasks/abc367_c) | [C++ 20 (gcc 12.2)](./atcoder/abc367/C.cpp) |
+| 507 | [B - Cut .0](https://atcoder.jp/contests/abc367/tasks/abc367_b) | [C++ 20 (gcc 12.2)](./atcoder/abc367/B.cpp) |
+| 506 | [A - Shout Everyday](https://atcoder.jp/contests/abc367/tasks/abc367_a) | [C++ 20 (gcc 12.2)](./atcoder/abc367/A.cpp) |
 | 505 | [D - Cuboid Sum Query](https://atcoder.jp/contests/abc366/tasks/abc366_d) | [C++ 20 (gcc 12.2)](./atcoder/abc366/D.cpp) |
 | 504 | [C - Balls and Bag Query](https://atcoder.jp/contests/abc366/tasks/abc366_c) | [C++ 20 (gcc 12.2)](./atcoder/abc366/C.cpp) |
 | 503 | [B - Vertical Writing](https://atcoder.jp/contests/abc366/tasks/abc366_b) | [C++ 20 (gcc 12.2)](./atcoder/abc366/B.cpp) |
