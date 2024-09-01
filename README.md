@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 518 | [D - Minimum Steiner Tree](https://atcoder.jp/contests/abc368/tasks/abc368_d) | [C++ 20 (gcc 12.2)](./atcoder/abc368/D.cpp) |
+| 517 | [C - Triple Attack](https://atcoder.jp/contests/abc368/tasks/abc368_c) | [C++ 20 (gcc 12.2)](./atcoder/abc368/C.cpp) |
+| 516 | [B - Decrease 2 max elements](https://atcoder.jp/contests/abc368/tasks/abc368_b) | [C++ 20 (gcc 12.2)](./atcoder/abc368/B.cpp) |
+| 515 | [A - Cut](https://atcoder.jp/contests/abc368/tasks/abc368_a) | [C++ 20 (gcc 12.2)](./atcoder/abc368/A.cpp) |
 | 514 | [E - Xor Sigma Problem](https://atcoder.jp/contests/abc365/tasks/abc365_e) | [C++ 20 (gcc 12.2)](./atcoder/abc365/E.cpp) |
 | 513 | [D - AtCoder Janken 3](https://atcoder.jp/contests/abc365/tasks/abc365_d) | [C++ 20 (gcc 12.2)](./atcoder/abc365/D.cpp) |
 | 512 | [C - Transportation Expenses](https://atcoder.jp/contests/abc365/tasks/abc365_c) | [C++ 20 (gcc 12.2)](./atcoder/abc365/C.cpp) |
