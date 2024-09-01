@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 514 | [E - Xor Sigma Problem](https://atcoder.jp/contests/abc365/tasks/abc365_e) | [C++ 20 (gcc 12.2)](./atcoder/abc365/E.cpp) |
+| 513 | [D - AtCoder Janken 3](https://atcoder.jp/contests/abc365/tasks/abc365_d) | [C++ 20 (gcc 12.2)](./atcoder/abc365/D.cpp) |
+| 512 | [C - Transportation Expenses](https://atcoder.jp/contests/abc365/tasks/abc365_c) | [C++ 20 (gcc 12.2)](./atcoder/abc365/C.cpp) |
+| 511 | [B - Second Best](https://atcoder.jp/contests/abc365/tasks/abc365_b) | [C++ 20 (gcc 12.2)](./atcoder/abc365/B.cpp) |
+| 510 | [A - Leap Year](https://atcoder.jp/contests/abc365/tasks/abc365_a) | [C++ 20 (gcc 12.2)](./atcoder/abc365/A.cpp) |
 | 509 | [E - Karuta](https://atcoder.jp/contests/abc287/tasks/abc287_e) | [C++ 20 (gcc 12.2)](./atcoder/abc287/E.cpp) |
 | 508 | [C - Enumerate Sequences](https://atcoder.jp/contests/abc367/tasks/abc367_c) | [C++ 20 (gcc 12.2)](./atcoder/abc367/C.cpp) |
 | 507 | [B - Cut .0](https://atcoder.jp/contests/abc367/tasks/abc367_b) | [C++ 20 (gcc 12.2)](./atcoder/abc367/B.cpp) |
