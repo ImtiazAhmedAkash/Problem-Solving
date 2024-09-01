@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 522 | [D - Bonus EXP](https://atcoder.jp/contests/abc369/tasks/abc369_d) | [C++ 20 (gcc 12.2)](./atcoder/abc369/D.cpp) |
+| 521 | [C - Count Arithmetic Subarrays](https://atcoder.jp/contests/abc369/tasks/abc369_c) | [C++ 20 (gcc 12.2)](./atcoder/abc369/C.cpp) |
+| 520 | [B - Piano 3](https://atcoder.jp/contests/abc369/tasks/abc369_b) | [C++ 20 (gcc 12.2)](./atcoder/abc369/B.cpp) |
+| 519 | [A - 369](https://atcoder.jp/contests/abc369/tasks/abc369_a) | [C++ 20 (gcc 12.2)](./atcoder/abc369/A.cpp) |
 | 518 | [D - Minimum Steiner Tree](https://atcoder.jp/contests/abc368/tasks/abc368_d) | [C++ 20 (gcc 12.2)](./atcoder/abc368/D.cpp) |
 | 517 | [C - Triple Attack](https://atcoder.jp/contests/abc368/tasks/abc368_c) | [C++ 20 (gcc 12.2)](./atcoder/abc368/C.cpp) |
 | 516 | [B - Decrease 2 max elements](https://atcoder.jp/contests/abc368/tasks/abc368_b) | [C++ 20 (gcc 12.2)](./atcoder/abc368/B.cpp) |
