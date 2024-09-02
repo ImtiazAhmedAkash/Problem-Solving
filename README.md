@@ -670,6 +670,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1040 | [G - D-Function](https://codeforces.com/contest/1985/problem/G) | [C++20 (GCC 13-64)](./codeforces/1985/G.cpp) |
+| 1039 | [C - Hungry Games](https://codeforces.com/contest/1994/problem/C) | [C++20 (GCC 13-64)](./codeforces/1994/C.cpp) |
 | 1038 | [F - Sakurako's Box](https://codeforces.com/contest/2008/problem/F) | [C++20 (GCC 13-64)](./codeforces/2008/F.cpp) |
 | 1037 | [E - Alternating String](https://codeforces.com/contest/2008/problem/E) | [C++20 (GCC 13-64)](./codeforces/2008/E.cpp) |
 | 1036 | [D - Sakurako's Hobby](https://codeforces.com/contest/2008/problem/D) | [C++20 (GCC 13-64)](./codeforces/2008/D.cpp) |
