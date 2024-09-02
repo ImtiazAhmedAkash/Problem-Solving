@@ -670,6 +670,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1032 | [D - Iris and Game on the Tree](https://codeforces.com/contest/2007/problem/D) | [C++20 (GCC 13-64)](./codeforces/2007/D.cpp) |
 | 1031 | [C - Dora and C++](https://codeforces.com/contest/2007/problem/C) | [C++20 (GCC 13-64)](./codeforces/2007/C.cpp) |
 | 1030 | [B - Index and Maximum Value](https://codeforces.com/contest/2007/problem/B) | [C++20 (GCC 13-64)](./codeforces/2007/B.cpp) |
 | 1029 | [A - Dora's Set](https://codeforces.com/contest/2007/problem/A) | [C++20 (GCC 13-64)](./codeforces/2007/A.cpp) |
