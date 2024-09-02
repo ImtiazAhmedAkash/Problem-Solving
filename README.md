@@ -670,6 +670,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1038 | [F - Sakurako's Box](https://codeforces.com/contest/2008/problem/F) | [C++20 (GCC 13-64)](./codeforces/2008/F.cpp) |
+| 1037 | [E - Alternating String](https://codeforces.com/contest/2008/problem/E) | [C++20 (GCC 13-64)](./codeforces/2008/E.cpp) |
+| 1036 | [D - Sakurako's Hobby](https://codeforces.com/contest/2008/problem/D) | [C++20 (GCC 13-64)](./codeforces/2008/D.cpp) |
+| 1035 | [C - Longest Good Array](https://codeforces.com/contest/2008/problem/C) | [C++20 (GCC 13-64)](./codeforces/2008/C.cpp) |
+| 1034 | [B - Square or Not](https://codeforces.com/contest/2008/problem/B) | [C++20 (GCC 13-64)](./codeforces/2008/B.cpp) |
+| 1033 | [A - Sakurako's Exam](https://codeforces.com/contest/2008/problem/A) | [C++20 (GCC 13-64)](./codeforces/2008/A.cpp) |
 | 1032 | [D - Iris and Game on the Tree](https://codeforces.com/contest/2007/problem/D) | [C++20 (GCC 13-64)](./codeforces/2007/D.cpp) |
 | 1031 | [C - Dora and C++](https://codeforces.com/contest/2007/problem/C) | [C++20 (GCC 13-64)](./codeforces/2007/C.cpp) |
 | 1030 | [B - Index and Maximum Value](https://codeforces.com/contest/2007/problem/B) | [C++20 (GCC 13-64)](./codeforces/2007/B.cpp) |
