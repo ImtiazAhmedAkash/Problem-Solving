@@ -670,6 +670,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1046 | [E - Klee's SUPER DUPER LARGE Array!!!](https://codeforces.com/contest/2009/problem/E) | [C++20 (GCC 13-64)](./codeforces/2009/E.cpp) |
+| 1045 | [D - Satyam and Counting](https://codeforces.com/contest/2009/problem/D) | [C++20 (GCC 13-64)](./codeforces/2009/D.cpp) |
+| 1044 | [C - The Legend of Freya the Frog](https://codeforces.com/contest/2009/problem/C) | [C++20 (GCC 13-64)](./codeforces/2009/C.cpp) |
+| 1043 | [B - osu!mania](https://codeforces.com/contest/2009/problem/B) | [C++20 (GCC 13-64)](./codeforces/2009/B.cpp) |
+| 1042 | [A - Minimize!](https://codeforces.com/contest/2009/problem/A) | [C++20 (GCC 13-64)](./codeforces/2009/A.cpp) |
+| 1041 | [C - Bits](https://codeforces.com/contest/485/problem/C) | [C++20 (GCC 13-64)](./codeforces/485/C.cpp) |
 | 1040 | [G - D-Function](https://codeforces.com/contest/1985/problem/G) | [C++20 (GCC 13-64)](./codeforces/1985/G.cpp) |
 | 1039 | [C - Hungry Games](https://codeforces.com/contest/1994/problem/C) | [C++20 (GCC 13-64)](./codeforces/1994/C.cpp) |
 | 1038 | [F - Sakurako's Box](https://codeforces.com/contest/2008/problem/F) | [C++20 (GCC 13-64)](./codeforces/2008/F.cpp) |
