@@ -670,6 +670,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1050 | [F - Yet Another Problem About Pairs Satisfying an Inequality](https://codeforces.com/contest/1703/problem/F) | [C++20 (GCC 13-64)](./codeforces/1703/F.cpp) |
+| 1049 | [D - Elections](https://codeforces.com/contest/1978/problem/D) | [C++20 (GCC 13-64)](./codeforces/1978/D.cpp) |
+| 1048 | [B - Preparation for International Women's Day](https://codeforces.com/contest/1133/problem/B) | [C++20 (GCC 13-64)](./codeforces/1133/B.cpp) |
+| 1047 | [C - Three Parts of the Array](https://codeforces.com/contest/1006/problem/C) | [C++20 (GCC 13-64)](./codeforces/1006/C.cpp) |
 | 1046 | [E - Klee's SUPER DUPER LARGE Array!!!](https://codeforces.com/contest/2009/problem/E) | [C++20 (GCC 13-64)](./codeforces/2009/E.cpp) |
 | 1045 | [D - Satyam and Counting](https://codeforces.com/contest/2009/problem/D) | [C++20 (GCC 13-64)](./codeforces/2009/D.cpp) |
 | 1044 | [C - The Legend of Freya the Frog](https://codeforces.com/contest/2009/problem/C) | [C++20 (GCC 13-64)](./codeforces/2009/C.cpp) |
