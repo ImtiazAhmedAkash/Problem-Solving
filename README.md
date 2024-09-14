@@ -186,8 +186,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [B - DNA Sequence](https://atcoder.jp/contests/arc104/tasks/arc104_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
 |  | [D - Change Usernames](https://atcoder.jp/contests/abc285/tasks/abc285_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
 |  | [D - Money in Hand](https://atcoder.jp/contests/abc286/tasks/abc286_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [D - Snuke Maze](https://atcoder.jp/contests/abc308/tasks/abc308_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [D - Unicyclic Components](https://atcoder.jp/contests/abc292/tasks/abc292_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+| 366 | [D - Snuke Maze](https://atcoder.jp/contests/abc308/tasks/abc308_d) | [C++ 20 (gcc 12.2)](./atcoder/abc308/D.cpp) |
+| 365 | [D - Unicyclic Components](https://atcoder.jp/contests/abc292/tasks/abc292_d) | [C++ 20 (gcc 12.2)](./atcoder/abc292/D.cpp) |
 | 364 | [C - Don’t be cycle](https://atcoder.jp/contests/abc288/tasks/abc288_c) | [C++ 20 (gcc 12.2)](./atcoder/abc288/C.cpp) |
 | 363 | [C - Product and GCD](https://atcoder.jp/contests/caddi2018b/tasks/caddi2018_a) | [C++ 20 (gcc 12.2)](./atcoder/caddi2018/C.cpp) |
 | 362 | [B - XOR Matching 2](https://atcoder.jp/contests/arc124/tasks/arc124_b) | [C++ 20 (gcc 12.2)](./atcoder/arc124/B.cpp) |
