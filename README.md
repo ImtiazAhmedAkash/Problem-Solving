@@ -670,6 +670,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1053 | [E - Good Triples](https://codeforces.com/contest/1907/problem/E) | [C++20 (GCC 13-64)](./codeforces/1907/E.cpp) |
 | 1052 | [C - Watering an Array](https://codeforces.com/contest/1917/problem/C) | [C++20 (GCC 13-64)](./codeforces/1917/C.cpp) |
 | 1051 | [C - Job Interview](https://codeforces.com/contest/1976/problem/C) | [C++20 (GCC 13-64)](./codeforces/1976/C.cpp) |
 | 1050 | [F - Yet Another Problem About Pairs Satisfying an Inequality](https://codeforces.com/contest/1703/problem/F) | [C++20 (GCC 13-64)](./codeforces/1703/F.cpp) |
