@@ -190,8 +190,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [D - Unicyclic Components](https://atcoder.jp/contests/abc292/tasks/abc292_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
 |  | [C - Don’t be cycle](https://atcoder.jp/contests/abc288/tasks/abc288_c) | [C++ 20 (gcc 12.2)](./atcoder/) |
 |  | [C - Product and GCD](https://atcoder.jp/contests/caddi2018b/tasks/caddi2018_a) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [B - XOR Matching 2](https://atcoder.jp/contests/arc124/tasks/arc124_b) | [C++ 20 (gcc 12.2)](./atcoder/) |
-|  | [D - Gathering Children](https://atcoder.jp/contests/abc136/tasks/abc136_d) | [C++ 20 (gcc 12.2)](./atcoder/) |
+| 362 | [B - XOR Matching 2](https://atcoder.jp/contests/arc124/tasks/arc124_b) | [C++ 20 (gcc 12.2)](./atcoder/arc124/B.cpp) |
+| 361 | [D - Gathering Children](https://atcoder.jp/contests/abc136/tasks/abc136_d) | [C++ 20 (gcc 12.2)](./atcoder/abc136/D.cpp) |
 | 360 | [D - ±1 Operation 2](https://atcoder.jp/contests/abc255/tasks/abc255_d) | [C++ 20 (gcc 12.2)](./atcoder/abc255/D.cpp) |
 | 359 | [C - ±1 Operation 1](https://atcoder.jp/contests/abc255/tasks/abc255_c) | [C++ 20 (gcc 12.2)](./atcoder/abc255/C.cpp) |
 | 358 | [A - Shik and Stone](https://atcoder.jp/contests/agc007/tasks/agc007_a) | [C++ 20 (gcc 12.2)](./atcoder/agc007/A.cpp) |
