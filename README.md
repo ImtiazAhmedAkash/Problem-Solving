@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 526 | [D - Cross Explosion](https://atcoder.jp/contests/abc370/tasks/abc370_d) | [C++ 20 (gcc 12.2)](./atcoder/abc370/D.cpp) |
+| 525 | [C - Word Ladder](https://atcoder.jp/contests/abc370/tasks/abc370_c) | [C++ 20 (gcc 12.2)](./atcoder/abc370/C.cpp) |
+| 524 | [B - Binary Alchemy](https://atcoder.jp/contests/abc370/tasks/abc370_b) | [C++ 20 (gcc 12.2)](./atcoder/abc370/B.cpp) |
+| 523 | [A - Raise Both Hands](https://atcoder.jp/contests/abc370/tasks/abc370_a) | [C++ 20 (gcc 12.2)](./atcoder/abc370/A.cpp) |
 | 522 | [D - Bonus EXP](https://atcoder.jp/contests/abc369/tasks/abc369_d) | [C++ 20 (gcc 12.2)](./atcoder/abc369/D.cpp) |
 | 521 | [C - Count Arithmetic Subarrays](https://atcoder.jp/contests/abc369/tasks/abc369_c) | [C++ 20 (gcc 12.2)](./atcoder/abc369/C.cpp) |
 | 520 | [B - Piano 3](https://atcoder.jp/contests/abc369/tasks/abc369_b) | [C++ 20 (gcc 12.2)](./atcoder/abc369/B.cpp) |
