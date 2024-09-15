@@ -674,6 +674,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1059 | [C - Lazy Narek](https://codeforces.com/contest/2005/problem/C) | [C++20 (GCC 13-64)](./codeforces/2005/C.cpp) |
+| 1058 | [D - Reverse Madness](https://codeforces.com/contest/1878/problem/D) | [C++20 (GCC 13-64)](./codeforces/1878/D.cpp) |
+| 1057 | [D1 - Set To Max (Easy Version)](https://codeforces.com/contest/1904/problem/D1) | [C++20 (GCC 13-64)](./codeforces/1904/D1.cpp) |
+| 1056 | [B2 - The Strict Teacher (Hard Version)](https://codeforces.com/contest/2005/problem/B2) | [C++20 (GCC 13-64)](./codeforces/2005/B2.cpp) |
+| 1055 | [B1 - The Strict Teacher (Easy Version)](https://codeforces.com/contest/2005/problem/B1) | [C++20 (GCC 13-64)](./codeforces/2005/B1.cpp) |
+| 1054 | [A - Simple Palindrome](https://codeforces.com/contest/2005/problem/A) | [C++20 (GCC 13-64)](./codeforces/2005/A.cpp) |
 | 1053 | [E - Good Triples](https://codeforces.com/contest/1907/problem/E) | [C++20 (GCC 13-64)](./codeforces/1907/E.cpp) |
 | 1052 | [C - Watering an Array](https://codeforces.com/contest/1917/problem/C) | [C++20 (GCC 13-64)](./codeforces/1917/C.cpp) |
 | 1051 | [C - Job Interview](https://codeforces.com/contest/1976/problem/C) | [C++20 (GCC 13-64)](./codeforces/1976/C.cpp) |
