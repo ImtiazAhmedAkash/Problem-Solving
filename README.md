@@ -674,6 +674,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1061 | [F - Sum and Product](https://codeforces.com/contest/1857/problem/F) | [C++20 (GCC 13-64)](./codeforces/1857/F.cpp) |
 | 1060 | [D - Jellyfish and Mex](https://codeforces.com/contest/1875/problem/D) | [C++20 (GCC 13-64)](./codeforces/1875/D.cpp) |
 | 1059 | [C - Lazy Narek](https://codeforces.com/contest/2005/problem/C) | [C++20 (GCC 13-64)](./codeforces/2005/C.cpp) |
 | 1058 | [D - Reverse Madness](https://codeforces.com/contest/1878/problem/D) | [C++20 (GCC 13-64)](./codeforces/1878/D.cpp) |
