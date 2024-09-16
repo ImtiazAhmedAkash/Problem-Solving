@@ -674,6 +674,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1062 | [E - Character Blocking](https://codeforces.com/contest/1840/problem/E) | [C++20 (GCC 13-64)](./codeforces/1840/E.cpp) |
 | 1061 | [F - Sum and Product](https://codeforces.com/contest/1857/problem/F) | [C++20 (GCC 13-64)](./codeforces/1857/F.cpp) |
 | 1060 | [D - Jellyfish and Mex](https://codeforces.com/contest/1875/problem/D) | [C++20 (GCC 13-64)](./codeforces/1875/D.cpp) |
 | 1059 | [C - Lazy Narek](https://codeforces.com/contest/2005/problem/C) | [C++20 (GCC 13-64)](./codeforces/2005/C.cpp) |
