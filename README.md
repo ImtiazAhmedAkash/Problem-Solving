@@ -674,6 +674,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1064 | [G - Hits Different](https://codeforces.com/contest/1829/problem/G) | [C++20 (GCC 13-64)](./codeforces/1829/G.cpp) |
 | 1063 | [E - Round Dance](https://codeforces.com/contest/1833/problem/E) | [C++20 (GCC 13-64)](./codeforces/1833/E.cpp) |
 | 1062 | [E - Character Blocking](https://codeforces.com/contest/1840/problem/E) | [C++20 (GCC 13-64)](./codeforces/1840/E.cpp) |
 | 1061 | [F - Sum and Product](https://codeforces.com/contest/1857/problem/F) | [C++20 (GCC 13-64)](./codeforces/1857/F.cpp) |
