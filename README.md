@@ -674,6 +674,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1066 | [E - Making Anti-Palindromes](https://codeforces.com/contest/1822/problem/E) | [C++20 (GCC 13-64)](./codeforces/1822/E.cpp) |
 | 1065 | [D - Umka and a Long Flight](https://codeforces.com/contest/1811/problem/D) | [C++20 (GCC 13-64)](./codeforces/1811/D.cpp) |
 | 1064 | [G - Hits Different](https://codeforces.com/contest/1829/problem/G) | [C++20 (GCC 13-64)](./codeforces/1829/G.cpp) |
 | 1063 | [E - Round Dance](https://codeforces.com/contest/1833/problem/E) | [C++20 (GCC 13-64)](./codeforces/1833/E.cpp) |
