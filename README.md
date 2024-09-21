@@ -674,6 +674,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1071 | [C - The Very Beautiful Blanket](https://codeforces.com/contest/1802/problem/C) | [C++20 (GCC 13-64)](./codeforces/1802/C.cpp) |
+| 1070 | [C - Sequence Master](https://codeforces.com/contest/1806/problem/C) | [C++20 (GCC 13-64)](./codeforces/1806/C.cpp) |
 | 1069 | [C - Password Cracking](https://codeforces.com/contest/2013/problem/C) | [C++20 (GCC 13-64)](./codeforces/2013/C.cpp) |
 | 1068 | [B - Battle for Survive](https://codeforces.com/contest/2013/problem/B) | [C++20 (GCC 13-64)](./codeforces/2013/B.cpp) |
 | 1067 | [A - Zhan's Blender](https://codeforces.com/contest/2013/problem/A) | [C++20 (GCC 13-64)](./codeforces/2013/A.cpp) |
