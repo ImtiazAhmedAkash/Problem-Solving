@@ -674,6 +674,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1075 | [D - Robert Hood and Mrs Hood](https://codeforces.com/contest/2014/problem/D) | [C++20 (GCC 13-64)](./codeforces/2014/D.cpp) |
+| 1074 | [C - Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | [C++20 (GCC 13-64)](./codeforces/2014/C.cpp) |
+| 1073 | [B - Robin Hood and the Major Oak](https://codeforces.com/contest/2014/problem/B) | [C++20 (GCC 13-64)](./codeforces/2014/B.cpp) |
+| 1072 | [A - Robin Helps](https://codeforces.com/contest/2014/problem/A) | [C++20 (GCC 13-64)](./codeforces/2014/A.cpp) |
 | 1071 | [C - The Very Beautiful Blanket](https://codeforces.com/contest/1802/problem/C) | [C++20 (GCC 13-64)](./codeforces/1802/C.cpp) |
 | 1070 | [C - Sequence Master](https://codeforces.com/contest/1806/problem/C) | [C++20 (GCC 13-64)](./codeforces/1806/C.cpp) |
 | 1069 | [C - Password Cracking](https://codeforces.com/contest/2013/problem/C) | [C++20 (GCC 13-64)](./codeforces/2013/C.cpp) |
