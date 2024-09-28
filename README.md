@@ -674,6 +674,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1081 | [H - Robin Hood Archery](https://codeforces.com/contest/2014/problem/H) | [C++20 (GCC 13-64)](./codeforces/2014/H.cpp) |
+| 1080 | [E - Rendez-vous de Marian et Robin](https://codeforces.com/contest/2014/problem/E) | [C++20 (GCC 13-64)](./codeforces/2014/E.cpp) |
 | 1079 | [I - Not Too Hot, Not Too Cold](https://codeforces.com/group/wlb0UYQSQF/contest/551922/problem/I) | [C++20 (GCC 13-64)](./codeforces/group/551922/I.cpp) |
 | 1078 | [F - Xiven plays Holi](https://codeforces.com/group/wlb0UYQSQF/contest/551922/problem/F) | [C++20 (GCC 13-64)](./codeforces/group/551922/F.cpp) |
 | 1077 | [D - Mystic Runes](https://codeforces.com/group/wlb0UYQSQF/contest/551922/problem/D) | [C++20 (GCC 13-64)](./codeforces/group/551922/D.cpp) |
