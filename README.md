@@ -674,6 +674,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1088 | [C - Least Prefix Sum](https://codeforces.com/contest/1779/problem/C) | [C++20 (GCC 13-64)](./codeforces/1779/C.cpp) |
+| 1087 | [C - Remove the Bracket](https://codeforces.com/contest/1787/problem/C) | [C++20 (GCC 13-64)](./codeforces/1787/C.cpp) |
+| 1086 | [C - Equal Frequencies](https://codeforces.com/contest/1781/problem/C) | [C++20 (GCC 13-64)](./codeforces/1781/C.cpp) |
+| 1085 | [D - Triangle Coloring](https://codeforces.com/contest/1795/problem/D) | [C++20 (GCC 13-64)](./codeforces/1795/D.cpp) |
+| 1084 | [C - Li Hua and Chess](https://codeforces.com/contest/1797/problem/C) | [C++20 (GCC 13-64)](./codeforces/1797/C.cpp) |
+| 1083 | [D - Minimize the Difference](https://codeforces.com/contest/2013/problem/D) | [C++20 (GCC 13-64)](./codeforces/2013/D.cpp) |
+| 1082 | [D - Shocking Arrangement](https://codeforces.com/contest/1798/problem/D) | [C++20 (GCC 13-64)](./codeforces/1798/D.cpp) |
 | 1081 | [H - Robin Hood Archery](https://codeforces.com/contest/2014/problem/H) | [C++20 (GCC 13-64)](./codeforces/2014/H.cpp) |
 | 1080 | [E - Rendez-vous de Marian et Robin](https://codeforces.com/contest/2014/problem/E) | [C++20 (GCC 13-64)](./codeforces/2014/E.cpp) |
 | 1079 | [I - Not Too Hot, Not Too Cold](https://codeforces.com/group/wlb0UYQSQF/contest/551922/problem/I) | [C++20 (GCC 13-64)](./codeforces/group/551922/I.cpp) |
