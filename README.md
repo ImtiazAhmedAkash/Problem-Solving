@@ -674,6 +674,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1079 | [I - Not Too Hot, Not Too Cold](https://codeforces.com/group/wlb0UYQSQF/contest/551922/problem/I) | [C++20 (GCC 13-64)](./codeforces/group/551922/I.cpp) |
+| 1078 | [F - Xiven plays Holi](https://codeforces.com/group/wlb0UYQSQF/contest/551922/problem/F) | [C++20 (GCC 13-64)](./codeforces/group/551922/F.cpp) |
+| 1077 | [D - Mystic Runes](https://codeforces.com/group/wlb0UYQSQF/contest/551922/problem/D) | [C++20 (GCC 13-64)](./codeforces/group/551922/D.cpp) |
+| 1076 | [L - Financial Instability](https://codeforces.com/group/wlb0UYQSQF/contest/551922/problem/L) | [C++20 (GCC 13-64)](./codeforces/group/551922/L.cpp) |
 | 1075 | [D - Robert Hood and Mrs Hood](https://codeforces.com/contest/2014/problem/D) | [C++20 (GCC 13-64)](./codeforces/2014/D.cpp) |
 | 1074 | [C - Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | [C++20 (GCC 13-64)](./codeforces/2014/C.cpp) |
 | 1073 | [B - Robin Hood and the Major Oak](https://codeforces.com/contest/2014/problem/B) | [C++20 (GCC 13-64)](./codeforces/2014/B.cpp) |
