@@ -1782,6 +1782,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 72 | [Counting Divisors](https://cses.fi/problemset/task/1713) | [C++20](./cses/mathematics/1713.cpp) |
 | 71 | [Apple Division](https://cses.fi/problemset/task/1623) | [C++20](./cses/introductory_problems/1623.cpp) |
 | 70 | [Nim Game II](https://cses.fi/problemset/task/1098) | [C++20](./cses/mathematics/1098.cpp) |
 | 69 | [Nim Game I](https://cses.fi/problemset/task/1730) | [C++20](./cses/mathematics/1730.cpp) |
