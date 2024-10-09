@@ -674,6 +674,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1094 | [D - Lucky Chains](https://codeforces.com/contest/1766/problem/D) | [C++20 (GCC 13-64)](./codeforces/1766/D.cpp) |
+| 1093 | [C - Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | [C++20 (GCC 13-64)](./codeforces/1771/C.cpp) |
+| 1092 | [D - Same Count One](https://codeforces.com/contest/1774/problem/D) | [C++20 (GCC 13-64)](./codeforces/1774/D.cpp) |
+| 1091 | [C - Interesting Sequence](https://codeforces.com/contest/1775/problem/C) | [C++20 (GCC 13-64)](./codeforces/1775/C.cpp) |
+| 1090 | [C - Flexible String](https://codeforces.com/contest/1778/problem/C) | [C++20 (GCC 13-64)](./codeforces/1778/C.cpp) |
+| 1089 | [A - Max Plus Size](https://codeforces.com/contest/2019/problem/A) | [C++20 (GCC 13-64)](./codeforces/2019/A.cpp) |
 | 1088 | [C - Least Prefix Sum](https://codeforces.com/contest/1779/problem/C) | [C++20 (GCC 13-64)](./codeforces/1779/C.cpp) |
 | 1087 | [C - Remove the Bracket](https://codeforces.com/contest/1787/problem/C) | [C++20 (GCC 13-64)](./codeforces/1787/C.cpp) |
 | 1086 | [C - Equal Frequencies](https://codeforces.com/contest/1781/problem/C) | [C++20 (GCC 13-64)](./codeforces/1781/C.cpp) |
