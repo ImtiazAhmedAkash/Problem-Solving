@@ -674,6 +674,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1100 | [D - Color with Occurrences](https://codeforces.com/contest/1714/problem/D) | [C++20 (GCC 13-64)](./codeforces/1714/D.cpp) |
+| 1099 | [B - Meeting on the Line](https://codeforces.com/contest/1730/problem/B) | [C++20 (GCC 13-64)](./codeforces/1730/B.cpp) |
+| 1098 | [E - Sending a Sequence Over the Network](https://codeforces.com/contest/1741/problem/E) | [C++20 (GCC 13-64)](./codeforces/1741/E.cpp) |
+| 1097 | [C - Thor](https://codeforces.com/contest/705/problem/C) | [C++20 (GCC 13-64)](./codeforces/705/C.cpp) |
+| 1096 | [C - Zero-Sum Prefixes](https://codeforces.com/contest/1748/problem/C) | [C++20 (GCC 13-64)](./codeforces/1748/C.cpp) |
+| 1095 | [D - Factorial Divisibility](https://codeforces.com/contest/1754/problem/D) | [C++20 (GCC 13-64)](./codeforces/1754/D.cpp) |
 | 1094 | [D - Lucky Chains](https://codeforces.com/contest/1766/problem/D) | [C++20 (GCC 13-64)](./codeforces/1766/D.cpp) |
 | 1093 | [C - Hossam and Trainees](https://codeforces.com/contest/1771/problem/C) | [C++20 (GCC 13-64)](./codeforces/1771/C.cpp) |
 | 1092 | [D - Same Count One](https://codeforces.com/contest/1774/problem/D) | [C++20 (GCC 13-64)](./codeforces/1774/D.cpp) |
