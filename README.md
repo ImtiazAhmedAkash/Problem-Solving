@@ -674,6 +674,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1102 | [A - Mocha and Math](https://codeforces.com/contest/1559/problem/A) | [C++20 (GCC 13-64)](./codeforces/1559/A.cpp) |
 | 1101 | [C - Ice Cave](https://codeforces.com/contest/540/problem/C) | [C++20 (GCC 13-64)](./codeforces/540/C.cpp) |
 | 1100 | [D - Color with Occurrences](https://codeforces.com/contest/1714/problem/D) | [C++20 (GCC 13-64)](./codeforces/1714/D.cpp) |
 | 1099 | [B - Meeting on the Line](https://codeforces.com/contest/1730/problem/B) | [C++20 (GCC 13-64)](./codeforces/1730/B.cpp) |
