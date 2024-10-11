@@ -674,6 +674,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1105 | [H1 - Maximize the Largest Component (Easy Version)](https://codeforces.com/contest/1985/problem/H1) | [C++20 (GCC 13-64)](./codeforces/1985/H1.cpp) |
 | 1104 | [E - Expanding STACKS!](https://codeforces.com/gym/105053/problem/E) | [C++20 (GCC 13-64)](./codeforces/gym/105053/E.cpp) |
 | 1103 | [C - Doremy's IQ](https://codeforces.com/contest/1708/problem/C) | [C++20 (GCC 13-64)](./codeforces/1708/C.cpp) |
 | 1102 | [A - Mocha and Math](https://codeforces.com/contest/1559/problem/A) | [C++20 (GCC 13-64)](./codeforces/1559/A.cpp) |
