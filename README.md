@@ -674,6 +674,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1108 | [G - Good Key, Bad Key](https://codeforces.com/contest/1703/problem/G) | [C++20 (GCC 13-64)](./codeforces/1703/G.cpp) |
+| 1107 | [E - Cover it!](https://codeforces.com/contest/1176/problem/E) | [C++20 (GCC 13-64)](./codeforces/1176/E.cpp) |
 | 1106 | [C - Road Improvement](https://codeforces.com/contest/638/problem/C) | [C++20 (GCC 13-64)](./codeforces/638/C.cpp) |
 | 1105 | [H1 - Maximize the Largest Component (Easy Version)](https://codeforces.com/contest/1985/problem/H1) | [C++20 (GCC 13-64)](./codeforces/1985/H1.cpp) |
 | 1104 | [E - Expanding STACKS!](https://codeforces.com/gym/105053/problem/E) | [C++20 (GCC 13-64)](./codeforces/gym/105053/E.cpp) |
