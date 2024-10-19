@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 536 | [E - K-th Largest Connected Components](https://atcoder.jp/contests/abc372/tasks/abc372_e) | [C++ 20 (gcc 12.2)](./atcoder/abc372/E.cpp) |
+| 535 | [D - Buildings](https://atcoder.jp/contests/abc372/tasks/abc372_d) | [C++ 20 (gcc 12.2)](./atcoder/abc372/D.cpp) |
+| 534 | [C - Count ABC Again](https://atcoder.jp/contests/abc372/tasks/abc372_c) | [C++ 20 (gcc 12.2)](./atcoder/abc372/C.cpp) |
+| 533 | [B - 3^A](https://atcoder.jp/contests/abc372/tasks/abc372_b) | [C++ 20 (gcc 12.2)](./atcoder/abc372/B.cpp) |
+| 532 | [A - delete .](https://atcoder.jp/contests/abc372/tasks/abc372_a) | [C++ 20 (gcc 12.2)](./atcoder/abc372/A.cpp) |
 | 531 | [E - I Hate Sigma Problems](https://atcoder.jp/contests/abc371/tasks/abc371_e) | [C++ 20 (gcc 12.2)](./atcoder/abc371/E.cpp) |
 | 530 | [D - 1D Country](https://atcoder.jp/contests/abc371/tasks/abc371_d) | [C++ 20 (gcc 12.2)](./atcoder/abc371/D.cpp) |
 | 529 | [C - Make Isomorphic](https://atcoder.jp/contests/abc371/tasks/abc371_c) | [C++ 20 (gcc 12.2)](./atcoder/abc371/C.cpp) |
