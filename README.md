@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 531 | [E - I Hate Sigma Problems](https://atcoder.jp/contests/abc371/tasks/abc371_e) | [C++ 20 (gcc 12.2)](./atcoder/abc371/E.cpp) |
+| 530 | [D - 1D Country](https://atcoder.jp/contests/abc371/tasks/abc371_d) | [C++ 20 (gcc 12.2)](./atcoder/abc371/D.cpp) |
+| 529 | [C - Make Isomorphic](https://atcoder.jp/contests/abc371/tasks/abc371_c) | [C++ 20 (gcc 12.2)](./atcoder/abc371/C.cpp) |
+| 528 | [B - Taro](https://atcoder.jp/contests/abc371/tasks/abc371_b) | [C++ 20 (gcc 12.2)](./atcoder/abc371/B.cpp) |
+| 527 | [A - Jiro](https://atcoder.jp/contests/abc371/tasks/abc371_a) | [C++ 20 (gcc 12.2)](./atcoder/abc371/A.cpp) |
 | 526 | [D - Cross Explosion](https://atcoder.jp/contests/abc370/tasks/abc370_d) | [C++ 20 (gcc 12.2)](./atcoder/abc370/D.cpp) |
 | 525 | [C - Word Ladder](https://atcoder.jp/contests/abc370/tasks/abc370_c) | [C++ 20 (gcc 12.2)](./atcoder/abc370/C.cpp) |
 | 524 | [B - Binary Alchemy](https://atcoder.jp/contests/abc370/tasks/abc370_b) | [C++ 20 (gcc 12.2)](./atcoder/abc370/B.cpp) |
