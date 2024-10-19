@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 540 | [D - ABA](https://atcoder.jp/contests/abc375/tasks/abc375_d) | [C++ 20 (gcc 12.2)](./atcoder/abc375/D.cpp) |
+| 539 | [C - Spiral Rotation](https://atcoder.jp/contests/abc375/tasks/abc375_c) | [C++ 20 (gcc 12.2)](./atcoder/abc375/C.cpp) |
+| 538 | [B - Traveling Takahashi Problem](https://atcoder.jp/contests/abc375/tasks/abc375_b) | [C++ 20 (gcc 12.2)](./atcoder/abc375/B.cpp) |
+| 537 | [A - Seats](https://atcoder.jp/contests/abc375/tasks/abc375_a) | [C++ 20 (gcc 12.2)](./atcoder/abc375/A.cpp) |
 | 536 | [E - K-th Largest Connected Components](https://atcoder.jp/contests/abc372/tasks/abc372_e) | [C++ 20 (gcc 12.2)](./atcoder/abc372/E.cpp) |
 | 535 | [D - Buildings](https://atcoder.jp/contests/abc372/tasks/abc372_d) | [C++ 20 (gcc 12.2)](./atcoder/abc372/D.cpp) |
 | 534 | [C - Count ABC Again](https://atcoder.jp/contests/abc372/tasks/abc372_c) | [C++ 20 (gcc 12.2)](./atcoder/abc372/C.cpp) |
