@@ -674,6 +674,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1116 | [D - Police Stations](https://codeforces.com/contest/796/problem/D) | [C++20 (GCC 13-64)](./codeforces/796/D.cpp) |
+| 1115 | [C - Cycle In Maze](https://codeforces.com/contest/769/problem/C) | [C++20 (GCC 13-64)](./codeforces/769/C.cpp) |
+| 1114 | [K - Organizing Beads](https://codeforces.com/gym/103372/problem/K) | [C++20 (GCC 13-64)](./codeforces/gym/103372/K.cpp) |
+| 1113 | [D - Ant on the Tree](https://codeforces.com/contest/29/problem/D) | [C++20 (GCC 13-64)](./codeforces/29/D.cpp) |
+| 1112 | [C - Garland](https://codeforces.com/contest/767/problem/C) | [C++20 (GCC 13-64)](./codeforces/767/C.cpp) |
+| 1111 | [E - Cyclic Components](https://codeforces.com/contest/977/problem/E) | [C++20 (GCC 13-64)](./codeforces/977/E.cpp) |
+| 1110 | [F - Graph Without Long Directed Paths](https://codeforces.com/contest/1144/problem/F) | [C++20 (GCC 13-64)](./codeforces/1144/F.cpp) |
+| 1109 | [D - Beautiful Graph](https://codeforces.com/contest/1093/problem/D) | [C++20 (GCC 13-64)](./codeforces/1093/D.cpp) |
 | 1108 | [G - Good Key, Bad Key](https://codeforces.com/contest/1703/problem/G) | [C++20 (GCC 13-64)](./codeforces/1703/G.cpp) |
 | 1107 | [E - Cover it!](https://codeforces.com/contest/1176/problem/E) | [C++20 (GCC 13-64)](./codeforces/1176/E.cpp) |
 | 1106 | [C - Road Improvement](https://codeforces.com/contest/638/problem/C) | [C++20 (GCC 13-64)](./codeforces/638/C.cpp) |
