@@ -1824,6 +1824,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 73 | [Graph Girth](https://cses.fi/problemset/task/1707) | [C++20](./cses/additional_problems/1707.cpp) |
 | 72 | [Counting Divisors](https://cses.fi/problemset/task/1713) | [C++20](./cses/mathematics/1713.cpp) |
 | 71 | [Apple Division](https://cses.fi/problemset/task/1623) | [C++20](./cses/introductory_problems/1623.cpp) |
 | 70 | [Nim Game II](https://cses.fi/problemset/task/1098) | [C++20](./cses/mathematics/1098.cpp) |
