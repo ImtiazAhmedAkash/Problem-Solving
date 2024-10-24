@@ -688,6 +688,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1125 | [C - LCS on Permutations](https://codeforces.com/gym/102951/problem/C) | [C++20 (GCC 13-64)](./codeforces/gym/102951/C.cpp) |
+| 1124 | [B - Make Them Equal](https://codeforces.com/contest/1154/problem/B) | [C++20 (GCC 13-64)](./codeforces/1154/B.cpp) |
+| 1123 | [C - Nice Garland](https://codeforces.com/contest/1108/problem/C) | [C++20 (GCC 13-64)](./codeforces/1108/C.cpp) |
+| 1122 | [B - Divisors of Two Integers](https://codeforces.com/contest/1108/problem/B) | [C++20 (GCC 13-64)](./codeforces/1108/B.cpp) |
+| 1121 | [E - Nearest Opposite Parity](https://codeforces.com/contest/1272/problem/E) | [C++20 (GCC 13-64)](./codeforces/1272/E.cpp) |
 | 1120 | [D - QED's Favorite Permutation](https://codeforces.com/contest/2030/problem/D) | [C++20 (GCC 13-64)](./codeforces/2030/D.cpp) |
 | 1119 | [C - A TRUE Battle](https://codeforces.com/contest/2030/problem/C) | [C++20 (GCC 13-64)](./codeforces/2030/C.cpp) |
 | 1118 | [B - Minimise Oneness](https://codeforces.com/contest/2030/problem/B) | [C++20 (GCC 13-64)](./codeforces/2030/B.cpp) |
