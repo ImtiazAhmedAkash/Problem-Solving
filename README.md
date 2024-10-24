@@ -688,6 +688,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1120 | [D - QED's Favorite Permutation](https://codeforces.com/contest/2030/problem/D) | [C++20 (GCC 13-64)](./codeforces/2030/D.cpp) |
+| 1119 | [C - A TRUE Battle](https://codeforces.com/contest/2030/problem/C) | [C++20 (GCC 13-64)](./codeforces/2030/C.cpp) |
+| 1118 | [B - Minimise Oneness](https://codeforces.com/contest/2030/problem/B) | [C++20 (GCC 13-64)](./codeforces/2030/B.cpp) |
+| 1117 | [A - A Gift From Orangutan](https://codeforces.com/contest/2030/problem/A) | [C++20 (GCC 13-64)](./codeforces/2030/A.cpp) |
 | 1116 | [D - Police Stations](https://codeforces.com/contest/796/problem/D) | [C++20 (GCC 13-64)](./codeforces/796/D.cpp) |
 | 1115 | [C - Cycle In Maze](https://codeforces.com/contest/769/problem/C) | [C++20 (GCC 13-64)](./codeforces/769/C.cpp) |
 | 1114 | [K - Organizing Beads](https://codeforces.com/gym/103372/problem/K) | [C++20 (GCC 13-64)](./codeforces/gym/103372/K.cpp) |
