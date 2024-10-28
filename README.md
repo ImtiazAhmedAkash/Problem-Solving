@@ -688,6 +688,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1131 | [F - Kosuke's Sloth](https://codeforces.com/contest/2033/problem/F) | [C++20 (GCC 13-64)](./codeforces/2033/F.cpp) |
+| 1130 | [E - Sakurako, Kosuke, and the Permutation](https://codeforces.com/contest/2033/problem/E) | [C++20 (GCC 13-64)](./codeforces/2033/E.cpp) |
+| 1129 | [D - Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | [C++20 (GCC 13-64)](./codeforces/2033/D.cpp) |
+| 1128 | [C - Sakurako's Field Trip](https://codeforces.com/contest/2033/problem/C) | [C++20 (GCC 13-64)](./codeforces/2033/C.cpp) |
+| 1127 | [B - Sakurako and Water](https://codeforces.com/contest/2033/problem/B) | [C++20 (GCC 13-64)](./codeforces/2033/B.cpp) |
+| 1126 | [A - Sakurako and Kosuke](https://codeforces.com/contest/2033/problem/A) | [C++20 (GCC 13-64)](./codeforces/2033/A.cpp) |
 | 1125 | [C - LCS on Permutations](https://codeforces.com/gym/102951/problem/C) | [C++20 (GCC 13-64)](./codeforces/gym/102951/C.cpp) |
 | 1124 | [B - Make Them Equal](https://codeforces.com/contest/1154/problem/B) | [C++20 (GCC 13-64)](./codeforces/1154/B.cpp) |
 | 1123 | [C - Nice Garland](https://codeforces.com/contest/1108/problem/C) | [C++20 (GCC 13-64)](./codeforces/1108/C.cpp) |
