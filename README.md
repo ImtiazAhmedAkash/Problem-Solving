@@ -688,6 +688,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1135 | [D - Yet Another Real Number Problem](https://codeforces.com/contest/2035/problem/D) | [C++20 (GCC 13-64)](./codeforces/2035/D.cpp) |
+| 1134 | [C - Alya and Permutation](https://codeforces.com/contest/2035/problem/C) | [C++20 (GCC 13-64)](./codeforces/2035/C.cpp) |
+| 1133 | [B - Everyone Loves Tres](https://codeforces.com/contest/2035/problem/B) | [C++20 (GCC 13-64)](./codeforces/2035/B.cpp) |
+| 1132 | [A - Sliding](https://codeforces.com/contest/2035/problem/A) | [C++20 (GCC 13-64)](./codeforces/2035/A.cpp) |
 | 1131 | [F - Kosuke's Sloth](https://codeforces.com/contest/2033/problem/F) | [C++20 (GCC 13-64)](./codeforces/2033/F.cpp) |
 | 1130 | [E - Sakurako, Kosuke, and the Permutation](https://codeforces.com/contest/2033/problem/E) | [C++20 (GCC 13-64)](./codeforces/2033/E.cpp) |
 | 1129 | [D - Kousuke's Assignment](https://codeforces.com/contest/2033/problem/D) | [C++20 (GCC 13-64)](./codeforces/2033/D.cpp) |
