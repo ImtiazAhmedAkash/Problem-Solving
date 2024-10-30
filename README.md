@@ -688,6 +688,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1140 | [C - Dijkstra?](https://codeforces.com/contest/20/problem/C) | [C++20 (GCC 13-64)](./codeforces/20/C.cpp) |
+| 1139 | [D - Nearest Excluded Points](https://codeforces.com/contest/1651/problem/D) | [C++20 (GCC 13-64)](./codeforces/1651/D.cpp) |
+| 1138 | [C - Action Figures](https://codeforces.com/contest/2026/problem/C) | [C++20 (GCC 13-64)](./codeforces/2026/C.cpp) |
+| 1137 | [B - Black Cells](https://codeforces.com/contest/2026/problem/B) | [C++20 (GCC 13-64)](./codeforces/2026/B.cpp) |
+| 1136 | [A - Perpendicular Segments](https://codeforces.com/contest/2026/problem/A) | [C++20 (GCC 13-64)](./codeforces/2026/A.cpp) |
 | 1135 | [D - Yet Another Real Number Problem](https://codeforces.com/contest/2035/problem/D) | [C++20 (GCC 13-64)](./codeforces/2035/D.cpp) |
 | 1134 | [C - Alya and Permutation](https://codeforces.com/contest/2035/problem/C) | [C++20 (GCC 13-64)](./codeforces/2035/C.cpp) |
 | 1133 | [B - Everyone Loves Tres](https://codeforces.com/contest/2035/problem/B) | [C++20 (GCC 13-64)](./codeforces/2035/B.cpp) |
