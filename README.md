@@ -1997,6 +1997,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 25 | [SHPATH - The Shortest Path](https://www.spoj.com/problems/SHPATH) | [C++14 (gcc 8.3)](./spoj/SHPATH.cpp) |
 | 24 | [ADASEA - Ada and Island](https://www.spoj.com/problems/ADASEA) | [C++14 (gcc 8.3)](./spoj/ADASEA.cpp) |
 | 23 | [TRYCOMP - Try to complete](https://www.spoj.com/problems/TRYCOMP) | [C++14 (gcc 8.3)](./spoj/TRYCOMP.cpp) |
 | 22 | [ADAINDEX - Ada and Indexing](https://www.spoj.com/problems/ADAINDEX) | [C++14 (gcc 8.3)](./spoj/ADAINDEX.cpp) |
