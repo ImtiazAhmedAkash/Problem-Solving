@@ -688,6 +688,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1141 | [G - Bicycles](https://codeforces.com/contest/1915/problem/G) | [C++20 (GCC 13-64)](./codeforces/1915/G.cpp) |
 | 1140 | [C - Dijkstra?](https://codeforces.com/contest/20/problem/C) | [C++20 (GCC 13-64)](./codeforces/20/C.cpp) |
 | 1139 | [D - Nearest Excluded Points](https://codeforces.com/contest/1651/problem/D) | [C++20 (GCC 13-64)](./codeforces/1651/D.cpp) |
 | 1138 | [C - Action Figures](https://codeforces.com/contest/2026/problem/C) | [C++20 (GCC 13-64)](./codeforces/2026/C.cpp) |
