@@ -603,11 +603,41 @@ A repository to keep track of problem solving practice, containing solutions fro
 </br>
 
 <!---
-|  | []() | [C++20](./codechef) |
+|  | []() | [C++](./codechef) |
     --->
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 90 | [RANDOM_NIM - Random Nim](https://www.codechef.com/problems/RANDOM_NIM) | [C++](./codechef/RANDOM_NIM.cpp) |
+| 89 | [CRCOLEZ - Crafty Coloring (Easy)](https://www.codechef.com/problems/CRCOLEZ) | [C++](./codechef/CRCOLEZ.cpp) |
+| 88 | [CHESSCOLOUR - Chess Colouring](https://www.codechef.com/problems/CHESSCOLOUR) | [C++](./codechef/CHESSCOLOUR.cpp) |
+| 87 | [SUPER_HERO - Super Hero](https://www.codechef.com/problems/SUPER_HERO) | [C++](./codechef/SUPER_HERO.cpp) |
+| 86 | [USELEC - Elections](https://www.codechef.com/problems/USELEC) | [C++](./codechef/USELEC.cpp) |
+| 85 | [BUYGAME - Buying Game](https://www.codechef.com/problems/BUYGAME) | [C++](./codechef/BUYGAME.cpp) |
+| 84 | [MUL2 - Multiply 2 to Minimize](https://www.codechef.com/problems/MUL2) | [C++](./codechef/MUL2.cpp) |
+| 83 | [XORSMALL - XOR Smaller](https://www.codechef.com/problems/XORSMALL) | [C++](./codechef/XORSMALL.cpp) |
+| 82 | [LARGESUB - Largest Subsequence](https://www.codechef.com/problems/LARGESUB) | [C++](./codechef/LARGESUB.cpp) |
+| 81 | [NORMALEZ - Normal is Good (Easy)](https://www.codechef.com/problems/NORMALEZ) | [C++](./codechef/NORMALEZ.cpp) |
+| 80 | [MEDIANT - Unmedian](https://www.codechef.com/problems/MEDIANT) | [C++](./codechef/MEDIANT.cpp) |
+| 79 | [BSHORT - Small, Smaller, Smallest](https://www.codechef.com/problems/BSHORT) | [C++](./codechef/BSHORT.cpp) |
+| 78 | [TWOCLOSE - Not-too-far Replacement](https://www.codechef.com/problems/TWOCLOSE) | [C++](./codechef/TWOCLOSE.cpp) |
+| 77 | [BALDIFF - Balance Difficulties](https://www.codechef.com/problems/BALDIFF) | [C++](./codechef/BALDIFF.cpp) |
+| 76 | [COUNTTRIP - Count Triplets](https://www.codechef.com/problems/COUNTTRIP) | [C++](./codechef/COUNTTRIP.cpp) |
+| 75 | [PARTSCORE - Partition Score](https://www.codechef.com/problems/PARTSCORE) | [C++](./codechef/PARTSCORE.cpp) |
+| 74 | [EVENHATE - Even Numbers Hate](https://www.codechef.com/problems/EVENHATE) | [C++](./codechef/EVENHATE.cpp) |
+| 73 | [FIRSTSTRCHAR - Replace With First Literally](https://www.codechef.com/problems/FIRSTSTRCHAR) | [C++](./codechef/FIRSTSTRCHAR.cpp) |
+| 72 | [PREFSUMMNMAX - Prefix Suffix Min Max](https://www.codechef.com/problems/PREFSUMMNMAX) | [C++](./codechef/PREFSUMMNMAX.cpp) |
+| 71 | [STRFIRSTCHAR - Replace With First](https://www.codechef.com/problems/STRFIRSTCHAR) | [C++](./codechef/STRFIRSTCHAR.cpp) |
+| 70 | [MINGCD_1 - GCD to 1 (Hard)](https://www.codechef.com/problems/MINGCD_1) | [C++](./codechef/MINGCD_1.cpp) |
+| 69 | [GCD to 1 (Easy)](https://www.codechef.com/problems/GCD_1) | [C++](./codechef/GCD_1.cpp) |
+| 68 | [KARR - Another Game](https://www.codechef.com/problems/KARR) | [C++](./codechef/KARR.cpp) |
+| 67 | [BITTUP - Bitwise Tuples](https://www.codechef.com/problems/BITTUP) | [C++](./codechef/BITTUP.cpp) |
+| 66 | [NXS2 - Bitwise Operators](https://www.codechef.com/problems/NXS2) | [C++](./codechef/NXS2.cpp) |
+| 65 | [ZXC - Chef Loves Beautiful Strings (Easy Version)](https://www.codechef.com/problems/ZXC) | [C++](./codechef/ZXC.cpp) |
+| 64 | [P4149 - Maximise Sum](https://www.codechef.com/problems/P4149) | [C++](./codechef/P4149.cpp) |
+| 63 | [P3149 - Easy Subarray Sum](https://www.codechef.com/problems/P3149) | [C++](./codechef/P3149.cpp) |
+| 62 | [JUSTTWO - Double Trouble](https://www.codechef.com/problems/JUSTTWO) | [C++](./codechef/JUSTTWO.cpp) |
+| 61 | [FIGBOT - FightBots](https://www.codechef.com/problems/FIGBOT) | [C++](./codechef/FIGBOT.cpp) |
 | 60 | [NPLFLF - Query On Strings](https://www.codechef.com/problems/NPLFLF) | [C++20](./codechef/NPLFLF.cpp) |
 | 59 | [STR_REVERSE - String Reverse](https://www.codechef.com/problems/STR_REVERSE) | [C++20](./codechef/STR_REVERSE.cpp) |
 | 58 | [BLDST - Ball Distribution](https://www.codechef.com/problems/BLDST) | [C++20](./codechef/BLDST.cpp) |
@@ -623,7 +653,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 | 48 | [MXALT - Maximum Alternating Sum](https://www.codechef.com/problems/MXALT) | [C++20](./codechef/MXALT.cpp) |
 | 47 | [OPTMFLP18 - Optimal Flip](https://www.codechef.com/problems/OPTMFLP18) | [C++20](./codechef/OPTMFLP18.cpp) |
 | 46 | [ALIENOR - ALIEN-OR](https://www.codechef.com/problems/ALIENOR) | [C++17](./codechef/ALIENOR.cpp) |
-| 45 | [GAME_XI - GAME 11](https://www.codechef.com/START132B/problems/GAME_XI) | [C++17](./codechef/GAME_XI.cpp) |
+| 45 | [GAME_XI - GAME 11](https://www.codechef.com/problems/GAME_XI) | [C++17](./codechef/GAME_XI.cpp) |
 | 44 | [ENV - Encrypt Value](https://www.codechef.com/problems/ENV) | [C++17](./codechef/ENV.cpp) |
 | 43 | [KCLOSE - K-Closeness](https://www.codechef.com/problems/KCLOSE) | [C++17](./codechef/KCLOSE.cpp) |
 | 42 | [DIDE - Dice Deception](https://www.codechef.com/problems/DIDE) | [C++17](./codechef/DIDE.cpp) |
