@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 549 | [D - Count Simple Paths](https://atcoder.jp/contests/abc378/tasks/abc378_d) | [C++ 20 (gcc 12.2)](./atcoder/abc378/D.cpp) |
+| 548 | [C - Repeating](https://atcoder.jp/contests/abc378/tasks/abc378_c) | [C++ 20 (gcc 12.2)](./atcoder/abc378/C.cpp) |
+| 547 | [B - Garbage Collection](https://atcoder.jp/contests/abc378/tasks/abc378_b) | [C++ 20 (gcc 12.2)](./atcoder/abc378/B.cpp) |
+| 546 | [A - Pairing](https://atcoder.jp/contests/abc378/tasks/abc378_a) | [C++ 20 (gcc 12.2)](./atcoder/abc378/A.cpp) |
 | 545 | [E - Max × Sum](https://atcoder.jp/contests/abc376/tasks/abc376_e) | [C++ 20 (gcc 12.2)](./atcoder/abc376/E.cpp) |
 | 544 | [D - Cycle](https://atcoder.jp/contests/abc376/tasks/abc376_d) | [C++ 20 (gcc 12.2)](./atcoder/abc376/D.cpp) |
 | 543 | [C - Prepare Another Box](https://atcoder.jp/contests/abc376/tasks/abc376_c) | [C++ 20 (gcc 12.2)](./atcoder/abc376/C.cpp) |
