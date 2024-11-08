@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 545 | [E - Max × Sum](https://atcoder.jp/contests/abc376/tasks/abc376_e) | [C++ 20 (gcc 12.2)](./atcoder/abc376/E.cpp) |
+| 544 | [D - Cycle](https://atcoder.jp/contests/abc376/tasks/abc376_d) | [C++ 20 (gcc 12.2)](./atcoder/abc376/D.cpp) |
+| 543 | [C - Prepare Another Box](https://atcoder.jp/contests/abc376/tasks/abc376_c) | [C++ 20 (gcc 12.2)](./atcoder/abc376/C.cpp) |
+| 542 | [B - Hands on Ring (Easy)](https://atcoder.jp/contests/abc376/tasks/abc376_b) | [C++ 20 (gcc 12.2)](./atcoder/abc376/B.cpp) |
+| 541 | [A - Candy Button](https://atcoder.jp/contests/abc376/tasks/abc376_a) | [C++ 20 (gcc 12.2)](./atcoder/abc376/A.cpp) |
 | 540 | [D - ABA](https://atcoder.jp/contests/abc375/tasks/abc375_d) | [C++ 20 (gcc 12.2)](./atcoder/abc375/D.cpp) |
 | 539 | [C - Spiral Rotation](https://atcoder.jp/contests/abc375/tasks/abc375_c) | [C++ 20 (gcc 12.2)](./atcoder/abc375/C.cpp) |
 | 538 | [B - Traveling Takahashi Problem](https://atcoder.jp/contests/abc375/tasks/abc375_b) | [C++ 20 (gcc 12.2)](./atcoder/abc375/B.cpp) |
