@@ -617,6 +617,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 91 | [ICM2003 - Is This JEE](https://www.codechef.com/problems/ICM2003) | [C++](./codechef/ICM2003.cpp) |
 | 90 | [RANDOM_NIM - Random Nim](https://www.codechef.com/problems/RANDOM_NIM) | [C++](./codechef/RANDOM_NIM.cpp) |
 | 89 | [CRCOLEZ - Crafty Coloring (Easy)](https://www.codechef.com/problems/CRCOLEZ) | [C++](./codechef/CRCOLEZ.cpp) |
 | 88 | [CHESSCOLOUR - Chess Colouring](https://www.codechef.com/problems/CHESSCOLOUR) | [C++](./codechef/CHESSCOLOUR.cpp) |
