@@ -727,6 +727,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1147 | [D - Devu and his Brother](https://codeforces.com/contest/439/problem/D) | [C++20 (GCC 13-64)](./codeforces/439/D.cpp) |
+| 1146 | [C - Alice's Adventures in Cutting Cake](https://codeforces.com/contest/2028/problem/C) | [C++20 (GCC 13-64)](./codeforces/2028/C.cpp) |
+| 1145 | [B - Alice's Adventures in Permuting](https://codeforces.com/contest/2028/problem/B) | [C++20 (GCC 13-64)](./codeforces/2028/B.cpp) |
+| 1144 | [A - Alice's Adventures in "Chess"](https://codeforces.com/contest/2028/problem/A) | [C++20 (GCC 13-64)](./codeforces/2028/A.cpp) |
+| 1143 | [C - Letter](https://codeforces.com/contest/180/problem/C) | [C++20 (GCC 13-64)](./codeforces/180/C.cpp) |
 | 1142 | [G - Rudolf and CodeVid-23](https://codeforces.com/contest/1846/problem/G) | [C++20 (GCC 13-64)](./codeforces/1846/G.cpp) |
 | 1141 | [G - Bicycles](https://codeforces.com/contest/1915/problem/G) | [C++20 (GCC 13-64)](./codeforces/1915/G.cpp) |
 | 1140 | [C - Dijkstra?](https://codeforces.com/contest/20/problem/C) | [C++20 (GCC 13-64)](./codeforces/20/C.cpp) |
