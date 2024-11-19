@@ -1896,6 +1896,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 76 | [Road Reparation](https://cses.fi/problemset/task/1675) | [C++20](./cses/graph_algorithms/1675.cpp) |
+| 75 | [Investigation](https://cses.fi/problemset/task/1202) | [C++20](./cses/graph_algorithms/1202.cpp) |
+| 74 | [Flight Routes](https://cses.fi/problemset/task/1196) | [C++20](./cses/graph_algorithms/1196.cpp) |
 | 73 | [Graph Girth](https://cses.fi/problemset/task/1707) | [C++20](./cses/additional_problems/1707.cpp) |
 | 72 | [Counting Divisors](https://cses.fi/problemset/task/1713) | [C++20](./cses/mathematics/1713.cpp) |
 | 71 | [Apple Division](https://cses.fi/problemset/task/1623) | [C++20](./cses/introductory_problems/1623.cpp) |
