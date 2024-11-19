@@ -728,6 +728,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1148 | [E - Spanning Tree](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/E) | [C++20 (GCC 13-64)](./codeforces/edu/dsu/step2/E.cpp) |
 | 1147 | [D - Devu and his Brother](https://codeforces.com/contest/439/problem/D) | [C++20 (GCC 13-64)](./codeforces/439/D.cpp) |
 | 1146 | [C - Alice's Adventures in Cutting Cake](https://codeforces.com/contest/2028/problem/C) | [C++20 (GCC 13-64)](./codeforces/2028/C.cpp) |
 | 1145 | [B - Alice's Adventures in Permuting](https://codeforces.com/contest/2028/problem/B) | [C++20 (GCC 13-64)](./codeforces/2028/B.cpp) |
