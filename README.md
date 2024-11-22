@@ -728,6 +728,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1153 | [E - Kachina's Favorite Binary String](https://codeforces.com/contest/2037/problem/E) | [C++20 (GCC 13-64)](./codeforces/2037/E.cpp) |
+| 1152 | [D - Sharky Surfing](https://codeforces.com/contest/2037/problem/D) | [C++20 (GCC 13-64)](./codeforces/2037/D.cpp) |
+| 1151 | [C - Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C) | [C++20 (GCC 13-64)](./codeforces/2037/C.cpp) |
+| 1150 | [B - Intercepted Inputs](https://codeforces.com/contest/2037/problem/B) | [C++20 (GCC 13-64)](./codeforces/2037/B.cpp) |
+| 1149 | [A - Twice](https://codeforces.com/contest/2037/problem/A) | [C++20 (GCC 13-64)](./codeforces/2037/A.cpp) |
 | 1148 | [E - Spanning Tree](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/E) | [C++20 (GCC 13-64)](./codeforces/edu/dsu/step2/E.cpp) |
 | 1147 | [D - Devu and his Brother](https://codeforces.com/contest/439/problem/D) | [C++20 (GCC 13-64)](./codeforces/439/D.cpp) |
 | 1146 | [C - Alice's Adventures in Cutting Cake](https://codeforces.com/contest/2028/problem/C) | [C++20 (GCC 13-64)](./codeforces/2028/C.cpp) |
