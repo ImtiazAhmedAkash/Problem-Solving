@@ -617,6 +617,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 96 | [ONETOTHREE - One To Three](https://www.codechef.com/problems/ONETOTHREE) | [C++](./codechef/ONETOTHREE.cpp) |
+| 95 | [TMPTMP - Temporary Temperature](https://www.codechef.com/problems/TMPTMP) | [C++](./codechef/TMPTMP.cpp) |
+| 94 | [RBGM - Red-Blue Sort](https://www.codechef.com/problems/RBGM) | [C++](./codechef/RBGM.cpp) |
+| 93 | [TWOCARD - Two Cards](https://www.codechef.com/problems/TWOCARD) | [C++](./codechef/TWOCARD.cpp) |
+| 92 | [AMCS03 - Race Time!](https://www.codechef.com/problems/AMCS03) | [C++](./codechef/AMCS03.cpp) |
 | 91 | [ICM2003 - Is This JEE](https://www.codechef.com/problems/ICM2003) | [C++](./codechef/ICM2003.cpp) |
 | 90 | [RANDOM_NIM - Random Nim](https://www.codechef.com/problems/RANDOM_NIM) | [C++](./codechef/RANDOM_NIM.cpp) |
 | 89 | [CRCOLEZ - Crafty Coloring (Easy)](https://www.codechef.com/problems/CRCOLEZ) | [C++](./codechef/CRCOLEZ.cpp) |
