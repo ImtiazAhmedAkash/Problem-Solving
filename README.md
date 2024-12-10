@@ -733,6 +733,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1157 | [D - Non Prime Tree](https://codeforces.com/contest/2040/problem/D) | [C++20 (GCC 13-64)](./codeforces/2040/D.cpp) |
+| 1156 | [C - Ordered Permutations](https://codeforces.com/contest/2040/problem/C) | [C++20 (GCC 13-64)](./codeforces/2040/C.cpp) |
+| 1155 | [B - Paint a Strip](https://codeforces.com/contest/2040/problem/B) | [C++20 (GCC 13-64)](./codeforces/2040/B.cpp) |
+| 1154 | [A - Game of Division](https://codeforces.com/contest/2040/problem/A) | [C++20 (GCC 13-64)](./codeforces/2040/A.cpp) |
 | 1153 | [E - Kachina's Favorite Binary String](https://codeforces.com/contest/2037/problem/E) | [C++20 (GCC 13-64)](./codeforces/2037/E.cpp) |
 | 1152 | [D - Sharky Surfing](https://codeforces.com/contest/2037/problem/D) | [C++20 (GCC 13-64)](./codeforces/2037/D.cpp) |
 | 1151 | [C - Superultra's Favorite Permutation](https://codeforces.com/contest/2037/problem/C) | [C++20 (GCC 13-64)](./codeforces/2037/C.cpp) |
