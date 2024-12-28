@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 562 | [E - Sum of Max Matching](https://atcoder.jp/contests/abc383/tasks/abc383_e) | [C++ 20 (gcc 12.2)](./atcoder/abc383/E.cpp) |
+| 561 | [D - Keep Distance](https://atcoder.jp/contests/abc382/tasks/abc382_d) | [C++ 20 (gcc 12.2)](./atcoder/abc382/D.cpp) |
+| 560 | [C - Kaiten Sushi](https://atcoder.jp/contests/abc382/tasks/abc382_c) | [C++ 20 (gcc 12.2)](./atcoder/abc382/C.cpp) |
+| 559 | [B - Daily Cookie 2](https://atcoder.jp/contests/abc382/tasks/abc382_b) | [C++ 20 (gcc 12.2)](./atcoder/abc382/B.cpp) |
+| 558 | [A - Daily Cookie](https://atcoder.jp/contests/abc382/tasks/abc382_a) | [C++ 20 (gcc 12.2)](./atcoder/abc382/A.cpp) |
 | 557 | [D - 9 Divisors](https://atcoder.jp/contests/abc383/tasks/abc383_d) | [C++ 20 (gcc 12.2)](./atcoder/abc383/D.cpp) |
 | 556 | [C - Humidifier 3](https://atcoder.jp/contests/abc383/tasks/abc383_c) | [C++ 20 (gcc 12.2)](./atcoder/abc383/C.cpp) |
 | 555 | [B - Humidifier 2](https://atcoder.jp/contests/abc383/tasks/abc383_b) | [C++ 20 (gcc 12.2)](./atcoder/abc383/B.cpp) |
