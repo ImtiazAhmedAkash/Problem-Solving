@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 557 | [D - 9 Divisors](https://atcoder.jp/contests/abc383/tasks/abc383_d) | [C++ 20 (gcc 12.2)](./atcoder/abc383/D.cpp) |
+| 556 | [C - Humidifier 3](https://atcoder.jp/contests/abc383/tasks/abc383_c) | [C++ 20 (gcc 12.2)](./atcoder/abc383/C.cpp) |
+| 555 | [B - Humidifier 2](https://atcoder.jp/contests/abc383/tasks/abc383_b) | [C++ 20 (gcc 12.2)](./atcoder/abc383/B.cpp) |
+| 554 | [A - Humidifier 1](https://atcoder.jp/contests/abc383/tasks/abc383_a) | [C++ 20 (gcc 12.2)](./atcoder/abc383/A.cpp) |
 | 553 | [D - 1122 Substring](https://atcoder.jp/contests/abc381/tasks/abc381_d) | [C++ 20 (gcc 12.2)](./atcoder/abc381/D.cpp) |
 | 552 | [C - 11/22 Substring](https://atcoder.jp/contests/abc381/tasks/abc381_c) | [C++ 20 (gcc 12.2)](./atcoder/abc381/C.cpp) |
 | 551 | [B - 1122 String](https://atcoder.jp/contests/abc381/tasks/abc381_b) | [C++ 20 (gcc 12.2)](./atcoder/abc381/B.cpp) |
