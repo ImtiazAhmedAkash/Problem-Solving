@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 567 | [E - Snowflake Tree](https://atcoder.jp/contests/abc385/tasks/abc385_e) | [C++ 20 (gcc 12.2)](./atcoder/abc385/E.cpp) |
+| 566 | [D - Santa Claus 2](https://atcoder.jp/contests/abc385/tasks/abc385_d) | [C++ 20 (gcc 12.2)](./atcoder/abc385/D.cpp) |
+| 565 | [C - Illuminate Buildings](https://atcoder.jp/contests/abc385/tasks/abc385_c) | [C++ 20 (gcc 12.2)](./atcoder/abc385/C.cpp) |
+| 564 | [B - Santa Claus 1](https://atcoder.jp/contests/abc385/tasks/abc385_b) | [C++ 20 (gcc 12.2)](./atcoder/abc385/B.cpp) |
+| 563 | [A - Equally](https://atcoder.jp/contests/abc385/tasks/abc385_a) | [C++ 20 (gcc 12.2)](./atcoder/abc385/A.cpp) |
 | 562 | [E - Sum of Max Matching](https://atcoder.jp/contests/abc383/tasks/abc383_e) | [C++ 20 (gcc 12.2)](./atcoder/abc383/E.cpp) |
 | 561 | [D - Keep Distance](https://atcoder.jp/contests/abc382/tasks/abc382_d) | [C++ 20 (gcc 12.2)](./atcoder/abc382/D.cpp) |
 | 560 | [C - Kaiten Sushi](https://atcoder.jp/contests/abc382/tasks/abc382_c) | [C++ 20 (gcc 12.2)](./atcoder/abc382/C.cpp) |
