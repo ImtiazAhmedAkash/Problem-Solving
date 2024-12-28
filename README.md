@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 553 | [D - 1122 Substring](https://atcoder.jp/contests/abc381/tasks/abc381_d) | [C++ 20 (gcc 12.2)](./atcoder/abc381/D.cpp) |
+| 552 | [C - 11/22 Substring](https://atcoder.jp/contests/abc381/tasks/abc381_c) | [C++ 20 (gcc 12.2)](./atcoder/abc381/C.cpp) |
+| 551 | [B - 1122 String](https://atcoder.jp/contests/abc381/tasks/abc381_b) | [C++ 20 (gcc 12.2)](./atcoder/abc381/B.cpp) |
+| 550 | [A - 11/22 String](https://atcoder.jp/contests/abc381/tasks/abc381_a) | [C++ 20 (gcc 12.2)](./atcoder/abc381/A.cpp) |
 | 549 | [D - Count Simple Paths](https://atcoder.jp/contests/abc378/tasks/abc378_d) | [C++ 20 (gcc 12.2)](./atcoder/abc378/D.cpp) |
 | 548 | [C - Repeating](https://atcoder.jp/contests/abc378/tasks/abc378_c) | [C++ 20 (gcc 12.2)](./atcoder/abc378/C.cpp) |
 | 547 | [B - Garbage Collection](https://atcoder.jp/contests/abc378/tasks/abc378_b) | [C++ 20 (gcc 12.2)](./atcoder/abc378/B.cpp) |
