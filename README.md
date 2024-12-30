@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 571 | [D - Diagonal Separation](https://atcoder.jp/contests/abc386/tasks/abc386_d) | [C++ 20 (gcc 12.2)](./atcoder/abc386/D.cpp) |
+| 570 | [C - Operate 1](https://atcoder.jp/contests/abc386/tasks/abc386_c) | [C++ 20 (gcc 12.2)](./atcoder/abc386/C.cpp) |
+| 569 | [B - Calculator](https://atcoder.jp/contests/abc386/tasks/abc386_b) | [C++ 20 (gcc 12.2)](./atcoder/abc386/B.cpp) |
+| 568 | [A - Full House 2](https://atcoder.jp/contests/abc386/tasks/abc386_a) | [C++ 20 (gcc 12.2)](./atcoder/abc386/A.cpp) |
 | 567 | [E - Snowflake Tree](https://atcoder.jp/contests/abc385/tasks/abc385_e) | [C++ 20 (gcc 12.2)](./atcoder/abc385/E.cpp) |
 | 566 | [D - Santa Claus 2](https://atcoder.jp/contests/abc385/tasks/abc385_d) | [C++ 20 (gcc 12.2)](./atcoder/abc385/D.cpp) |
 | 565 | [C - Illuminate Buildings](https://atcoder.jp/contests/abc385/tasks/abc385_c) | [C++ 20 (gcc 12.2)](./atcoder/abc385/C.cpp) |
