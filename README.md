@@ -1943,6 +1943,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 85 | [Planets and Kingdoms](https://cses.fi/problemset/task/1683) | [C++20](./cses/graph_algorithms/1683.cpp) |
 | 84 | [Flight Routes Check](https://cses.fi/problemset/task/1682) | [C++20](./cses/graph_algorithms/1682.cpp) |
 | 83 | [Subtree Queries](https://cses.fi/problemset/task/1137) | [C++20](./cses/tree_algorithms/1137.cpp) |
 | 82 | [Tree Distances I](https://cses.fi/problemset/task/1132) | [C++20](./cses/tree_algorithms/1132.cpp) |
