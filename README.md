@@ -755,6 +755,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1168 | [E - Filthy Rich Trees](https://codeforces.com/gym/102694/problem/E) | [C++20 (GCC 13-64)](./codeforces/gym/102694/E.cpp) |
+| 1167 | [D - Cycle Free Flow](https://codeforces.com/gym/102694/problem/D) | [C++20 (GCC 13-64)](./codeforces/gym/102694/D.cpp) |
+| 1166 | [C - Sloth Naptime](https://codeforces.com/gym/102694/problem/C) | [C++20 (GCC 13-64)](./codeforces/gym/102694/C.cpp) |
+| 1165 | [F - Maximum modulo equality](https://codeforces.com/contest/2050/problem/F) | [C++20 (GCC 13-64)](./codeforces/2050/F.cpp) |
+| 1164 | [E - Three Strings](https://codeforces.com/contest/2050/problem/E) | [C++20 (GCC 13-64)](./codeforces/2050/E.cpp) |
+| 1163 | [D - Digital string maximization](https://codeforces.com/contest/2050/problem/D) | [C++20 (GCC 13-64)](./codeforces/2050/D.cpp) |
+| 1162 | [C - Uninteresting Number](https://codeforces.com/contest/2050/problem/C) | [C++20 (GCC 13-64)](./codeforces/2050/C.cpp) |
+| 1161 | [B - Transfusion](https://codeforces.com/contest/2050/problem/B) | [C++20 (GCC 13-64)](./codeforces/2050/B.cpp) |
+| 1160 | [A - Line Breaks](https://codeforces.com/contest/2050/problem/A) | [C++20 (GCC 13-64)](./codeforces/2050/A.cpp) |
+| 1159 | [B - Dynamic Diameter](https://codeforces.com/gym/102694/problem/B) | [C++20 (GCC 13-64)](./codeforces/gym/102694/B.cpp) |
+| 1158 | [A - Circumference of a Tree](https://codeforces.com/gym/102694/problem/A) | [C++20 (GCC 13-64)](./codeforces/gym/102694/A.cpp) |
 | 1157 | [D - Non Prime Tree](https://codeforces.com/contest/2040/problem/D) | [C++20 (GCC 13-64)](./codeforces/2040/D.cpp) |
 | 1156 | [C - Ordered Permutations](https://codeforces.com/contest/2040/problem/C) | [C++20 (GCC 13-64)](./codeforces/2040/C.cpp) |
 | 1155 | [B - Paint a Strip](https://codeforces.com/contest/2040/problem/B) | [C++20 (GCC 13-64)](./codeforces/2040/B.cpp) |
