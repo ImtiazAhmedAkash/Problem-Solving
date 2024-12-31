@@ -755,6 +755,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1169 | [C - Checkposts](https://codeforces.com/contest/427/problem/C) | [C++20 (GCC 13-64)](./codeforces/427/C.cpp) |
 | 1168 | [E - Filthy Rich Trees](https://codeforces.com/gym/102694/problem/E) | [C++20 (GCC 13-64)](./codeforces/gym/102694/E.cpp) |
 | 1167 | [D - Cycle Free Flow](https://codeforces.com/gym/102694/problem/D) | [C++20 (GCC 13-64)](./codeforces/gym/102694/D.cpp) |
 | 1166 | [C - Sloth Naptime](https://codeforces.com/gym/102694/problem/C) | [C++20 (GCC 13-64)](./codeforces/gym/102694/C.cpp) |
