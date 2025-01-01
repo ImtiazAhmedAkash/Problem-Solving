@@ -2054,6 +2054,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 36 | [1026 - Critical Links](https://lightoj.com/problem/critical-links) | [C++ 20](./lightoj/1026.cpp) |
 | 35 | [1102 - Problem Makes Problem](https://lightoj.com/problem/problem-makes-problem) | [C++ 20](./lightoj/1102.cpp) |
 | 34 | [1214 - Large Division](https://lightoj.com/problem/large-division) | [C++ 20](./lightoj/1214.cpp) |
 | 33 | [1067 - Combinations](https://lightoj.com/problem/combinations) | [C++ 20](./lightoj/1067.cpp) |
