@@ -755,6 +755,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1174 | [D - Move Back at a Cost](https://codeforces.com/contest/2047/problem/D) | [C++20 (GCC 13-64)](./codeforces/2047/D.cpp) |
+| 1173 | [C - Swap Columns and Find a Path](https://codeforces.com/contest/2047/problem/C) | [C++20 (GCC 13-64)](./codeforces/2047/C.cpp) |
+| 1172 | [B - Replace Character](https://codeforces.com/contest/2047/problem/B) | [C++20 (GCC 13-64)](./codeforces/2047/B.cpp) |
+| 1171 | [A - Alyona and a Square Jigsaw Puzzle](https://codeforces.com/contest/2047/problem/A) | [C++20 (GCC 13-64)](./codeforces/2047/A.cpp) |
+| 1170 | [E - We Need More Bosses](https://codeforces.com/contest/1000/problem/E) | [C++20 (GCC 13-64)](./codeforces/1000/E.cpp) |
 | 1169 | [C - Checkposts](https://codeforces.com/contest/427/problem/C) | [C++20 (GCC 13-64)](./codeforces/427/C.cpp) |
 | 1168 | [E - Filthy Rich Trees](https://codeforces.com/gym/102694/problem/E) | [C++20 (GCC 13-64)](./codeforces/gym/102694/E.cpp) |
 | 1167 | [D - Cycle Free Flow](https://codeforces.com/gym/102694/problem/D) | [C++20 (GCC 13-64)](./codeforces/gym/102694/D.cpp) |
