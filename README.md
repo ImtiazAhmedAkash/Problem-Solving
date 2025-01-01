@@ -2109,6 +2109,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 31 | [EC_P - Critical Edges](https://www.spoj.com/problems/EC_P/) | [C++14 (gcc 8.3)](./spoj/EC_P.cpp) |
+| 30 | [CAPCITY - Capital City](https://www.spoj.com/problems/CAPCITY) | [C++14 (gcc 8.3)](./spoj/CAPCITY.cpp) |
+| 29 | [EAGLE1 - Eagle and Dogs](https://www.spoj.com/problems/EAGLE1) | [C++14 (gcc 8.3)](./spoj/EAGLE1.cpp) |
+| 28 | [TOPOSORT - Topological Sorting](https://www.spoj.com/problems/TOPOSORT) | [C++14 (gcc 8.3)](./spoj/TOPOSORT.cpp) |
+| 27 | [DISQUERY - Distance Query](https://www.spoj.com/problems/DISQUERY) | [C++14 (gcc 8.3)](./spoj/DISQUERY.cpp) |
 | 26 | [ADATRIP - Ada and Trip](https://www.spoj.com/problems/ADATRIP) | [C++14 (gcc 8.3)](./spoj/ADATRIP.cpp) |
 | 25 | [SHPATH - The Shortest Path](https://www.spoj.com/problems/SHPATH) | [C++14 (gcc 8.3)](./spoj/SHPATH.cpp) |
 | 24 | [ADASEA - Ada and Island](https://www.spoj.com/problems/ADASEA) | [C++14 (gcc 8.3)](./spoj/ADASEA.cpp) |
