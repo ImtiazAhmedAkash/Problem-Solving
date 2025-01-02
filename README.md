@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 576 | [E - Takahashi is Slime 2](https://atcoder.jp/contests/abc384/tasks/abc384_e) | [C++ 20 (gcc 12.2)](./atcoder/abc384/E.cpp) |
+| 575 | [D - Repeated Sequence](https://atcoder.jp/contests/abc384/tasks/abc384_d) | [C++ 20 (gcc 12.2)](./atcoder/abc385/D.cpp) |
+| 574 | [C - Perfect Standings](https://atcoder.jp/contests/abc384/tasks/abc384_c) | [C++ 20 (gcc 12.2)](./atcoder/abc384/C.cpp) |
+| 573 | [B - ARC Division](https://atcoder.jp/contests/abc384/tasks/abc384_b) | [C++ 20 (gcc 12.2)](./atcoder/abc384/B.cpp) |
+| 572 | [A - aaaadaa](https://atcoder.jp/contests/abc384/tasks/abc384_a) | [C++ 20 (gcc 12.2)](./atcoder/abc384/A.cpp) |
 | 571 | [D - Diagonal Separation](https://atcoder.jp/contests/abc386/tasks/abc386_d) | [C++ 20 (gcc 12.2)](./atcoder/abc386/D.cpp) |
 | 570 | [C - Operate 1](https://atcoder.jp/contests/abc386/tasks/abc386_c) | [C++ 20 (gcc 12.2)](./atcoder/abc386/C.cpp) |
 | 569 | [B - Calculator](https://atcoder.jp/contests/abc386/tasks/abc386_b) | [C++ 20 (gcc 12.2)](./atcoder/abc386/B.cpp) |
