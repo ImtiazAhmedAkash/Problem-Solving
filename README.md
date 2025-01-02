@@ -760,6 +760,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1179 | [E - Sleeping Schedule](https://codeforces.com/contest/1324/problem/E) | [C++20 (GCC 13-64)](./codeforces/1324/E.cpp) |
+| 1178 | [B - Two-gram](https://codeforces.com/contest/977/problem/B) | [C++20 (GCC 13-64)](./codeforces/977/B.cpp) |
+| 1177 | [C - Less or Equal](https://codeforces.com/contest/977/problem/C) | [C++20 (GCC 13-64)](./codeforces/977/C.cpp) |
+| 1176 | [D - Divide by three, multiply by two](https://codeforces.com/contest/977/problem/D) | [C++20 (GCC 13-64)](./codeforces/977/D.cpp) |
+| 1175 | [F - Consecutive Subsequence](https://codeforces.com/contest/977/problem/F) | [C++20 (GCC 13-64)](./codeforces/977/F.cpp) |
 | 1174 | [D - Move Back at a Cost](https://codeforces.com/contest/2047/problem/D) | [C++20 (GCC 13-64)](./codeforces/2047/D.cpp) |
 | 1173 | [C - Swap Columns and Find a Path](https://codeforces.com/contest/2047/problem/C) | [C++20 (GCC 13-64)](./codeforces/2047/C.cpp) |
 | 1172 | [B - Replace Character](https://codeforces.com/contest/2047/problem/B) | [C++20 (GCC 13-64)](./codeforces/2047/B.cpp) |
