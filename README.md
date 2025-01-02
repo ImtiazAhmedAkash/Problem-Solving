@@ -2171,6 +2171,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 39 | [10199 - Tourist Guide](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1140) | [C++11 5.3.0](./uva/10199.cpp) |
+| 38 | [315 - Network](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=251) | [C++11 5.3.0](./uva/315.cpp) |
 | 37 | [11488 - Hyper Prefix Sets](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2483) | [C++11 5.3.0](./uva/11488.cpp) |
 | 36 | [12506 - Shortest Names](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3950) | [C++11 5.3.0](./uva/12506.cpp) |
 | 35 | [10212 - The Last Non-zero Digit.](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1153) | [C++11 5.3.0](./uva/10212.cpp) |
