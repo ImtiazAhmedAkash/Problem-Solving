@@ -760,6 +760,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1181 | [D - Cutting a graph](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/D) | [C++20 (GCC 13-64)](./codeforces/edu/dsu/step1/D.cpp) |
+| 1180 | [B - Parking](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/B) | [C++20 (GCC 13-64)](./codeforces/edu/dsu/step2/B.cpp) |
 | 1179 | [E - Sleeping Schedule](https://codeforces.com/contest/1324/problem/E) | [C++20 (GCC 13-64)](./codeforces/1324/E.cpp) |
 | 1178 | [B - Two-gram](https://codeforces.com/contest/977/problem/B) | [C++20 (GCC 13-64)](./codeforces/977/B.cpp) |
 | 1177 | [C - Less or Equal](https://codeforces.com/contest/977/problem/C) | [C++20 (GCC 13-64)](./codeforces/977/C.cpp) |
