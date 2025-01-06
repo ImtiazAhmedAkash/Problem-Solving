@@ -760,6 +760,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1184 | [A - Ian Visits Mary](https://codeforces.com/contest/1816/problem/A) | [C++20 (GCC 13-64)](./codeforces/1816/A.cpp) |
+| 1183 | [C - Ian and Array Sorting](https://codeforces.com/contest/1816/problem/C) | [C++20 (GCC 13-64)](./codeforces/1816/C.cpp) |
+| 1182 | [B - Grid Reconstruction](https://codeforces.com/contest/1816/problem/B) | [C++20 (GCC 13-64)](./codeforces/1816/B.cpp) |
 | 1181 | [D - Cutting a graph](https://codeforces.com/edu/course/2/lesson/7/1/practice/contest/289390/problem/D) | [C++20 (GCC 13-64)](./codeforces/edu/dsu/step1/D.cpp) |
 | 1180 | [B - Parking](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/B) | [C++20 (GCC 13-64)](./codeforces/edu/dsu/step2/B.cpp) |
 | 1179 | [E - Sleeping Schedule](https://codeforces.com/contest/1324/problem/E) | [C++20 (GCC 13-64)](./codeforces/1324/E.cpp) |
