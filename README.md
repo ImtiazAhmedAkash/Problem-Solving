@@ -760,6 +760,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1189 | [C - Trip to the Olympiad](https://codeforces.com/contest/2057/problem/C) | [C++20 (GCC 13-64)](./codeforces/2057/C.cpp) |
+| 1188 | [B - Gorilla and the Exam](https://codeforces.com/contest/2057/problem/B) | [C++20 (GCC 13-64)](./codeforces/2057/B.cpp) |
+| 1187 | [A - MEX Table](https://codeforces.com/contest/2057/problem/A) | [C++20 (GCC 13-64)](./codeforces/2057/A.cpp) |
+| 1186 | [D - Bosses](https://codeforces.com/edu/course/2/lesson/7/2/practice/contest/289391/problem/D) | [C++20 (GCC 13-64)](./codeforces/edu/dsu/step2/D.cpp) |
+| 1185 | [D - Roads not only in Berland](https://codeforces.com/contest/25/problem/D) | [C++20 (GCC 13-64)](./codeforces/25/D.cpp) |
 | 1184 | [A - Ian Visits Mary](https://codeforces.com/contest/1816/problem/A) | [C++20 (GCC 13-64)](./codeforces/1816/A.cpp) |
 | 1183 | [C - Ian and Array Sorting](https://codeforces.com/contest/1816/problem/C) | [C++20 (GCC 13-64)](./codeforces/1816/C.cpp) |
 | 1182 | [B - Grid Reconstruction](https://codeforces.com/contest/1816/problem/B) | [C++20 (GCC 13-64)](./codeforces/1816/B.cpp) |
