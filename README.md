@@ -760,6 +760,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1195 | [D - The Butcher](https://codeforces.com/contest/1820/problem/D) | [C++20 (GCC 13-64)](./codeforces/1820/D.cpp) |
+| 1194 | [C - Constructive Problem](https://codeforces.com/contest/1820/problem/C) | [C++20 (GCC 13-64)](./codeforces/1820/C.cpp) |
+| 1193 | [B - JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | [C++20 (GCC 13-64)](./codeforces/1820/B.cpp) |
+| 1192 | [A - Yura's New Name](https://codeforces.com/contest/1820/problem/A) | [C++20 (GCC 13-64)](./codeforces/1820/A.cpp) |
+| 1191 | [C - Road Optimization](https://codeforces.com/contest/1625/problem/C) | [C++20 (GCC 13-64)](./codeforces/1625/C.cpp) |
+| 1190 | [A - Ezzat and Two Subsequences](https://codeforces.com/contest/1557/problem/A) | [C++20 (GCC 13-64)](./codeforces/1557/A.cpp) |
 | 1189 | [C - Trip to the Olympiad](https://codeforces.com/contest/2057/problem/C) | [C++20 (GCC 13-64)](./codeforces/2057/C.cpp) |
 | 1188 | [B - Gorilla and the Exam](https://codeforces.com/contest/2057/problem/B) | [C++20 (GCC 13-64)](./codeforces/2057/B.cpp) |
 | 1187 | [A - MEX Table](https://codeforces.com/contest/2057/problem/A) | [C++20 (GCC 13-64)](./codeforces/2057/A.cpp) |
