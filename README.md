@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 584 | [E - 1D Bucket Tool](https://atcoder.jp/contests/abc380/tasks/abc380_e) | [C++ 20 (gcc 12.2)](./atcoder/abc380/E.cpp) |
+| 583 | [D - Strange Mirroring](https://atcoder.jp/contests/abc380/tasks/abc380_d) | [C++ 20 (gcc 12.2)](./atcoder/abc380/D.cpp) |
+| 582 | [C - Move Segment](https://atcoder.jp/contests/abc380/tasks/abc380_c) | [C++ 20 (gcc 12.2)](./atcoder/abc380/C.cpp) |
+| 581 | [B - Hurdle Parsing](https://atcoder.jp/contests/abc380/tasks/abc380_b) | [C++ 20 (gcc 12.2)](./atcoder/abc380/B.cpp) |
+| 580 | [A - 123233](https://atcoder.jp/contests/abc380/tasks/abc380_a) | [C++ 20 (gcc 12.2)](./atcoder/abc380/A.cpp) |
 | 579 | [D - Snaky Walk](https://atcoder.jp/contests/abc387/tasks/abc387_d) | [C++ 20 (gcc 12.2)](./atcoder/abc387/D.cpp) |
 | 578 | [B - 9x9 Sum](https://atcoder.jp/contests/abc387/tasks/abc387_b) | [C++ 20 (gcc 12.2)](./atcoder/abc387/B.cpp) |
 | 577 | [A - Happy New Year 2025](https://atcoder.jp/contests/abc387/tasks/abc387_a) | [C++ 20 (gcc 12.2)](./atcoder/abc387/A.cpp) |
