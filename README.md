@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 589 | [E - Sum of All Substrings](https://atcoder.jp/contests/abc379/tasks/abc379_e) | [C++ 20 (gcc 12.2)](./atcoder/abc379/E.cpp) |
+| 588 | [C - Sowing Stones](https://atcoder.jp/contests/abc379/tasks/abc379_c) | [C++ 20 (gcc 12.2)](./atcoder/abc379/C.cpp) |
+| 587 | [D - Home Garden](https://atcoder.jp/contests/abc379/tasks/abc379_d) | [C++ 20 (gcc 12.2)](./atcoder/abc379/D.cpp) |
+| 586 | [B - Strawberries](https://atcoder.jp/contests/abc379/tasks/abc379_b) | [C++ 20 (gcc 12.2)](./atcoder/abc379/B.cpp) |
+| 585 | [A - Cyclic](https://atcoder.jp/contests/abc379/tasks/abc379_a) | [C++ 20 (gcc 12.2)](./atcoder/abc379/A.cpp) |
 | 584 | [E - 1D Bucket Tool](https://atcoder.jp/contests/abc380/tasks/abc380_e) | [C++ 20 (gcc 12.2)](./atcoder/abc380/E.cpp) |
 | 583 | [D - Strange Mirroring](https://atcoder.jp/contests/abc380/tasks/abc380_d) | [C++ 20 (gcc 12.2)](./atcoder/abc380/D.cpp) |
 | 582 | [C - Move Segment](https://atcoder.jp/contests/abc380/tasks/abc380_c) | [C++ 20 (gcc 12.2)](./atcoder/abc380/C.cpp) |
