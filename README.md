@@ -26,6 +26,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 579 | [D - Snaky Walk](https://atcoder.jp/contests/abc387/tasks/abc387_d) | [C++ 20 (gcc 12.2)](./atcoder/abc387/D.cpp) |
+| 578 | [B - 9x9 Sum](https://atcoder.jp/contests/abc387/tasks/abc387_b) | [C++ 20 (gcc 12.2)](./atcoder/abc387/B.cpp) |
+| 577 | [A - Happy New Year 2025](https://atcoder.jp/contests/abc387/tasks/abc387_a) | [C++ 20 (gcc 12.2)](./atcoder/abc387/A.cpp) |
 | 576 | [E - Takahashi is Slime 2](https://atcoder.jp/contests/abc384/tasks/abc384_e) | [C++ 20 (gcc 12.2)](./atcoder/abc384/E.cpp) |
 | 575 | [D - Repeated Sequence](https://atcoder.jp/contests/abc384/tasks/abc384_d) | [C++ 20 (gcc 12.2)](./atcoder/abc385/D.cpp) |
 | 574 | [C - Perfect Standings](https://atcoder.jp/contests/abc384/tasks/abc384_c) | [C++ 20 (gcc 12.2)](./atcoder/abc384/C.cpp) |
