@@ -760,6 +760,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1201 | [C - Cat, Fox and Double Maximum](https://codeforces.com/contest/1973/problem/C) | [C++20 (GCC 13-64)](./codeforces/1973/C.cpp) |
+| 1200 | [B - Cat, Fox and the Lonely Array](https://codeforces.com/contest/1973/problem/B) | [C++20 (GCC 13-64)](./codeforces/1973/B.cpp) |
+| 1199 | [A - Chess For Three](https://codeforces.com/contest/1973/problem/A) | [C++20 (GCC 13-64)](./codeforces/1973/A.cpp) |
+| 1198 | [D - Sum Graph](https://codeforces.com/contest/1816/problem/D) | [C++20 (GCC 13-64)](./codeforces/1816/D.cpp) |
+| 1197 | [C - Bewitching Stargazer](https://codeforces.com/contest/2053/problem/C) | [C++20 (GCC 13-64)](./codeforces/2053/C.cpp) |
+| 1196 | [D - Omkar and Bed Wars](https://codeforces.com/contest/1392/problem/D) | [C++20 (GCC 13-64)](./codeforces/1392/D.cpp) |
 | 1195 | [D - The Butcher](https://codeforces.com/contest/1820/problem/D) | [C++20 (GCC 13-64)](./codeforces/1820/D.cpp) |
 | 1194 | [C - Constructive Problem](https://codeforces.com/contest/1820/problem/C) | [C++20 (GCC 13-64)](./codeforces/1820/C.cpp) |
 | 1193 | [B - JoJo's Incredible Adventures](https://codeforces.com/contest/1820/problem/B) | [C++20 (GCC 13-64)](./codeforces/1820/B.cpp) |
