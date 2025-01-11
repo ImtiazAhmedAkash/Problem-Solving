@@ -773,6 +773,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1204 | [C - Bitwise Operation Wizard](https://codeforces.com/contest/1937/problem/C) | [C++20 (GCC 13-64)](./codeforces/1937/C.cpp) |
+| 1203 | [B - Binary Path](https://codeforces.com/contest/1937/problem/B) | [C++20 (GCC 13-64)](./codeforces/1937/B.cpp) |
+| 1202 | [A - Shuffle Party](https://codeforces.com/contest/1937/problem/A) | [C++20 (GCC 13-64)](./codeforces/1937/A.cpp) |
 | 1201 | [C - Cat, Fox and Double Maximum](https://codeforces.com/contest/1973/problem/C) | [C++20 (GCC 13-64)](./codeforces/1973/C.cpp) |
 | 1200 | [B - Cat, Fox and the Lonely Array](https://codeforces.com/contest/1973/problem/B) | [C++20 (GCC 13-64)](./codeforces/1973/B.cpp) |
 | 1199 | [A - Chess For Three](https://codeforces.com/contest/1973/problem/A) | [C++20 (GCC 13-64)](./codeforces/1973/A.cpp) |
