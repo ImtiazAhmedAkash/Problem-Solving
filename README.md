@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 593 | [D - Many Segments 2](https://atcoder.jp/contests/abc377/tasks/abc377_d) | [C++ 20 (gcc 12.2)](./atcoder/abc377/D.cpp) |
+| 592 | [C - Avoid Knight Attack](https://atcoder.jp/contests/abc377/tasks/abc377_c) | [C++ 20 (gcc 12.2)](./atcoder/abc377/C.cpp) |
+| 591 | [B - Avoid Rook Attack](https://atcoder.jp/contests/abc377/tasks/abc377_b) | [C++ 20 (gcc 12.2)](./atcoder/abc377/B.cpp) |
+| 590 | [A - Rearranging ABC](https://atcoder.jp/contests/abc377/tasks/abc377_a) | [C++ 20 (gcc 12.2)](./atcoder/abc377/A.cpp) |
 | 589 | [E - Sum of All Substrings](https://atcoder.jp/contests/abc379/tasks/abc379_e) | [C++ 20 (gcc 12.2)](./atcoder/abc379/E.cpp) |
 | 588 | [C - Sowing Stones](https://atcoder.jp/contests/abc379/tasks/abc379_c) | [C++ 20 (gcc 12.2)](./atcoder/abc379/C.cpp) |
 | 587 | [D - Home Garden](https://atcoder.jp/contests/abc379/tasks/abc379_d) | [C++ 20 (gcc 12.2)](./atcoder/abc379/D.cpp) |
