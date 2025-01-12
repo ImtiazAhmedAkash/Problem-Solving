@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 598 | [E - Simultaneous Kagamimochi](https://atcoder.jp/contests/abc388/tasks/abc388_e) | [C++ 20 (gcc 12.2)](./atcoder/abc388/E.cpp) |
+| 597 | [D - Coming of Age Celebration](https://atcoder.jp/contests/abc388/tasks/abc388_d) | [C++ 20 (gcc 12.2)](./atcoder/abc388/D.cpp) |
+| 596 | [C - Various Kagamimochi](https://atcoder.jp/contests/abc388/tasks/abc388_c) | [C++ 20 (gcc 12.2)](./atcoder/abc388/C.cpp) |
+| 595 | [B - Heavy Snake](https://atcoder.jp/contests/abc388/tasks/abc388_b) | [C++ 20 (gcc 12.2)](./atcoder/abc388/B.cpp) |
+| 594 | [A - ?UPC](https://atcoder.jp/contests/abc388/tasks/abc388_a) | [C++ 20 (gcc 12.2)](./atcoder/abc388/A.cpp) |
 | 593 | [D - Many Segments 2](https://atcoder.jp/contests/abc377/tasks/abc377_d) | [C++ 20 (gcc 12.2)](./atcoder/abc377/D.cpp) |
 | 592 | [C - Avoid Knight Attack](https://atcoder.jp/contests/abc377/tasks/abc377_c) | [C++ 20 (gcc 12.2)](./atcoder/abc377/C.cpp) |
 | 591 | [B - Avoid Rook Attack](https://atcoder.jp/contests/abc377/tasks/abc377_b) | [C++ 20 (gcc 12.2)](./atcoder/abc377/B.cpp) |
