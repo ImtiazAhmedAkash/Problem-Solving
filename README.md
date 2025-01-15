@@ -782,6 +782,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1208 | [D - Scarecrow](https://codeforces.com/contest/2055/problem/D) | [C++20 (GCC 13-64)](./codeforces/2055/D.cpp) |
+| 1207 | [C - The Trail](https://codeforces.com/contest/2055/problem/C) | [C++20 (GCC 13-64)](./codeforces/2055/C.cpp) |
+| 1206 | [B - Crafting](https://codeforces.com/contest/2055/problem/B) | [C++20 (GCC 13-64)](./codeforces/2055/B.cpp) |
+| 1205 | [A - Two Frogs](https://codeforces.com/contest/2055/problem/A) | [C++20 (GCC 13-64)](./codeforces/2055/A.cpp) |
 | 1204 | [C - Bitwise Operation Wizard](https://codeforces.com/contest/1937/problem/C) | [C++20 (GCC 13-64)](./codeforces/1937/C.cpp) |
 | 1203 | [B - Binary Path](https://codeforces.com/contest/1937/problem/B) | [C++20 (GCC 13-64)](./codeforces/1937/B.cpp) |
 | 1202 | [A - Shuffle Party](https://codeforces.com/contest/1937/problem/A) | [C++20 (GCC 13-64)](./codeforces/1937/A.cpp) |
