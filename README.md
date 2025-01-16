@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 602 | [D - Laser Marking](https://atcoder.jp/contests/abc374/tasks/abc374_d) | [C++ 20 (gcc 12.2)](./atcoder/abc374/D.cpp) |
+| 601 | [C - Separated Lunch](https://atcoder.jp/contests/abc374/tasks/abc374_c) | [C++ 20 (gcc 12.2)](./atcoder/abc374/C.cpp) |
+| 600 | [B - Unvarnished Report](https://atcoder.jp/contests/abc374/tasks/abc374_b) | [C++ 20 (gcc 12.2)](./atcoder/abc374/B.cpp) |
+| 599 | [A - Takahashi san 2](https://atcoder.jp/contests/abc374/tasks/abc374_a) | [C++ 20 (gcc 12.2)](./atcoder/abc374/A.cpp) |
 | 598 | [E - Simultaneous Kagamimochi](https://atcoder.jp/contests/abc388/tasks/abc388_e) | [C++ 20 (gcc 12.2)](./atcoder/abc388/E.cpp) |
 | 597 | [D - Coming of Age Celebration](https://atcoder.jp/contests/abc388/tasks/abc388_d) | [C++ 20 (gcc 12.2)](./atcoder/abc388/D.cpp) |
 | 596 | [C - Various Kagamimochi](https://atcoder.jp/contests/abc388/tasks/abc388_c) | [C++ 20 (gcc 12.2)](./atcoder/abc388/C.cpp) |
