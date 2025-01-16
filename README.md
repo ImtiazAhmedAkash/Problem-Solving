@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 606 | [D - Hidden Weights](https://atcoder.jp/contests/abc373/tasks/abc373_d) | [C++ 20 (gcc 12.2)](./atcoder/abc373/D.cpp) |
+| 605 | [C - Max Ai+Bj](https://atcoder.jp/contests/abc373/tasks/abc373_c) | [C++ 20 (gcc 12.2)](./atcoder/abc373/C.cpp) |
+| 604 | [B - 1D Keyboard](https://atcoder.jp/contests/abc373/tasks/abc373_b) | [C++ 20 (gcc 12.2)](./atcoder/abc373/B.cpp) |
+| 603 | [A - September](https://atcoder.jp/contests/abc373/tasks/abc373_a) | [C++ 20 (gcc 12.2)](./atcoder/abc373/A.cpp) |
 | 602 | [D - Laser Marking](https://atcoder.jp/contests/abc374/tasks/abc374_d) | [C++ 20 (gcc 12.2)](./atcoder/abc374/D.cpp) |
 | 601 | [C - Separated Lunch](https://atcoder.jp/contests/abc374/tasks/abc374_c) | [C++ 20 (gcc 12.2)](./atcoder/abc374/C.cpp) |
 | 600 | [B - Unvarnished Report](https://atcoder.jp/contests/abc374/tasks/abc374_b) | [C++ 20 (gcc 12.2)](./atcoder/abc374/B.cpp) |
