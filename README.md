@@ -795,6 +795,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1219 | [D - Unique Median](https://codeforces.com/contest/2056/problem/D) | [C++20 (GCC 13-64)](./codeforces/2056/D.cpp) |
+| 1218 | [C - Palindromic Subsequences](https://codeforces.com/contest/2056/problem/C) | [C++20 (GCC 13-64)](./codeforces/2056/C.cpp) |
+| 1217 | [B - Find the Permutation](https://codeforces.com/contest/2056/problem/B) | [C++20 (GCC 13-64)](./codeforces/2056/B.cpp) |
+| 1216 | [A - Shape Perimeter](https://codeforces.com/contest/2056/problem/A) | [C++20 (GCC 13-64)](./codeforces/2056/A.cpp) |
 | 1215 | [A - Counterexample](https://codeforces.com/contest/483/problem/A) | [C++20 (GCC 13-64)](./codeforces/483/A.cpp) |
 | 1214 | [D - Interesting Array](https://codeforces.com/contest/483/problem/D) | [C++20 (GCC 13-64)](./codeforces/483/D.cpp) |
 | 1213 | [B - Lucky Numbers (easy)](https://codeforces.com/contest/96/problem/B) | [C++20 (GCC 13-64)](./codeforces/96/B.cpp) |
