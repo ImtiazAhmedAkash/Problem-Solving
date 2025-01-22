@@ -795,6 +795,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1215 | [A - Counterexample](https://codeforces.com/contest/483/problem/A) | [C++20 (GCC 13-64)](./codeforces/483/A.cpp) |
+| 1214 | [D - Interesting Array](https://codeforces.com/contest/483/problem/D) | [C++20 (GCC 13-64)](./codeforces/483/D.cpp) |
+| 1213 | [B - Lucky Numbers (easy)](https://codeforces.com/contest/96/problem/B) | [C++20 (GCC 13-64)](./codeforces/96/B.cpp) |
+| 1212 | [C - Little Elephant and Bits](https://codeforces.com/contest/259/problem/C) | [C++20 (GCC 13-64)](./codeforces/259/C.cpp) |
 | 1211 | [C - Find a Mine](https://codeforces.com/contest/1934/problem/C) | [C++20 (GCC 13-64)](./codeforces/1934/C.cpp) |
 | 1210 | [B - Yet Another Coin Problem](https://codeforces.com/contest/1934/problem/B) | [C++20 (GCC 13-64)](./codeforces/1934/B.cpp) |
 | 1209 | [A - Too Min Too Max](https://codeforces.com/contest/1934/problem/A) | [C++20 (GCC 13-64)](./codeforces/1934/A.cpp) |
