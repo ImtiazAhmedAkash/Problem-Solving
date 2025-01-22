@@ -26,6 +26,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 611 | [F - Rated Range](https://atcoder.jp/contests/abc389/tasks/abc389_f) | [C++ 20 (gcc 12.2)](./atcoder/abc389/F.cpp) |
+| 610 | [D - Squares in Circle](https://atcoder.jp/contests/abc389/tasks/abc389_d) | [C++ 20 (gcc 12.2)](./atcoder/abc389/D.cpp) |
+| 609 | [C - Snake Queue](https://atcoder.jp/contests/abc389/tasks/abc389_c) | [C++ 20 (gcc 12.2)](./atcoder/abc389/C.cpp) |
+| 608 | [B - tcaF](https://atcoder.jp/contests/abc389/tasks/abc389_b) | [C++ 20 (gcc 12.2)](./atcoder/abc389/B.cpp) |
+| 607 | [A - 9x9](https://atcoder.jp/contests/abc389/tasks/abc389_a) | [C++ 20 (gcc 12.2)](./atcoder/abc389/A.cpp) |
 | 606 | [D - Hidden Weights](https://atcoder.jp/contests/abc373/tasks/abc373_d) | [C++ 20 (gcc 12.2)](./atcoder/abc373/D.cpp) |
 | 605 | [C - Max Ai+Bj](https://atcoder.jp/contests/abc373/tasks/abc373_c) | [C++ 20 (gcc 12.2)](./atcoder/abc373/C.cpp) |
 | 604 | [B - 1D Keyboard](https://atcoder.jp/contests/abc373/tasks/abc373_b) | [C++ 20 (gcc 12.2)](./atcoder/abc373/B.cpp) |
