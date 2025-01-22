@@ -795,6 +795,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1224 | [E - Graph Composition](https://codeforces.com/contest/2060/problem/E) | [C++20 (GCC 13-64)](./codeforces/2060/E.cpp) |
+| 1223 | [D - Subtract Min Sort](https://codeforces.com/contest/2060/problem/D) | [C++20 (GCC 13-64)](./codeforces/2060/D.cpp) |
+| 1222 | [C - Game of Mathletes](https://codeforces.com/contest/2060/problem/C) | [C++20 (GCC 13-64)](./codeforces/2060/C.cpp) |
+| 1221 | [B - Farmer John's Card Game](https://codeforces.com/contest/2060/problem/B) | [C++20 (GCC 13-64)](./codeforces/2060/B.cpp) |
+| 1220 | [A - Fibonacciness](https://codeforces.com/contest/2060/problem/A) | [C++20 (GCC 13-64)](./codeforces/2060/A.cpp) |
 | 1219 | [D - Unique Median](https://codeforces.com/contest/2056/problem/D) | [C++20 (GCC 13-64)](./codeforces/2056/D.cpp) |
 | 1218 | [C - Palindromic Subsequences](https://codeforces.com/contest/2056/problem/C) | [C++20 (GCC 13-64)](./codeforces/2056/C.cpp) |
 | 1217 | [B - Find the Permutation](https://codeforces.com/contest/2056/problem/B) | [C++20 (GCC 13-64)](./codeforces/2056/B.cpp) |
