@@ -795,6 +795,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1228 | [C - Kevin and Puzzle](https://codeforces.com/contest/2061/problem/C) | [C++20 (GCC 13-64)](./codeforces/2061/C.cpp) |
+| 1227 | [D - Kevin and Numbers](https://codeforces.com/contest/2061/problem/D) | [C++20 (GCC 13-64)](./codeforces/2061/D.cpp) |
+| 1226 | [B - Kevin and Geometry](https://codeforces.com/contest/2061/problem/B) | [C++20 (GCC 13-64)](./codeforces/2061/B.cpp) |
+| 1225 | [A - Kevin and Arithmetic](https://codeforces.com/contest/2061/problem/A) | [C++20 (GCC 13-64)](./codeforces/2061/A.cpp) |
 | 1224 | [E - Graph Composition](https://codeforces.com/contest/2060/problem/E) | [C++20 (GCC 13-64)](./codeforces/2060/E.cpp) |
 | 1223 | [D - Subtract Min Sort](https://codeforces.com/contest/2060/problem/D) | [C++20 (GCC 13-64)](./codeforces/2060/D.cpp) |
 | 1222 | [C - Game of Mathletes](https://codeforces.com/contest/2060/problem/C) | [C++20 (GCC 13-64)](./codeforces/2060/C.cpp) |
