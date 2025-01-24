@@ -2046,6 +2046,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 94 | [Range Update Queries](https://cses.fi/problemset/task/1651) | [C++20](./cses/range_queries/1651.cpp) |
+| 93 | [Range Xor Queries](https://cses.fi/problemset/task/1650) | [C++20](./cses/range_queries/1650.cpp) |
+| 92 | [Dynamic Range Minimum Queries](https://cses.fi/problemset/task/1649) | [C++20](./cses/range_queries/1649.cpp) |
+| 91 | [Dynamic Range Sum Queries](https://cses.fi/problemset/task/1648) | [C++20](./cses/range_queries/1648.cpp) |
+| 90 | [Static Range Minimum Queries](https://cses.fi/problemset/task/1647) | [C++20](./cses/range_queries/1647.cpp) |
+| 89 | [Salary Queries](https://cses.fi/problemset/task/1144) | [C++20](./cses/range_queries/1144.cpp) |
 | 88 | [List Removals](https://cses.fi/problemset/task/1749) | [C++20](./cses/range_queries/1749.cpp) |
 | 87 | [Hotel Queries](https://cses.fi/problemset/task/1143) | [C++20](./cses/range_queries/1143.cpp) |
 | 86 | [Road Construction](https://cses.fi/problemset/task/1676) | [C++20](./cses/graph_algorithms/1676.cpp) |
