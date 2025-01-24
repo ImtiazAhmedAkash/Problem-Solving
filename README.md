@@ -2046,6 +2046,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 98 | [Distinct Values Queries](https://cses.fi/problemset/task/1734) | [C++20](./cses/range_queries/1734.cpp) |
+| 97 | [Subarray Sum Queries](https://cses.fi/problemset/task/1190) | [C++20](./cses/range_queries/1190.cpp) |
+| 96 | [Pizzeria Queries](https://cses.fi/problemset/task/2206) | [C++20](./cses/range_queries/2206.cpp) |
+| 95 | [Prefix Sum Queries](https://cses.fi/problemset/task/2166) | [C++20](./cses/range_queries/2166.cpp) |
 | 94 | [Range Update Queries](https://cses.fi/problemset/task/1651) | [C++20](./cses/range_queries/1651.cpp) |
 | 93 | [Range Xor Queries](https://cses.fi/problemset/task/1650) | [C++20](./cses/range_queries/1650.cpp) |
 | 92 | [Dynamic Range Minimum Queries](https://cses.fi/problemset/task/1649) | [C++20](./cses/range_queries/1649.cpp) |
