@@ -795,6 +795,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1232 | [D - Game With Triangles](https://codeforces.com/contest/2063/problem/D) | [C++20 (GCC 13-64)](./codeforces/2063/D.cpp) |
 | 1231 | [C - Remove Exactly Two](https://codeforces.com/contest/2063/problem/C) | [C++20 (GCC 13-64)](./codeforces/2063/C.cpp) |
 | 1230 | [B - Subsequence Update](https://codeforces.com/contest/2063/problem/B) | [C++20 (GCC 13-64)](./codeforces/2063/B.cpp) |
 | 1229 | [A - Minimal Coprime](https://codeforces.com/contest/2063/problem/A) | [C++20 (GCC 13-64)](./codeforces/2063/A.cpp) |
