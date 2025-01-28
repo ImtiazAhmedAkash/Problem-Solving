@@ -795,6 +795,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1240 | [E1 - The Game (Easy Version)](https://codeforces.com/contest/2062/problem/E1) | [C++20 (GCC 13-64)](./codeforces/2062/E1.cpp) |
+| 1239 | [C - Cirno and Operations](https://codeforces.com/contest/2062/problem/C) | [C++20 (GCC 13-64)](./codeforces/2062/C.cpp) |
+| 1238 | [B - Clockwork](https://codeforces.com/contest/2062/problem/B) | [C++20 (GCC 13-64)](./codeforces/2062/B.cpp) |
+| 1237 | [A - String](https://codeforces.com/contest/2062/problem/A) | [C++20 (GCC 13-64)](./codeforces/2062/A.cpp) |
 | 1236 | [D - Fat Burner](https://codeforces.com/gym/105673/problem/D) | [C++20 (GCC 13-64)](./codeforces/gym/105673/D.cpp) |
 | 1235 | [C - Biggest Field (Hard Version)](https://codeforces.com/gym/105673/problem/C) | [C++20 (GCC 13-64)](./codeforces/gym/105673/C.cpp) |
 | 1234 | [B - Step Gambling](https://codeforces.com/gym/105673/problem/B) | [C++20 (GCC 13-64)](./codeforces/gym/105673/B.cpp) |
