@@ -795,6 +795,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1247 | [A - Love Story](https://codeforces.com/contest/1829/problem/A) | [C++20 (GCC 13-64)](./codeforces/1829/A.cpp) |
+| 1246 | [B - Blank Space](https://codeforces.com/contest/1829/problem/B) | [C++20 (GCC 13-64)](./codeforces/1829/B.cpp) |
+| 1245 | [C - Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C) | [C++20 (GCC 13-64)](./codeforces/1829/C.cpp) |
+| 1244 | [D - Gold Rush](https://codeforces.com/contest/1829/problem/D) | [C++20 (GCC 13-64)](./codeforces/1829/D.cpp) |
+| 1243 | [E - The Lakes](https://codeforces.com/contest/1829/problem/E) | [C++20 (GCC 13-64)](./codeforces/1829/E.cpp) |
+| 1242 | [F - Forever Winter](https://codeforces.com/contest/1829/problem/F) | [C++20 (GCC 13-64)](./codeforces/1829/F.cpp) |
+| 1241 | [H - Don't Blame Me](https://codeforces.com/contest/1829/problem/H) | [C++20 (GCC 13-64)](./codeforces/1829/H.cpp) |
 | 1240 | [E1 - The Game (Easy Version)](https://codeforces.com/contest/2062/problem/E1) | [C++20 (GCC 13-64)](./codeforces/2062/E1.cpp) |
 | 1239 | [C - Cirno and Operations](https://codeforces.com/contest/2062/problem/C) | [C++20 (GCC 13-64)](./codeforces/2062/C.cpp) |
 | 1238 | [B - Clockwork](https://codeforces.com/contest/2062/problem/B) | [C++20 (GCC 13-64)](./codeforces/2062/B.cpp) |
