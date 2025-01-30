@@ -795,6 +795,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1252 | [C - Fat Burner II](https://codeforces.com/gym/105687/problem/C) | [C++20 (GCC 13-64)](./codeforces/gym/105687/C.cpp) |
+| 1251 | [A - Penalty Kick](https://codeforces.com/gym/105687/problem/A) | [C++20 (GCC 13-64)](./codeforces/gym/105687/A.cpp) |
+| 1250 | [D - Matchmaker](https://codeforces.com/gym/105687/problem/D) | [C++20 (GCC 13-64)](./codeforces/gym/105687/D.cpp) |
+| 1249 | [B - Card Game](https://codeforces.com/gym/105687/problem/B) | [C++20 (GCC 13-64)](./codeforces/gym/105687/B.cpp) |
+| 1248 | [D - Apple Tree](https://codeforces.com/contest/1843/problem/D) | [C++20 (GCC 13-64)](./codeforces/1843/D.cpp) |
 | 1247 | [A - Love Story](https://codeforces.com/contest/1829/problem/A) | [C++20 (GCC 13-64)](./codeforces/1829/A.cpp) |
 | 1246 | [B - Blank Space](https://codeforces.com/contest/1829/problem/B) | [C++20 (GCC 13-64)](./codeforces/1829/B.cpp) |
 | 1245 | [C - Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C) | [C++20 (GCC 13-64)](./codeforces/1829/C.cpp) |
