@@ -795,6 +795,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1261 | [C1 - Game on Tree (Easy)](https://codeforces.com/contest/1970/problem/C1) | [C++20 (GCC 13-64)](./codeforces/1970/C1.cpp) |
+| 1260 | [C - Swap Game](https://codeforces.com/contest/1747/problem/C) | [C++20 (GCC 13-64)](./codeforces/1747/C.cpp) |
+| 1259 | [B - Count the Number of Pairs](https://codeforces.com/contest/1800/problem/B) | [C++20 (GCC 13-64)](./codeforces/1800/B.cpp) |
+| 1258 | [A - Dual Trigger](https://codeforces.com/contest/1951/problem/A) | [C++20 (GCC 13-64)](./codeforces/1951/A.cpp) |
+| 1257 | [B - Going to the Cinema](https://codeforces.com/contest/1781/problem/B) | [C++20 (GCC 13-64)](./codeforces/1781/B.cpp) |
+| 1256 | [D - Ingenuity-2](https://codeforces.com/contest/1974/problem/D) | [C++20 (GCC 13-64)](./codeforces/1974/D.cpp) |
+| 1255 | [E - 2-Letter Strings](https://codeforces.com/contest/1669/problem/E) | [C++20 (GCC 13-64)](./codeforces/1669/E.cpp) |
+| 1254 | [C - Different Differences](https://codeforces.com/contest/1772/problem/C) | [C++20 (GCC 13-64)](./codeforces/1772/C.cpp) |
+| 1253 | [A - Alternating Sum of Numbers](https://codeforces.com/contest/2010/problem/A) | [C++20 (GCC 13-64)](./codeforces/2010/A.cpp) |
 | 1252 | [C - Fat Burner II](https://codeforces.com/gym/105687/problem/C) | [C++20 (GCC 13-64)](./codeforces/gym/105687/C.cpp) |
 | 1251 | [A - Penalty Kick](https://codeforces.com/gym/105687/problem/A) | [C++20 (GCC 13-64)](./codeforces/gym/105687/A.cpp) |
 | 1250 | [D - Matchmaker](https://codeforces.com/gym/105687/problem/D) | [C++20 (GCC 13-64)](./codeforces/gym/105687/D.cpp) |
