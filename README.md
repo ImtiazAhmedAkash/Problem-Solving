@@ -795,6 +795,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1265 | [D - Graph and Graph](https://codeforces.com/contest/2059/problem/D) | [C++20 (GCC 13-64)](./codeforces/2059/D.cpp) |
+| 1264 | [C - Customer Service](https://codeforces.com/contest/2059/problem/C) | [C++20 (GCC 13-64)](./codeforces/2059/C.cpp) |
+| 1263 | [B - Cost of the Array](https://codeforces.com/contest/2059/problem/B) | [C++20 (GCC 13-64)](./codeforces/2059/B.cpp) |
+| 1262 | [A - Milya and Two Arrays](https://codeforces.com/contest/2059/problem/A) | [C++20 (GCC 13-64)](./codeforces/2059/A.cpp) |
 | 1261 | [C1 - Game on Tree (Easy)](https://codeforces.com/contest/1970/problem/C1) | [C++20 (GCC 13-64)](./codeforces/1970/C1.cpp) |
 | 1260 | [C - Swap Game](https://codeforces.com/contest/1747/problem/C) | [C++20 (GCC 13-64)](./codeforces/1747/C.cpp) |
 | 1259 | [B - Count the Number of Pairs](https://codeforces.com/contest/1800/problem/B) | [C++20 (GCC 13-64)](./codeforces/1800/B.cpp) |
