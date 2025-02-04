@@ -795,6 +795,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1269 | [A - Tender Carpenter](https://codeforces.com/contest/2053/problem/A) | [C++20 (GCC 13-64)](./codeforces/2053/A.cpp) |
+| 1268 | [B - Outstanding Impressionist](https://codeforces.com/contest/2053/problem/B) | [C++20 (GCC 13-64)](./codeforces/2053/B.cpp) |
+| 1267 | [D - Refined Product Optimality](https://codeforces.com/contest/2053/problem/D) | [C++20 (GCC 13-64)](./codeforces/2053/D.cpp) |
+| 1266 | [C2 - Game on Tree (Medium)](https://codeforces.com/contest/1970/problem/C2) | [C++20 (GCC 13-64)](./codeforces/1970/C2.cpp) |
 | 1265 | [D - Graph and Graph](https://codeforces.com/contest/2059/problem/D) | [C++20 (GCC 13-64)](./codeforces/2059/D.cpp) |
 | 1264 | [C - Customer Service](https://codeforces.com/contest/2059/problem/C) | [C++20 (GCC 13-64)](./codeforces/2059/C.cpp) |
 | 1263 | [B - Cost of the Array](https://codeforces.com/contest/2059/problem/B) | [C++20 (GCC 13-64)](./codeforces/2059/B.cpp) |
