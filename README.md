@@ -795,6 +795,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1276 | [A - Yet Another Tetris Problem](https://codeforces.com/contest/1324/problem/A) | [C++20 (GCC 13-64)](./codeforces/1324/A.cpp) |
+| 1275 | [B - Yet Another Palindrome Problem](https://codeforces.com/contest/1324/problem/B) | [C++20 (GCC 13-64)](./codeforces/1324/B.cpp) |
+| 1274 | [C - Frog Jumps](https://codeforces.com/contest/1324/problem/C) | [C++20 (GCC 13-64)](./codeforces/1324/C.cpp) |
+| 1273 | [D - Pair of Topics](https://codeforces.com/contest/1324/problem/D) | [C++20 (GCC 13-64)](./codeforces/1324/D.cpp) |
+| 1272 | [F - Tree with Maximum Cost](https://codeforces.com/contest/1092/problem/F) | [C++20 (GCC 13-64)](./codeforces/1092/F.cpp) |
+| 1271 | [F - Maximum White Subtree](https://codeforces.com/contest/1324/problem/F) | [C++20 (GCC 13-64)](./codeforces/1324/F.cpp) |
+| 1270 | [C3 - Game on Tree (Hard)](https://codeforces.com/contest/1970/problem/C3) | [C++20 (GCC 13-64)](./codeforces/1970/C3.cpp) |
 | 1269 | [A - Tender Carpenter](https://codeforces.com/contest/2053/problem/A) | [C++20 (GCC 13-64)](./codeforces/2053/A.cpp) |
 | 1268 | [B - Outstanding Impressionist](https://codeforces.com/contest/2053/problem/B) | [C++20 (GCC 13-64)](./codeforces/2053/B.cpp) |
 | 1267 | [D - Refined Product Optimality](https://codeforces.com/contest/2053/problem/D) | [C++20 (GCC 13-64)](./codeforces/2053/D.cpp) |
