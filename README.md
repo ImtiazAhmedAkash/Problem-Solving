@@ -795,6 +795,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1280 | [D - Simple Tree](https://codeforces.com/gym/105705/problem/D) | [C++20 (GCC 13-64)](./codeforces/gym/105705/D.cpp) |
+| 1279 | [B - Segment Trees ?](https://codeforces.com/gym/105705/problem/B) | [C++20 (GCC 13-64)](./codeforces/gym/105705/B.cpp) |
+| 1278 | [C - Monoblock](https://codeforces.com/contest/1715/problem/C) | [C++20 (GCC 13-64)](./codeforces/1715/C.cpp) |
+| 1277 | [B - Beautiful Array](https://codeforces.com/contest/1715/problem/B) | [C++20 (GCC 13-64)](./codeforces/1715/B.cpp) |
 | 1276 | [A - Yet Another Tetris Problem](https://codeforces.com/contest/1324/problem/A) | [C++20 (GCC 13-64)](./codeforces/1324/A.cpp) |
 | 1275 | [B - Yet Another Palindrome Problem](https://codeforces.com/contest/1324/problem/B) | [C++20 (GCC 13-64)](./codeforces/1324/B.cpp) |
 | 1274 | [C - Frog Jumps](https://codeforces.com/contest/1324/problem/C) | [C++20 (GCC 13-64)](./codeforces/1324/C.cpp) |
