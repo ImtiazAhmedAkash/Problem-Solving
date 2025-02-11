@@ -795,6 +795,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1289 | [G - Skibidus and Capping](https://codeforces.com/contest/2065/problem/G) | [C++20 (GCC 13-64)](./codeforces/2065/G.cpp) |
+| 1288 | [F - Skibidus and Slay](https://codeforces.com/contest/2065/problem/F) | [C++20 (GCC 13-64)](./codeforces/2065/F.cpp) |
+| 1287 | [D - Skibidus and Sigma](https://codeforces.com/contest/2065/problem/D) | [C++20 (GCC 13-64)](./codeforces/2065/D.cpp) |
+| 1286 | [E - Skibidus and Rizz](https://codeforces.com/contest/2065/problem/E) | [C++20 (GCC 13-64)](./codeforces/2065/E.cpp) |
+| 1285 | [C2 - Skibidus and Fanum Tax (hard version)](https://codeforces.com/contest/2065/problem/C2) | [C++20 (GCC 13-64)](./codeforces/2065/C2.cpp) |
+| 1284 | [C1 - Skibidus and Fanum Tax (easy version)](https://codeforces.com/contest/2065/problem/C1) | [C++20 (GCC 13-64)](./codeforces/2065/C1.cpp) |
+| 1283 | [B - Skibidus and Ohio](https://codeforces.com/contest/2065/problem/B) | [C++20 (GCC 13-64)](./codeforces/2065/B.cpp) |
+| 1282 | [A - Skibidus and Amog'u](https://codeforces.com/contest/2065/problem/A) | [C++20 (GCC 13-64)](./codeforces/2065/A.cpp) |
+| 1281 | [A - Max Xor Pair](https://codeforces.com/gym/105705/problem/A) | [C++20 (GCC 13-64)](./codeforces/gym/105705/A.cpp) |
 | 1280 | [D - Simple Tree](https://codeforces.com/gym/105705/problem/D) | [C++20 (GCC 13-64)](./codeforces/gym/105705/D.cpp) |
 | 1279 | [B - Segment Trees ?](https://codeforces.com/gym/105705/problem/B) | [C++20 (GCC 13-64)](./codeforces/gym/105705/B.cpp) |
 | 1278 | [C - Monoblock](https://codeforces.com/contest/1715/problem/C) | [C++20 (GCC 13-64)](./codeforces/1715/C.cpp) |
