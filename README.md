@@ -1105,11 +1105,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [C - Increasing Sequence with Fixed OR](https://codeforces.com/contest/1988/problem/C) | [C++20 (GCC 13-64)](./codeforces/) |
 |  | [B - Make Majority](https://codeforces.com/contest/1988/problem/B) | [C++20 (GCC 13-64)](./codeforces/) |
 |  | [A - Split the Multiset](https://codeforces.com/contest/1988/problem/A) | [C++20 (GCC 13-64)](./codeforces/) |
-|  | [E - Novice's Mistake](https://codeforces.com/contest/1992/problem/E) | [C++20 (GCC 13-64)](./codeforces/) |
-|  | [D - Test of Love](https://codeforces.com/contest/1992/problem/D) | [C++20 (GCC 13-64)](./codeforces/) |
-|  | [C - Gorilla and Permutation](https://codeforces.com/contest/1992/problem/C) | [C++20 (GCC 13-64)](./codeforces/) |
-|  | [B - Angry Monk](https://codeforces.com/contest/1992/problem/B) | [C++20 (GCC 13-64)](./codeforces/) |
-|  | [A - Only Pluses](https://codeforces.com/contest/1992/problem/A) | [C++20 (GCC 13-64)](./codeforces/) |
+| 984 | [E - Novice's Mistake](https://codeforces.com/contest/1992/problem/E) | [C++20 (GCC 13-64)](./codeforces/1992/E.cpp) |
+| 983 | [D - Test of Love](https://codeforces.com/contest/1992/problem/D) | [C++20 (GCC 13-64)](./codeforces/1992/D.cpp) |
+| 982 | [C - Gorilla and Permutation](https://codeforces.com/contest/1992/problem/C) | [C++20 (GCC 13-64)](./codeforces/1992/C.cpp) |
+| 981 | [B - Angry Monk](https://codeforces.com/contest/1992/problem/B) | [C++20 (GCC 13-64)](./codeforces/1992/B.cpp) |
+| 980 | [A - Only Pluses](https://codeforces.com/contest/1992/problem/A) | [C++20 (GCC 13-64)](./codeforces/1992/A.cpp) |
 | 979 | [C - Harmony Analysis](https://codeforces.com/contest/610/problem/C) | [C++20 (GCC 13-64)](./codeforces/610/C.cpp) |
 | 978 | [D - Swap Dilemma](https://codeforces.com/contest/1983/problem/D) | [C++20 (GCC 13-64)](./codeforces/1983/D.cpp) |
 | 977 | [C - Have Your Cake and Eat It Too](https://codeforces.com/contest/1983/problem/C) | [C++20 (GCC 13-64)](./codeforces/1983/C.cpp) |
