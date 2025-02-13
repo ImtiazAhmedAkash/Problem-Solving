@@ -795,6 +795,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1294 | [E - White Magic](https://codeforces.com/contest/2067/problem/E) | [C++20 (GCC 13-64)](./codeforces/2067/E.cpp) |
+| 1293 | [D - Object Identification](https://codeforces.com/contest/2067/problem/D) | [C++20 (GCC 13-64)](./codeforces/2067/D.cpp) |
+| 1292 | [C - Devyatkino](https://codeforces.com/contest/2067/problem/C) | [C++20 (GCC 13-64)](./codeforces/2067/C.cpp) |
+| 1291 | [B - Two Large Bags](https://codeforces.com/contest/2067/problem/B) | [C++20 (GCC 13-64)](./codeforces/2067/B.cpp) |
+| 1290 | [A - Adjacent Digit Sums](https://codeforces.com/contest/2067/problem/A) | [C++20 (GCC 13-64)](./codeforces/2067/A.cpp) |
 | 1289 | [G - Skibidus and Capping](https://codeforces.com/contest/2065/problem/G) | [C++20 (GCC 13-64)](./codeforces/2065/G.cpp) |
 | 1288 | [F - Skibidus and Slay](https://codeforces.com/contest/2065/problem/F) | [C++20 (GCC 13-64)](./codeforces/2065/F.cpp) |
 | 1287 | [D - Skibidus and Sigma](https://codeforces.com/contest/2065/problem/D) | [C++20 (GCC 13-64)](./codeforces/2065/D.cpp) |
