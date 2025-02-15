@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 615 | [D - Stone XOR](https://atcoder.jp/contests/abc390/tasks/abc390_d) | [C++ 20 (gcc 12.2)](./atcoder/abc390/D.cpp) |
+| 614 | [C - Paint to make a rectangle](https://atcoder.jp/contests/abc390/tasks/abc390_c) | [C++ 20 (gcc 12.2)](./atcoder/abc390/C.cpp) |
+| 613 | [B - Geometric Sequence](https://atcoder.jp/contests/abc390/tasks/abc390_b) | [C++ 20 (gcc 12.2)](./atcoder/abc390/B.cpp) |
+| 612 | [A - 12435](https://atcoder.jp/contests/abc390/tasks/abc390_a) | [C++ 20 (gcc 12.2)](./atcoder/abc390/A.cpp) |
 | 611 | [F - Rated Range](https://atcoder.jp/contests/abc389/tasks/abc389_f) | [C++ 20 (gcc 12.2)](./atcoder/abc389/F.cpp) |
 | 610 | [D - Squares in Circle](https://atcoder.jp/contests/abc389/tasks/abc389_d) | [C++ 20 (gcc 12.2)](./atcoder/abc389/D.cpp) |
 | 609 | [C - Snake Queue](https://atcoder.jp/contests/abc389/tasks/abc389_c) | [C++ 20 (gcc 12.2)](./atcoder/abc389/C.cpp) |
