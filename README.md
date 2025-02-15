@@ -26,6 +26,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 616 | [C - Snake Numbers](https://atcoder.jp/contests/abc387/tasks/abc387_c) | [C++ 20 (gcc 12.2)](./atcoder/abc387/C.cpp) |
 | 615 | [D - Stone XOR](https://atcoder.jp/contests/abc390/tasks/abc390_d) | [C++ 20 (gcc 12.2)](./atcoder/abc390/D.cpp) |
 | 614 | [C - Paint to make a rectangle](https://atcoder.jp/contests/abc390/tasks/abc390_c) | [C++ 20 (gcc 12.2)](./atcoder/abc390/C.cpp) |
 | 613 | [B - Geometric Sequence](https://atcoder.jp/contests/abc390/tasks/abc390_b) | [C++ 20 (gcc 12.2)](./atcoder/abc390/B.cpp) |
