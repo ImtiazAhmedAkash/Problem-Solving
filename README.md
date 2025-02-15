@@ -26,6 +26,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 620 | [D - K-th Nearest](https://atcoder.jp/contests/abc364/tasks/abc364_d) | [C++ 20 (gcc 12.2)](./atcoder/abc364/D.cpp) |
+| 619 | [C - Minimum Glutton](https://atcoder.jp/contests/abc364/tasks/abc364_c) | [C++ 20 (gcc 12.2)](./atcoder/abc364/C.cpp) |
+| 618 | [B - Grid Walk](https://atcoder.jp/contests/abc364/tasks/abc364_b) | [C++ 20 (gcc 12.2)](./atcoder/abc364/B.cpp) |
+| 617 | [A - Glutton Takahashi](https://atcoder.jp/contests/abc364/tasks/abc364_a) | [C++ 20 (gcc 12.2)](./atcoder/abc364/A.cpp) |
 | 616 | [C - Snake Numbers](https://atcoder.jp/contests/abc387/tasks/abc387_c) | [C++ 20 (gcc 12.2)](./atcoder/abc387/C.cpp) |
 | 615 | [D - Stone XOR](https://atcoder.jp/contests/abc390/tasks/abc390_d) | [C++ 20 (gcc 12.2)](./atcoder/abc390/D.cpp) |
 | 614 | [C - Paint to make a rectangle](https://atcoder.jp/contests/abc390/tasks/abc390_c) | [C++ 20 (gcc 12.2)](./atcoder/abc390/C.cpp) |
