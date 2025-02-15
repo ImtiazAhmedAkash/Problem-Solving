@@ -26,6 +26,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 626 | [F - K-th Largest Triplet](https://atcoder.jp/contests/abc391/tasks/abc391_f) | [C++ 20 (gcc 12.2)](./atcoder/abc391/F.cpp) |
+| 625 | [E - Hierarchical Majority Vote](https://atcoder.jp/contests/abc391/tasks/abc391_e) | [C++ 20 (gcc 12.2)](./atcoder/abc391/E.cpp) |
+| 624 | [D - Gravity](https://atcoder.jp/contests/abc391/tasks/abc391_d) | [C++ 20 (gcc 12.2)](./atcoder/abc391/D.cpp) |
+| 623 | [C - Pigeonhole Query](https://atcoder.jp/contests/abc391/tasks/abc391_c) | [C++ 20 (gcc 12.2)](./atcoder/abc391/C.cpp) |
+| 622 | [B - Seek Grid](https://atcoder.jp/contests/abc391/tasks/abc391_b) | [C++ 20 (gcc 12.2)](./atcoder/abc391/B.cpp) |
+| 621 | [A - Lucky Direction](https://atcoder.jp/contests/abc391/tasks/abc391_a) | [C++ 20 (gcc 12.2)](./atcoder/abc391/A.cpp) |
 | 620 | [D - K-th Nearest](https://atcoder.jp/contests/abc364/tasks/abc364_d) | [C++ 20 (gcc 12.2)](./atcoder/abc364/D.cpp) |
 | 619 | [C - Minimum Glutton](https://atcoder.jp/contests/abc364/tasks/abc364_c) | [C++ 20 (gcc 12.2)](./atcoder/abc364/C.cpp) |
 | 618 | [B - Grid Walk](https://atcoder.jp/contests/abc364/tasks/abc364_b) | [C++ 20 (gcc 12.2)](./atcoder/abc364/B.cpp) |
