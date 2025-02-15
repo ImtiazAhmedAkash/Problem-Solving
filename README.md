@@ -26,6 +26,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 632 | [F - Insert](https://atcoder.jp/contests/abc392/tasks/abc392_f) | [C++ 20 (gcc 12.2)](./atcoder/abc392/F.cpp) |
+| 631 | [E - Cables and Servers](https://atcoder.jp/contests/abc392/tasks/abc392_e) | [C++ 20 (gcc 12.2)](./atcoder/abc392/E.cpp) |
+| 630 | [D - Doubles](https://atcoder.jp/contests/abc392/tasks/abc392_d) | [C++ 20 (gcc 12.2)](./atcoder/abc392/D.cpp) |
+| 629 | [C - Bib](https://atcoder.jp/contests/abc392/tasks/abc392_c) | [C++ 20 (gcc 12.2)](./atcoder/abc392/C.cpp) |
+| 628 | [B - Who is Missing?](https://atcoder.jp/contests/abc392/tasks/abc392_b) | [C++ 20 (gcc 12.2)](./atcoder/abc392/B.cpp) |
+| 627 | [A - Shuffled Equation](https://atcoder.jp/contests/abc392/tasks/abc392_a) | [C++ 20 (gcc 12.2)](./atcoder/abc392/A.cpp) |
 | 626 | [F - K-th Largest Triplet](https://atcoder.jp/contests/abc391/tasks/abc391_f) | [C++ 20 (gcc 12.2)](./atcoder/abc391/F.cpp) |
 | 625 | [E - Hierarchical Majority Vote](https://atcoder.jp/contests/abc391/tasks/abc391_e) | [C++ 20 (gcc 12.2)](./atcoder/abc391/E.cpp) |
 | 624 | [D - Gravity](https://atcoder.jp/contests/abc391/tasks/abc391_d) | [C++ 20 (gcc 12.2)](./atcoder/abc391/D.cpp) |
