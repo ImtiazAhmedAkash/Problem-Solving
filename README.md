@@ -26,6 +26,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 638 | [F - Prefix LIS Query](https://atcoder.jp/contests/abc393/tasks/abc393_f) | [C++ 20 (gcc 12.2)](./atcoder/abc393/F.cpp) |
+| 637 | [E - GCD of Subset](https://atcoder.jp/contests/abc393/tasks/abc393_e) | [C++ 20 (gcc 12.2)](./atcoder/abc393/E.cpp) |
+| 636 | [D - Swap to Gather](https://atcoder.jp/contests/abc393/tasks/abc393_d) | [C++ 20 (gcc 12.2)](./atcoder/abc393/D.cpp) |
+| 635 | [C - Make it Simple](https://atcoder.jp/contests/abc393/tasks/abc393_c) | [C++ 20 (gcc 12.2)](./atcoder/abc393/C.cpp) |
+| 634 | [B - A..B..C](https://atcoder.jp/contests/abc393/tasks/abc393_b) | [C++ 20 (gcc 12.2)](./atcoder/abc393/B.cpp) |
+| 633 | [A - Poisonous Oyster](https://atcoder.jp/contests/abc393/tasks/abc393_a) | [C++ 20 (gcc 12.2)](./atcoder/abc393/A.cpp) |
 | 632 | [F - Insert](https://atcoder.jp/contests/abc392/tasks/abc392_f) | [C++ 20 (gcc 12.2)](./atcoder/abc392/F.cpp) |
 | 631 | [E - Cables and Servers](https://atcoder.jp/contests/abc392/tasks/abc392_e) | [C++ 20 (gcc 12.2)](./atcoder/abc392/E.cpp) |
 | 630 | [D - Doubles](https://atcoder.jp/contests/abc392/tasks/abc392_d) | [C++ 20 (gcc 12.2)](./atcoder/abc392/D.cpp) |
