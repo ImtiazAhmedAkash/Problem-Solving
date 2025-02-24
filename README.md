@@ -822,6 +822,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1306 | [A - Scrambled Scrabble](https://codeforces.com/contest/2045/problem/A) | [C++20 (GCC 13-64)](./codeforces/2045/A.cpp) |
+| 1305 | [A - Adrenaline Rush](https://codeforces.com/contest/2052/problem/A) | [C++20 (GCC 13-64)](./codeforces/2052/A.cpp) |
 | 1304 | [F - Fix Flooded Floor](https://codeforces.com/contest/2052/problem/F) | [C++20 (GCC 13-64)](./codeforces/2052/F.cpp) |
 | 1303 | [K - Palindrome Master](https://codeforces.com/group/OseQ3LxgeG/contest/588166/problem/K) | [C++20 (GCC 13-64)](./codeforces/group/588166/K.cpp) |
 | 1302 | [H - Collatz 2](https://codeforces.com/group/OseQ3LxgeG/contest/588166/problem/H) | [C++20 (GCC 13-64)](./codeforces/group/588166/H.cpp) |
