@@ -822,6 +822,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1297 | [C - Remove the Ends](https://codeforces.com/contest/2064/problem/C) | [C++20 (GCC 13-64)](./codeforces/2064/C.cpp) |
+| 1296 | [B - Variety is Discouraged](https://codeforces.com/contest/2064/problem/B) | [C++20 (GCC 13-64)](./codeforces/2064/B.cpp) |
+| 1295 | [A - Brogramming Contest](https://codeforces.com/contest/2064/problem/A) | [C++20 (GCC 13-64)](./codeforces/2064/A.cpp) |
 | 1294 | [E - White Magic](https://codeforces.com/contest/2067/problem/E) | [C++20 (GCC 13-64)](./codeforces/2067/E.cpp) |
 | 1293 | [D - Object Identification](https://codeforces.com/contest/2067/problem/D) | [C++20 (GCC 13-64)](./codeforces/2067/D.cpp) |
 | 1292 | [C - Devyatkino](https://codeforces.com/contest/2067/problem/C) | [C++20 (GCC 13-64)](./codeforces/2067/C.cpp) |
