@@ -822,6 +822,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1300 | [C - Beautiful Sequence](https://codeforces.com/contest/2069/problem/C) | [C++20 (GCC 13-64)](./codeforces/2069/C.cpp) |
+| 1299 | [B - Set of Strangers](https://codeforces.com/contest/2069/problem/B) | [C++20 (GCC 13-64)](./codeforces/2069/B.cpp) |
+| 1298 | [A - Was there an Array?](https://codeforces.com/contest/2069/problem/A) | [C++20 (GCC 13-64)](./codeforces/2069/A.cpp) |
 | 1297 | [C - Remove the Ends](https://codeforces.com/contest/2064/problem/C) | [C++20 (GCC 13-64)](./codeforces/2064/C.cpp) |
 | 1296 | [B - Variety is Discouraged](https://codeforces.com/contest/2064/problem/B) | [C++20 (GCC 13-64)](./codeforces/2064/B.cpp) |
 | 1295 | [A - Brogramming Contest](https://codeforces.com/contest/2064/problem/A) | [C++20 (GCC 13-64)](./codeforces/2064/A.cpp) |
