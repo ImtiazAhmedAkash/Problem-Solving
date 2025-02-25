@@ -822,6 +822,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1312 | [A - Easy Problem](https://codeforces.com/contest/2044/problem/A) | [C++20 (GCC 13-64)](./codeforces/2044/A.cpp) |
+| 1311 | [B - Normal Problem](https://codeforces.com/contest/2044/problem/B) | [C++20 (GCC 13-64)](./codeforces/2044/B.cpp) |
+| 1310 | [C - Hard Problem](https://codeforces.com/contest/2044/problem/C) | [C++20 (GCC 13-64)](./codeforces/2044/C.cpp) |
+| 1309 | [D - Harder Problem](https://codeforces.com/contest/2044/problem/D) | [C++20 (GCC 13-64)](./codeforces/2044/D.cpp) |
+| 1308 | [E - Insane Problem](https://codeforces.com/contest/2044/problem/E) | [C++20 (GCC 13-64)](./codeforces/2044/E.cpp) |
+| 1307 | [G1 - Medium Demon Problem (easy version)](https://codeforces.com/contest/2044/problem/G1) | [C++20 (GCC 13-64)](./codeforces/2044/G1.cpp) |
 | 1306 | [A - Scrambled Scrabble](https://codeforces.com/contest/2045/problem/A) | [C++20 (GCC 13-64)](./codeforces/2045/A.cpp) |
 | 1305 | [A - Adrenaline Rush](https://codeforces.com/contest/2052/problem/A) | [C++20 (GCC 13-64)](./codeforces/2052/A.cpp) |
 | 1304 | [F - Fix Flooded Floor](https://codeforces.com/contest/2052/problem/F) | [C++20 (GCC 13-64)](./codeforces/2052/F.cpp) |
