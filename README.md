@@ -822,6 +822,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1317 | [E - Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](https://codeforces.com/contest/2072/problem/E) | [C++20 (GCC 13-64)](./codeforces/2072/E.cpp) |
+| 1316 | [D - For Wizards, the Exam Is Easy, but I Couldn't Handle It](https://codeforces.com/contest/2072/problem/D) | [C++20 (GCC 13-64)](./codeforces/2072/D.cpp) |
+| 1315 | [C - Creating Keys for StORages Has Become My Main Skill](https://codeforces.com/contest/2072/problem/C) | [C++20 (GCC 13-64)](./codeforces/2072/C.cpp) |
+| 1314 | [B - Having Been a Treasurer in the Past, I Help Goblins Deceive](https://codeforces.com/contest/2072/problem/B) | [C++20 (GCC 13-64)](./codeforces/2072/B.cpp) |
+| 1313 | [A - New World, New Me, New Array](https://codeforces.com/contest/2072/problem/A) | [C++20 (GCC 13-64)](./codeforces/2072/A.cpp) |
 | 1312 | [A - Easy Problem](https://codeforces.com/contest/2044/problem/A) | [C++20 (GCC 13-64)](./codeforces/2044/A.cpp) |
 | 1311 | [B - Normal Problem](https://codeforces.com/contest/2044/problem/B) | [C++20 (GCC 13-64)](./codeforces/2044/B.cpp) |
 | 1310 | [C - Hard Problem](https://codeforces.com/contest/2044/problem/C) | [C++20 (GCC 13-64)](./codeforces/2044/C.cpp) |
