@@ -1149,11 +1149,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 | 995 | [D - MUH and Cube Walls](https://codeforces.com/contest/471/problem/D) | [C++20 (GCC 13-64)](./codeforces/471/D.cpp) |
 | 994 | [B - Minimize Equal Sum Subarrays](https://codeforces.com/contest/1998/problem/B) | [C++20 (GCC 13-64)](./codeforces/1998/B.cpp) |
 | 993 | [A - Find K Distinct Points with Fixed Center](https://codeforces.com/contest/1998/problem/A) | [C++20 (GCC 13-64)](./codeforces/1998/A.cpp) |
-|  | [E - Triple Operations](https://codeforces.com/contest/1999/problem/E) | [C++20 (GCC 13-64)](./codeforces/) |
-|  | [D - Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | [C++20 (GCC 13-64)](./codeforces/) |
-|  | [C - Showering](https://codeforces.com/contest/1999/problem/C) | [C++20 (GCC 13-64)](./codeforces/) |
-|  | [B - Card Game](https://codeforces.com/contest/1999/problem/B) | [C++20 (GCC 13-64)](./codeforces/) |
-|  | [A - A+B Again?](https://codeforces.com/contest/1999/problem/A) | [C++20 (GCC 13-64)](./codeforces/) |
+| 992 | [E - Triple Operations](https://codeforces.com/contest/1999/problem/E) | [C++20 (GCC 13-64)](./codeforces/1999/E.cpp) |
+| 991 | [D - Slavic's Exam](https://codeforces.com/contest/1999/problem/D) | [C++20 (GCC 13-64)](./codeforces/1999/D.cpp) |
+| 990 | [C - Showering](https://codeforces.com/contest/1999/problem/C) | [C++20 (GCC 13-64)](./codeforces/1999/C.cpp) |
+| 989 | [B - Card Game](https://codeforces.com/contest/1999/problem/B) | [C++20 (GCC 13-64)](./codeforces/1999/B.cpp) |
+| 988 | [A - A+B Again?](https://codeforces.com/contest/1999/problem/A) | [C++20 (GCC 13-64)](./codeforces/1999/A.cpp) |
 | 987 | [C - Increasing Sequence with Fixed OR](https://codeforces.com/contest/1988/problem/C) | [C++20 (GCC 13-64)](./codeforces/1988/C.cpp) |
 | 986 | [B - Make Majority](https://codeforces.com/contest/1988/problem/B) | [C++20 (GCC 13-64)](./codeforces/1988/B.cpp) |
 | 985 | [A - Split the Multiset](https://codeforces.com/contest/1988/problem/A) | [C++20 (GCC 13-64)](./codeforces/1988/A.cpp) |
