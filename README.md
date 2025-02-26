@@ -1154,9 +1154,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 |  | [C - Showering](https://codeforces.com/contest/1999/problem/C) | [C++20 (GCC 13-64)](./codeforces/) |
 |  | [B - Card Game](https://codeforces.com/contest/1999/problem/B) | [C++20 (GCC 13-64)](./codeforces/) |
 |  | [A - A+B Again?](https://codeforces.com/contest/1999/problem/A) | [C++20 (GCC 13-64)](./codeforces/) |
-|  | [C - Increasing Sequence with Fixed OR](https://codeforces.com/contest/1988/problem/C) | [C++20 (GCC 13-64)](./codeforces/) |
-|  | [B - Make Majority](https://codeforces.com/contest/1988/problem/B) | [C++20 (GCC 13-64)](./codeforces/) |
-|  | [A - Split the Multiset](https://codeforces.com/contest/1988/problem/A) | [C++20 (GCC 13-64)](./codeforces/) |
+| 987 | [C - Increasing Sequence with Fixed OR](https://codeforces.com/contest/1988/problem/C) | [C++20 (GCC 13-64)](./codeforces/1988/C.cpp) |
+| 986 | [B - Make Majority](https://codeforces.com/contest/1988/problem/B) | [C++20 (GCC 13-64)](./codeforces/1988/B.cpp) |
+| 985 | [A - Split the Multiset](https://codeforces.com/contest/1988/problem/A) | [C++20 (GCC 13-64)](./codeforces/1988/A.cpp) |
 | 984 | [E - Novice's Mistake](https://codeforces.com/contest/1992/problem/E) | [C++20 (GCC 13-64)](./codeforces/1992/E.cpp) |
 | 983 | [D - Test of Love](https://codeforces.com/contest/1992/problem/D) | [C++20 (GCC 13-64)](./codeforces/1992/D.cpp) |
 | 982 | [C - Gorilla and Permutation](https://codeforces.com/contest/1992/problem/C) | [C++20 (GCC 13-64)](./codeforces/1992/C.cpp) |
