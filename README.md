@@ -822,6 +822,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1319 | [F - Goodbye, Banker Life](https://codeforces.com/contest/2072/problem/F) | [C++20 (GCC 13-64)](./codeforces/2072/F.cpp) |
+| 1318 | [F - Easy Demon Problem](https://codeforces.com/contest/2044/problem/F) | [C++20 (GCC 13-64)](./codeforces/2044/F.cpp) |
 | 1317 | [E - Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](https://codeforces.com/contest/2072/problem/E) | [C++20 (GCC 13-64)](./codeforces/2072/E.cpp) |
 | 1316 | [D - For Wizards, the Exam Is Easy, but I Couldn't Handle It](https://codeforces.com/contest/2072/problem/D) | [C++20 (GCC 13-64)](./codeforces/2072/D.cpp) |
 | 1315 | [C - Creating Keys for StORages Has Become My Main Skill](https://codeforces.com/contest/2072/problem/C) | [C++20 (GCC 13-64)](./codeforces/2072/C.cpp) |
