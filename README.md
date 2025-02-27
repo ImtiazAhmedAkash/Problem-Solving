@@ -822,6 +822,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1321 | [D - Shohag Loves GCD](https://codeforces.com/contest/2039/problem/D) | [C++20 (GCC 13-64)](./codeforces/2039/D.cpp) |
+| 1320 | [D - Drunken Maze](https://codeforces.com/contest/2041/problem/D) | [C++20 (GCC 13-64)](./codeforces/2041/D.cpp) |
 | 1319 | [F - Goodbye, Banker Life](https://codeforces.com/contest/2072/problem/F) | [C++20 (GCC 13-64)](./codeforces/2072/F.cpp) |
 | 1318 | [F - Easy Demon Problem](https://codeforces.com/contest/2044/problem/F) | [C++20 (GCC 13-64)](./codeforces/2044/F.cpp) |
 | 1317 | [E - Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](https://codeforces.com/contest/2072/problem/E) | [C++20 (GCC 13-64)](./codeforces/2072/E.cpp) |
