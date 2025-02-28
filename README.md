@@ -822,6 +822,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1325 | [C - Trading Business](https://codeforces.com/contest/181/problem/C) | [C++20 (GCC 13-64)](./codeforces/181/C.cpp) |
+| 1324 | [B - Number of Triplets](https://codeforces.com/contest/181/problem/B) | [C++20 (GCC 13-64)](./codeforces/181/B.cpp) |
+| 1323 | [A - Series of Crimes](https://codeforces.com/contest/181/problem/A) | [C++20 (GCC 13-64)](./codeforces/181/A.cpp) |
+| 1322 | [A - Two Regular Polygons](https://codeforces.com/contest/1312/problem/A) | [C++20 (GCC 13-64)](./codeforces/1312/A.cpp) |
 | 1321 | [D - Shohag Loves GCD](https://codeforces.com/contest/2039/problem/D) | [C++20 (GCC 13-64)](./codeforces/2039/D.cpp) |
 | 1320 | [D - Drunken Maze](https://codeforces.com/contest/2041/problem/D) | [C++20 (GCC 13-64)](./codeforces/2041/D.cpp) |
 | 1319 | [F - Goodbye, Banker Life](https://codeforces.com/contest/2072/problem/F) | [C++20 (GCC 13-64)](./codeforces/2072/F.cpp) |
