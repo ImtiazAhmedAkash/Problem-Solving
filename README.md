@@ -2167,6 +2167,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| ------- | :--------: |
+| 102 | [Path Queries](https://cses.fi/problemset/task/1138) | [C++20](./cses/tree_algorithms/1138.cpp) |
+| 101 | [Counting Paths](https://cses.fi/problemset/task/1136) | [C++20](./cses/tree_algorithms/1136.cpp) |
+| 100 | [Tree Distances II](https://cses.fi/problemset/task/1133) | [C++20](./cses/tree_algorithms/1133.cpp) |
+| 99 | [Tree Matching](https://cses.fi/problemset/task/1130) | [C++20](./cses/tree_algorithms/1130.cpp) |
 | 98 | [Distinct Values Queries](https://cses.fi/problemset/task/1734) | [C++20](./cses/range_queries/1734.cpp) |
 | 97 | [Subarray Sum Queries](https://cses.fi/problemset/task/1190) | [C++20](./cses/range_queries/1190.cpp) |
 | 96 | [Pizzeria Queries](https://cses.fi/problemset/task/2206) | [C++20](./cses/range_queries/2206.cpp) |
