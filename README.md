@@ -822,6 +822,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1328 | [C - Limited Repainting](https://codeforces.com/contest/2070/problem/C) | [C++20 (GCC 13-64)](./codeforces/2070/C.cpp) |
+| 1327 | [B - Robot Program](https://codeforces.com/contest/2070/problem/B) | [C++20 (GCC 13-64)](./codeforces/2070/B.cpp) |
+| 1326 | [A - FizzBuzz Remixed](https://codeforces.com/contest/2070/problem/A) | [C++20 (GCC 13-64)](./codeforces/2070/A.cpp) |
 | 1325 | [C - Trading Business](https://codeforces.com/contest/181/problem/C) | [C++20 (GCC 13-64)](./codeforces/181/C.cpp) |
 | 1324 | [B - Number of Triplets](https://codeforces.com/contest/181/problem/B) | [C++20 (GCC 13-64)](./codeforces/181/B.cpp) |
 | 1323 | [A - Series of Crimes](https://codeforces.com/contest/181/problem/A) | [C++20 (GCC 13-64)](./codeforces/181/A.cpp) |
