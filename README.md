@@ -822,6 +822,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1332 | [C - Trapmigiano Reggiano](https://codeforces.com/contest/2071/problem/C) | [C++20 (GCC 13-64)](./codeforces/2071/C.cpp) |
+| 1331 | [B - Perfecto](https://codeforces.com/contest/2071/problem/B) | [C++20 (GCC 13-64)](./codeforces/2071/B.cpp) |
+| 1330 | [A - The Play Never Ends](https://codeforces.com/contest/2071/problem/A) | [C++20 (GCC 13-64)](./codeforces/2071/A.cpp) |
+| 1329 | [D - Tree Jumps](https://codeforces.com/contest/2070/problem/D) | [C++20 (GCC 13-64)](./codeforces/2070/D.cpp) |
 | 1328 | [C - Limited Repainting](https://codeforces.com/contest/2070/problem/C) | [C++20 (GCC 13-64)](./codeforces/2070/C.cpp) |
 | 1327 | [B - Robot Program](https://codeforces.com/contest/2070/problem/B) | [C++20 (GCC 13-64)](./codeforces/2070/B.cpp) |
 | 1326 | [A - FizzBuzz Remixed](https://codeforces.com/contest/2070/problem/A) | [C++20 (GCC 13-64)](./codeforces/2070/A.cpp) |
