@@ -822,6 +822,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1338 | [A - Penchick and Modern Monument](https://codeforces.com/contest/2031/problem/A) | [C++20 (GCC 13-64)](./codeforces/2031/A.cpp) |
+| 1337 | [B - Penchick and Satay Sticks](https://codeforces.com/contest/2031/problem/B) | [C++20 (GCC 13-64)](./codeforces/2031/B.cpp) |
+| 1336 | [C - Penchick and BBQ Buns](https://codeforces.com/contest/2031/problem/C) | [C++20 (GCC 13-64)](./codeforces/2031/C.cpp) |
+| 1335 | [D - Penchick and Desert Rabbit](https://codeforces.com/contest/2031/problem/D) | [C++20 (GCC 13-64)](./codeforces/2031/D.cpp) |
+| 1334 | [D1 - Infinite Sequence (Easy Version)](https://codeforces.com/contest/2071/problem/D1) | [C++20 (GCC 13-64)](./codeforces/2071/D1.cpp) |
+| 1333 | [D - Word Cut](https://codeforces.com/contest/181/problem/D) | [C++20 (GCC 13-64)](./codeforces/181/D.cpp) |
 | 1332 | [C - Trapmigiano Reggiano](https://codeforces.com/contest/2071/problem/C) | [C++20 (GCC 13-64)](./codeforces/2071/C.cpp) |
 | 1331 | [B - Perfecto](https://codeforces.com/contest/2071/problem/B) | [C++20 (GCC 13-64)](./codeforces/2071/B.cpp) |
 | 1330 | [A - The Play Never Ends](https://codeforces.com/contest/2071/problem/A) | [C++20 (GCC 13-64)](./codeforces/2071/A.cpp) |
