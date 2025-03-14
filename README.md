@@ -822,6 +822,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1345 | [C - XOR and Triangle](https://codeforces.com/contest/2074/problem/C) | [C++20 (GCC 13-64)](./codeforces/2074/C.cpp) |
+| 1344 | [B - The Third Side](https://codeforces.com/contest/2074/problem/B) | [C++20 (GCC 13-64)](./codeforces/2074/B.cpp) |
+| 1343 | [B - Spreadsheets](https://codeforces.com/contest/1/problem/B) | [C++20 (GCC 13-64)](./codeforces/1/B.cpp) |
+| 1342 | [A - Draw a Square](https://codeforces.com/contest/2074/problem/A) | [C++20 (GCC 13-64)](./codeforces/2074/A.cpp) |
+| 1341 | [C - Breach of Faith](https://codeforces.com/contest/2078/problem/C) | [C++20 (GCC 13-64)](./codeforces/2078/C.cpp) |
+| 1340 | [B - Vicious Labyrinth](https://codeforces.com/contest/2078/problem/B) | [C++20 (GCC 13-64)](./codeforces/2078/B.cpp) |
+| 1339 | [A - Final Verdict](https://codeforces.com/contest/2078/problem/A) | [C++20 (GCC 13-64)](./codeforces/2078/A.cpp) |
 | 1338 | [A - Penchick and Modern Monument](https://codeforces.com/contest/2031/problem/A) | [C++20 (GCC 13-64)](./codeforces/2031/A.cpp) |
 | 1337 | [B - Penchick and Satay Sticks](https://codeforces.com/contest/2031/problem/B) | [C++20 (GCC 13-64)](./codeforces/2031/B.cpp) |
 | 1336 | [C - Penchick and BBQ Buns](https://codeforces.com/contest/2031/problem/C) | [C++20 (GCC 13-64)](./codeforces/2031/C.cpp) |
