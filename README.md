@@ -822,6 +822,16 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1355 | [C - Create The Teams](https://codeforces.com/contest/1380/problem/C) | [C++20 (GCC 13-64)](./codeforces/1380/C.cpp) |
+| 1354 | [C - Add One](https://codeforces.com/contest/1513/problem/C) | [C++20 (GCC 13-64)](./codeforces/1513/C.cpp) |
+| 1353 | [A - Hungry Student Problem](https://codeforces.com/contest/903/problem/A) | [C++20 (GCC 13-64)](./codeforces/903/A.cpp) |
+| 1352 | [D - Mashmokh and ACM](https://codeforces.com/contest/415/problem/D) | [C++20 (GCC 13-64)](./codeforces/415/D.cpp) |
+| 1351 | [B - Orac and Models](https://codeforces.com/contest/1350/problem/B) | [C++20 (GCC 13-64)](./codeforces/1350/B.cpp) |
+| 1350 | [C - Given Length and Sum of Digits...](https://codeforces.com/contest/489/problem/C) | [C++20 (GCC 13-64)](./codeforces/489/C.cpp) |
+| 1349 | [B - Marvolo Gaunt's Ring](https://codeforces.com/contest/855/problem/B) | [C++20 (GCC 13-64)](./codeforces/855/B.cpp) |
+| 1348 | [A - Winner](https://codeforces.com/contest/2/problem/A) | [C++20 (GCC 13-64)](./codeforces/2/A.cpp) |
+| 1347 | [E - Empty Triangle](https://codeforces.com/contest/2074/problem/E) | [C++20 (GCC 13-64)](./codeforces/2074/E.cpp) |
+| 1346 | [D - Counting Points](https://codeforces.com/contest/2074/problem/D) | [C++20 (GCC 13-64)](./codeforces/2074/D.cpp) |
 | 1345 | [C - XOR and Triangle](https://codeforces.com/contest/2074/problem/C) | [C++20 (GCC 13-64)](./codeforces/2074/C.cpp) |
 | 1344 | [B - The Third Side](https://codeforces.com/contest/2074/problem/B) | [C++20 (GCC 13-64)](./codeforces/2074/B.cpp) |
 | 1343 | [B - Spreadsheets](https://codeforces.com/contest/1/problem/B) | [C++20 (GCC 13-64)](./codeforces/1/B.cpp) |
