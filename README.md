@@ -822,6 +822,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1364 | [E - Interesting Ratio](https://codeforces.com/contest/2091/problem/E) | [C++20 (GCC 13-64)](./codeforces/2091/E.cpp) |
+| 1363 | [D - Place of the Olympiad](https://codeforces.com/contest/2091/problem/D) | [C++20 (GCC 13-64)](./codeforces/2091/D.cpp) |
+| 1362 | [C - Combination Lock](https://codeforces.com/contest/2091/problem/C) | [C++20 (GCC 13-64)](./codeforces/2091/C.cpp) |
+| 1361 | [B - Team Training](https://codeforces.com/contest/2091/problem/B) | [C++20 (GCC 13-64)](./codeforces/2091/B.cpp) |
+| 1360 | [A - Olympiad Date](https://codeforces.com/contest/2091/problem/A) | [C++20 (GCC 13-64)](./codeforces/2091/A.cpp) |
+| 1359 | [B - Journey Planning](https://codeforces.com/contest/1321/problem/B) | [C++20 (GCC 13-64)](./codeforces/1321/B.cpp) |
+| 1358 | [B - Polo the Penguin and Matrix](https://codeforces.com/contest/289/problem/B) | [C++20 (GCC 13-64)](./codeforces/289/B.cpp) |
+| 1357 | [C - Constanze's Machine](https://codeforces.com/contest/1245/problem/C) | [C++20 (GCC 13-64)](./codeforces/1245/C.cpp) |
+| 1356 | [B - Quasi Binary](https://codeforces.com/contest/538/problem/B) | [C++20 (GCC 13-64)](./codeforces/538/B.cpp) |
 | 1355 | [C - Create The Teams](https://codeforces.com/contest/1380/problem/C) | [C++20 (GCC 13-64)](./codeforces/1380/C.cpp) |
 | 1354 | [C - Add One](https://codeforces.com/contest/1513/problem/C) | [C++20 (GCC 13-64)](./codeforces/1513/C.cpp) |
 | 1353 | [A - Hungry Student Problem](https://codeforces.com/contest/903/problem/A) | [C++20 (GCC 13-64)](./codeforces/903/A.cpp) |
