@@ -822,6 +822,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | #   | Title   | Solution   |
 |:---:| :------ | :--------: |
+| 1365 | [D - Simple Permutation](https://codeforces.com/contest/2090/problem/D) | [C++20 (GCC 13-64)](./codeforces/2090/D.cpp) |
 | 1364 | [E - Interesting Ratio](https://codeforces.com/contest/2091/problem/E) | [C++20 (GCC 13-64)](./codeforces/2091/E.cpp) |
 | 1363 | [D - Place of the Olympiad](https://codeforces.com/contest/2091/problem/D) | [C++20 (GCC 13-64)](./codeforces/2091/D.cpp) |
 | 1362 | [C - Combination Lock](https://codeforces.com/contest/2091/problem/C) | [C++20 (GCC 13-64)](./codeforces/2091/C.cpp) |
